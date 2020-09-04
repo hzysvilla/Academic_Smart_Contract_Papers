@@ -73,6 +73,13 @@ Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 
 [Smart Contract][Smart Contracts on the Move](https://arxiv.org/pdf/2004.05933.pdf). Enrique Fynn, Alysson Bessani, Fernando Pedone. DSN '20 
 
+## PLDI
+[Smart Contract] [Behavioral Simulation for Smart Contracts](). Sidi Mohamed Beillahi, Gabriela Ciocarlie, Michael Emmi, Constantin Enea. PLDI '2020
+
+[Smart Contract] [Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities](). Lexi Brent, Neville Grech, Sifis Lagouvardos, Bernhard Scholz, Yannis Smaragdakis. PLDI '2020
+
+[Smart Contract] [Securing Smart Contract with Runtime Validation](). Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
