@@ -11,6 +11,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE International Conference on Computer Communications(INFOCOM)](#infocom)
 - [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#dsn)
 - [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi) 
+- [International Conference on Automated Software Engineering(ASE)](#ase) 
 - [License](#license)
 
 
@@ -79,6 +80,13 @@ Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 [Smart Contract] [Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities](). Lexi Brent, Neville Grech, Sifis Lagouvardos, Bernhard Scholz, Yannis Smaragdakis. PLDI '2020
 
 [Smart Contract] [Securing Smart Contract with Runtime Validation](). Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
+
+## ASE
+[Smart Contract] [Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts](). Yinxing Xue, Mingliang Ma, Yun Lin, Yulei Sui, Jiaming Ye, Tianyong Peng. ASE '2020
+
+[Smart Contract] [Demystifying Loops in Smart Contracts](). Benjamin Mariano, Yanju Chen, Yu Feng, Shuvendu K. Lahiri, Isil Dillig. ASE '2020
+
+[Smart Contract] [Summary-Based Symbolic Evaluation for Smart Contracts](). Yu Feng, Emina Torlak, Rastislav Bodik. ASE '2020
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
