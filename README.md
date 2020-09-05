@@ -89,7 +89,7 @@ Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 
 [security] [Summary-Based Symbolic Evaluation for Smart Contracts](). Yu Feng, Emina Torlak, Rastislav Bodik. ASE '2020
 
-## FSE/ESEC
+## ESEC/FSE
 [security] [Towards Automated Verification of Smart Contract Fairness](). Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. FSE/ESEC '2020
 
 ## License
