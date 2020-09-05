@@ -12,6 +12,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#dsn)
 - [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi) 
 - [International Conference on Automated Software Engineering(ASE)](#ase) 
+- [ACM SIGSOFT Symposium on the Foundation of Software Engineering/European Software Engineering Conference(ESEC/FSE)](#esec/fse) 
 - [License](#license)
 
 
@@ -87,6 +88,9 @@ Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 [security] [Demystifying Loops in Smart Contracts](). Benjamin Mariano, Yanju Chen, Yu Feng, Shuvendu K. Lahiri, Isil Dillig. ASE '2020
 
 [security] [Summary-Based Symbolic Evaluation for Smart Contracts](). Yu Feng, Emina Torlak, Rastislav Bodik. ASE '2020
+
+## FSE/ESEC
+[security] [Towards Automated Verification of Smart Contract Fairness](). Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. FSE/ESEC '2020
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
