@@ -31,7 +31,7 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 [security][An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
 
 ## S&P
-[Smart Contracts][Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf). Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P '16
+[application][Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf). Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P '16
 
 [security][VerX: Safety Verification of Smart Contracts](). Anton Permenev, Dimitar Dimitrov, Petar Tsankov, Dana Drachsler-Cohen, Martin Vechev. IEEE S&P '20. 
 
