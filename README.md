@@ -94,7 +94,7 @@ Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 [security] [Towards Automated Verification of Smart Contract Fairness](). Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. FSE/ESEC '2020
 
 ## ESORICS
-[application] [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution](). Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
+[application] [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution](https://arxiv.org/abs/2003.06552). Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
