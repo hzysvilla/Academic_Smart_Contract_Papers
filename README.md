@@ -13,6 +13,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi) 
 - [International Conference on Automated Software Engineering(ASE)](#ase) 
 - [ACM SIGSOFT Symposium on the Foundation of Software Engineering/European Software Engineering Conference(ESEC/FSE)](#esec&fse) 
+- [European Symposium on Research in Computer Security(ESORICS)](#esorics) 
 - [License](#license)
 
 
@@ -91,6 +92,9 @@ Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 
 ## ESEC&FSE
 [security] [Towards Automated Verification of Smart Contract Fairness](). Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. FSE/ESEC '2020
+
+## ESORICS
+[application] [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution](). Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
