@@ -6,7 +6,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [USENIX Security](#usenix-security)
 - [IEEE Security and Privacy(S&P)](#sp)
 - [Network and Distributed System Security(NDSS)](#ndss)
-- [International Conference on Software Engineering(ICSE)](#icse) 
+- [International Conference on Software Engineering(ICSE)](#icse)
 - [ACM Conference on Computer and Communications Security(CCS)](#ccs)
 - [IEEE International Conference on Computer Communications(INFOCOM)](#infocom)
 - [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#dsn)
@@ -14,6 +14,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [International Conference on Automated Software Engineering(ASE)](#ase) 
 - [ACM SIGSOFT Symposium on the Foundation of Software Engineering/European Software Engineering Conference(ESEC/FSE)](#esec&fse) 
 - [European Symposium on Research in Computer Security(ESORICS)](#esorics) 
+- [IEEE International Conference on Software Analysis, Evolution and Reengineering(SANER)](#saner) 
 - [License](#license)
 
 
@@ -95,6 +96,11 @@ Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 
 ## ESORICS
 [application] [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution](https://arxiv.org/abs/2003.06552). Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
+
+## SANER
+[security] [SMARTSHIELD: Automatic Smart Contract Protection Made Easy](). Yuyao Zhang, Siqi Ma, Juanru Li, Kailai Li, Surya Nepal. SANER '2020
+
+[security] [EthPloit: From Fuzzing to Efficient Exploit Generation against Smart Contracts. ](). 	Qingzhao Zhang, Yizhuo Wang, Juanru Li, Siqi Ma. SANER '2020
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
