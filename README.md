@@ -101,7 +101,11 @@ Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 ## SANER
 [security] [SMARTSHIELD: Automatic Smart Contract Protection Made Easy](). Yuyao Zhang, Siqi Ma, Juanru Li, Kailai Li, Surya Nepal. SANER '2020
 
-[security] [EthPloit: From Fuzzing to Efficient Exploit Generation against Smart Contracts. ](). 	Qingzhao Zhang, Yizhuo Wang, Juanru Li, Siqi Ma. SANER '2020
+[security] [EthPloit: From Fuzzing to Efficient Exploit Generation against Smart Contracts. ](). Qingzhao Zhang, Yizhuo Wang, Juanru Li, Siqi Ma. SANER '2020
+
+[security] [Towards Generating Cost-Effective Test-Suite for Ethereum Smart Contract. ](). Xingya Wang, Haoran Wu, Weisong Sun, Yuan Zhao. SANER '2019
+
+[security] [EVM*: From Offline Detection to Online Reinforcement for Ethereum Virtual Machine. ](). Fuchen Ma, Ying Fu, Meng Ren, Mingzhe Wang, Yu Jiang, Kaixiang Zhang, Huizhong Li, Xiang Shi. '2019
 
 ## OOPSLA
 [security] [Taming Callbacks for Smart Contract Modularity. ](). 	Elvira Albert, Shelly Grossman, Noam Rinetzky, Clara Rodríguez, Albert Rubio, Mooly Sagiv. OOPSLA '2020
