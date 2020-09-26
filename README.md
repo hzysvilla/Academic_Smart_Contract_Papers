@@ -15,6 +15,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [ACM SIGSOFT Symposium on the Foundation of Software Engineering/European Software Engineering Conference(ESEC/FSE)](#esec&fse) 
 - [European Symposium on Research in Computer Security(ESORICS)](#esorics) 
 - [IEEE International Conference on Software Analysis, Evolution and Reengineering(SANER)](#saner) 
+- [Object-Oriented Programming, Systems, Languages & Applications(OOPSLA)](#oopsla) 
 - [License](#license)
 
 
@@ -101,6 +102,13 @@ Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 [security] [SMARTSHIELD: Automatic Smart Contract Protection Made Easy](). Yuyao Zhang, Siqi Ma, Juanru Li, Kailai Li, Surya Nepal. SANER '2020
 
 [security] [EthPloit: From Fuzzing to Efficient Exploit Generation against Smart Contracts. ](). 	Qingzhao Zhang, Yizhuo Wang, Juanru Li, Siqi Ma. SANER '2020
+
+## OOPSLA
+[security] [Taming Callbacks for Smart Contract Modularity. ](). 	Elvira Albert, Shelly Grossman, Noam Rinetzky, Clara Rodríguez, Albert Rubio, Mooly Sagiv. OOPSLA '2020
+
+[security] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts. ](https://dl.acm.org/doi/10.1145/3360615). 	Shuai Wang, Chengyu Zhang, Zhendong Su. OOPSLA '2019
+
+[security] [Safer Smart Contract Programming with Scilla. ](https://ilyasergey.net/papers/scilla-oopsla19.pdf). 	Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ken Chan. OOPSLA '2019
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
