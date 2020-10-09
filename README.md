@@ -62,11 +62,15 @@ Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 [security] [Gigahorse: Thorough, Declarative Decompilation of Smart Contracts](https://ieeexplore.ieee.org/document/8811905/). Grech NBrent LScholz BSmaragdakis Y. ICSE '2019
 
 ## CCS
+[SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](http://www4.comp.polyu.edu.hk/~csxluo/TokenScope.pdf). Ting Chen ,Yufei Zhang ,Zihao Li, Xiapu Luo,Ting Wang,Rong Cao,Xiuzhuo Xiao,Xiaosong Zhang . CCS '19.
+
 [security] [Making Smart Contracts Smarter](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf). Luu L, Chu DH, Olickel H, Saxena P, Hobor A. CCS '16.
 
 [security] [Town crier: An authenticated data feed for smart contracts](http://delivery.acm.org/10.1145/2980000/2978326/p270-zhang.pdf?ip=46.176.188.9&id=2978326&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E594C525CFFA2AFAF&CFID=923932938&CFTOKEN=56121949&__acm__=1492299159_38039f3afa858f241818fdcf190e0200). Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
 
 [security][Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf).	Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS '19. 
+
+[security][ÆGIS: Smart Shielding of Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3319535.3363263?download=true).	Christof Ferreira Torres, Mathis  Baden profile imageMathis Baden, Robert  Norvill profile imageRobert Norvill, Hugo L Jonker profile imageHugo Jonker. CCS '19. 
 
 ## INFOCOM
 [Smart Contract][Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
