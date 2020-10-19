@@ -22,8 +22,9 @@ Welcome developers or researchers to add more published paper to this list.
 ## USENIX Security
 [security] [teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf). Johannes Krupp and Christian Rossow. USENIX '18 Security Symposium.
 
-[application] [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf). Harry Kalodner, Steven Goldfeder, Xiaoqi Chen, S. Matthew Weinberg,
-and Edward W. Felten. USENIX '18 Security Symposium.
+[application] [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf). Harry Kalodner, Steven Goldfeder, Xiaoqi Chen, S. Matthew Weinberg, Edward W. Felten. USENIX '18 Security Symposium.
+
+[security] [Enter the Hydra: Towards principled bug bounties and exploit-resistant smart contracts](https://eprint.iacr.org/2017/1090.pdf). Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
 
 [application] [FastKitten: Practical Smart Contracts on Bitcoin](). Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX '19 Security Symposium.
 
@@ -60,10 +61,14 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [security] [Gigahorse: Thorough, Declarative Decompilation of Smart Contracts](https://ieeexplore.ieee.org/document/8811905/). Grech NBrent LScholz BSmaragdakis Y. ICSE '2019
 
+[security] [VULTRON: Catching Vulnerable Smart Contracts Once and for All](https://ieeexplore.ieee.org/document/8811905/).Haijun Wang, Yi Li, Shang-Wei Lin, Lei Ma, Yang Liu. ICSE '2019
+
 ## CCS
 [SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](http://www4.comp.polyu.edu.hk/~csxluo/TokenScope.pdf). Ting Chen ,Yufei Zhang ,Zihao Li, Xiapu Luo,Ting Wang,Rong Cao,Xiuzhuo Xiao,Xiaosong Zhang . CCS '19.
 
 [security] [Making Smart Contracts Smarter](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf). Luu L, Chu DH, Olickel H, Saxena P, Hobor A. CCS '16.
+
+[security] [Formal verification of smart contracts: Short paper](https://hal.inria.fr/hal-01400469/document). Bhargavan K,Delignat-Lavaud A,Fournet C. CCS '16.
 
 [security] [Town crier: An authenticated data feed for smart contracts](http://delivery.acm.org/10.1145/2980000/2978326/p270-zhang.pdf?ip=46.176.188.9&id=2978326&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E594C525CFFA2AFAF&CFID=923932938&CFTOKEN=56121949&__acm__=1492299159_38039f3afa858f241818fdcf190e0200). Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
 
@@ -97,8 +102,12 @@ and Edward W. Felten. USENIX '18 Security Symposium.
 
 [security] [Summary-Based Symbolic Evaluation for Smart Contracts](). Yu Feng, Emina Torlak, Rastislav Bodik. ASE '2020
 
+[security] [ContractFuzzer: Fuzzing Smart Contracts for Vulnerability](https://arxiv.org/ftp/arxiv/papers/1807/1807.03932.pdf). Bo Jiang, Ye Liu, W.K. Chan. ASE '2018
+
 ## ESEC&FSE
 [security] [Towards Automated Verification of Smart Contract Fairness](). Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. FSE/ESEC '2020
+
+[security] [EVMFuzzer: Detect EVM vulnerabilities via fuzz testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/fse19demo.pdf). Fu Y, Ren M, Ma F. FSE/ESEC '2019
 
 ## ESORICS
 [application] [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution](https://arxiv.org/abs/2003.06552). Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
