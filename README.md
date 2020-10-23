@@ -34,6 +34,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](). Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
 
+[security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf). Torres C., Steichen M., State R. USENIX '19 Security Symposium.
+
 ## S&P
 [application] [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf). Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P '16
 
