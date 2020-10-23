@@ -63,7 +63,9 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Gigahorse: Thorough, Declarative Decompilation of Smart Contracts](https://ieeexplore.ieee.org/document/8811905/). Grech NBrent LScholz BSmaragdakis Y. ICSE '2019
 
-[security] [VULTRON: Catching Vulnerable Smart Contracts Once and for All](https://ieeexplore.ieee.org/document/8811905/).Haijun Wang, Yi Li, Shang-Wei Lin, Lei Ma, Yang Liu. ICSE '2019
+[security] [VULTRON: Catching Vulnerable Smart Contracts Once and for All](https://ieeexplore.ieee.org/document/8811905/). Haijun Wang, Yi Li, Shang-Wei Lin, Lei Ma, Yang Liu. ICSE '2019
+
+[security] [ReGuard: Finding Reentrancy Bugs in Smart Contracts](). Chao Liu, Han Liu, Zhao Cao, Zhong Chen, Bangdao Chen, Bill Roscoe. ICSE '2018
 
 ## CCS
 [SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](http://www4.comp.polyu.edu.hk/~csxluo/TokenScope.pdf). Ting Chen ,Yufei Zhang ,Zihao Li, Xiapu Luo,Ting Wang,Rong Cao,Xiuzhuo Xiao,Xiaosong Zhang . CCS '19.
