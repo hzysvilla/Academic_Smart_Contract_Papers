@@ -16,6 +16,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [European Symposium on Research in Computer Security(ESORICS)](#esorics) 
 - [IEEE International Conference on Software Analysis, Evolution and Reengineering(SANER)](#saner) 
 - [Object-Oriented Programming, Systems, Languages & Applications(OOPSLA)](#oopsla) 
+- [Annual Computer Security Applications Conference(ACSAC)](#acsac)
 - [License](#license)
 
 
@@ -131,6 +132,10 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts](https://dl.acm.org/doi/10.1145/3360615). Shuai Wang, Chengyu Zhang, Zhendong Su. OOPSLA '2019
 
 [security] [Safer Smart Contract Programming with Scilla](https://ilyasergey.net/papers/scilla-oopsla19.pdf). Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ken Chan. OOPSLA '2019
+
+
+## ACSAC
+[security] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038). Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ken Chan. ACSAC '2018
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
