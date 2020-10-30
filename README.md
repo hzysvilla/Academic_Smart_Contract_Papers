@@ -87,16 +87,16 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-zkay.pdf).	Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsankov, Martin T Vechev. CCS '19. 
 
 ## INFOCOM
-[Smart Contract] [Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
+[Other] [Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
 
 ## DSN
-[Smart Contract] [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
+[security] [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
 
 [security] [SMACS: Smart Contract Access Control Service](https://arxiv.org/abs/2003.07495). Bowen Liu, Siwei Sun, Pawel Szalachowski. DSN '20
 
-[Smart Contract] [Data-Driven Model-Based Analysis of the Ethereum Verifier's Dilemma](https://arxiv.org/pdf/2004.12768.pdf). Maher Alharby, Roben Lunardi, Amjad Aldweesh, Aad van Moorsel. DSN '20
+[security] [Data-Driven Model-Based Analysis of the Ethereum Verifier's Dilemma](https://arxiv.org/pdf/2004.12768.pdf). Maher Alharby, Roben Lunardi, Amjad Aldweesh, Aad van Moorsel. DSN '20
 
-[Smart Contract] [Smart Contracts on the Move](https://arxiv.org/pdf/2004.05933.pdf). Enrique Fynn, Alysson Bessani, Fernando Pedone. DSN '20 
+[security] [Smart Contracts on the Move](https://arxiv.org/pdf/2004.05933.pdf). Enrique Fynn, Alysson Bessani, Fernando Pedone. DSN '20 
 
 ## PLDI
 [security] [Behavioral Simulation for Smart Contracts](). Sidi Mohamed Beillahi, Gabriela Ciocarlie, Michael Emmi, Constantin Enea. PLDI '2020
