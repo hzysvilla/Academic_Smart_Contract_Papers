@@ -17,10 +17,13 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE International Conference on Software Analysis, Evolution and Reengineering(SANER)](#saner) 
 - [Object-Oriented Programming, Systems, Languages & Applications(OOPSLA)](#oopsla) 
 - [Annual Computer Security Applications Conference(ACSAC)](#acsac)
+- [Asia-Pacific Software Engineering Conference(APSEC)](#apsec)
 - [License](#license)
 
 
 ## USENIX Security
+[security] [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf). Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Bailey. USENIX '18 Security Symposium.
+
 [security] [teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf). Johannes Krupp and Christian Rossow. USENIX '18 Security Symposium.
 
 [application] [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf). Harry Kalodner, Steven Goldfeder, Xiaoqi Chen, S. Matthew Weinberg, Edward W. Felten. USENIX '18 Security Symposium.
@@ -81,6 +84,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [ÆGIS: Smart Shielding of Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3319535.3363263?download=true).	Christof Ferreira Torres, Mathis  Baden profile imageMathis Baden, Robert  Norvill profile imageRobert Norvill, Hugo L Jonker profile imageHugo Jonker. CCS '19. 
 
+[security] [zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-zkay.pdf).	Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsankov, Martin T Vechev. CCS '19. 
+
 ## INFOCOM
 [Smart Contract] [Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
 
@@ -118,6 +123,8 @@ Welcome developers or researchers to add more published paper to this list.
 [application] [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution](https://arxiv.org/abs/2003.06552). Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
 
 ## SANER
+[application] [Under-optimized smart contracts devour your money](https://www4.comp.polyu.edu.hk/~csxluo/Gasper.pdf). Chen T, Li X, Luo X. SANER '2017
+
 [security] [SMARTSHIELD: Automatic Smart Contract Protection Made Easy](). Yuyao Zhang, Siqi Ma, Juanru Li, Kailai Li, Surya Nepal. SANER '2020
 
 [security] [EthPloit: From Fuzzing to Efficient Exploit Generation against Smart Contracts](). Qingzhao Zhang, Yizhuo Wang, Juanru Li, Siqi Ma. SANER '2020
@@ -136,6 +143,9 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## ACSAC
 [security] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038). Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ken Chan. ACSAC '2018
+
+## APSEC
+[security] [SIF: A Framework for Solidity Contract Instrumentation and Analysis](https://arxiv.org/pdf/1905.01659.pdf). Chao Peng, Sefa Akca, Ajitha Rajan. APSEC '2019
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
