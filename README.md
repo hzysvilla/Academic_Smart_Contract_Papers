@@ -18,6 +18,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [Object-Oriented Programming, Systems, Languages & Applications(OOPSLA)](#oopsla) 
 - [Annual Computer Security Applications Conference(ACSAC)](#acsac)
 - [Asia-Pacific Software Engineering Conference(APSEC)](#apsec)
+- [International World Wide Web Conference(WWW)](#www)
 - [License](#license)
 
 
@@ -86,6 +87,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-zkay.pdf).	Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsankov, Martin T Vechev. CCS '19. 
 
+[security] [Securify: Practical Security Analysis of Smart Contracts](https://arxiv.org/pdf/1806.01143.pdf).	Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli, Martin Vechev. CCS '18. 
+
 ## INFOCOM
 [Other] [Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
 
@@ -146,6 +149,10 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## APSEC
 [security] [SIF: A Framework for Solidity Contract Instrumentation and Analysis](https://arxiv.org/pdf/1905.01659.pdf). Chao Peng, Sefa Akca, Ajitha Rajan. APSEC '2019
+
+## WWW
+[other] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103). Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
+
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
