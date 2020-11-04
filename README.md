@@ -19,6 +19,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [Annual Computer Security Applications Conference(ACSAC)](#acsac)
 - [Asia-Pacific Software Engineering Conference(APSEC)](#apsec)
 - [International World Wide Web Conference(WWW)](#www)
+- [International Symposium on Software Testing and Analysis(ISSTA)](#issta)
 - [License](#license)
 
 
@@ -153,6 +154,8 @@ Welcome developers or researchers to add more published paper to this list.
 ## WWW
 [other] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103). Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
 
+## ISSTA
+[security] [SAFEVM: a safety verifier for Ethereum smart contracts](https://dl.acm.org/doi/pdf/10.1145/3293882.3338999). Elvira Albert,Jesús Correasl,Pablo Gordillo,Guillermo Román-Díez,Albert Rubio. ISSTA '2019
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
