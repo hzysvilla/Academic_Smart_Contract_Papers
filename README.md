@@ -20,6 +20,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [Asia-Pacific Software Engineering Conference(APSEC)](#apsec)
 - [International World Wide Web Conference(WWW)](#www)
 - [International Symposium on Software Testing and Analysis(ISSTA)](#issta)
+- [others(OTHERS)](#others)
 - [License](#license)
 
 
@@ -86,7 +87,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [ÆGIS: Smart Shielding of Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3319535.3363263?download=true).	Christof Ferreira Torres, Mathis  Baden profile imageMathis Baden, Robert  Norvill profile imageRobert Norvill, Hugo L Jonker profile imageHugo Jonker. CCS '19. 
 
-[security] [zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-zkay.pdf).	Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsankov, Martin T Vechev. CCS '19. 
+[security] [Zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-zkay.pdf).	Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsankov, Martin T Vechev. CCS '19. 
 
 [security] [Securify: Practical Security Analysis of Smart Contracts](https://arxiv.org/pdf/1806.01143.pdf).	Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli, Martin Vechev. CCS '18. 
 
@@ -152,10 +153,17 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [SIF: A Framework for Solidity Contract Instrumentation and Analysis](https://arxiv.org/pdf/1905.01659.pdf). Chao Peng, Sefa Akca, Ajitha Rajan. APSEC '2019
 
 ## WWW
-[other] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103). Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
+[graphic analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103). Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
 
 ## ISSTA
 [security] [SAFEVM: a safety verifier for Ethereum smart contracts](https://dl.acm.org/doi/pdf/10.1145/3293882.3338999). Elvira Albert,Jesús Correasl,Pablo Gordillo,Guillermo Román-Díez,Albert Rubio. ISSTA '2019
+
+## OTHERS
+[security] [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445052). Sergei Tikhomirov; Ekaterina Voskresenskaya; Ivan Ivanitskiy; Ramil Takhaviev; Evgeny Marchenko; Yaroslav Alexandrov. WETSEB '2018
+
+[security] [Runtime Verification of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8530777). Joshua Ellul; Gordon J. Pace. EDCC '2018
+
+[security] [Formal Modeling and Verification of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3185089.3185138). Joshua Ellul; Gordon J. Pace. ICSCA '2018
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
