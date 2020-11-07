@@ -163,7 +163,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Runtime Verification of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8530777). Joshua Ellul; Gordon J. Pace. EDCC '2018
 
-[security] [Formal Modeling and Verification of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3185089.3185138). Joshua Ellul; Gordon J. Pace. ICSCA '2018
+[security] [Formal Modeling and Verification of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3185089.3185138). X. Bai, Zijing Cheng. ICSCA '2018
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
