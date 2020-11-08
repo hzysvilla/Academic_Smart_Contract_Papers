@@ -92,7 +92,7 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [Securify: Practical Security Analysis of Smart Contracts](https://arxiv.org/pdf/1806.01143.pdf).	Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli, Martin Vechev. CCS '18. 
 
 ## INFOCOM
-[Other] [Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
+[graph analysis] [Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
 
 ## DSN
 [security] [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
@@ -153,7 +153,7 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [SIF: A Framework for Solidity Contract Instrumentation and Analysis](https://arxiv.org/pdf/1905.01659.pdf). Chao Peng, Sefa Akca, Ajitha Rajan. APSEC '2019
 
 ## WWW
-[graphic analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103). Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
+[graph analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103). Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
 
 ## ISSTA
 [security] [SAFEVM: a safety verifier for Ethereum smart contracts](https://dl.acm.org/doi/pdf/10.1145/3293882.3338999). Elvira Albert,Jesús Correasl,Pablo Gordillo,Guillermo Román-Díez,Albert Rubio. ISSTA '2019
