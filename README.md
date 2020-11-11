@@ -156,7 +156,9 @@ Welcome developers or researchers to add more published paper to this list.
 [graph analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103). Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
 
 ## ISSTA
-[security] [SAFEVM: a safety verifier for Ethereum smart contracts](https://dl.acm.org/doi/pdf/10.1145/3293882.3338999). Elvira Albert,Jesús Correasl,Pablo Gordillo,Guillermo Román-Díez,Albert Rubio. ISSTA '2019
+[security] [SAFEVM: a safety verifier for Ethereum smart contracts](https://dl.acm.org/doi/pdf/10.1145/3293882.3338999). Elvira Albert, Jesús Correasl, Pablo Gordillo, Guillermo Román-Díez, Albert Rubio. ISSTA '2019
+
+[security] [Exploiting the laws of order in smart contracts](https://arxiv.org/abs/1810.11605). Kolluri ANikolic，Sergey I ,et al. ISSTA '2019
 
 ## OTHERS
 [security] [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445052). Sergei Tikhomirov; Ekaterina Voskresenskaya; Ivan Ivanitskiy; Ramil Takhaviev; Evgeny Marchenko; Yaroslav Alexandrov. WETSEB '2018
