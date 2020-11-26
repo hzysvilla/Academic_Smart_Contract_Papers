@@ -29,7 +29,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 #### 2020 
 
-[security] [ETHBMC: A Bounded Model Checker for Smart Contracts]()
+[security] [ETHBMC: A Bounded Model Checker for Smart Contracts]().
 Joel Frank, Cornelius Aschermann, and Thorsten Holz. USENIX '20 Security Symposium.
 
 [security] [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](). 
@@ -40,7 +40,7 @@ Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. US
 
 #### 2019 
 
-[security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf). 
+[security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf). <br>
 Torres C., Steichen M., State R. USENIX '19 Security Symposium.
 
 [application] [FastKitten: Practical Smart Contracts on Bitcoin](). 
