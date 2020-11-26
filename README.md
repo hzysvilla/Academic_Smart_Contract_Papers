@@ -23,6 +23,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [others(OTHERS)](#others)
 - [License](#license)
 
+------
 
 ## USENIX Security
 [security] [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf). Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Bailey. USENIX '18 Security Symposium.
@@ -43,6 +44,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf). Torres C., Steichen M., State R. USENIX '19 Security Symposium.
 
+------
+
 ## S&P
 [application] [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf). Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P '16
 
@@ -51,6 +54,8 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contracts](). Sunbeom So, Myungho Lee, Jisu Park, Heejo Lee, Hakjoo Oh. IEEE S&P '20. 
 
 [security] [Executable Operational Semantics of Solidity](https://arxiv.org/pdf/1804.01295.pdf). Jiao Jiao, Shuanglong Kan, Shang-Wei Lin, David Sanan, Yang Liu, Jun Sun. IEEE S&P '20. 
+
+------
 
 ## NDSS
 [security] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf). Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
@@ -63,6 +68,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [SODA: A Generic Online Detection Framework for Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24449-paper.pdf). Ting Chen, Rong Cao, Ting Li, Xiapu Luo, Guofei Gu, Yufei Zhang, Zhou Liao, Hang Zhu, Gang Chen, Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
 
+------
+
 ## ICSE
 [security] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf). T Durieux, JF Ferreira, R Abreu, P Cruz. ICSE '2020
 
@@ -73,6 +80,8 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [VULTRON: Catching Vulnerable Smart Contracts Once and for All](https://ieeexplore.ieee.org/document/8811905/). Haijun Wang, Yi Li, Shang-Wei Lin, Lei Ma, Yang Liu. ICSE '2019
 
 [security] [ReGuard: Finding Reentrancy Bugs in Smart Contracts](). Chao Liu, Han Liu, Zhao Cao, Zhong Chen, Bangdao Chen, Bill Roscoe. ICSE '2018
+
+------
 
 ## CCS
 [SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](http://www4.comp.polyu.edu.hk/~csxluo/TokenScope.pdf). Ting Chen ,Yufei Zhang ,Zihao Li, Xiapu Luo,Ting Wang,Rong Cao,Xiuzhuo Xiao,Xiaosong Zhang . CCS '19.
@@ -91,8 +100,12 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Securify: Practical Security Analysis of Smart Contracts](https://arxiv.org/pdf/1806.01143.pdf).	Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli, Martin Vechev. CCS '18. 
 
+------
+
 ## INFOCOM
 [graph analysis] [Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf). Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
+
+------
 
 ## DSN
 [security] [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](). Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
@@ -103,12 +116,16 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Smart Contracts on the Move](https://arxiv.org/pdf/2004.05933.pdf). Enrique Fynn, Alysson Bessani, Fernando Pedone. DSN '20 
 
+------
+
 ## PLDI
 [security] [Behavioral Simulation for Smart Contracts](). Sidi Mohamed Beillahi, Gabriela Ciocarlie, Michael Emmi, Constantin Enea. PLDI '2020
 
 [security] [Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities](). Lexi Brent, Neville Grech, Sifis Lagouvardos, Bernhard Scholz, Yannis Smaragdakis. PLDI '2020
 
 [Ssecurity] [Securing Smart Contract with Runtime Validation](). Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
+
+------
 
 ## ASE
 [security] [Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts](). Yinxing Xue, Mingliang Ma, Yun Lin, Yulei Sui, Jiaming Ye, Tianyong Peng. ASE '2020
@@ -119,13 +136,19 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [ContractFuzzer: Fuzzing Smart Contracts for Vulnerability](https://arxiv.org/ftp/arxiv/papers/1807/1807.03932.pdf). Bo Jiang, Ye Liu, W.K. Chan. ASE '2018
 
+------
+
 ## ESEC&FSE
 [security] [Towards Automated Verification of Smart Contract Fairness](). Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. FSE/ESEC '2020
 
 [security] [EVMFuzzer: Detect EVM vulnerabilities via fuzz testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/fse19demo.pdf). Fu Y, Ren M, Ma F. FSE/ESEC '2019
 
+------
+
 ## ESORICS
 [application] [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution](https://arxiv.org/abs/2003.06552). Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
+
+------
 
 ## SANER
 [application] [Under-optimized smart contracts devour your money](https://www4.comp.polyu.edu.hk/~csxluo/Gasper.pdf). Chen T, Li X, Luo X. SANER '2017
@@ -138,6 +161,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [EVM*: From Offline Detection to Online Reinforcement for Ethereum Virtual Machine](). Fuchen Ma, Ying Fu, Meng Ren, Mingzhe Wang, Yu Jiang, Kaixiang Zhang, Huizhong Li, Xiang Shi. SANER '2019
 
+------
+
 ## OOPSLA
 [security] [Taming Callbacks for Smart Contract Modularity](). Elvira Albert, Shelly Grossman, Noam Rinetzky, Clara Rodríguez, Albert Rubio, Mooly Sagiv. OOPSLA '2020
 
@@ -145,20 +170,29 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Safer Smart Contract Programming with Scilla](https://ilyasergey.net/papers/scilla-oopsla19.pdf). Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ken Chan. OOPSLA '2019
 
+------
 
 ## ACSAC
 [security] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038). Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ken Chan. ACSAC '2018
 
+------
+
 ## APSEC
 [security] [SIF: A Framework for Solidity Contract Instrumentation and Analysis](https://arxiv.org/pdf/1905.01659.pdf). Chao Peng, Sefa Akca, Ajitha Rajan. APSEC '2019
 
+------
+
 ## WWW
 [graph analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103). Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
+
+------
 
 ## ISSTA
 [security] [SAFEVM: a safety verifier for Ethereum smart contracts](https://dl.acm.org/doi/pdf/10.1145/3293882.3338999). Elvira Albert, Jesús Correasl, Pablo Gordillo, Guillermo Román-Díez, Albert Rubio. ISSTA '2019
 
 [security] [Exploiting the laws of order in smart contracts](https://arxiv.org/abs/1810.11605). Kolluri ANikolic，Sergey I ,et al. ISSTA '2019
+
+------
 
 ## OTHERS
 [security] [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445052). Sergei Tikhomirov; Ekaterina Voskresenskaya; Ivan Ivanitskiy; Ramil Takhaviev; Evgeny Marchenko; Yaroslav Alexandrov. WETSEB '2018
