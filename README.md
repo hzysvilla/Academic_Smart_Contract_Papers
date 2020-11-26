@@ -156,11 +156,14 @@ Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsan
 
 #### 2018
 
-[security] [CHECKMATE: Practical Security Analysis of Smart Contracts ] ().<br> 
+[security] [CHECKMATE: Practical Security Analysis of Smart Contracts] ().<br> 
 Petar Tsankov (ETH Zurich), Andrei Marian Dan (ETH Zurich), Dana Drachsler Cohen (ETH Zurich), Arthur Gervais (Imperial College London), Florian Buenzli (ETH Zurich), Martin Vechev (ETH Zurich)
 
 [security] [Securify: Practical Security Analysis of Smart Contracts](https://arxiv.org/pdf/1806.01143.pdf).<br> 	
 Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli, Martin Vechev. CCS '18. 
+
+[security] [BitML: a calculus for Bitcoin smart contracts Massimo] ().<br> 
+Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
 
 #### 2016
 
@@ -259,9 +262,16 @@ Fu Y, Ren M, Ma F. FSE/ESEC '2019
 
 #### 2020
 
-
 [application] [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution](https://arxiv.org/abs/2003.06552).<br>
 Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
+
+#### 2019
+
+[application] [A Concolic Execution System for Developing Secure Smart Contracts](https://arxiv.org/abs/2003.06552).<br>
+Konrad Weiss and Julian Schuette
+
+[application] [PDFS: Practical Data Feed Service for Smart Contracts](https://arxiv.org/abs/2003.06552).<br>
+Juan Guarnizo and Pawel Szalachowski
 
 ------
 
@@ -310,6 +320,14 @@ Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ke
 
 ## ACSAC
 
+#### 2019
+
+[security] [Osiris: Hunting for Integer Bugs in Ethereum Smart Contracts]().<br>
+Christof Ferreira Torres, SnT/University of Luxembourg; Julian Schütte, Fraunhofer AISEC; Radu State, SnT/University of Luxembourg
+
+[security] [SmarTor: Smarter Tor with Smart Contracts]().<br>
+Andre Greubel, University of Wuerzburg; Alexandra Dmitrienko, University of Wuerzburg; Samuel Kounev, University of Wuerzburg
+
 #### 2018
 
 [security] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038).<br>
@@ -356,6 +374,12 @@ Joshua Ellul; Gordon J. Pace. EDCC '2018
 
 [security] [Formal Modeling and Verification of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3185089.3185138).<br>
 X. Bai, Zijing Cheng. ICSCA '2018
+
+[security] [Protect Your Smart Contract Against Unfair Payment]().<br>
+Yue Li, Han Liu, Zhiqiang Yang, Bin Wang, Qian Ren, Lei Wang and Bangdao Chen. SRDS '2020
+
+[security] [TZ4Fabric: Executing Smart Contracts with ARM TrustZone (Practical Experience Report)]().<br>
+Christina Müller, Marcus Brandenburger, Christian Cachin, Pascal Felber, Christian Göttel and Valerio Schiavoni. SRDS '2020
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
