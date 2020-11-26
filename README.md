@@ -142,7 +142,7 @@ Chao Liu, Han Liu, Zhao Cao, Zhong Chen, Bangdao Chen, Bill Roscoe. ICSE '2018
 
 #### 2019
 
-[SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](http://www4.comp.polyu.edu.hk/~csxluo/TokenScope.pdf).<br>  
+[SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](http://www4.comp.polyu.edu.hk/~csxluo/TokenScope.pdf). <br>
 Ting Chen ,Yufei Zhang ,Zihao Li, Xiapu Luo,Ting Wang,Rong Cao,Xiuzhuo Xiao,Xiaosong Zhang . CCS '19.
 
 [security] [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf).<br> 	
@@ -164,13 +164,13 @@ Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli
 
 #### 2016
 
-[security] [Making Smart Contracts Smarter](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf).<br>  
+[security] [Making Smart Contracts Smarter](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf).<br>
 Luu L, Chu DH, Olickel H, Saxena P, Hobor A. CCS '16.
 
-[security] [Formal verification of smart contracts: Short paper](https://hal.inria.fr/hal-01400469/document).<br>  
+[security] [Formal verification of smart contracts: Short paper](https://hal.inria.fr/hal-01400469/document).<br>
 Bhargavan K,Delignat-Lavaud A,Fournet C. CCS '16.
 
-[security] [Town crier: An authenticated data feed for smart contracts](http://delivery.acm.org/10.1145/2980000/2978326/p270-zhang.pdf?ip=46.176.188.9&id=2978326&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E594C525CFFA2AFAF&CFID=923932938&CFTOKEN=56121949&__acm__=1492299159_38039f3afa858f241818fdcf190e0200).<br>  
+[security] [Town crier: An authenticated data feed for smart contracts](http://delivery.acm.org/10.1145/2980000/2978326/p270-zhang.pdf?ip=46.176.188.9&id=2978326&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E594C525CFFA2AFAF&CFID=923932938&CFTOKEN=56121949&__acm__=1492299159_38039f3afa858f241818fdcf190e0200).<br>
 Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
 
 ------
@@ -179,7 +179,7 @@ Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
 
 #### 2018
 
-[graph analysis] [Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf).<br>  
+[graph analysis] [Understanding ethereum via graph analysis](https://www4.comp.polyu.edu.hk/~csxluo/EthereumGraphAnalysis.pdf).<br>
 Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin, Xiaodong Lin. INFOCOM'18
 
 ------
@@ -188,18 +188,18 @@ Ting Chen,Yuxiao Zhu, Zihao Li, Jiachi Chen, Xiaoqi Li, Xiapu Luo, Xiaodong Lin,
 
 #### 2020
 
-[security] [SMACS: Smart Contract Access Control Service](https://arxiv.org/abs/2003.07495). <br> 
+[security] [SMACS: Smart Contract Access Control Service](https://arxiv.org/abs/2003.07495). <br>
 Bowen Liu, Siwei Sun, Pawel Szalachowski. DSN '20
 
-[security] [Data-Driven Model-Based Analysis of the Ethereum Verifier's Dilemma](https://arxiv.org/pdf/2004.12768.pdf).<br>  
+[security] [Data-Driven Model-Based Analysis of the Ethereum Verifier's Dilemma](https://arxiv.org/pdf/2004.12768.pdf).<br>
 Maher Alharby, Roben Lunardi, Amjad Aldweesh, Aad van Moorsel. DSN '20
 
-[security] [Smart Contracts on the Move](https://arxiv.org/pdf/2004.05933.pdf).<br>  
+[security] [Smart Contracts on the Move](https://arxiv.org/pdf/2004.05933.pdf).<br>
 Enrique Fynn, Alysson Bessani, Fernando Pedone. DSN '20 
 
 #### 2019
 
-[security] [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric]().<br>  
+[security] [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric]().<br>
 Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
 
 ------
@@ -208,13 +208,13 @@ Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
 
 #### 2020
 
-[security] [Behavioral Simulation for Smart Contracts]().<br>  
+[security] [Behavioral Simulation for Smart Contracts]().<br>
 Sidi Mohamed Beillahi, Gabriela Ciocarlie, Michael Emmi, Constantin Enea. PLDI '2020
 
-[security] [Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities]().<br>  
+[security] [Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities]().<br>
 Lexi Brent, Neville Grech, Sifis Lagouvardos, Bernhard Scholz, Yannis Smaragdakis. PLDI '2020
 
-[Ssecurity] [Securing Smart Contract with Runtime Validation]().<br>  
+[Ssecurity] [Securing Smart Contract with Runtime Validation]().<br>
 Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
 
 ------
@@ -223,18 +223,18 @@ Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
 
 #### 2020
 
-[security] [Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts]().<br>  
+[security] [Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts]().<br>
 Yinxing Xue, Mingliang Ma, Yun Lin, Yulei Sui, Jiaming Ye, Tianyong Peng. ASE '2020
 
-[security] [Demystifying Loops in Smart Contracts]().<br>  
+[security] [Demystifying Loops in Smart Contracts]().<br>
 Benjamin Mariano, Yanju Chen, Yu Feng, Shuvendu K. Lahiri, Isil Dillig. ASE '2020
 
-[security] [Summary-Based Symbolic Evaluation for Smart Contracts]().<br>  
+[security] [Summary-Based Symbolic Evaluation for Smart Contracts]().<br>
 Yu Feng, Emina Torlak, Rastislav Bodik. ASE '2020
 
 #### 2018
 
-[security] [ContractFuzzer: Fuzzing Smart Contracts for Vulnerability](https://arxiv.org/ftp/arxiv/papers/1807/1807.03932.pdf).<br> 
+[security] [ContractFuzzer: Fuzzing Smart Contracts for Vulnerability](https://arxiv.org/ftp/arxiv/papers/1807/1807.03932.pdf).<br>
 Bo Jiang, Ye Liu, W.K. Chan. ASE '2018
 
 ------
@@ -247,10 +247,10 @@ Bo Jiang, Ye Liu, W.K. Chan. ASE '2018
 #### 2020
 
 
-[security] [Towards Automated Verification of Smart Contract Fairness]().<br>  
+[security] [Towards Automated Verification of Smart Contract Fairness]().<br>
 Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. FSE/ESEC '2020
 
-[security] [EVMFuzzer: Detect EVM vulnerabilities via fuzz testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/fse19demo.pdf).<br>  
+[security] [EVMFuzzer: Detect EVM vulnerabilities via fuzz testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/fse19demo.pdf).<br>
 Fu Y, Ren M, Ma F. FSE/ESEC '2019
 
 ------
@@ -260,7 +260,7 @@ Fu Y, Ren M, Ma F. FSE/ESEC '2019
 #### 2020
 
 
-[application] [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution](https://arxiv.org/abs/2003.06552).<br>  
+[application] [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution](https://arxiv.org/abs/2003.06552).<br>
 Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
 
 ------
@@ -269,24 +269,24 @@ Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
 
 #### 2020
 
-[security] [SMARTSHIELD: Automatic Smart Contract Protection Made Easy]().<br>  
+[security] [SMARTSHIELD: Automatic Smart Contract Protection Made Easy]().<br>
 Yuyao Zhang, Siqi Ma, Juanru Li, Kailai Li, Surya Nepal. SANER '2020
 
-[security] [EthPloit: From Fuzzing to Efficient Exploit Generation against Smart Contracts]().<br>  
+[security] [EthPloit: From Fuzzing to Efficient Exploit Generation against Smart Contracts]().<br>
 Qingzhao Zhang, Yizhuo Wang, Juanru Li, Siqi Ma. SANER '2020
 
 
 #### 2019
 
-[security] [Towards Generating Cost-Effective Test-Suite for Ethereum Smart Contract]().<br>  
+[security] [Towards Generating Cost-Effective Test-Suite for Ethereum Smart Contract]().<br>
 Xingya Wang, Haoran Wu, Weisong Sun, Yuan Zhao. SANER '2019
 
-[security] [EVM*: From Offline Detection to Online Reinforcement for Ethereum Virtual Machine]().<br>  
+[security] [EVM*: From Offline Detection to Online Reinforcement for Ethereum Virtual Machine]().<br>
 Fuchen Ma, Ying Fu, Meng Ren, Mingzhe Wang, Yu Jiang, Kaixiang Zhang, Huizhong Li, Xiang Shi. SANER '2019
 
 #### 2017
 
-[application] [Under-optimized smart contracts devour your money](https://www4.comp.polyu.edu.hk/~csxluo/Gasper.pdf).<br>  
+[application] [Under-optimized smart contracts devour your money](https://www4.comp.polyu.edu.hk/~csxluo/Gasper.pdf).<br>
 Chen T, Li X, Luo X. SANER '2017
 
 ------
@@ -295,15 +295,15 @@ Chen T, Li X, Luo X. SANER '2017
 
 #### 2020
 
-[security] [Taming Callbacks for Smart Contract Modularity]().<br>  
+[security] [Taming Callbacks for Smart Contract Modularity]().<br>
 Elvira Albert, Shelly Grossman, Noam Rinetzky, Clara Rodríguez, Albert Rubio, Mooly Sagiv. OOPSLA '2020
 
 #### 2019
 
-[security] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts](https://dl.acm.org/doi/10.1145/3360615).<br>  
+[security] [Detecting Nondeterministic Payment Bugs in Ethereum Smart Contracts](https://dl.acm.org/doi/10.1145/3360615).<br>
 Shuai Wang, Chengyu Zhang, Zhendong Su. OOPSLA '2019
 
-[security] [Safer Smart Contract Programming with Scilla](https://ilyasergey.net/papers/scilla-oopsla19.pdf).<br>  
+[security] [Safer Smart Contract Programming with Scilla](https://ilyasergey.net/papers/scilla-oopsla19.pdf).<br>
 Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ken Chan. OOPSLA '2019
 
 ------
@@ -312,7 +312,7 @@ Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ke
 
 #### 2018
 
-[security] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038).<br>  
+[security] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038).<br>
 Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ken Chan. ACSAC '2018
 
 ------
@@ -321,7 +321,7 @@ Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ke
 
 #### 2019
 
-[security] [SIF: A Framework for Solidity Contract Instrumentation and Analysis](https://arxiv.org/pdf/1905.01659.pdf).<br>  
+[security] [SIF: A Framework for Solidity Contract Instrumentation and Analysis](https://arxiv.org/pdf/1905.01659.pdf).<br>
 Chao Peng, Sefa Akca, Ajitha Rajan. APSEC '2019
 
 ------
@@ -330,7 +330,7 @@ Chao Peng, Sefa Akca, Ajitha Rajan. APSEC '2019
 
 #### 2020
 
-[graph analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).<br>  
+[graph analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).<br>
 Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
 
 ------
@@ -339,22 +339,22 @@ Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
 
 #### 2019
 
-[security] [SAFEVM: a safety verifier for Ethereum smart contracts](https://dl.acm.org/doi/pdf/10.1145/3293882.3338999).<br>  
+[security] [SAFEVM: a safety verifier for Ethereum smart contracts](https://dl.acm.org/doi/pdf/10.1145/3293882.3338999).<br>
 Elvira Albert, Jesús Correasl, Pablo Gordillo, Guillermo Román-Díez, Albert Rubio. ISSTA '2019
 
-[security] [Exploiting the laws of order in smart contracts](https://arxiv.org/abs/1810.11605).<br>  
+[security] [Exploiting the laws of order in smart contracts](https://arxiv.org/abs/1810.11605).<br>
 Kolluri ANikolic，Sergey I ,et al. ISSTA '2019
 
 ------
 
 ## OTHERS
-[security] [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445052). <br> 
+[security] [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445052). <br>
 Sergei Tikhomirov; Ekaterina Voskresenskaya; Ivan Ivanitskiy; Ramil Takhaviev; Evgeny Marchenko; Yaroslav Alexandrov. WETSEB '2018
 
-[security] [Runtime Verification of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8530777).<br>  
+[security] [Runtime Verification of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8530777).<br>
 Joshua Ellul; Gordon J. Pace. EDCC '2018
 
-[security] [Formal Modeling and Verification of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3185089.3185138).<br>  
+[security] [Formal Modeling and Verification of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3185089.3185138).<br>
 X. Bai, Zijing Cheng. ICSCA '2018
 
 ## License
