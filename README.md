@@ -438,17 +438,15 @@ Neville Grech, Michael Kong, Anton Jurisevic, Lexi Brent, Bernhard Scholz, Yanni
 ## ACSAC
 
 #### 2019
-
-[security] [Osiris: Hunting for Integer Bugs in Ethereum Smart Contracts]().<br>
-Christof Ferreira Torres, SnT/University of Luxembourg; Julian Schütte, Fraunhofer AISEC; Radu State, SnT/University of Luxembourg
-
 [security] [SmarTor: Smarter Tor with Smart Contracts]().<br>
 Andre Greubel, University of Wuerzburg; Alexandra Dmitrienko, University of Wuerzburg; Samuel Kounev, University of Wuerzburg
 
 #### 2018
-
 [security] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038).<br>
 Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ken Chan. ACSAC '2018
+
+[security] [Osiris: Hunting for Integer Bugs in Ethereum Smart Contracts]().<br>
+Christof Ferreira Torres, SnT/University of Luxembourg; Julian Schütte, Fraunhofer AISEC; Radu State, SnT/University of Luxembourg
 
 ------
 
@@ -459,6 +457,14 @@ Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ke
 [security] [SIF: A Framework for Solidity Contract Instrumentation and Analysis](https://arxiv.org/pdf/1905.01659.pdf).<br>
 Chao Peng, Sefa Akca, Ajitha Rajan. APSEC '2019
 
+[security] [SolAnalyser: A Framework for Analysing and Testing Smart Contracts.]().<br>
+Sefa Akca, Ajitha Rajan, Chao Peng. APSEC '2019
+
+#### 2018
+
+[security] [Fuse: An Architecture for Smart Contract Fuzz Testing Service.]().<br>
+Wing Kwong Chan, Bo Jian.
+
 ------
 
 ## WWW
@@ -467,6 +473,9 @@ Chao Peng, Sefa Akca, Ajitha Rajan. APSEC '2019
 
 [graph analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).<br>
 Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
+
+[graph analysis] [Traveling the token world: A graph analysis of Ethereum ERC20 token ecosystem.](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).<br>
+Weili Chen, Tuo Zhang, Zhiguang Chen, Zibin Zheng, Yutong Lu. WWW '2020
 
 ------
 
