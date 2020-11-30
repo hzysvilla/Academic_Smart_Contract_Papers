@@ -246,12 +246,10 @@ Bo Jiang, Ye Liu, W.K. Chan. ASE '2018
 
 #### 2020
 
-
-#### 2020
-
-
 [security] [Towards Automated Verification of Smart Contract Fairness]().<br>
 Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. FSE/ESEC '2020
+
+#### 2019
 
 [security] [EVMFuzzer: Detect EVM vulnerabilities via fuzz testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/fse19demo.pdf).<br>
 Fu Y, Ren M, Ma F. FSE/ESEC '2019
