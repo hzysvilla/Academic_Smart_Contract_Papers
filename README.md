@@ -105,10 +105,69 @@ Michael Rodler, Wenting Li and Ghassan Karame, Lucas Davi. NDSS '19.
 [security] [YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://arxiv.org/pdf/1811.03265.pdf).<br> 
 Sourav Das, Vinay Joseph Ribeiro, and Abhijeet Anand. NDSS '19.
 
+[security] [Sereum: Protecting Existing Smart Contracts Against Re-Entrancy Attacks. ]().<br> 
+Michael Rodler, Wenting Li, Ghassan O. Karame, Lucas Davi.
+
 #### 2018
 
 [security] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf).<br>
 Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
+
+[security] [Chainspace: A Sharded Smart Contracts Platform.]().<br>
+Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
+
+------
+
+## CCS
+
+#### 2020
+
+[security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts]().<br>  CCS '2020
+Karl Wüst, Sinisa Matetic, Silvan Egli, Kari Kostiainen, Srdjan Capkun.
+  
+[security] [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts]().<br>   CCS '2020.
+Clara Schneidewind, Ilya Grishchenko, Markus Scherer, Matteo Maffei.
+
+#### 2019
+
+[SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](http://www4.comp.polyu.edu.hk/~csxluo/TokenScope.pdf). <br>
+Ting Chen ,Yufei Zhang ,Zihao Li, Xiapu Luo,Ting Wang,Rong Cao,Xiuzhuo Xiao,Xiaosong Zhang . CCS '19.
+
+[security] [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf).<br> 	
+Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS '19. 
+
+[security] [ÆGIS: Smart Shielding of Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3319535.3363263?download=true).<br> 	
+Christof Ferreira Torres, Mathis  Baden profile imageMathis Baden, Robert  Norvill profile imageRobert Norvill, Hugo L Jonker profile imageHugo Jonker. CCS '19. 
+
+[security] [Zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-zkay.pdf).<br> 	
+Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsankov, Martin T Vechev. CCS '19. 
+
+#### 2018
+
+[security] [CHECKMATE: Practical Security Analysis of Smart Contracts] ().<br> 
+Petar Tsankov (ETH Zurich), Andrei Marian Dan (ETH Zurich), Dana Drachsler Cohen (ETH Zurich), Arthur Gervais (Imperial College London), Florian Buenzli (ETH Zurich), Martin Vechev (ETH Zurich)
+
+[security] [Securify: Practical Security Analysis of Smart Contracts](https://arxiv.org/pdf/1806.01143.pdf).<br> 	
+Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli, Martin Vechev. CCS '18. 
+
+[security] [BitML: a calculus for Bitcoin smart contracts Massimo] ().<br> 
+Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
+
+#### 2017
+
+[security] [Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing. ] ().<br> 
+Changyu Dong, Yilei Wang, Amjad Aldweesh, Patrick McCorry, Aad van Moorsel.
+
+#### 2016
+
+[security] [Making Smart Contracts Smarter](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf).<br>
+Luu L, Chu DH, Olickel H, Saxena P, Hobor A. CCS '16.
+
+[security] [Formal verification of smart contracts: Short paper](https://hal.inria.fr/hal-01400469/document).<br>
+Bhargavan K,Delignat-Lavaud A,Fournet C. CCS '16.
+
+[security] [Town crier: An authenticated data feed for smart contracts](http://delivery.acm.org/10.1145/2980000/2978326/p270-zhang.pdf?ip=46.176.188.9&id=2978326&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E594C525CFFA2AFAF&CFID=923932938&CFTOKEN=56121949&__acm__=1492299159_38039f3afa858f241818fdcf190e0200).<br>
+Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
 
 ------
 
@@ -140,53 +199,26 @@ Chao Liu, Han Liu, Zhao Cao, Zhong Chen, Bangdao Chen, Bill Roscoe. ICSE '2018
 
 ------
 
-## CCS
+## INFOCOM
 
 #### 2020
 
-[security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts]().<br>  CCS '2020
+[application] [ET-DeaL: A P2P Smart Contract-based Secure Energy Trading Scheme for Smart Grid Systems]().<br>
+Aparna Kumari, Arpit Shukla, Rajesh Gupta, Sudeep Tanwar, Sudhanshu Tyagi, Neeraj Kumar.
 
-[security] [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts]().<br>   CCS '2020.
+[application] [A Solution for State Conflicts of Smart Contract in Interaction with Non-blockchain.]().<br>
+Hong Su, Bing Guo, Yan Shen, Tao Li, Chaoxia Qing, Zhen Zhang.
+
+[application] [ChainIDE 2.0: Facilitating Smart Contract Development for Consortium Blockchain.]().<br>
+Xiao Wu, Han Qiu, Shuyi Zhang, Gérard Memmi, Keke Gai, Wei Cai.
+
+[application] [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves.]().<br>
+Chengjun Cai, Lei Xu, Anxin Zhou, Ruochen Wang, Cong Wang, Qian Wang.
 
 #### 2019
 
-[SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](http://www4.comp.polyu.edu.hk/~csxluo/TokenScope.pdf). <br>
-Ting Chen ,Yufei Zhang ,Zihao Li, Xiapu Luo,Ting Wang,Rong Cao,Xiuzhuo Xiao,Xiaosong Zhang . CCS '19.
-
-[security] [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf).<br> 	
-Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS '19. 
-
-[security] [ÆGIS: Smart Shielding of Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3319535.3363263?download=true).<br> 	
-Christof Ferreira Torres, Mathis  Baden profile imageMathis Baden, Robert  Norvill profile imageRobert Norvill, Hugo L Jonker profile imageHugo Jonker. CCS '19. 
-
-[security] [Zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-zkay.pdf).<br> 	
-Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsankov, Martin T Vechev. CCS '19. 
-
-#### 2018
-
-[security] [CHECKMATE: Practical Security Analysis of Smart Contracts] ().<br> 
-Petar Tsankov (ETH Zurich), Andrei Marian Dan (ETH Zurich), Dana Drachsler Cohen (ETH Zurich), Arthur Gervais (Imperial College London), Florian Buenzli (ETH Zurich), Martin Vechev (ETH Zurich)
-
-[security] [Securify: Practical Security Analysis of Smart Contracts](https://arxiv.org/pdf/1806.01143.pdf).<br> 	
-Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli, Martin Vechev. CCS '18. 
-
-[security] [BitML: a calculus for Bitcoin smart contracts Massimo] ().<br> 
-Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
-
-#### 2016
-
-[security] [Making Smart Contracts Smarter](https://www.comp.nus.edu.sg/~loiluu/papers/oyente.pdf).<br>
-Luu L, Chu DH, Olickel H, Saxena P, Hobor A. CCS '16.
-
-[security] [Formal verification of smart contracts: Short paper](https://hal.inria.fr/hal-01400469/document).<br>
-Bhargavan K,Delignat-Lavaud A,Fournet C. CCS '16.
-
-[security] [Town crier: An authenticated data feed for smart contracts](http://delivery.acm.org/10.1145/2980000/2978326/p270-zhang.pdf?ip=46.176.188.9&id=2978326&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E594C525CFFA2AFAF&CFID=923932938&CFTOKEN=56121949&__acm__=1492299159_38039f3afa858f241818fdcf190e0200).<br>
-Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
-
-------
-
-## INFOCOM
+[application] [Interledger Smart Contracts for Decentralized Authorization to Constrained Things.]().<br>
+Vasilios A. Siris, Dimitrios Dimopoulos, Nikos Fotiou, Spyros Voulgaris, George C. Polyzos.
 
 #### 2018
 
@@ -208,10 +240,18 @@ Maher Alharby, Roben Lunardi, Amjad Aldweesh, Aad van Moorsel. DSN '20
 [security] [Smart Contracts on the Move](https://arxiv.org/pdf/2004.05933.pdf).<br>
 Enrique Fynn, Alysson Bessani, Fernando Pedone. DSN '20 
 
+[other] [Impact of Geo-Distribution and Mining Pools on Blockchains: A Study of Ethereum.](https://arxiv.org/pdf/2004.05933.pdf).<br>
+Paulo Silva, David Vavricka, João Barreto, Miguel Matos. DSN '20 
+
 #### 2019
 
-[security] [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric]().<br>
+[application] [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric]().<br>
 Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
+
+#### 2018
+
+[security] [Towards Model-Driven Engineering of Smart Contracts for Cyber-Physical Systems.]().<br>
+	Peter Garamvolgyi, Imre Kocsis, Benjamin Gehl, Attila Klenik.
 
 ------
 
@@ -246,10 +286,24 @@ Yu Feng, Emina Torlak, Rastislav Bodik. ASE '2020
 [security] [Finding Ethereum Smart Contracts Security Issues by Comparing History Versions](https://arxiv.org/pdf/2010.02509.pdf).<br>
 Jiachi Chen. ASE '2020
 
+#### 2019
+
+[security] [Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts. ]().<br>
+Mark Mossberg, Felipe Manzano, Eric Hennenfent, Alex Groce, Gustavo Grieco, Josselin Feist, Trent Brunson, Artem Dinaburg.
+
+[security] [MuSC: A Tool for Mutation Testing of Ethereum Smart Contract.]().<br>
+Zixin Li, Haoran Wu, Jiehui Xu, Xingya Wang, Lingming Zhang, Zhenyu Chen.
+
+[security] [Securing Smart Contracts in Blockchain.]().<br>
+Jaturong Kongmanee, Phongphun Kijsanayothin, Rattikorn Hewett.
+
 #### 2018
 
 [security] [ContractFuzzer: Fuzzing Smart Contracts for Vulnerability](https://arxiv.org/ftp/arxiv/papers/1807/1807.03932.pdf).<br>
 Bo Jiang, Ye Liu, W.K. Chan. ASE '2018
+
+[security] [S-gram: towards semantic-aware security auditing for Ethereum smart contracts.]().<br>
+Han Liu, Chao Liu, Wenqi Zhao, Yu Jiang, Jiaguang Sun. ASE '2018
 
 ------
 
@@ -260,10 +314,19 @@ Bo Jiang, Ye Liu, W.K. Chan. ASE '2018
 [security] [Towards Automated Verification of Smart Contract Fairness]().<br>
 Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. FSE/ESEC '2020
 
+[security] [ModCon: a model-based testing platform for smart contracts]().<br>
+Ye Liu, Yi Li, Shang-Wei Lin, Qiang Yan. FSE/ESEC '2020
+
+[security] [ModCon: a model-based testing platform for smart contracts]().<br>
+Valentin Wüstholz, Maria Christakis. FSE/ESEC '2020
+
 #### 2019
 
 [security] [EVMFuzzer: Detect EVM vulnerabilities via fuzz testing](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/fse19demo.pdf).<br>
 Fu Y, Ren M, Ma F. FSE/ESEC '2019
+
+[security] [A graph-based framework for analysing the design of smart contracts]().<br>
+Bram Vandenbogaerde.
 
 ------
 
