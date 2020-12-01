@@ -489,7 +489,7 @@ Asem Ghaleb, Karthik Pattabiraman.
 [security] [Echidna: effective, usable, and fast fuzzing for smart contracts.](https://dl.acm.org/doi/abs/10.1145/3395363.3404366).<br>
 Gustavo Grieco, Will Song, Artur Cygan, Josselin Feist, Alex Groce.
 
-[security] [Echidna: effective, usable, and fast fuzzing for smart contracts.]().<br>
+[security] [EShield: protect smart contracts against reverse engineering.]().<br>
 Wentian Yan, Jianbo Gao, Zhenhao Wu, Yue Li, Zhi Guan, Qingshan Li, Zhong Chen.
 
 #### 2019
