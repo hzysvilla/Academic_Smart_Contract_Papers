@@ -504,13 +504,13 @@ Kolluri ANikolic，Sergey I ,et al. ISSTA '2019
 
 ## OTHERS
 
-[application] [security] [Inheritance software metrics on smart contracts.]). <br>
+[application] [security] [Inheritance software metrics on smart contracts.](). <br>
 Ashish Rajendra Sai, Conor Holmes, Jim Buckley, Andrew Le Gear. ICPC '2020
 
-[application] [security] [Recommending Differentiated Code to Support Smart Contract Update]). <br>
+[application] [security] [Recommending Differentiated Code to Support Smart Contract Update](). <br>
 Yuan Huang, Queping Kong, Nan Jia, Xiangping Chen, Zibin Zheng. ICPC '2019
 
-[application] [security] [Enabling clone detection for ethereum via smart contract birthmarks.]). <br>
+[application] [security] [Enabling clone detection for ethereum via smart contract birthmarks.](). <br>
 Han Liu, Zhiqiang Yang, Yu Jiang, Wenqi Zhao, Jiaguang Sun. ICPC '2019
 
 [security] [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445052). <br>
