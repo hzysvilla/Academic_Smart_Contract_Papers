@@ -20,6 +20,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [Asia-Pacific Software Engineering Conference(APSEC)](#apsec)
 - [International World Wide Web Conference(WWW)](#www)
 - [International Symposium on Software Testing and Analysis(ISSTA)](#issta)
+- [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
 - [others(OTHERS)](#others)
 - [License](#license)
 
@@ -499,6 +500,23 @@ Elvira Albert, Jesús Correasl, Pablo Gordillo, Guillermo Román-Díez, Albert R
 
 [security] [Exploiting the laws of order in smart contracts](https://arxiv.org/abs/1810.11605).<br>
 Kolluri ANikolic，Sergey I ,et al. ISSTA '2019
+
+------
+
+## ICDCS
+
+#### 2019
+
+[security] [DataEther: Data Exploration Framework For Ethereum.]().<br>
+Ting Chen, Teng Hu, Jiachi Chen, Xiaosong Zhang, Zihao Li, Yufei Zhang, Xiapu Luo.
+
+[security] [Read-Uncommitted Transactions for Smart Contract Performance.](.<br>
+Victor Cook, Zachary Painter, Christina L. Peterson, Damian Dechev.
+
+#### 2018
+
+[security] [MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services.](.<br>
+Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann.
 
 ------
 
