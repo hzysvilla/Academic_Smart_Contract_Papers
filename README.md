@@ -35,7 +35,7 @@ Daniel Perez, Benjamin Livshits.
 
 #### 2020 
 
-[security] [ETHBMC: A Bounded Model Checker for Smart Contracts]().<br>
+[security] [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf).<br>
 Joel Frank, Cornelius Aschermann, and Thorsten Holz. USENIX '20 Security Symposium.
 
 [security] [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions]().<br> 
