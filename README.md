@@ -458,12 +458,12 @@ Christof Ferreira Torres, SnT/University of Luxembourg; Julian Schütte, Fraunho
 [security] [SIF: A Framework for Solidity Contract Instrumentation and Analysis](https://arxiv.org/pdf/1905.01659.pdf).<br>
 Chao Peng, Sefa Akca, Ajitha Rajan. APSEC '2019
 
-[security] [SolAnalyser: A Framework for Analysing and Testing Smart Contracts.]().<br>
+[security] [SolAnalyser: A Framework for Analysing and Testing Smart Contracts]().<br>
 Sefa Akca, Ajitha Rajan, Chao Peng. APSEC '2019
 
 #### 2018
 
-[security] [Fuse: An Architecture for Smart Contract Fuzz Testing Service.]().<br>
+[security] [Fuse: An Architecture for Smart Contract Fuzz Testing Service]().<br>
 Wing Kwong Chan, Bo Jian.
 
 ------
@@ -475,7 +475,7 @@ Wing Kwong Chan, Bo Jian.
 [graph analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).<br>
 Xi Tong Lee, Arijit Khan, Sourav Sen Gupta, Yu Hann Ong, Xuan Liu. WWW '2020
 
-[graph analysis] [Traveling the token world: A graph analysis of Ethereum ERC20 token ecosystem.](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).<br>
+[graph analysis] [Traveling the token world: A graph analysis of Ethereum ERC20 token ecosystem](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).<br>
 Weili Chen, Tuo Zhang, Zhiguang Chen, Zibin Zheng, Yutong Lu. WWW '2020
 
 ------
@@ -484,13 +484,13 @@ Weili Chen, Tuo Zhang, Zhiguang Chen, Zibin Zheng, Yutong Lu. WWW '2020
 
 #### 2020
 
-[security] [How effective are smart contract analysis tools? evaluating smart contract static analysis tools using bug injection.](https://dl.acm.org/doi/abs/10.1145/3395363.3397385).<br>
+[security] [How effective are smart contract analysis tools? evaluating smart contract static analysis tools using bug injection](https://dl.acm.org/doi/abs/10.1145/3395363.3397385).<br>
 Asem Ghaleb, Karthik Pattabiraman.
 
-[security] [Echidna: effective, usable, and fast fuzzing for smart contracts.](https://dl.acm.org/doi/abs/10.1145/3395363.3404366).<br>
+[security] [Echidna: effective, usable, and fast fuzzing for smart contracts](https://dl.acm.org/doi/abs/10.1145/3395363.3404366).<br>
 Gustavo Grieco, Will Song, Artur Cygan, Josselin Feist, Alex Groce.
 
-[security] [EShield: protect smart contracts against reverse engineering.]().<br>
+[security] [EShield: protect smart contracts against reverse engineering]().<br>
 Wentian Yan, Jianbo Gao, Zhenhao Wu, Yue Li, Zhi Guan, Qingshan Li, Zhong Chen.
 
 #### 2019
@@ -507,15 +507,15 @@ Kolluri ANikolic，Sergey I ,et al. ISSTA '2019
 
 #### 2019
 
-[security] [DataEther: Data Exploration Framework For Ethereum.]().<br>
+[security] [DataEther: Data Exploration Framework For Ethereum]().<br>
 Ting Chen, Teng Hu, Jiachi Chen, Xiaosong Zhang, Zihao Li, Yufei Zhang, Xiapu Luo.
 
-[security] [Read-Uncommitted Transactions for Smart Contract Performance.]().<br>
+[security] [Read-Uncommitted Transactions for Smart Contract Performance]().<br>
 Victor Cook, Zachary Painter, Christina L. Peterson, Damian Dechev.
 
 #### 2018
 
-[security] [MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services.]().<br>
+[security] [MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services]().<br>
 Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann.
 
 ------
