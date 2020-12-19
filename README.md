@@ -510,12 +510,12 @@ Kolluri ANikolic，Sergey I ,et al. ISSTA '2019
 [security] [DataEther: Data Exploration Framework For Ethereum.]().<br>
 Ting Chen, Teng Hu, Jiachi Chen, Xiaosong Zhang, Zihao Li, Yufei Zhang, Xiapu Luo.
 
-[security] [Read-Uncommitted Transactions for Smart Contract Performance.](.<br>
+[security] [Read-Uncommitted Transactions for Smart Contract Performance.]().<br>
 Victor Cook, Zachary Painter, Christina L. Peterson, Damian Dechev.
 
 #### 2018
 
-[security] [MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services.](.<br>
+[security] [MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services.]().<br>
 Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann.
 
 ------
