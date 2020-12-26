@@ -174,6 +174,11 @@ Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
 
 ## ICSE
 
+#### 2021
+
+[security] [Smart Contract Security: a Practitioners’ Perspective]().<br>
+Zhiyuan Wan, Xin Xia, David Lo, Jiachi Chen, Xiapu Luo, Xiaohu Yang
+
 #### 2020
 
 [security] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf).<br>
