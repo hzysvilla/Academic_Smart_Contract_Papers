@@ -202,6 +202,11 @@ Chao Liu, Han Liu, Zhao Cao, Zhong Chen, Bangdao Chen, Bill Roscoe. ICSE '2018
 
 ## INFOCOM
 
+#### 2021
+
+[application] [Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks]().<br>
+Yuhui Zhang, Dejun Yang, Guoliang Xue, Ruozhou Yu.
+
 #### 2020
 
 [application] [ET-DeaL: A P2P Smart Contract-based Secure Energy Trading Scheme for Smart Grid Systems]().<br>
