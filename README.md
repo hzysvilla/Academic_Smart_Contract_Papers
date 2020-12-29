@@ -33,6 +33,9 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.doc.ic.ac.uk/~livshits/papers/pdf/usenixsec21.pdf).<br>
 Daniel Perez, Benjamin Livshits.
 
+[security] [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf).<br>
+Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi, University of Duisburg-Essen
+
 #### 2020 
 
 [security] [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf).<br>
@@ -190,6 +193,14 @@ TD Nguyen, LH Pham, J Sun, Y Lin, QT Minh. ICSE '2020
 [security] [Smart Contract Development: Challenges and Opportunities](https://xin-xia.github.io/publication/tse196.pdf).<br> 
 Weiqin Zou, David Lo, Pavneet Singh Kochhar, Xuan-Bach D. Le, Xin Xia, Yang Feng, Zhenyu Chen, Baowen Xu. ICSE '2020
 
+[security] [Targeted Greybox Fuzzing with Static Lookahead Analysis]().<br> 
+
+[security] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts]().<br> 
+
+[security] [Gap between Theory and Practice : An Empirical Study of Security Patches in Solidity]().<br> 
+
+[security] [Seraph: Enabling Cross-Platform Security Analysis For EVM and WASM Smart Contracts]().<br> 
+
 #### 2019
 
 [security] [Gigahorse: Thorough, Declarative Decompilation of Smart Contracts](https://ieeexplore.ieee.org/document/8811905/).<br> 
@@ -328,7 +339,7 @@ Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. FSE/ESEC '2020
 [security] [ModCon: a model-based testing platform for smart contracts]().<br>
 Ye Liu, Yi Li, Shang-Wei Lin, Qiang Yan. FSE/ESEC '2020
 
-[security] [ModCon: a model-based testing platform for smart contracts]().<br>
+[security] [HARVEY： A Greybox Fuzzer for Smart Contracts]().<br>
 Valentin Wüstholz, Maria Christakis. FSE/ESEC '2020
 
 #### 2019
@@ -555,6 +566,9 @@ Yue Li, Han Liu, Zhiqiang Yang, Bin Wang, Qian Ren, Lei Wang and Bangdao Chen. S
 
 [security] [TZ4Fabric: Executing Smart Contracts with ARM TrustZone (Practical Experience Report)]().<br>
 Christina Müller, Marcus Brandenburger, Christian Cachin, Pascal Felber, Christian Göttel and Valerio Schiavoni. SRDS '2020
+
+[security] [Smart Contract Vulnerability Detection Using Graph Neural Networks]().<br>
+Yuan Zhuang, Zhenguang Liu, Peng Qian, Qi Liu, Xiang Wang, Qinming He. IJCAI'20
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
