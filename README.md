@@ -148,13 +148,13 @@ Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsan
 
 #### 2018
 
-[security] [CHECKMATE: Practical Security Analysis of Smart Contracts] ().<br> 
+[security] [CHECKMATE: Practical Security Analysis of Smart Contracts]
 Petar Tsankov (ETH Zurich), Andrei Marian Dan (ETH Zurich), Dana Drachsler Cohen (ETH Zurich), Arthur Gervais (Imperial College London), Florian Buenzli (ETH Zurich), Martin Vechev (ETH Zurich)
 
 [security] [Securify: Practical Security Analysis of Smart Contracts](https://arxiv.org/pdf/1806.01143.pdf).<br> 	
 Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli, Martin Vechev. CCS '18. 
 
-[security] [BitML: a calculus for Bitcoin smart contracts Massimo] ().<br> 
+[security] [BitML: a calculus for Bitcoin smart contracts Massimo]().<br> 
 Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
 
 #### 2017
