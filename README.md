@@ -148,7 +148,7 @@ Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsan
 
 #### 2018
 
-[security] [CHECKMATE: Practical Security Analysis of Smart Contracts]
+[security] [CHECKMATE: Practical Security Analysis of Smart Contracts]().<br> 	
 Petar Tsankov (ETH Zurich), Andrei Marian Dan (ETH Zurich), Dana Drachsler Cohen (ETH Zurich), Arthur Gervais (Imperial College London), Florian Buenzli (ETH Zurich), Martin Vechev (ETH Zurich)
 
 [security] [Securify: Practical Security Analysis of Smart Contracts](https://arxiv.org/pdf/1806.01143.pdf).<br> 	
@@ -159,7 +159,7 @@ Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
 
 #### 2017
 
-[security] [Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing. ] ().<br> 
+[security] [Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing.]().<br> 
 Changyu Dong, Yilei Wang, Amjad Aldweesh, Patrick McCorry, Aad van Moorsel.
 
 #### 2016
