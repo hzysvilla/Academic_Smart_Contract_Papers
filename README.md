@@ -194,12 +194,16 @@ TD Nguyen, LH Pham, J Sun, Y Lin, QT Minh. ICSE '2020
 Weiqin Zou, David Lo, Pavneet Singh Kochhar, Xuan-Bach D. Le, Xin Xia, Yang Feng, Zhenyu Chen, Baowen Xu. ICSE '2020
 
 [security] [Targeted Greybox Fuzzing with Static Lookahead Analysis]().<br> 
+Valentin Wüstholz, Maria Christakis. ICSE '2020
 
 [security] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts]().<br> 
+Thomas Durieux, João F. Ferreira, Rui Abreu, Pedro Cruz. ICSE '2020
 
 [security] [Gap between Theory and Practice : An Empirical Study of Security Patches in Solidity]().<br> 
+Sungjae Hwang, Sukyoung Ryu
 
 [security] [Seraph: Enabling Cross-Platform Security Analysis For EVM and WASM Smart Contracts]().<br> 
+Z Yang
 
 #### 2019
 
