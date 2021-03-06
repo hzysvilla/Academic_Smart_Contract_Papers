@@ -73,6 +73,12 @@ Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
 
 ## S&P
 
+
+#### 2021
+
+[security] [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917).<br> 
+Tai D. Nguyen, Long H. Pham, Jun Sun. IEEE S&P '21. 
+
 #### 2020
 
 [security] [VerX: Safety Verification of Smart Contracts]().<br> 
