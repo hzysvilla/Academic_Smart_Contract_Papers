@@ -99,6 +99,10 @@ Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P '16
 
 ## NDSS
 
+#### 2021
+[application] [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains]().<br> 
+Karl Wüst, Loris Diana, and Kari Kostiainen (ETH Zurich); Ghassan Karame (NEC Laboratories Europe GmbH); Sinisa Matetic and Srdjan Capkun (ETH Zurich)
+
 #### 2020
 
 [security] [SODA: A Generic Online Detection Framework for Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24449-paper.pdf).<br> 
