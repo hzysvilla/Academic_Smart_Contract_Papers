@@ -410,6 +410,11 @@ Michael Fröwis, Rainer Böhme
 
 ## SANER
 
+#### 2021
+
+[security] [Understanding Code Reuse in Smart Contracts]().<br>
+Xiangping Chen , Peiyong Liao , Yixin Zhang , Yuan Huang , Zibin Zheng. SANER '2021
+
 #### 2020
 
 [security] [SMARTSHIELD: Automatic Smart Contract Protection Made Easy]().<br>
