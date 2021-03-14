@@ -375,9 +375,6 @@ Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
 
 #### 2019
 
-[application] [A Concolic Execution System for Developing Secure Smart Contracts](https://arxiv.org/abs/2003.06552).<br>
-Konrad Weiss and Julian Schuette.
-
 [security] [Practical Mutation Testing for Smart Contracts.](https://arxiv.org/abs/2003.06552).<br>
 Joran J. Honig, Maarten H. Everts, Marieke Huisman:
 
