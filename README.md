@@ -127,7 +127,7 @@ Michael Rodler, Wenting Li, Ghassan O. Karame, Lucas Davi.
 [security] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf).<br>
 Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
 
-[security] [Chainspace: A Sharded Smart Contracts Platform.]().<br>
+[security] [Chainspace: A Sharded Smart Contracts Platform]().<br>
 Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
 
 ------
@@ -169,7 +169,7 @@ Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
 
 #### 2017
 
-[security] [Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing.]().<br> 
+[security] [Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing]().<br> 
 Changyu Dong, Yilei Wang, Amjad Aldweesh, Patrick McCorry, Aad van Moorsel.
 
 #### 2016
@@ -242,18 +242,18 @@ Yuhui Zhang, Dejun Yang, Guoliang Xue, Ruozhou Yu.
 [application] [ET-DeaL: A P2P Smart Contract-based Secure Energy Trading Scheme for Smart Grid Systems]().<br>
 Aparna Kumari, Arpit Shukla, Rajesh Gupta, Sudeep Tanwar, Sudhanshu Tyagi, Neeraj Kumar.
 
-[application] [A Solution for State Conflicts of Smart Contract in Interaction with Non-blockchain.]().<br>
+[application] [A Solution for State Conflicts of Smart Contract in Interaction with Non-blockchain]().<br>
 Hong Su, Bing Guo, Yan Shen, Tao Li, Chaoxia Qing, Zhen Zhang.
 
-[application] [ChainIDE 2.0: Facilitating Smart Contract Development for Consortium Blockchain.]().<br>
+[application] [ChainIDE 2.0: Facilitating Smart Contract Development for Consortium Blockchain]().<br>
 Xiao Wu, Han Qiu, Shuyi Zhang, Gérard Memmi, Keke Gai, Wei Cai.
 
-[application] [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves.]().<br>
+[application] [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves]().<br>
 Chengjun Cai, Lei Xu, Anxin Zhou, Ruochen Wang, Cong Wang, Qian Wang.
 
 #### 2019
 
-[application] [Interledger Smart Contracts for Decentralized Authorization to Constrained Things.]().<br>
+[application] [Interledger Smart Contracts for Decentralized Authorization to Constrained Things]().<br>
 Vasilios A. Siris, Dimitrios Dimopoulos, Nikos Fotiou, Spyros Voulgaris, George C. Polyzos.
 
 #### 2018
@@ -276,7 +276,7 @@ Maher Alharby, Roben Lunardi, Amjad Aldweesh, Aad van Moorsel. DSN '20
 [security] [Smart Contracts on the Move](https://arxiv.org/pdf/2004.05933.pdf).<br>
 Enrique Fynn, Alysson Bessani, Fernando Pedone. DSN '20 
 
-[other] [Impact of Geo-Distribution and Mining Pools on Blockchains: A Study of Ethereum.](https://arxiv.org/pdf/2004.05933.pdf).<br>
+[other] [Impact of Geo-Distribution and Mining Pools on Blockchains: A Study of Ethereum](https://arxiv.org/pdf/2004.05933.pdf).<br>
 Paulo Silva, David Vavricka, João Barreto, Miguel Matos. DSN '20 
 
 #### 2019
@@ -286,7 +286,7 @@ Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
 
 #### 2018
 
-[security] [Towards Model-Driven Engineering of Smart Contracts for Cyber-Physical Systems.]().<br>
+[security] [Towards Model-Driven Engineering of Smart Contracts for Cyber-Physical Systems]().<br>
 	Peter Garamvolgyi, Imre Kocsis, Benjamin Gehl, Attila Klenik.
 
 ------
@@ -327,10 +327,10 @@ Jiachi Chen. ASE '2020
 [security] [Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts. ]().<br>
 Mark Mossberg, Felipe Manzano, Eric Hennenfent, Alex Groce, Gustavo Grieco, Josselin Feist, Trent Brunson, Artem Dinaburg.
 
-[security] [MuSC: A Tool for Mutation Testing of Ethereum Smart Contract.]().<br>
+[security] [MuSC: A Tool for Mutation Testing of Ethereum Smart Contract]().<br>
 Zixin Li, Haoran Wu, Jiehui Xu, Xingya Wang, Lingming Zhang, Zhenyu Chen.
 
-[security] [Securing Smart Contracts in Blockchain.]().<br>
+[security] [Securing Smart Contracts in Blockchain]().<br>
 Jaturong Kongmanee, Phongphun Kijsanayothin, Rattikorn Hewett.
 
 #### 2018
@@ -338,7 +338,7 @@ Jaturong Kongmanee, Phongphun Kijsanayothin, Rattikorn Hewett.
 [security] [ContractFuzzer: Fuzzing Smart Contracts for Vulnerability](https://arxiv.org/ftp/arxiv/papers/1807/1807.03932.pdf).<br>
 Bo Jiang, Ye Liu, W.K. Chan. ASE '2018
 
-[security] [S-gram: towards semantic-aware security auditing for Ethereum smart contracts.]().<br>
+[security] [S-gram: towards semantic-aware security auditing for Ethereum smart contracts]().<br>
 Han Liu, Chao Liu, Wenqi Zhao, Yu Jiang, Jiaguang Sun. ASE '2018
 
 ------
@@ -375,32 +375,32 @@ Yuan Lu, Qiang Tang, Guiling Wang. ESORICS '2020
 
 #### 2019
 
-[security] [Practical Mutation Testing for Smart Contracts.](https://arxiv.org/abs/2003.06552).<br>
+[security] [Practical Mutation Testing for Smart Contracts](https://arxiv.org/abs/2003.06552).<br>
 Joran J. Honig, Maarten H. Everts, Marieke Huisman:
 
 [application] [PDFS: Practical Data Feed Service for Smart Contracts](https://arxiv.org/abs/2003.06552).<br>
 Juan Guarnizo and Pawel Szalachowski.
 
-[security] [The Operational Cost of Ethereum Airdrops.]().<br>
+[security] [The Operational Cost of Ethereum Airdrops]().<br>
 Michael Fröwis, Rainer Böhme:
 
-[security] [Annotary: A Concolic Execution System for Developing Secure Smart Contracts.]().<br>
+[security] [Annotary: A Concolic Execution System for Developing Secure Smart Contracts]().<br>
 Konrad Weiss, Julian Schütte
 
-[security] [An Efficient Micropayment Channel on Ethereum.]().<br>
+[security] [An Efficient Micropayment Channel on Ethereum]().<br>
 Hisham S. Galal, Muhammad ElSheikh, Amr M. Youssef.
 
-[security] [A Minimal Core Calculus for Solidity Contracts.]().<br>
+[security] [A Minimal Core Calculus for Solidity Contracts]().<br>
 Massimo Bartoletti, Letterio Galletta, Maurizio Murgia.
 
 #### 2018
 
-[security] [Succinctly Verifiable Sealed-Bid Auction Smart Contract.]().<br>
+[security] [Succinctly Verifiable Sealed-Bid Auction Smart Contract]().<br>
 Hisham S. Galal, Amr M. Youssef.
 
 #### 2017
 
-[security] [In Code We Trust? - Measuring the Control Flow Immutability of All Smart Contracts Deployed on Ethereum.]().<br>
+[security] [In Code We Trust? - Measuring the Control Flow Immutability of All Smart Contracts Deployed on Ethereum]().<br>
 Michael Fröwis, Rainer Böhme
 
 ------
@@ -410,7 +410,7 @@ Michael Fröwis, Rainer Böhme
 #### 2021
 
 [security] [Understanding Code Reuse in Smart Contracts]().<br>
-Xiangping Chen , Peiyong Liao , Yixin Zhang , Yuan Huang , Zibin Zheng. SANER '2021
+Xiangping Chen , Peiyong Liao , Yixin Zhang , Yuan Huang , Zibin Zheng. SANER'2021
 
 #### 2020
 
@@ -430,7 +430,7 @@ Fuchen Ma, Ying Fu, Meng Ren, Mingzhe Wang, Yu Jiang, Kaixiang Zhang, Huizhong L
 
 #### 2018
 
-[security] [SmartInspect: solidity smart contract inspector.]().<br>
+[security] [SmartInspect: solidity smart contract inspector]().<br>
 Santiago Bragagnolo, Henrique Rocha, Marcus Denker, Stéphane Ducasse.
 
 [security] [Smart contracts vulnerabilities: a call for blockchain software engineering?]().<br>
@@ -439,7 +439,7 @@ Giuseppe Destefanis, Michele Marchesi, Marco Ortu, Roberto Tonelli, Andrea Bracc
 [security] [The ICO phenomenon and its relationships with ethereum smart contract environment]().<br>
 Gianni Fenu, Lodovica Marchesi, Michele Marchesi, Roberto Tonelli.
 
-[security] [Smart contracts: security patterns in the ethereum ecosystem and solidity.]().<br>
+[security] [Smart contracts: security patterns in the ethereum ecosystem and solidity]().<br>
 Maximilian Wohrer, Uwe Zdun.
 
 
@@ -467,7 +467,7 @@ Ilya Sergey, Vaivaswatha Nagaraj, Jacob Johannsen, Amrit Kumar, Anton Trunov, Ke
 
 #### 2018
 
-[security] [MadMax: surviving out-of-gas conditions in Ethereum smart contracts.]().<br>
+[security] [MadMax: surviving out-of-gas conditions in Ethereum smart contracts]().<br>
 Neville Grech, Michael Kong, Anton Jurisevic, Lexi Brent, Bernhard Scholz, Yannis Smaragdakis.
 
 
@@ -559,13 +559,13 @@ Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann.
 
 ## OTHERS
 
-[security] [Inheritance software metrics on smart contracts.](). <br>
+[security] [Inheritance software metrics on smart contracts](). <br>
 Ashish Rajendra Sai, Conor Holmes, Jim Buckley, Andrew Le Gear. ICPC '2020
 
 [security] [Recommending Differentiated Code to Support Smart Contract Update](). <br>
 Yuan Huang, Queping Kong, Nan Jia, Xiangping Chen, Zibin Zheng. ICPC '2019
 
-[security] [Enabling clone detection for ethereum via smart contract birthmarks.](). <br>
+[security] [Enabling clone detection for ethereum via smart contract birthmarks](). <br>
 Han Liu, Zhiqiang Yang, Yu Jiang, Wenqi Zhao, Jiaguang Sun. ICPC '2019
 
 [security] [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445052). <br>
