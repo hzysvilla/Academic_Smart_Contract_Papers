@@ -75,9 +75,14 @@ Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
 
 
 #### 2021
+[security] [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts]().<br> 
+Jon Stephens (The University of Texas at Austin), Kostas Ferles (The University of Texas at Austin), Benjamin Mariano (The University of Texas at Austin), Shuvendu Lahiri (Microsoft Research), Isil Dillig (The University of Texas at Austin)
 
 [security] [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917).<br> 
 Tai D. Nguyen, Long H. Pham, Jun Sun. IEEE S&P '21. 
+
+[finance] [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols]().<br> 
+Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Antoine Cully (Imperial College London), Benjamin Livshits (Imperial College London), Arthur Gervais (Imperial College London)
 
 #### 2020
 
