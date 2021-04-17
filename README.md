@@ -30,6 +30,9 @@ Welcome developers or researchers to add more published paper to this list.
 
 #### 2021 
 
+[security] [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf).<br>
+Liya Su, Xinyue Shen, Xiaojing Liao, XiaoFeng Wang, Luyi Xing.
+
 [security] [EOSAFE: Security Analysis of EOSIO Smart Contracts](http://sei.pku.edu.cn/~yaoguo/papers/He-Security-21.pdf).<br>
 Ningyu He, Ruiyi Zhang, Lei Wu, Haoyu Wang, Xiapu Luo, Yao Guo, Ting Yu, Xuxian Jiang.
 
