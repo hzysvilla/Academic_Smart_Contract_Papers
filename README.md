@@ -251,6 +251,9 @@ Chao Liu, Han Liu, Zhao Cao, Zhong Chen, Bangdao Chen, Bill Roscoe. ICSE '2018
 [application] [Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks]().<br>
 Yuhui Zhang, Dejun Yang, Guoliang Xue, Ruozhou Yu.
 
+[mine] [Characterizing Ethereum's Mining Power Decentralization at a Deeper Level]().<br>
+Liyi Zeng, Yang Chen, Shuo Chen, Zhongxin Guo.
+
 #### 2020
 
 [application] [ET-DeaL: A P2P Smart Contract-based Secure Energy Trading Scheme for Smart Grid Systems]().<br>
@@ -290,7 +293,7 @@ Maher Alharby, Roben Lunardi, Amjad Aldweesh, Aad van Moorsel. DSN '20
 [security] [Smart Contracts on the Move](https://arxiv.org/pdf/2004.05933.pdf).<br>
 Enrique Fynn, Alysson Bessani, Fernando Pedone. DSN '20 
 
-[other] [Impact of Geo-Distribution and Mining Pools on Blockchains: A Study of Ethereum](https://arxiv.org/pdf/2004.05933.pdf).<br>
+[mine] [Impact of Geo-Distribution and Mining Pools on Blockchains: A Study of Ethereum](https://arxiv.org/pdf/2004.05933.pdf).<br>
 Paulo Silva, David Vavricka, João Barreto, Miguel Matos. DSN '20 
 
 #### 2019
