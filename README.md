@@ -75,7 +75,7 @@ Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
 
 
 #### 2021
-[security] [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts]().<br> 
+[security] [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf).<br> 
 Jon Stephens (The University of Texas at Austin), Kostas Ferles (The University of Texas at Austin), Benjamin Mariano (The University of Texas at Austin), Shuvendu Lahiri (Microsoft Research), Isil Dillig (The University of Texas at Austin)
 
 [security] [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917).<br> 
