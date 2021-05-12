@@ -148,6 +148,11 @@ Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
 
 ## CCS
 
+#### 2021
+
+[security] [Targeting the Weakest Link: Social Engineering Attacks in Ethereum Smart Contracts]().<br>
+Nikolay Ivanov, Jianzhi Lou, Ting Chen, Jin Li, Qiben Yan.
+
 #### 2020
 
 [security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts]().<br>  CCS '2020
@@ -309,6 +314,11 @@ Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
 ------
 
 ## PLDI
+
+#### 2021
+
+[security] [Practical Smart Contract Sharding with Ownership and Commutativity Analysis]().<br>
+George Pîrlea, Amrit Kumar, Ilya Sergey. 
 
 #### 2020
 
@@ -558,6 +568,11 @@ Kolluri ANikolic，Sergey I ,et al. ISSTA '2019
 ------
 
 ## ICDCS
+
+#### 2020
+
+[security] [TinyEVM: Off-Chain Smart Contracts on Low-Power IoT Devices]().<br>
+Christos Profentzas, Magnus Almgren, Olaf Landsiedel.
 
 #### 2019
 
