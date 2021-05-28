@@ -82,7 +82,6 @@ Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
 
 ## S&P
 
-
 #### 2021
 [security] [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf).<br> 
 Jon Stephens (The University of Texas at Austin), Kostas Ferles (The University of Texas at Austin), Benjamin Mariano (The University of Texas at Austin), Shuvendu Lahiri (Microsoft Research), Isil Dillig (The University of Texas at Austin)
@@ -115,7 +114,13 @@ Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P '16
 
 #### 2021
 [application] [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains]().<br> 
-Karl Wüst, Loris Diana, and Kari Kostiainen (ETH Zurich); Ghassan Karame (NEC Laboratories Europe GmbH); Sinisa Matetic and Srdjan Capkun (ETH Zurich)
+Karl Wüst, Loris Diana, and Kari Kostiainen (ETH Zurich); Ghassan Karame; Sinisa Matetic and Srdjan Capkun (ETH Zurich)
+
+[Sercurity] [As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3C-1_23108_paper.pdf).<br> 
+Kai Li, Jiaqi Chen, Xianghong Liu, and Yuzhe Tang; XiaoFeng Wang; Xiapu Luo
+
+[Sercurity] [SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/abs/1912.01798).<br> 
+Charlie Hou; Mingxun Zhou; Yan Ji and Phil Daian; Florian Tramèr; Giulia Fanti; Ari Juels
 
 #### 2020
 
