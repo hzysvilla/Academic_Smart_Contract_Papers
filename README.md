@@ -377,6 +377,11 @@ Han Liu, Chao Liu, Wenqi Zhao, Yu Jiang, Jiaguang Sun. ASE '2018
 
 ## ESEC&FSE
 
+#### 2021
+
+[security] [Towards Practical and Cost-Effective Batching of Smart-Contract Invocations on Ethereum]().<br>
+Yibo Wang, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen
+
 #### 2020
 
 [security] [Towards Automated Verification of Smart Contract Fairness]().<br>
@@ -550,6 +555,11 @@ Weili Chen, Tuo Zhang, Zhiguang Chen, Zibin Zheng, Yutong Lu. WWW '2020
 ------
 
 ## ISSTA
+
+#### 2021
+
+[security] [Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?]().<br>
+Meng Ren, Zijing Yin, Fuchen Ma, Zhenyang Xu, Yu Jiang, Chengnian Sun, Huizhong Li, Yan Cai.
 
 #### 2020
 
