@@ -527,6 +527,11 @@ Christof Ferreira Torres, SnT/University of Luxembourg; Julian Schütte, Fraunho
 
 ## APSEC
 
+#### 2020
+
+[security] [Source Code Obfuscation for Smart Contracts.](https://ieeexplore.ieee.org/document/9359296).<br>
+Meng Zhang, Pengcheng Zhang, Xiapu Luo, Feng Xiao.
+
 #### 2019
 
 [security] [SIF: A Framework for Solidity Contract Instrumentation and Analysis](https://arxiv.org/pdf/1905.01659.pdf).<br>
