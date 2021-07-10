@@ -43,7 +43,10 @@ Liya Su, Xinyue Shen(co-first author), Xiangyu Du.
 Daniel Perez, Benjamin Livshits.
 
 [security] [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf).<br>
-Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi, University of Duisburg-Essen
+Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi
+
+[security] [Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain](https://arxiv.org/abs/2102.03347).<br>
+Christof Ferreira Torres, Ramiro Camino, Radu State.
 
 #### 2020 
 
