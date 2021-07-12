@@ -374,7 +374,7 @@ Jaturong Kongmanee, Phongphun Kijsanayothin, Rattikorn Hewett.
 Bo Jiang, Ye Liu, W.K. Chan. ASE '2018
 
 [security] [S-gram: towards semantic-aware security auditing for Ethereum smart contracts]().<br>
-Han Liu, Chao Liu, Wenqi Zhao, Yu Jiang, Jiaguang Sun. ASE '2018
+Han Liu, Chao Liu, Wenqi Zhao, Yu Jiang, Jiaguang Sun.
 
 ------
 
@@ -383,7 +383,10 @@ Han Liu, Chao Liu, Wenqi Zhao, Yu Jiang, Jiaguang Sun. ASE '2018
 #### 2021
 
 [security] [Towards Practical and Cost-Effective Batching of Smart-Contract Invocations on Ethereum]().<br>
-Yibo Wang, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen
+Yibo Wang, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen.
+
+[security] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications]().<br>
+Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung.
 
 #### 2020
 
@@ -393,7 +396,7 @@ Ye Liu, Yi Li, Shang-Wei Lin, Rong Zhao. FSE/ESEC '2020
 [security] [ModCon: a model-based testing platform for smart contracts]().<br>
 Ye Liu, Yi Li, Shang-Wei Lin, Qiang Yan. FSE/ESEC '2020
 
-[security] [HARVEY： A Greybox Fuzzer for Smart Contracts]().<br>
+[security] [HARVEY：A Greybox Fuzzer for Smart Contracts]().<br>
 Valentin Wüstholz, Maria Christakis. FSE/ESEC '2020
 
 #### 2019
