@@ -388,6 +388,9 @@ Yibo Wang, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen.
 [security] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications]().<br>
 Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung.
 
+[application] [Making Smart Contract Development More Secure and Easier](https://arxiv.org/pdf/2106.09440.pdf).<br>
+Meng Ren, Fuchen Ma, Zijing Yin, Ying Fu, Huizhong Li, Wanli Chang, Yu Jiang
+
 #### 2020
 
 [security] [Towards Automated Verification of Smart Contract Fairness]().<br>
