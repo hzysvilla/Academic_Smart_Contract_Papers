@@ -95,6 +95,9 @@ Tai D. Nguyen, Long H. Pham, Jun Sun. IEEE S&P '21.
 [finance] [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols]().<br> 
 Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Antoine Cully (Imperial College London), Benjamin Livshits (Imperial College London), Arthur Gervais (Imperial College London)
 
+[security] [Compositional Security for Reentrant Applications](https://arxiv.org/abs/2103.08577).<br> 
+Ethan Cecchetti, Siqiu Yao, Haobin Ni, Andrew C. Myers.
+
 #### 2020
 
 [security] [VerX: Safety Verification of Smart Contracts]().<br> 
