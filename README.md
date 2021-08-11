@@ -98,6 +98,9 @@ Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Antoi
 [security] [Compositional Security for Reentrant Applications](https://arxiv.org/abs/2103.08577).<br> 
 Ethan Cecchetti, Siqiu Yao, Haobin Ni, Andrew C. Myers.
 
+[security] [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf).<br> 
+Liyi Zhou, Kaihua Qin, Christof Ferreira Torres, Duc V Le, Arthur Gervais.
+
 #### 2020
 
 [security] [VerX: Safety Verification of Smart Contracts]().<br> 
