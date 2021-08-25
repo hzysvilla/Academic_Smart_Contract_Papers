@@ -3,6 +3,7 @@ A curated Smart Contract related academic papers. All papers are sorted based on
 Welcome developers or researchers to add more published paper to this list. 
 
 ## Table of Listed Conferences
+- [USENIX Symposium on Operating Systems Design and Implementation](#osdi)
 - [USENIX Security](#usenix-security)
 - [IEEE Security and Privacy(S&P)](#sp)
 - [Network and Distributed System Security(NDSS)](#ndss)
@@ -23,6 +24,15 @@ Welcome developers or researchers to add more published paper to this list.
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
 - [others(OTHERS)](#others)
 - [License](#license)
+
+------
+
+## osdi
+
+#### 2021
+
+[security] [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf).<br>
+Youngseok Yang, Seoul National University; Taesoo Kim, Georgia Institute of Technology; Byung-Gon Chun, Seoul National University and FriendliAI.
 
 ------
 
