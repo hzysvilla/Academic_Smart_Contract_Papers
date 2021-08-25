@@ -3,7 +3,7 @@ A curated Smart Contract related academic papers. All papers are sorted based on
 Welcome developers or researchers to add more published paper to this list. 
 
 ## Table of Listed Conferences
-- [USENIX Symposium on Operating Systems Design and Implementation](#osdi)
+- [USENIX Symposium on Operating Systems Design and Implementation(OSDI)](#osdi)
 - [USENIX Security](#usenix-security)
 - [IEEE Security and Privacy(S&P)](#sp)
 - [Network and Distributed System Security(NDSS)](#ndss)
