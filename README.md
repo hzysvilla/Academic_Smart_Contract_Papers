@@ -359,6 +359,12 @@ Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
 
 ## ASE
 
+#### 2021
+
+[security] [SigRec: Automatic Recovery of Function Signatures in Smart Contracts]().<br>
+Ting Chen, zihao li, Xiapu Luo, XiaoFeng Wang, Ting Wang, Hongwei Li, Xiaosong Zhang.
+
+
 #### 2020
 
 [security] [Cross-Contract Static Analysis for Detecting Practical Reentrancy Vulnerabilities in Smart Contracts]().<br>
@@ -573,6 +579,14 @@ Wing Kwong Chan, Bo Jian.
 ------
 
 ## WWW
+
+#### 2021
+
+[graph analysis] [Temporal Analysis of the Entire Ethereum Blockchain Network](https://personal.ntu.edu.sg/arijit.khan/Papers/Ethereum_Blockchain_Temporal_Network.pdf).<br>
+Lin Zhao, Sourav Sen Gupta, Arijit Khan, Robby Luo.
+
+[Finance] [Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges](https://arxiv.org/pdf/2102.07001.pdf).<br>
+Friedhelm Victor, Andrea Marie Weintraud.
 
 #### 2020
 
