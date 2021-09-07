@@ -172,11 +172,6 @@ Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
 
 ## CCS
 
-#### 2021
-
-[security] [Targeting the Weakest Link: Social Engineering Attacks in Ethereum Smart Contracts]().<br>
-Nikolay Ivanov, Jianzhi Lou, Ting Chen, Jin Li, Qiben Yan.
-
 #### 2020
 
 [security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts]().<br>  CCS '2020
