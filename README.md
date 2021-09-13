@@ -408,6 +408,9 @@ Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung.
 [application] [Making Smart Contract Development More Secure and Easier](https://arxiv.org/pdf/2106.09440.pdf).<br>
 Meng Ren, Fuchen Ma, Zijing Yin, Ying Fu, Huizhong Li, Wanli Chang, Yu Jiang
 
+[application] [iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations.](https://tristartom.github.io/docs/fse21-ibatch.pdf).<br>
+Y Wang, Q Zhang, K Li, Y Tang, X Luo, T Chen.
+
 #### 2020
 
 [security] [Towards Automated Verification of Smart Contract Fairness]().<br>
