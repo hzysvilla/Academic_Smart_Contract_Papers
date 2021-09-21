@@ -132,6 +132,7 @@ Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P '16
 ## NDSS
 
 #### 2021
+
 [application] [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains]().<br> 
 Karl Wüst, Loris Diana, and Kari Kostiainen (ETH Zurich); Ghassan Karame; Sinisa Matetic and Srdjan Capkun (ETH Zurich)
 
@@ -171,6 +172,11 @@ Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
 ------
 
 ## CCS
+
+#### 2021
+
+[security] [DETER: Denial of Ethereum Txpool sERvices]().<br>  CCS '2020
+K. Li, Y. Wang, Yuzhe Tang.
 
 #### 2020
 
