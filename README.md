@@ -3,6 +3,7 @@ A curated Smart Contract related academic papers. All papers are sorted based on
 Welcome developers or researchers to add more published paper to this list. 
 
 ## Table of Listed Conferences
+- [The ACM Symposium on Operating Systems Principles(SOSP)](#sosp)
 - [USENIX Symposium on Operating Systems Design and Implementation(OSDI)](#osdi)
 - [USENIX Security](#usenix-security)
 - [IEEE Security and Privacy(S&P)](#sp)
@@ -25,6 +26,15 @@ Welcome developers or researchers to add more published paper to this list.
 - [others(OTHERS)](#others)
 - [License](#license)
 
+------
+
+## sosp
+
+#### 2021
+
+[security] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.usenix.org/system/files/osdi21-yang.pdf).<br>
+Youngseok Yang, Seoul National University; Taesoo Kim, Georgia Institute of Technology; Byung-Gon Chun, Seoul National University and FriendliAI.
+Yang Chen, Zhongxin Guo, Runhuai Li, Shuo Chen, Lidong Zhou, Yajin Zhou, and Xian Zhang.
 ------
 
 ## osdi
