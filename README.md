@@ -32,9 +32,9 @@ Welcome developers or researchers to add more published paper to this list.
 
 #### 2021
 
-[security] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.usenix.org/system/files/osdi21-yang.pdf).<br>
-Youngseok Yang, Seoul National University; Taesoo Kim, Georgia Institute of Technology; Byung-Gon Chun, Seoul National University and FriendliAI.
+[security] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum]().<br>
 Yang Chen, Zhongxin Guo, Runhuai Li, Shuo Chen, Lidong Zhou, Yajin Zhou, and Xian Zhang.
+
 ------
 
 ## osdi
