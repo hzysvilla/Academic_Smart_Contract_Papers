@@ -372,6 +372,15 @@ Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
 
 #### 2021
 
+[security] [Automating User Notice Generation for Smart Contract Functions]().<br>
+Xing Hu, Zhipeng Gao, Xin Xia, David Lo, Xiaohu Yang.
+
+[security] [Characterizing Transaction-Reverting Statements in Ethereum Smart Contracts](https://arxiv.org/pdf/2108.10799.pdf).<br>
+Lu Liu, Lili Wei, Wuqi Zhang, Ming Wen, Yepang Liu, Shing-Chi Cheung.
+
+[security] [SMARTIAN: Enhancing Smart Contract Fuzzing with Static and Dynamic Analyses](https://agroce.github.io/ase21.pdf).<br>
+Jaeseung Choi, Doyeon Kim, Soomin Kim, Gustavo Grieco, Alex Groce, Sang Kil Cha.
+
 [security] [SigRec: Automatic Recovery of Function Signatures in Smart Contracts]().<br>
 Ting Chen, zihao li, Xiapu Luo, XiaoFeng Wang, Ting Wang, Hongwei Li, Xiaosong Zhang.
 
