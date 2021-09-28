@@ -344,7 +344,7 @@ Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
 #### 2018
 
 [security] [Towards Model-Driven Engineering of Smart Contracts for Cyber-Physical Systems]().<br>
-	Peter Garamvolgyi, Imre Kocsis, Benjamin Gehl, Attila Klenik.
+Peter Garamvolgyi, Imre Kocsis, Benjamin Gehl, Attila Klenik.
 
 ------
 
@@ -543,6 +543,14 @@ Chen T, Li X, Luo X. SANER '2017
 
 ## OOPSLA
 
+#### 2021
+
+[security] [Symbolic Value-Flow Static Analysis: Deep, Precise, Complete Modeling of Ethereum Smart Contracts]().<br>
+Yannis Smaragdakis, Neville Grech, Sifis Lagouvardos, Konstantinos Triantafyllou, Ilias Tsatiris.
+
+[security] [Rich Specifications for Ethereum Smart Contract Verification]().<br>
+Christian Braem, Marco Eilers, Peter Müller, Robin Sierra, Alexander J. Summers.
+
 #### 2020
 
 [security] [Taming Callbacks for Smart Contract Modularity]().<br>
@@ -566,9 +574,13 @@ Neville Grech, Michael Kong, Anton Jurisevic, Lexi Brent, Bernhard Scholz, Yanni
 
 ## ACSAC
 
+#### 2021
+[security] [SolSaviour: A Defending Framework for Deployed Defective Smart Contracts]().<br>
+Li Zecheng, Zhou Yu, Songtao Guo, Xiao Bin.
+
 #### 2019
 [security] [SmarTor: Smarter Tor with Smart Contracts]().<br>
-Andre Greubel, University of Wuerzburg; Alexandra Dmitrienko, University of Wuerzburg; Samuel Kounev, University of Wuerzburg
+Andre Greubel, Alexandra Dmitrienko, Samuel Kounev.
 
 #### 2018
 [security] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038).<br>
