@@ -185,7 +185,7 @@ Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
 
 #### 2021
 
-[security] [DETER: Denial of Ethereum Txpool sERvices]().<br>  CCS '2020
+[security] [DETER: Denial of Ethereum Txpool sERvices]().<br>
 K. Li, Y. Wang, Yuzhe Tang.
 
 #### 2020
