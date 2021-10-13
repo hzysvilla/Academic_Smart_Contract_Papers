@@ -204,9 +204,6 @@ Ting Chen ,Yufei Zhang ,Zihao Li, Xiapu Luo,Ting Wang,Rong Cao,Xiuzhuo Xiao,Xiao
 [security] [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-ilf.pdf).<br> 	
 Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS '19. 
 
-[security] [ÆGIS: Smart Shielding of Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3319535.3363263?download=true).<br> 	
-Christof Ferreira Torres, Mathis  Baden profile imageMathis Baden, Robert  Norvill profile imageRobert Norvill, Hugo L Jonker profile imageHugo Jonker. CCS '19. 
-
 [security] [Zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/ccs19-zkay.pdf).<br> 	
 Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsankov, Martin T Vechev. CCS '19. 
 
