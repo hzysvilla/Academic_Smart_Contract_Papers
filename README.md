@@ -617,6 +617,10 @@ Wing Kwong Chan, Bo Jian.
 
 #### 2021
 
+[Finance] [Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges](https://dl.acm.org/doi/pdf/10.1145/3442381.3450059).<br>
+Kyle Soska, Jin-Dong Dong, Alex Khodaverdian, Ariel Zetlin-Jones, Bryan Routledge, Nicolas Christin.
+
+
 [graph analysis] [Temporal Analysis of the Entire Ethereum Blockchain Network](https://personal.ntu.edu.sg/arijit.khan/Papers/Ethereum_Blockchain_Temporal_Network.pdf).<br>
 Lin Zhao, Sourav Sen Gupta, Arijit Khan, Robby Luo.
 
