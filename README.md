@@ -123,6 +123,9 @@ Liyi Zhou, Kaihua Qin, Christof Ferreira Torres, Duc V Le, Arthur Gervais.
 
 #### 2020
 
+[security] [Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](https://par.nsf.gov/servlets/purl/10159474).<br> 
+Philip Daian, Steven Goldfeder, T. Kell, Yunqi Li, Xueyuan Zhao, Iddo Bentov, Lorenz Breidenbach, A. Juels.
+
 [security] [VerX: Safety Verification of Smart Contracts]().<br> 
 Anton Permenev, Dimitar Dimitrov, Petar Tsankov, Dana Drachsler-Cohen, Martin Vechev. IEEE S&P '20. 
 
