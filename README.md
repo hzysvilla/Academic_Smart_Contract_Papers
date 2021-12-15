@@ -617,7 +617,7 @@ Wing Kwong Chan, Bo Jian.
 
 #### 2021
 
-[Finance] [Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges](https://dl.acm.org/doi/pdf/10.1145/3442381.3450059).<br>
+[Finance] [Towards Understanding Cryptocurrency Derivatives:A Case Study of BitMEX](https://dl.acm.org/doi/pdf/10.1145/3442381.3450059).<br>
 Kyle Soska, Jin-Dong Dong, Alex Khodaverdian, Ariel Zetlin-Jones, Bryan Routledge, Nicolas Christin.
 
 
