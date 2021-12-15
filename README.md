@@ -722,6 +722,13 @@ Zhen Cheng, Xinrui Hou, Runhuai Li, Yajin Zhou, Xiapu Luo, Jinku Li, Kui Ren. RA
 [application] [Developing Cost-Effective Blockchain-Powered Applications: A Case Study of the Gas Usage of Smart Contract Transactions in the Ethereum Blockchain Platform.]().<br>
 Abdullah A. Zarir, Gustavo Ansaldi Oliva, Zhen Ming (Jack) Jiang, Ahmed E. Hassan.
 
+[security] [MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contract.](https://arxiv.org/pdf/1911.00570.pdf).<br>
+William Zhang, Sebastian Banescu, Leonardo Pasos, Steven T. Stewart, Vijay Ganesh. ISSRE2019
+
+[security] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts.](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).<br>
+W Chen, X Li, Y Sui, N He, H Wang, L Wu. SIGMETRICS2021
+
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
