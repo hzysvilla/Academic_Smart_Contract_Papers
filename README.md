@@ -107,13 +107,13 @@ Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
 
 #### 2021
 [security] [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf).<br> 
-Jon Stephens (The University of Texas at Austin), Kostas Ferles (The University of Texas at Austin), Benjamin Mariano (The University of Texas at Austin), Shuvendu Lahiri (Microsoft Research), Isil Dillig (The University of Texas at Austin)
+Jon Stephens, Kostas Ferles, Benjamin Mariano, Shuvendu Lahiri, Isil Dillig.
 
 [security] [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917).<br> 
 Tai D. Nguyen, Long H. Pham, Jun Sun. IEEE S&P '21. 
 
 [finance] [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols]().<br> 
-Liyi Zhou (Imperial College London), Kaihua Qin (Imperial College London), Antoine Cully (Imperial College London), Benjamin Livshits (Imperial College London), Arthur Gervais (Imperial College London)
+Liyi Zhou, Kaihua Qin, Antoine Cully, Benjamin Livshits, Arthur Gervais.
 
 [security] [Compositional Security for Reentrant Applications](https://arxiv.org/abs/2103.08577).<br> 
 Ethan Cecchetti, Siqiu Yao, Haobin Ni, Andrew C. Myers.
@@ -219,7 +219,7 @@ Petar Tsankov (ETH Zurich), Andrei Marian Dan (ETH Zurich), Dana Drachsler Cohen
 Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli, Martin Vechev. CCS '18. 
 
 [security] [BitML: a calculus for Bitcoin smart contracts Massimo]().<br> 
-Bartoletti (University of Cagliari), Roberto Zunino (University of Trento)
+Bartoletti, Roberto Zunino.
 
 #### 2017
 
