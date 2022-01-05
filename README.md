@@ -23,7 +23,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [International World Wide Web Conference(WWW)](#www)
 - [International Symposium on Software Testing and Analysis(ISSTA)](#issta)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
-- [ACM SIGPLAN Symposium on Principles of Programming Languages](#popl)
+- [ACM SIGPLAN Symposium on Principles of Programming Languages(POPL)](#popl)
 - [others(OTHERS)](#others)
 - [License](#license)
 
