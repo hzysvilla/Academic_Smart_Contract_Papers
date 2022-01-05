@@ -23,6 +23,7 @@ Welcome developers or researchers to add more published paper to this list.
 - [International World Wide Web Conference(WWW)](#www)
 - [International Symposium on Software Testing and Analysis(ISSTA)](#issta)
 - [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
+- [ACM SIGPLAN Symposium on Principles of Programming Languages](#popl)
 - [others(OTHERS)](#others)
 - [License](#license)
 
@@ -684,6 +685,14 @@ Victor Cook, Zachary Painter, Christina L. Peterson, Damian Dechev.
 
 [security] [MPCSToken: Smart Contract Enabled Fault-Tolerant Incentivisation for Mobile P2P Crowd Services]().<br>
 Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann.
+
+------
+
+## POPL
+
+#### 2022
+[security] [SolType: Refinement Types for Solidity](https://arxiv.org/pdf/2110.00677.pdf).<br>
+Bryan Tan, Benjamin Mariano, Shuvendu Lahiri, Isil Dillig, Yu Feng
 
 ------
 
