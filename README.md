@@ -242,6 +242,10 @@ Zhang F, Cecchetti E, Croman K, Juels A, Shi E. CCS '16.
 
 ## ICSE
 
+#### 2022
+[security] [Utilizing Parallelism in Smart Contracts on Decentralized Blockchains by Taming Application-Inherent Conflicts]().<br>
+Péter Garamvölgyi, Yuxi Liu, Dong Zhou, Fan Long, Ming Wu. 
+
 #### 2021
 
 [security] [Smart Contract Security: a Practitioners’ Perspective]().<br>
@@ -250,19 +254,19 @@ Zhiyuan Wan, Xin Xia, David Lo, Jiachi Chen, Xiapu Luo, Xiaohu Yang
 #### 2020
 
 [security] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts](https://arxiv.org/pdf/1910.10601.pdf).<br>
-T Durieux, JF Ferreira, R Abreu, P Cruz. ICSE '2020
+T Durieux, JF Ferreira, R Abreu, P Cruz.
 
 [security] [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts](https://arxiv.org/pdf/2004.08563.pdf).<br> 
-TD Nguyen, LH Pham, J Sun, Y Lin, QT Minh. ICSE '2020
+TD Nguyen, LH Pham, J Sun, Y Lin, QT Minh. 
 
 [security] [Smart Contract Development: Challenges and Opportunities](https://xin-xia.github.io/publication/tse196.pdf).<br> 
-Weiqin Zou, David Lo, Pavneet Singh Kochhar, Xuan-Bach D. Le, Xin Xia, Yang Feng, Zhenyu Chen, Baowen Xu. ICSE '2020
+Weiqin Zou, David Lo, Pavneet Singh Kochhar, Xuan-Bach D. Le, Xin Xia, Yang Feng, Zhenyu Chen, Baowen Xu. 
 
 [security] [Targeted Greybox Fuzzing with Static Lookahead Analysis]().<br> 
-Valentin Wüstholz, Maria Christakis. ICSE '2020
+Valentin Wüstholz, Maria Christakis. 
 
 [security] [Empirical Review of Automated Analysis Tools on 47,587 Ethereum Smart Contracts]().<br> 
-Thomas Durieux, João F. Ferreira, Rui Abreu, Pedro Cruz. ICSE '2020
+Thomas Durieux, João F. Ferreira, Rui Abreu, Pedro Cruz. 
 
 [security] [Gap between Theory and Practice : An Empirical Study of Security Patches in Solidity]().<br> 
 Sungjae Hwang, Sukyoung Ryu
@@ -273,15 +277,15 @@ Z Yang
 #### 2019
 
 [security] [Gigahorse: Thorough, Declarative Decompilation of Smart Contracts](https://ieeexplore.ieee.org/document/8811905/).<br> 
-Grech NBrent LScholz BSmaragdakis Y. ICSE '2019
+Grech NBrent LScholz BSmaragdakis Y. 
 
 [security] [VULTRON: Catching Vulnerable Smart Contracts Once and for All](https://ieeexplore.ieee.org/document/8811905/).<br> 
-Haijun Wang, Yi Li, Shang-Wei Lin, Lei Ma, Yang Liu. ICSE '2019
+Haijun Wang, Yi Li, Shang-Wei Lin, Lei Ma, Yang Liu. 
 
 #### 2018
 
 [security] [ReGuard: Finding Reentrancy Bugs in Smart Contracts]().<br> 
-Chao Liu, Han Liu, Zhao Cao, Zhong Chen, Bangdao Chen, Bill Roscoe. ICSE '2018
+Chao Liu, Han Liu, Zhao Cao, Zhong Chen, Bangdao Chen, Bill Roscoe. 
 
 ------
 
