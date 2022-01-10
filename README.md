@@ -107,6 +107,12 @@ Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
 ## S&P
 
 #### 2021
+
+[security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).<br> 
+Priyanka Bose, Dipanjan Das, Yanju Chen, Yu Feng, Christopher Kruegel, Giovanni Vigna. 
+
+#### 2021
+
 [security] [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf).<br> 
 Jon Stephens, Kostas Ferles, Benjamin Mariano, Shuvendu Lahiri, Isil Dillig.
 
