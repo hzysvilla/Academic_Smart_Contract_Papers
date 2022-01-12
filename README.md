@@ -708,6 +708,9 @@ Bryan Tan, Benjamin Mariano, Shuvendu Lahiri, Isil Dillig, Yu Feng
 
 ## OTHERS
 
+[application] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). <br>
+Yeonsoo Kim and Seongho Jeong, Kamil Jezek, Bernd Burgstaller, Bernhard Scholz.
+
 [security] [Inheritance software metrics on smart contracts](). <br>
 Ashish Rajendra Sai, Conor Holmes, Jim Buckley, Andrew Le Gear. ICPC '2020
 
