@@ -202,7 +202,7 @@ K. Li, Y. Wang, Yuzhe Tang.
 
 [security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts]().<br>  CCS '2020
 Karl Wüst, Sinisa Matetic, Silvan Egli, Kari Kostiainen, Srdjan Capkun.
-  
+
 [security] [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts]().<br>   CCS '2020.
 Clara Schneidewind, Ilya Grishchenko, Markus Scherer, Matteo Maffei.
 
@@ -701,8 +701,28 @@ Fengrui Shi, Zhijin Qin, Di Wu, Julie A. McCann.
 ## POPL
 
 #### 2022
+
 [security] [SolType: Refinement Types for Solidity](https://arxiv.org/pdf/2110.00677.pdf).<br>
 Bryan Tan, Benjamin Mariano, Shuvendu Lahiri, Isil Dillig, Yu Feng
+
+------
+
+## Arxiv
+
+#### 2022
+
+[security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/abs/2104.08638). **To appear at S&P 2022.**<br>
+
+Priyanka Bose, Dipanjan Das, Yanju Chen, Yu Feng, Christopher Kruegel, Giovanni Vigna
+
+[security] [SolType: Refinement Types for Solidity](https://arxiv.org/abs/2110.00677).  **To appear at POPL2022.**<br>
+
+Bryan Tan, Benjamin Mariano, Shuvendu K. Lahiri, Isil Dillig, Yu Feng
+
+#### 2018
+
+[security] [Vandal: A Scalable Security Analysis Framework for Smart Contracts](https://arxiv.org/abs/1809.03981).<br>
+Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent Gramoli, Ralph Holz, Bernhard Scholz
 
 ------
 
