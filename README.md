@@ -58,7 +58,7 @@ Liya Su, Xinyue Shen, Xiaojing Liao, XiaoFeng Wang, Luyi Xing.
 Ningyu He, Ruiyi Zhang, Lei Wu, Haoyu Wang, Xiapu Luo, Yao Guo, Ting Yu, Xuxian Jiang.
 
 [security] [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](http://prl.korea.ac.kr/~ssb920/papers/sec21.pdf).<br>
-Liya Su, Xinyue Shen(co-first author), Xiangyu Du.
+Sunbeom So, Seongjoon Hong, and Hakjoo Oh.
 
 [security] [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.doc.ic.ac.uk/~livshits/papers/pdf/usenixsec21.pdf).<br>
 Daniel Perez, Benjamin Livshits.
