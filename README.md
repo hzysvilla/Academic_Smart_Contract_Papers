@@ -766,6 +766,8 @@ William Zhang, Sebastian Banescu, Leonardo Pasos, Steven T. Stewart, Vijay Ganes
 [security] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts.](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).<br>
 W Chen, X Li, Y Sui, N He, H Wang, L Wu. SIGMETRICS2021
 
+[security] [Extracting Smart Contracts Tested and Verified in Coq.](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).<br>
+Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. CPP2021
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
