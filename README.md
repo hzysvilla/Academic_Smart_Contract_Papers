@@ -715,10 +715,6 @@ Bryan Tan, Benjamin Mariano, Shuvendu Lahiri, Isil Dillig, Yu Feng
 
 Priyanka Bose, Dipanjan Das, Yanju Chen, Yu Feng, Christopher Kruegel, Giovanni Vigna
 
-[security] [SolType: Refinement Types for Solidity](https://arxiv.org/abs/2110.00677).  **To appear at POPL2022.**<br>
-
-Bryan Tan, Benjamin Mariano, Shuvendu K. Lahiri, Isil Dillig, Yu Feng
-
 #### 2018
 
 [security] [Vandal: A Scalable Security Analysis Framework for Smart Contracts](https://arxiv.org/abs/1809.03981).<br>
