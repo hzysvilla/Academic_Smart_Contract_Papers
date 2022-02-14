@@ -383,6 +383,9 @@ Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
 
 #### 2021
 
+[security] [GASOL: Gas Analysis and Optimization for Ethereum Smart Contracts](https://arxiv.org/pdf/1912.11929.pdf).<br>
+Elvira Albert, Jesús Correas, Pablo Gordillo, Guillermo Román-Díez, Albert Rubio.
+
 [security] [Automating User Notice Generation for Smart Contract Functions]().<br>
 Xing Hu, Zhipeng Gao, Xin Xia, David Lo, Xiaohu Yang.
 
