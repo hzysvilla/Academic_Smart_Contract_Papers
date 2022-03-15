@@ -727,6 +727,9 @@ Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent 
 
 ## OTHERS
 
+[security] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf). <br>
+Xia, Pengcheng and Wang, Haoyu and Gao, Bingyu and Su, Weihang and Yu, Zhou and Luo, Xiapu and Zhang, Chao and Xiao, Xusheng and Xu, Guoai. POMACS2021
+
 [application] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). <br>
 Yeonsoo Kim and Seongho Jeong, Kamil Jezek, Bernd Burgstaller, Bernhard Scholz.
 
