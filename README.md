@@ -557,6 +557,11 @@ Chen T, Li X, Luo X. SANER '2017
 
 ## OOPSLA
 
+#### 2022
+
+[security] [Elipmoc: Advanced Decompilation of Ethereum Smart Contracts](https://yanniss.github.io/elipmoc-oopsla22.pdf).<br>
+Neville Grech, Sifis Lagouvardos, Ilias Tsatiris, and Yannis Smaragdakis.
+
 #### 2021
 
 [security] [Symbolic Value-Flow Static Analysis: Deep, Precise, Complete Modeling of Ethereum Smart Contracts]().<br>
