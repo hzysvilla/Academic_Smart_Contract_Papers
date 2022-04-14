@@ -206,6 +206,9 @@ Karl Wüst, Sinisa Matetic, Silvan Egli, Kari Kostiainen, Srdjan Capkun.
 [security] [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts]().<br>   CCS '2020.
 Clara Schneidewind, Ilya Grishchenko, Markus Scherer, Matteo Maffei.
 
+[security] [BDoS: Blockchain Denial-of-Service Attacks]().<br>   CCS '2020.
+Mirkin, Michael, Yan Ji, Jonathan Pang, Ariah Klages-Mundt, Ittay Eyal, and Ari Juels.
+
 #### 2019
 
 [SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](http://www4.comp.polyu.edu.hk/~csxluo/TokenScope.pdf). <br>
