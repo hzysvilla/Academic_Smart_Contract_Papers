@@ -777,8 +777,15 @@ William Zhang, Sebastian Banescu, Leonardo Pasos, Steven T. Stewart, Vijay Ganes
 [security] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts.](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).<br>
 W Chen, X Li, Y Sui, N He, H Wang, L Wu. SIGMETRICS2021
 
-[security] [Extracting Smart Contracts Tested and Verified in Coq.](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).<br>
+[security] [Extracting Smart Contracts Tested and Verified in Coq.]().<br>
 Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. CPP2021
+
+[security] [Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum.]().<br>
+Jiachi Chen， Xin Xia, David Lo, John Grundy 
+
+[security] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts.]().<br>
+Zhou Liao, Shuwei Song, Hang Zhu, Xiapu Luo, Zheyuan He, Renkai Jiang, Ting Chen, Jiachi Chen, Tao Zhang, and Xiao-song Zhang
+
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
