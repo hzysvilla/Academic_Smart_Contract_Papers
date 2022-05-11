@@ -111,8 +111,6 @@ Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
 [security] [Quantifying Blockchain Extractable Value: How dark is the forest?.](https://arxiv.org/pdf/2101.05511.pdf).<br> 
 Kaihua Qin, Liyi Zhou, Arthur Gervais. 
 
-#### 2021
-
 [security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).<br> 
 Priyanka Bose, Dipanjan Das, Yanju Chen, Yu Feng, Christopher Kruegel, Giovanni Vigna. 
 
