@@ -573,6 +573,9 @@ Yannis Smaragdakis, Neville Grech, Sifis Lagouvardos, Konstantinos Triantafyllou
 [security] [Rich Specifications for Ethereum Smart Contract Verification]().<br>
 Christian Braem, Marco Eilers, Peter Müller, Robin Sierra, Alexander J. Summers.
 
+[security] [Pluto: Exposing Vulnerabilities in Inter-Contract Scenarios]().<br>
+Fuchen Ma, Zhenyang Xu, Meng Ren, Zijing Yin, Yuanliang Chen, Lei Qiao, Bin Gu, Huizhong Li, Yu Jiang, Jiaguang Sun.
+
 #### 2020
 
 [security] [Taming Callbacks for Smart Contract Modularity]().<br>
