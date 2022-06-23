@@ -787,13 +787,16 @@ W Chen, X Li, Y Sui, N He, H Wang, L Wu. SIGMETRICS2021
 Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. CPP2021
 
 [security] [Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum.]().<br>
-Jiachi Chen， Xin Xia, David Lo, John Grundy. TOSEM 
+Jiachi Chen， Xin Xia, David Lo, John Grundy. TOSEM 2021
 
 [security] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts.]().<br>
 Zhou Liao, Shuwei Song, Hang Zhu, Xiapu Luo, Zheyuan He, Renkai Jiang, Ting Chen, Jiachi Chen, Tao Zhang, and Xiao-song Zhang. TSE
 
 [security] [Model checking of vulnerabilities in smart contracts: a solidity-to-CPN approach]().<br>
 Ikram Garfatta, Kaïs Klai, Mohamed Graïet, Walid Gaaloul. SAC2022
+
+[security] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode]().<br>
+Jiachi Chen, Xin Xia, David Lo, John Grundy, Xiapu Luo, Ting Chen
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
