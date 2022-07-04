@@ -798,6 +798,12 @@ Ikram Garfatta, Kaïs Klai, Mohamed Graïet, Walid Gaaloul. SAC2022
 [security] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode]().<br>
 Jiachi Chen, Xin Xia, David Lo, John Grundy, Xiapu Luo, Ting Chen
 
+[security] [An Empirical Investigation on the Trade-off between Smart Contract Readability and Gas Consumption]().<br>
+Anna Vacca; Michele Fredella; Andrea Di Sorbo; Corrado A. Visaggio; Gerardo Canfora. (ICPC2022)
+
+[security] [Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques]().<br>
+Yihao, QinBo, LinXiaoguang, MaoYan, LeiZhuo, ZhangShangwen Wang. (ISSRE 2021)
+
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
