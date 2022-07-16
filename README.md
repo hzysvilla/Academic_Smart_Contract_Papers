@@ -738,6 +738,12 @@ Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent 
 
 ## OTHERS
 
+[security] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum. ](https://arxiv.org/pdf/2005.08278.pdf). <br>
+Siwei Wu, Lei Wu, Yajin Zhou, Runhuai Li, Zhi Wang, Xiapu Luo, Cong Wang, Kui Ren. TOSEM2022
+
+[security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf). <br>
+Dabao Wang, Hang Feng, Siwei Wu, Yajin Zhou, Lei Wu, and Xingliang Yuan. Raid2022
+
 [security] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf). <br>
 Xia, Pengcheng and Wang, Haoyu and Gao, Bingyu and Su, Weihang and Yu, Zhou and Luo, Xiapu and Zhang, Chao and Xiao, Xusheng and Xu, Guoai. POMACS2021
 
