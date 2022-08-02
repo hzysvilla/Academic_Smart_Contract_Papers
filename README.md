@@ -666,6 +666,23 @@ Weili Chen, Tuo Zhang, Zhiguang Chen, Zibin Zheng, Yutong Lu. WWW '2020
 
 #### 2021
 
+[security] [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218).<br>
+Weimin Chen, Zihan Sun, Haoyu Wang, Xiapu Luo,Haipeng Cai ,Lei Wu.
+
+[security] [Finding permission bugs in smart contracts with role mining.](https://dl.acm.org/doi/pdf/10.1145/3533767.3534372).<br>
+Ye Liu,Yi Li,Shang-Wei Lin,Cyrille Artho.
+
+[security] [eTainter: detecting gas-related vulnerabilities in smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534378).<br>
+Asem Ghaleb,Julia Rubin,Karthik Pattabiraman.
+
+[security] [Park: accelerating smart contract vulnerability detection via parallel-fork symbolic execution](https://dl.acm.org/doi/pdf/10.1145/3533767.3534395).<br>
+Peilin Zheng, Zibin Zheng, Xiapu Luo.
+
+[security] [SmartDagger: a bytecode-based static analysis approach for detecting cross-contract vulnerability](https://dl.acm.org/doi/pdf/10.1145/3533767.3534222).<br>
+Zeqin Liao, Zibin Zheng, Xiao Chen, Yuhong Nan.
+
+#### 2021
+
 [security] [Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?]().<br>
 Meng Ren, Zijing Yin, Fuchen Ma, Zhenyang Xu, Yu Jiang, Chengnian Sun, Huizhong Li, Yan Cai.
 
