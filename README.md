@@ -578,6 +578,9 @@ Fuchen Ma, Zhenyang Xu, Meng Ren, Zijing Yin, Yuanliang Chen, Lei Qiao, Bin Gu, 
 
 #### 2020
 
+[security] [Precise Static Modelling of Ethereum "Memory".](https://dl.acm.org/doi/pdf/10.1145/3428258).<br>
+Lagouvardos, S., Grech, N., Tsatiris, I., Smaragdakis, Y.
+
 [security] [Taming Callbacks for Smart Contract Modularity]().<br>
 Elvira Albert, Shelly Grossman, Noam Rinetzky, Clara Rodríguez, Albert Rubio, Mooly Sagiv. OOPSLA '2020
 
@@ -754,6 +757,8 @@ Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent 
 ------
 
 ## OTHERS
+
+
 
 [security] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum. ](https://arxiv.org/pdf/2005.08278.pdf). <br>
 Siwei Wu, Lei Wu, Yajin Zhou, Runhuai Li, Zhi Wang, Xiapu Luo, Cong Wang, Kui Ren. TOSEM2022
