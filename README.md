@@ -667,7 +667,7 @@ Weili Chen, Tuo Zhang, Zhiguang Chen, Zibin Zheng, Yutong Lu. WWW '2020
 
 ## ISSTA
 
-#### 2021
+#### 2022
 
 [security] [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218).<br>
 Weimin Chen, Zihan Sun, Haoyu Wang, Xiapu Luo,Haipeng Cai ,Lei Wu.
