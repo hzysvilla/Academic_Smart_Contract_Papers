@@ -757,8 +757,11 @@ Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent 
 ------
 
 ## OTHERS
+[security] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts. ](https://dl.acm.org/doi/pdf/10.1145/3560263). <br>
+Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM2022
 
-
+[security] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts. ](https://dl.acm.org/doi/pdf/10.1145/3560264). <br>
+Fuchen Ma, Meng Ren, Lerong Ouyang, Yuanliang Chen, Juan Zhu, Ting Chen, Yingli Zheng, Xiao Dai, Yu Jiang, Jiaguang Sun. TOSEM2022
 
 [security] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum. ](https://arxiv.org/pdf/2005.08278.pdf). <br>
 Siwei Wu, Lei Wu, Yajin Zhou, Runhuai Li, Zhi Wang, Xiapu Luo, Cong Wang, Kui Ren. TOSEM2022
@@ -770,7 +773,7 @@ Dabao Wang, Hang Feng, Siwei Wu, Yajin Zhou, Lei Wu, and Xingliang Yuan. Raid202
 Xia, Pengcheng and Wang, Haoyu and Gao, Bingyu and Su, Weihang and Yu, Zhou and Luo, Xiapu and Zhang, Chao and Xiao, Xusheng and Xu, Guoai. POMACS2021
 
 [application] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). <br>
-Yeonsoo Kim and Seongho Jeong, Kamil Jezek, Bernd Burgstaller, Bernhard Scholz.
+Yeonsoo Kim and Seongho Jeong, Kamil Jezek, Bernd Burgstaller, Bernhard Scholz. Usenix ATC22.
 
 [security] [Inheritance software metrics on smart contracts](). <br>
 Ashish Rajendra Sai, Conor Holmes, Jim Buckley, Andrew Le Gear. ICPC '2020
