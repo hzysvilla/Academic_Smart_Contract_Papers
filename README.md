@@ -196,6 +196,11 @@ Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
 
 ## CCS
 
+#### 2022 
+
+[security] [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://yueduan.github.io/pub/smart_contracts_analysis__ccs22.pdf).<br>
+Yue Duan, Xin Zhao, Yu Pan, Shucheng Li, Minghao Li, Fengyuan Xu, and Mu Zhang.
+
 #### 2021
 
 [security] [DETER: Denial of Ethereum Txpool sERvices]().<br>
