@@ -746,13 +746,6 @@ Bryan Tan, Benjamin Mariano, Shuvendu Lahiri, Isil Dillig, Yu Feng
 
 ------
 
-## Arxiv
-
-#### 2022
-
-[security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/abs/2104.08638). **To appear at S&P 2022.**<br>
-
-Priyanka Bose, Dipanjan Das, Yanju Chen, Yu Feng, Christopher Kruegel, Giovanni Vigna
 
 #### 2018
 
