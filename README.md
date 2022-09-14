@@ -33,7 +33,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 #### 2021
 
-[security] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum]().<br>
+[security] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf).<br>
 Yang Chen, Zhongxin Guo, Runhuai Li, Shuo Chen, Lidong Zhou, Yajin Zhou, and Xian Zhang.
 
 ------
@@ -74,10 +74,10 @@ Christof Ferreira Torres, Ramiro Camino, Radu State.
 [security] [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf).<br>
 Joel Frank, Cornelius Aschermann, and Thorsten Holz. USENIX '20 Security Symposium.
 
-[security] [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions]().<br> 
+[security] [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf).<br> 
 Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin. USENIX '20 Security Symposium. 
 
-[security] [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem]().<br>
+[security] [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf).<br>
 Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
 
 #### 2019 
