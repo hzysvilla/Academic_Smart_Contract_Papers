@@ -764,6 +764,9 @@ Fuchen Ma, Meng Ren, Lerong Ouyang, Yuanliang Chen, Juan Zhu, Ting Chen, Yingli 
 [security] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum. ](https://arxiv.org/pdf/2005.08278.pdf). <br>
 Siwei Wu, Lei Wu, Yajin Zhou, Runhuai Li, Zhi Wang, Xiapu Luo, Cong Wang, Kui Ren. TOSEM2022
 
+[security] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study.](https://arxiv.org/pdf/2005.08278.pdf). <br>
+Faizan Khan, Istvan David, Daniel Varro, Shane McIntosh.
+
 [security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf). <br>
 Dabao Wang, Hang Feng, Siwei Wu, Yajin Zhou, Lei Wu, and Xingliang Yuan. Raid2022
 
