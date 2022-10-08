@@ -201,6 +201,9 @@ Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
 [security] [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://yueduan.github.io/pub/smart_contracts_analysis__ccs22.pdf).<br>
 Yue Duan, Xin Zhao, Yu Pan, Shucheng Li, Minghao Li, Fengyuan Xu, and Mu Zhang.
 
+[security] [VRust: Automated Vulnerability Detection for Solana Smart Contracts]().<br>
+Siwei Cui,Gang Zhao,Yifei Gao,Tien Tavu,Jeff Huang.
+
 #### 2021
 
 [security] [DETER: Denial of Ethereum Txpool sERvices]().<br>
