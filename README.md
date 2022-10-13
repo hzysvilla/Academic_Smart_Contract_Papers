@@ -392,6 +392,11 @@ Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
 
 ## ASE
 
+#### 2022
+
+[security] [Identifying Solidity Smart Contract API Documentation Errors](https://personal.ntu.edu.sg/yi_li/files/Zhu2022ISS.pdf).<br>
+Chenguang Zhu, Ye Liu, Xiuheng Wu, and Yi Li.
+
 #### 2021
 
 [security] [GASOL: Gas Analysis and Optimization for Ethereum Smart Contracts](https://arxiv.org/pdf/1912.11929.pdf).<br>
