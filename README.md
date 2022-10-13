@@ -181,7 +181,7 @@ Michael Rodler, Wenting Li and Ghassan Karame, Lucas Davi. NDSS '19.
 [security] [YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://arxiv.org/pdf/1811.03265.pdf).<br> 
 Sourav Das, Vinay Joseph Ribeiro, and Abhijeet Anand. NDSS '19.
 
-[security] [Sereum: Protecting Existing Smart Contracts Against Re-Entrancy Attacks. ]().<br> 
+[security] [Sereum: Protecting Existing Smart Contracts Against Re-Entrancy Attacks]().<br> 
 Michael Rodler, Wenting Li, Ghassan O. Karame, Lucas Davi.
 
 #### 2018
@@ -426,7 +426,7 @@ Jiachi Chen. ASE '2020
 
 #### 2019
 
-[security] [Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts. ]().<br>
+[security] [Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts]().<br>
 Mark Mossberg, Felipe Manzano, Eric Hennenfent, Alex Groce, Gustavo Grieco, Josselin Feist, Trent Brunson, Artem Dinaburg.
 
 [security] [MuSC: A Tool for Mutation Testing of Ethereum Smart Contract]().<br>
@@ -680,7 +680,7 @@ Weili Chen, Tuo Zhang, Zhiguang Chen, Zibin Zheng, Yutong Lu. WWW '2020
 [security] [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218).<br>
 Weimin Chen, Zihan Sun, Haoyu Wang, Xiapu Luo,Haipeng Cai ,Lei Wu.
 
-[security] [Finding permission bugs in smart contracts with role mining.](https://dl.acm.org/doi/pdf/10.1145/3533767.3534372).<br>
+[security] [Finding permission bugs in smart contracts with role mining](https://dl.acm.org/doi/pdf/10.1145/3533767.3534372).<br>
 Ye Liu,Yi Li,Shang-Wei Lin,Cyrille Artho.
 
 [security] [eTainter: detecting gas-related vulnerabilities in smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534378).<br>
@@ -758,16 +758,16 @@ Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent 
 ------
 
 ## OTHERS
-[security] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts. ](https://dl.acm.org/doi/pdf/10.1145/3560263). <br>
+[security] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). <br>
 Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM2022
 
-[security] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts. ](https://dl.acm.org/doi/pdf/10.1145/3560264). <br>
+[security] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts](https://dl.acm.org/doi/pdf/10.1145/3560264). <br>
 Fuchen Ma, Meng Ren, Lerong Ouyang, Yuanliang Chen, Juan Zhu, Ting Chen, Yingli Zheng, Xiao Dai, Yu Jiang, Jiaguang Sun. TOSEM2022
 
-[security] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum. ](https://arxiv.org/pdf/2005.08278.pdf). <br>
+[security] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum](https://arxiv.org/pdf/2005.08278.pdf). <br>
 Siwei Wu, Lei Wu, Yajin Zhou, Runhuai Li, Zhi Wang, Xiapu Luo, Cong Wang, Kui Ren. TOSEM2022
 
-[security] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study.](https://arxiv.org/pdf/2005.08278.pdf). <br>
+[security] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study](https://arxiv.org/pdf/2005.08278.pdf). <br>
 Faizan Khan, Istvan David, Daniel Varro, Shane McIntosh.
 
 [security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf). <br>
@@ -806,16 +806,16 @@ Christina Müller, Marcus Brandenburger, Christian Cachin, Pascal Felber, Chris
 [security] [Smart Contract Vulnerability Detection Using Graph Neural Networks]().<br>
 Yuan Zhuang, Zhenguang Liu, Peng Qian, Qi Liu, Xiang Wang, Qinming He. IJCAI'20
 
-[security] [Towards a first step to understand the cryptocurrency stealing attack on ethereum.]().<br>
+[security] [Towards a first step to understand the cryptocurrency stealing attack on ethereum]().<br>
 Zhen Cheng, Xinrui Hou, Runhuai Li, Yajin Zhou, Xiapu Luo, Jinku Li, Kui Ren. RAID2019
 
 [application] [Developing Cost-Effective Blockchain-Powered Applications: A Case Study of the Gas Usage of Smart Contract Transactions in the Ethereum Blockchain Platform.]().<br>
 Abdullah A. Zarir, Gustavo Ansaldi Oliva, Zhen Ming (Jack) Jiang, Ahmed E. Hassan.
 
-[security] [MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contract.](https://arxiv.org/pdf/1911.00570.pdf).<br>
+[security] [MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contract](https://arxiv.org/pdf/1911.00570.pdf).<br>
 William Zhang, Sebastian Banescu, Leonardo Pasos, Steven T. Stewart, Vijay Ganesh. ISSRE2019
 
-[security] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts.](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).<br>
+[security] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).<br>
 W Chen, X Li, Y Sui, N He, H Wang, L Wu. SIGMETRICS2021
 
 [security] [Extracting Smart Contracts Tested and Verified in Coq.]().<br>
