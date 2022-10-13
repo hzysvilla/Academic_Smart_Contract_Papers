@@ -108,7 +108,7 @@ Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
 
 #### 2022
 
-[security] [Quantifying Blockchain Extractable Value: How dark is the forest?.](https://arxiv.org/pdf/2101.05511.pdf).<br> 
+[security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf).<br> 
 Kaihua Qin, Liyi Zhou, Arthur Gervais. 
 
 [security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).<br> 
@@ -458,7 +458,7 @@ Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung.
 [application] [Making Smart Contract Development More Secure and Easier](https://arxiv.org/pdf/2106.09440.pdf).<br>
 Meng Ren, Fuchen Ma, Zijing Yin, Ying Fu, Huizhong Li, Wanli Chang, Yu Jiang
 
-[application] [iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations.](https://tristartom.github.io/docs/fse21-ibatch.pdf).<br>
+[application] [iBatch: Saving Ethereum Fees via Secure and Cost-Effective Batching of Smart-Contract Invocations](https://tristartom.github.io/docs/fse21-ibatch.pdf).<br>
 Y Wang, Q Zhang, K Li, Y Tang, X Luo, T Chen.
 
 #### 2020
@@ -586,7 +586,7 @@ Fuchen Ma, Zhenyang Xu, Meng Ren, Zijing Yin, Yuanliang Chen, Lei Qiao, Bin Gu, 
 
 #### 2020
 
-[security] [Precise Static Modelling of Ethereum "Memory".](https://dl.acm.org/doi/pdf/10.1145/3428258).<br>
+[security] [Precise Static Modelling of Ethereum "Memory"](https://dl.acm.org/doi/pdf/10.1145/3428258).<br>
 Lagouvardos, S., Grech, N., Tsatiris, I., Smaragdakis, Y.
 
 [security] [Taming Callbacks for Smart Contract Modularity]().<br>
@@ -631,7 +631,7 @@ Christof Ferreira Torres, SnT/University of Luxembourg; Julian Schütte, Fraunho
 
 #### 2020
 
-[security] [Source Code Obfuscation for Smart Contracts.](https://ieeexplore.ieee.org/document/9359296).<br>
+[security] [Source Code Obfuscation for Smart Contracts](https://ieeexplore.ieee.org/document/9359296).<br>
 Meng Zhang, Pengcheng Zhang, Xiapu Luo, Feng Xiao.
 
 #### 2019
@@ -809,7 +809,7 @@ Yuan Zhuang, Zhenguang Liu, Peng Qian, Qi Liu, Xiang Wang, Qinming He. IJCAI'20
 [security] [Towards a first step to understand the cryptocurrency stealing attack on ethereum]().<br>
 Zhen Cheng, Xinrui Hou, Runhuai Li, Yajin Zhou, Xiapu Luo, Jinku Li, Kui Ren. RAID2019
 
-[application] [Developing Cost-Effective Blockchain-Powered Applications: A Case Study of the Gas Usage of Smart Contract Transactions in the Ethereum Blockchain Platform.]().<br>
+[application] [Developing Cost-Effective Blockchain-Powered Applications: A Case Study of the Gas Usage of Smart Contract Transactions in the Ethereum Blockchain Platform]().<br>
 Abdullah A. Zarir, Gustavo Ansaldi Oliva, Zhen Ming (Jack) Jiang, Ahmed E. Hassan.
 
 [security] [MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contract](https://arxiv.org/pdf/1911.00570.pdf).<br>
@@ -818,13 +818,13 @@ William Zhang, Sebastian Banescu, Leonardo Pasos, Steven T. Stewart, Vijay Ganes
 [security] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).<br>
 W Chen, X Li, Y Sui, N He, H Wang, L Wu. SIGMETRICS2021
 
-[security] [Extracting Smart Contracts Tested and Verified in Coq.]().<br>
+[security] [Extracting Smart Contracts Tested and Verified in Coq]().<br>
 Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. CPP2021
 
-[security] [Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum.]().<br>
+[security] [Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum]().<br>
 Jiachi Chen， Xin Xia, David Lo, John Grundy. TOSEM 2021
 
-[security] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts.]().<br>
+[security] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts]().<br>
 Zhou Liao, Shuwei Song, Hang Zhu, Xiapu Luo, Zheyuan He, Renkai Jiang, Ting Chen, Jiachi Chen, Tao Zhang, and Xiao-song Zhang. TSE
 
 [security] [Model checking of vulnerabilities in smart contracts: a solidity-to-CPN approach]().<br>
