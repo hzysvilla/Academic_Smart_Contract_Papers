@@ -198,11 +198,17 @@ Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
 
 #### 2022 
 
+[security] [Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security](https://arxiv.org/pdf/2201.05574.pdf).<br>
+Liu, Yulin ; Lu, Yuxuan ; Nayak, Kartik ; Zhang, Fan ; Zhang, Luyao search by orcid ; Zhao, Yinhong.
+
 [security] [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://yueduan.github.io/pub/smart_contracts_analysis__ccs22.pdf).<br>
 Yue Duan, Xin Zhao, Yu Pan, Shucheng Li, Minghao Li, Fengyuan Xu, and Mu Zhang.
 
 [security] [VRust: Automated Vulnerability Detection for Solana Smart Contracts]().<br>
 Siwei Cui,Gang Zhao,Yifei Gao,Tien Tavu,Jeff Huang.
+
+[security] [Understanding Security Issues in the NFT Ecosystem](https://arxiv.org/pdf/2111.08893.pdf).<br>
+Dipanjan Das, Priyanka Bose, Nicola Ruaro, Christopher Kruegel, Giovanni Vigna.
 
 #### 2021
 
@@ -451,6 +457,14 @@ Han Liu, Chao Liu, Wenqi Zhao, Yu Jiang, Jiaguang Sun.
 ------
 
 ## ESEC&FSE
+
+#### 2022
+
+[security] [An Empirical Study of Blockchain System Vulnerabilities: Modules, Types, and Patterns]().<br>
+Xiao Yi, Daoyuan Wu, Lingxiao Jiang, Yuzhou Fang, Kehuan Zhang, Wei Zhang.
+
+[security] [Declarative Smart Contracts](https://arxiv.org/pdf/2207.13827.pdf).<br>
+Haoxian Chen, Gerald Whitters, Mohammad Javad Amiri, Yuepeng Wang, Boon Thau Loo.
 
 #### 2021
 
@@ -765,6 +779,12 @@ Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent 
 ## OTHERS
 [security] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). <br>
 Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM2022
+
+[security] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585). <br>
+Ye Wang, Patrick Zuest, Yaxing Yao, Zhicong Lu, Roger Wattenhofer. CHI 2022
+
+[security] [SolCMC: Solidity Compiler’s Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf). <br>
+Leonardo Alt, Martin Blicha, Antti E. J. Hyvärinen & Natasha Sharygina. CAV 2022
 
 [security] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts](https://dl.acm.org/doi/pdf/10.1145/3560264). <br>
 Fuchen Ma, Meng Ren, Lerong Ouyang, Yuanliang Chen, Juan Zhu, Ting Chen, Yingli Zheng, Xiao Dai, Yu Jiang, Jiaguang Sun. TOSEM2022
