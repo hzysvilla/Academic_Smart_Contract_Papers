@@ -108,7 +108,7 @@ Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
 
 #### 2022
 
-[security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf).<br> 
+[security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf)<br> 
 Kaihua Qin, Liyi Zhou, Arthur Gervais. 
 
 [security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).<br> 
@@ -853,13 +853,13 @@ Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. CPP2021
 Jiachi Chen， Xin Xia, David Lo, John Grundy. TOSEM 2021
 
 [security] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts]().<br>
-Zhou Liao, Shuwei Song, Hang Zhu, Xiapu Luo, Zheyuan He, Renkai Jiang, Ting Chen, Jiachi Chen, Tao Zhang, and Xiao-song Zhang. TSE
+Zhou Liao, Shuwei Song, Hang Zhu, Xiapu Luo, Zheyuan He, Renkai Jiang, Ting Chen, Jiachi Chen, Tao Zhang, and Xiao-song Zhang. TSE22
 
 [security] [Model checking of vulnerabilities in smart contracts: a solidity-to-CPN approach]().<br>
 Ikram Garfatta, Kaïs Klai, Mohamed Graïet, Walid Gaaloul. SAC2022
 
 [security] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode]().<br>
-Jiachi Chen, Xin Xia, David Lo, John Grundy, Xiapu Luo, Ting Chen
+Jiachi Chen, Xin Xia, David Lo, John Grundy, Xiapu Luo, Ting Chen. TSE22
 
 [security] [An Empirical Investigation on the Trade-off between Smart Contract Readability and Gas Consumption]().<br>
 Anna Vacca; Michele Fredella; Andrea Di Sorbo; Corrado A. Visaggio; Gerardo Canfora. (ICPC2022)
