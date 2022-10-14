@@ -400,6 +400,9 @@ Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
 
 #### 2022
 
+[security] [Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach]().<br>
+Zhuo Zhang, Yan Lei, Meng Yan, Yue Yu, Jiachi Chen, Shangwen Wang, Xiaoguang Mao.
+
 [security] [Identifying Solidity Smart Contract API Documentation Errors](https://personal.ntu.edu.sg/yi_li/files/Zhu2022ISS.pdf).<br>
 Chenguang Zhu, Ye Liu, Xiuheng Wu, and Yi Li.
 
