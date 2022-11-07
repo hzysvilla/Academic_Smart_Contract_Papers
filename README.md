@@ -5,6 +5,14 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## Table of Listed Conferences
 
+- [IEEE Security and Privacy(S&P)](#sp)
+
+- [ACM Conference on Computer and Communications Security(CCS)](#ccs)
+
+- [USENIX Security](#usenix-security)
+
+- [Network and Distributed System Security(NDSS)](#ndss)
+
 - [ACM SIGSOFT Symposium on the Foundation of Software Engineering/European Software Engineering Conference(ESEC/FSE)](#ESEC/FSE)
 
 - [International Symposium on Software Testing and Analysis(ISSTA)](#issta)
@@ -12,14 +20,6 @@ Welcome developers or researchers to add more published paper to this list.
 - [International Conference on Automated Software Engineering(ASE)](#ase)
 
 - [International Conference on Software Engineering(ICSE)](#icse)
-
-- [ACM Conference on Computer and Communications Security(CCS)](#ccs)
-
-- [USENIX Security](#usenix-security)
-
-- [IEEE Security and Privacy(S&P)](#sp)
-
-- [Network and Distributed System Security(NDSS)](#ndss)
 
 - [The ACM Symposium on Operating Systems Principles(SOSP)](#sosp)
 
