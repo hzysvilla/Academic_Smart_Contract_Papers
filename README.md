@@ -53,6 +53,278 @@ Welcome developers or researchers to add more published paper to this list.
 
 ---
 
+-----
+
+## S&P
+
+###2023
+
+[security] [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf)
+
+Kushal Babel (Cornell Tech), Philip Daian (Cornell Tech), Mahimna Kelkar (Cornell Tech), Ari Juels (Cornell Tech)
+
+### 2022
+
+[security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf)
+ 
+Kaihua Qin, Liyi Zhou, Arthur Gervais. 
+
+[security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).
+ 
+Priyanka Bose, Dipanjan Das, Yanju Chen, Yu Feng, Christopher Kruegel, Giovanni Vigna. 
+
+### 2021
+
+[security] [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf).
+ 
+Jon Stephens, Kostas Ferles, Benjamin Mariano, Shuvendu Lahiri, Isil Dillig.
+
+[security] [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917).
+ 
+Tai D. Nguyen, Long H. Pham, Jun Sun. IEEE S&P '21. 
+
+[finance] [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols]().
+ 
+Liyi Zhou, Kaihua Qin, Antoine Cully, Benjamin Livshits, Arthur Gervais.
+
+[security] [Compositional Security for Reentrant Applications](https://arxiv.org/abs/2103.08577).
+ 
+Ethan Cecchetti, Siqiu Yao, Haobin Ni, Andrew C. Myers.
+
+[security] [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf).
+ 
+Liyi Zhou, Kaihua Qin, Christof Ferreira Torres, Duc V Le, Arthur Gervais.
+
+### 2020
+
+[security] [Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](https://par.nsf.gov/servlets/purl/10159474).
+ 
+Philip Daian, Steven Goldfeder, T. Kell, Yunqi Li, Xueyuan Zhao, Iddo Bentov, Lorenz Breidenbach, A. Juels.
+
+[security] [VerX: Safety Verification of Smart Contracts]().
+ 
+Anton Permenev, Dimitar Dimitrov, Petar Tsankov, Dana Drachsler-Cohen, Martin Vechev. IEEE S&P '20. 
+
+[security] [VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contracts]().
+ 
+Sunbeom So, Myungho Lee, Jisu Park, Heejo Lee, Hakjoo Oh. IEEE S&P '20. 
+
+[security] [Executable Operational Semantics of Solidity](https://arxiv.org/pdf/1804.01295.pdf).
+ 
+Jiao Jiao, Shuanglong Kan, Shang-Wei Lin, David Sanan, Yang Liu, Jun Sun. IEEE S&P '20. 
+
+### 2016
+
+[application] [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf).
+ 
+Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P '16
+
+---
+
+## CCS
+
+### 2022 
+
+[security] [Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security](https://arxiv.org/pdf/2201.05574.pdf).
+
+Liu, Yulin ; Lu, Yuxuan ; Nayak, Kartik ; Zhang, Fan ; Zhang, Luyao search by orcid ; Zhao, Yinhong.
+
+[security] [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://yueduan.github.io/pub/smart_contracts_analysis__ccs22.pdf).
+
+Yue Duan, Xin Zhao, Yu Pan, Shucheng Li, Minghao Li, Fengyuan Xu, and Mu Zhang.
+
+[security] [VRust: Automated Vulnerability Detection for Solana Smart Contracts]().
+
+Siwei Cui,Gang Zhao,Yifei Gao,Tien Tavu,Jeff Huang.
+
+[security] [Understanding Security Issues in the NFT Ecosystem](https://arxiv.org/pdf/2111.08893.pdf).
+
+Dipanjan Das, Priyanka Bose, Nicola Ruaro, Christopher Kruegel, Giovanni Vigna.
+
+### 2021
+
+[security] [DETER: Denial of Ethereum Txpool sERvices](https://dl.acm.org/doi/pdf/10.1145/3460120.3485369).
+
+Kai Li, Yibo Wang, Yuzhe Tang.
+
+### 2020
+
+[security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417243).
+  CCS '2020
+Karl Wüst, Sinisa Matetic, Silvan Egli, Kari Kostiainen, Srdjan Capkun.
+
+[security] [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417250).
+
+Clara Schneidewind, Ilya Grishchenko, Markus Scherer, Matteo Maffei. CCS '2020.
+
+### 2019
+
+[SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](https://dl.acm.org/doi/pdf/10.1145/3319535.3345664).
+
+Ting Chen ,Yufei Zhang ,Zihao Li, Xiapu Luo,Ting Wang,Rong Cao,Xiuzhuo Xiao,Xiaosong Zhang . CCS '19.
+
+[security] [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363230).
+
+Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS '19.
+
+[security] [Zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363222).
+
+Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsankov, Martin T Vechev. CCS '19.
+
+### 2018
+
+[security] [Securify: Practical Security Analysis of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3243734.3243780).
+
+Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli, Martin Vechev. CCS '18. 
+
+[security] [BitML: a calculus for Bitcoin smart contracts Massimo](https://dl.acm.org/doi/pdf/10.1145/3243734.3243795).
+
+Bartoletti, Roberto Zunino.
+
+### 2017
+
+[security] [Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing](https://dl.acm.org/doi/pdf/10.1145/3133956.3134032).
+
+Changyu Dong, Yilei Wang, Amjad Aldweesh, Patrick McCorry, Aad van Moorsel.
+
+### 2016
+
+[security] [Making Smart Contracts Smarter](https://dl.acm.org/doi/pdf/10.1145/2976749.2978309).
+
+Loi Luu, Duc-Hiep Chu, Hrishi Olickel, Prateek Saxena, Aquinas Hobor. CCS '16.
+
+[security] [Formal verification of smart contracts: Short paper](https://dl.acm.org/doi/10.1145/2993600.2993611).
+
+Bhargavan K,Delignat-Lavaud A,Fournet C. CCS '16.
+
+[security] [Town crier: An authenticated data feed for smart contracts](https://dl.acm.org/doi/pdf/10.1145/2976749.2978326).
+
+Fan Zhang, Ethan Cecchetti, Kyle Croman, Ari Juels, Elaine Shi. CCS '16.
+
+---
+
+## USENIX Security
+
+### 2021
+
+[security] [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf).
+
+Liya Su, Xinyue Shen, Xiaojing Liao, XiaoFeng Wang, Luyi Xing.
+
+[security] [EOSAFE: Security Analysis of EOSIO Smart Contracts](http://sei.pku.edu.cn/~yaoguo/papers/He-Security-21.pdf).
+
+Ningyu He, Ruiyi Zhang, Lei Wu, Haoyu Wang, Xiapu Luo, Yao Guo, Ting Yu, Xuxian Jiang.
+
+[security] [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](http://prl.korea.ac.kr/~ssb920/papers/sec21.pdf).
+
+Sunbeom So, Seongjoon Hong, and Hakjoo Oh.
+
+[security] [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.doc.ic.ac.uk/~livshits/papers/pdf/usenixsec21.pdf).
+
+Daniel Perez, Benjamin Livshits.
+
+[security] [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf).
+
+Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi
+
+[security] [Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain](https://arxiv.org/abs/2102.03347).
+
+Christof Ferreira Torres, Ramiro Camino, Radu State.
+
+### 2020 
+
+[security] [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf).
+
+Joel Frank, Cornelius Aschermann, and Thorsten Holz. USENIX '20 Security Symposium.
+
+[security] [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf).
+ 
+Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin. USENIX '20 Security Symposium. 
+
+[security] [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf).
+
+Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
+
+### 2019 
+
+[security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf).
+
+Torres C., Steichen M., State R. USENIX '19 Security Symposium.
+
+[application] [FastKitten: Practical Smart Contracts on Bitcoin]().
+
+Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX '19 Security Symposium.
+
+### 2018 
+
+[security] [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf).
+ 
+Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Bailey. USENIX '18 Security Symposium.
+
+[security] [teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf).
+ 
+Johannes Krupp and Christian Rossow. USENIX '18 Security Symposium.
+
+[application] [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf).
+ 
+Harry Kalodner, Steven Goldfeder, Xiaoqi Chen, S. Matthew Weinberg, Edward W. Felten. USENIX '18 Security Symposium.
+
+[security] [Enter the Hydra: Towards principled bug bounties and exploit-resistant smart contracts](https://eprint.iacr.org/2017/1090.pdf).
+ 
+Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
+
+---
+
+## NDSS
+
+### 2021
+
+[application] [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains]().
+ 
+Karl Wüst, Loris Diana, and Kari Kostiainen (ETH Zurich); Ghassan Karame; Sinisa Matetic and Srdjan Capkun (ETH Zurich)
+
+[Sercurity] [As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3C-1_23108_paper.pdf).
+ 
+Kai Li, Jiaqi Chen, Xianghong Liu, and Yuzhe Tang; XiaoFeng Wang; Xiapu Luo
+
+[Sercurity] [SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/abs/1912.01798).
+ 
+Charlie Hou; Mingxun Zhou; Yan Ji and Phil Daian; Florian Tramèr; Giulia Fanti; Ari Juels
+
+### 2020
+
+[security] [SODA: A Generic Online Detection Framework for Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24449-paper.pdf).
+ 
+Ting Chen, Rong Cao, Ting Li, Xiapu Luo, Guofei Gu, Yufei Zhang, Zhou Liao, Hang Zhu, Gang Chen, Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
+
+[security] [Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/pdf/1909.07220.pdf).
+ 
+Daniel Perez, and Benjamin Livshits. NDSS '20.
+
+### 2019
+
+[security] [Seth: Protecting Existing Smart Contracts Against Re-Entrancy Attacks](https://arxiv.org/pdf/1812.05934.pdf).
+ 
+Michael Rodler, Wenting Li and Ghassan Karame, Lucas Davi. NDSS '19.
+
+[security] [YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://arxiv.org/pdf/1811.03265.pdf).
+ 
+Sourav Das, Vinay Joseph Ribeiro, and Abhijeet Anand. NDSS '19.
+
+[security] [Sereum: Protecting Existing Smart Contracts Against Re-Entrancy Attacks]().
+ 
+Michael Rodler, Wenting Li, Ghassan O. Karame, Lucas Davi.
+
+### 2018
+
+[security] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf).
+
+Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
+
+[security] [Chainspace: A Sharded Smart Contracts Platform]().
+
+Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
+
 ## ESEC/FSE
 
 ### 2022
@@ -300,276 +572,6 @@ Haijun Wang, Yi Li, Shang-Wei Lin, Lei Ma, Yang Liu.
 Chao Liu, Han Liu, Zhao Cao, Zhong Chen, Bangdao Chen, Bill Roscoe. 
 
 ---
-
-## CCS
-
-### 2022 
-
-[security] [Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security](https://arxiv.org/pdf/2201.05574.pdf).
-
-Liu, Yulin ; Lu, Yuxuan ; Nayak, Kartik ; Zhang, Fan ; Zhang, Luyao search by orcid ; Zhao, Yinhong.
-
-[security] [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://yueduan.github.io/pub/smart_contracts_analysis__ccs22.pdf).
-
-Yue Duan, Xin Zhao, Yu Pan, Shucheng Li, Minghao Li, Fengyuan Xu, and Mu Zhang.
-
-[security] [VRust: Automated Vulnerability Detection for Solana Smart Contracts]().
-
-Siwei Cui,Gang Zhao,Yifei Gao,Tien Tavu,Jeff Huang.
-
-[security] [Understanding Security Issues in the NFT Ecosystem](https://arxiv.org/pdf/2111.08893.pdf).
-
-Dipanjan Das, Priyanka Bose, Nicola Ruaro, Christopher Kruegel, Giovanni Vigna.
-
-### 2021
-
-[security] [DETER: Denial of Ethereum Txpool sERvices](https://dl.acm.org/doi/pdf/10.1145/3460120.3485369).
-
-Kai Li, Yibo Wang, Yuzhe Tang.
-
-### 2020
-
-[security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417243).
-  CCS '2020
-Karl Wüst, Sinisa Matetic, Silvan Egli, Kari Kostiainen, Srdjan Capkun.
-
-[security] [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417250).
-
-Clara Schneidewind, Ilya Grishchenko, Markus Scherer, Matteo Maffei. CCS '2020.
-
-### 2019
-
-[SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](https://dl.acm.org/doi/pdf/10.1145/3319535.3345664).
-
-Ting Chen ,Yufei Zhang ,Zihao Li, Xiapu Luo,Ting Wang,Rong Cao,Xiuzhuo Xiao,Xiaosong Zhang . CCS '19.
-
-[security] [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363230).
-
-Jingxuan He, Mislav Balunovic, Nodar Ambroladze, Petar Tsankov, Martin Vechev. CCS '19.
-
-[security] [Zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363222).
-
-Samuel Steffen, Benjamin  Bichsel, Mario  Gersbach , Noa  Melchior , Petar  Tsankov, Martin T Vechev. CCS '19.
-
-### 2018
-
-[security] [Securify: Practical Security Analysis of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3243734.3243780).
-
-Petar Tsankov, Andrei Dan, Dana Drachsler Cohen, Arthur Gervais, Florian Buenzli, Martin Vechev. CCS '18. 
-
-[security] [BitML: a calculus for Bitcoin smart contracts Massimo](https://dl.acm.org/doi/pdf/10.1145/3243734.3243795).
-
-Bartoletti, Roberto Zunino.
-
-### 2017
-
-[security] [Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing](https://dl.acm.org/doi/pdf/10.1145/3133956.3134032).
-
-Changyu Dong, Yilei Wang, Amjad Aldweesh, Patrick McCorry, Aad van Moorsel.
-
-### 2016
-
-[security] [Making Smart Contracts Smarter](https://dl.acm.org/doi/pdf/10.1145/2976749.2978309).
-
-Loi Luu, Duc-Hiep Chu, Hrishi Olickel, Prateek Saxena, Aquinas Hobor. CCS '16.
-
-[security] [Formal verification of smart contracts: Short paper](https://dl.acm.org/doi/10.1145/2993600.2993611).
-
-Bhargavan K,Delignat-Lavaud A,Fournet C. CCS '16.
-
-[security] [Town crier: An authenticated data feed for smart contracts](https://dl.acm.org/doi/pdf/10.1145/2976749.2978326).
-
-Fan Zhang, Ethan Cecchetti, Kyle Croman, Ari Juels, Elaine Shi. CCS '16.
-
----
-
-## USENIX Security
-
-### 2021
-
-[security] [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf).
-
-Liya Su, Xinyue Shen, Xiaojing Liao, XiaoFeng Wang, Luyi Xing.
-
-[security] [EOSAFE: Security Analysis of EOSIO Smart Contracts](http://sei.pku.edu.cn/~yaoguo/papers/He-Security-21.pdf).
-
-Ningyu He, Ruiyi Zhang, Lei Wu, Haoyu Wang, Xiapu Luo, Yao Guo, Ting Yu, Xuxian Jiang.
-
-[security] [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](http://prl.korea.ac.kr/~ssb920/papers/sec21.pdf).
-
-Sunbeom So, Seongjoon Hong, and Hakjoo Oh.
-
-[security] [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.doc.ic.ac.uk/~livshits/papers/pdf/usenixsec21.pdf).
-
-Daniel Perez, Benjamin Livshits.
-
-[security] [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf).
-
-Michael Rodler, University of Duisburg-Essen; Wenting Li and Ghassan O. Karame, NEC Laboratories Europe; Lucas Davi
-
-[security] [Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain](https://arxiv.org/abs/2102.03347).
-
-Christof Ferreira Torres, Ramiro Camino, Radu State.
-
-### 2020 
-
-[security] [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf).
-
-Joel Frank, Cornelius Aschermann, and Thorsten Holz. USENIX '20 Security Symposium.
-
-[security] [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf).
- 
-Mengya Zhang, Xiaokuan Zhang, Yinqian Zhang, and Zhiqiang Lin. USENIX '20 Security Symposium. 
-
-[security] [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf).
-
-Shunfan Zhou, Zhemin Yang, and Jie Xiang, Yinzhi Cao,Min Yang and Yuan Zhang. USENIX '20 Security Symposium.
-
-### 2019 
-
-[security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf).
-
-Torres C., Steichen M., State R. USENIX '19 Security Symposium.
-
-[application] [FastKitten: Practical Smart Contracts on Bitcoin]().
-
-Poulami Das, Lisa Eckey, Tommaso Frassetto, David Gens, Kristina Hostáková, Patrick Jauernig, Sebastian Faust, and Ahmad-Reza Sadeghi. USENIX '19 Security Symposium.
-
-### 2018 
-
-[security] [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf).
- 
-Yi Zhou, Deepak Kumar, Surya Bakshi, Joshua Mason, Andrew Miller, and Michael Bailey. USENIX '18 Security Symposium.
-
-[security] [teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf).
- 
-Johannes Krupp and Christian Rossow. USENIX '18 Security Symposium.
-
-[application] [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf).
- 
-Harry Kalodner, Steven Goldfeder, Xiaoqi Chen, S. Matthew Weinberg, Edward W. Felten. USENIX '18 Security Symposium.
-
-[security] [Enter the Hydra: Towards principled bug bounties and exploit-resistant smart contracts](https://eprint.iacr.org/2017/1090.pdf).
- 
-Breidenbach L,Daian P,Tramèr F. USENIX '18 Security Symposium.
-
-------
-
-## S&P
-
-### 2022
-
-[security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf)
- 
-Kaihua Qin, Liyi Zhou, Arthur Gervais. 
-
-[security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).
- 
-Priyanka Bose, Dipanjan Das, Yanju Chen, Yu Feng, Christopher Kruegel, Giovanni Vigna. 
-
-### 2021
-
-[security] [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf).
- 
-Jon Stephens, Kostas Ferles, Benjamin Mariano, Shuvendu Lahiri, Isil Dillig.
-
-[security] [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917).
- 
-Tai D. Nguyen, Long H. Pham, Jun Sun. IEEE S&P '21. 
-
-[finance] [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols]().
- 
-Liyi Zhou, Kaihua Qin, Antoine Cully, Benjamin Livshits, Arthur Gervais.
-
-[security] [Compositional Security for Reentrant Applications](https://arxiv.org/abs/2103.08577).
- 
-Ethan Cecchetti, Siqiu Yao, Haobin Ni, Andrew C. Myers.
-
-[security] [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf).
- 
-Liyi Zhou, Kaihua Qin, Christof Ferreira Torres, Duc V Le, Arthur Gervais.
-
-### 2020
-
-[security] [Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](https://par.nsf.gov/servlets/purl/10159474).
- 
-Philip Daian, Steven Goldfeder, T. Kell, Yunqi Li, Xueyuan Zhao, Iddo Bentov, Lorenz Breidenbach, A. Juels.
-
-[security] [VerX: Safety Verification of Smart Contracts]().
- 
-Anton Permenev, Dimitar Dimitrov, Petar Tsankov, Dana Drachsler-Cohen, Martin Vechev. IEEE S&P '20. 
-
-[security] [VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contracts]().
- 
-Sunbeom So, Myungho Lee, Jisu Park, Heejo Lee, Hakjoo Oh. IEEE S&P '20. 
-
-[security] [Executable Operational Semantics of Solidity](https://arxiv.org/pdf/1804.01295.pdf).
- 
-Jiao Jiao, Shuanglong Kan, Shang-Wei Lin, David Sanan, Yang Liu, Jun Sun. IEEE S&P '20. 
-
-### 2016
-
-[application] [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf).
- 
-Kosba A, Miller A, Shi E, Wen Z, Papamanthou C. S&P '16
-
----
-
-## NDSS
-
-### 2021
-
-[application] [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains]().
- 
-Karl Wüst, Loris Diana, and Kari Kostiainen (ETH Zurich); Ghassan Karame; Sinisa Matetic and Srdjan Capkun (ETH Zurich)
-
-[Sercurity] [As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3C-1_23108_paper.pdf).
- 
-Kai Li, Jiaqi Chen, Xianghong Liu, and Yuzhe Tang; XiaoFeng Wang; Xiapu Luo
-
-[Sercurity] [SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/abs/1912.01798).
- 
-Charlie Hou; Mingxun Zhou; Yan Ji and Phil Daian; Florian Tramèr; Giulia Fanti; Ari Juels
-
-### 2020
-
-[security] [SODA: A Generic Online Detection Framework for Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24449-paper.pdf).
- 
-Ting Chen, Rong Cao, Ting Li, Xiapu Luo, Guofei Gu, Yufei Zhang, Zhou Liao, Hang Zhu, Gang Chen, Zheyuan He, Yuxing Tang, Xiaodong Lin, and Xiaosong Zhang. NDSS '20.
-
-[security] [Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/pdf/1909.07220.pdf).
- 
-Daniel Perez, and Benjamin Livshits. NDSS '20.
-
-### 2019
-
-[security] [Seth: Protecting Existing Smart Contracts Against Re-Entrancy Attacks](https://arxiv.org/pdf/1812.05934.pdf).
- 
-Michael Rodler, Wenting Li and Ghassan Karame, Lucas Davi. NDSS '19.
-
-[security] [YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://arxiv.org/pdf/1811.03265.pdf).
- 
-Sourav Das, Vinay Joseph Ribeiro, and Abhijeet Anand. NDSS '19.
-
-[security] [Sereum: Protecting Existing Smart Contracts Against Re-Entrancy Attacks]().
- 
-Michael Rodler, Wenting Li, Ghassan O. Karame, Lucas Davi.
-
-### 2018
-
-[security] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf).
-
-Kalra S, Goel S, Dhawan M, Sharma S. NDSS '18.
-
-[security] [Chainspace: A Sharded Smart Contracts Platform]().
-
-Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
-
-
-
-------
-
-
 
 ## SOSP
 
