@@ -329,7 +329,7 @@ Mustafa Al-Bassam, Alberto Sonnino, Shehar Bano, Dave Hrycyszyn, George Danezis.
 
 ### 2022
 
-[security] [An Empirical Study of Blockchain System Vulnerabilities: Modules, Types, and Patterns]().
+[security] [An Empirical Study of Blockchain System Vulnerabilities: Modules, Types, and Patterns](https://dl.acm.org/doi/pdf/10.1145/3540250.3549105).
 
 Xiao Yi, Daoyuan Wu, Lingxiao Jiang, Yuzhou Fang, Kehuan Zhang, Wei Zhang.
 
@@ -592,8 +592,6 @@ Yang Chen, Zhongxin Guo, Runhuai Li, Shuo Chen, Lidong Zhou, Yajin Zhou, and Xia
 Youngseok Yang, Seoul National University; Taesoo Kim, Georgia Institute of Technology; Byung-Gon Chun, Seoul National University and FriendliAI.
 
 ---
-
-
 
 ## INFOCOM
 
