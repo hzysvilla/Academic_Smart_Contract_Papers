@@ -57,7 +57,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## S&P
 
-###2023
+### 2023
 
 [security] [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf)
 
@@ -339,7 +339,7 @@ Haoxian Chen, Gerald Whitters, Mohammad Javad Amiri, Yuepeng Wang, Boon Thau Loo
 
 ### 2021
 
-~~[security] [Towards Practical and Cost-Effective Batching of Smart-Contract Invocations on Ethereum]().
+~~[security] [iBatch: saving Ethereum fees via secure and cost-effective batching of smart-contract invocations](https://tristartom.github.io/docs/fse21-ibatch.pdf).
 Yibo Wang, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen.~~
 
 [security] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications](https://dl.acm.org/doi/pdf/10.1145/3468264.3468546).
@@ -597,11 +597,11 @@ Youngseok Yang, Seoul National University; Taesoo Kim, Georgia Institute of Tech
 
 ### 2021
 
-[application] [Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks]().
+[application] [Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks](https://ieeexplore.ieee.org/iel7/9488422/9488423/09488831.pdf).
 
 Yuhui Zhang, Dejun Yang, Guoliang Xue, Ruozhou Yu.
 
-[mine] [Characterizing Ethereum's Mining Power Decentralization at a Deeper Level]().
+[mine] [Characterizing Ethereum's Mining Power Decentralization at a Deeper Level](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/infocom-camready.pdf).
 
 Liyi Zeng, Yang Chen, Shuo Chen, Zhongxin Guo.
 
@@ -665,7 +665,7 @@ Hui Kang, Ting Dai, Nerla Jean-Louis and Shu Tao. Xiaohui Gu.  DSN '19
 
 ### 2018
 
-[security] [Towards Model-Driven Engineering of Smart Contracts for Cyber-Physical Systems]().
+[security] [Towards Model-Driven Engineering of Smart Contracts for Cyber-Physical Systems](https://ieeexplore.ieee.org/iel7/8415929/8416185/08416237.pdf).
 
 Peter Garamvolgyi, Imre Kocsis, Benjamin Gehl, Attila Klenik.
 
@@ -675,21 +675,21 @@ Peter Garamvolgyi, Imre Kocsis, Benjamin Gehl, Attila Klenik.
 
 ### 2021
 
-[security] [Practical Smart Contract Sharding with Ownership and Commutativity Analysis]().
+[security] [Practical Smart Contract Sharding with Ownership and Commutativity Analysis](https://dl.acm.org/doi/pdf/10.1145/3453483.3454112).
 
 George Pîrlea, Amrit Kumar, Ilya Sergey. 
 
 ### 2020
 
-[security] [Behavioral Simulation for Smart Contracts]().
+[security] [Behavioral Simulation for Smart Contracts](https://hal.archives-ouvertes.fr/hal-03597598/document).
 
 Sidi Mohamed Beillahi, Gabriela Ciocarlie, Michael Emmi, Constantin Enea. PLDI '2020
 
-[security] [Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities]().
+[security] [Ethainter: A Smart Contract Security Analyzer for Composite Vulnerabilities](https://www.nevillegrech.com/assets/pdf/ethainter-pldi.pdf).
 
 Lexi Brent, Neville Grech, Sifis Lagouvardos, Bernhard Scholz, Yannis Smaragdakis. PLDI '2020
 
-[Ssecurity] [Securing Smart Contract with Runtime Validation]().
+[Ssecurity] [Securing Smart Contract with Runtime Validation](https://arxiv.org/pdf/1911.12555.pdf).
 
 Ao Li, Jemin Andrew Choi, Fan Long. PLDI '2020
 
@@ -854,12 +854,12 @@ Neville Grech, Michael Kong, Anton Jurisevic, Lexi Brent, Bernhard Scholz, Yanni
 ## ACSAC
 
 ### 2021
-[security] [SolSaviour: A Defending Framework for Deployed Defective Smart Contracts]().
+[security] [SolSaviour: A Defending Framework for Deployed Defective Smart Contracts](https://www4.comp.polyu.edu.hk/~csbxiao/paper/2021/acsac21_SolSavioiur.pdf).
 
 Li Zecheng, Zhou Yu, Songtao Guo, Xiao Bin.
 
 ### 2019
-[security] [SmarTor: Smarter Tor with Smart Contracts]().
+[security] [SmarTor: Smarter Tor with Smart Contracts](https://www.informatik.uni-wuerzburg.de/didaktik/team/andre-greubel/?tx_extbibsonomycsl_publicationlist%5Baction%5D=download&tx_extbibsonomycsl_publicationlist%5Bcontroller%5D=Document&tx_extbibsonomycsl_publicationlist%5BfileName%5D=SmarTor.pdf&tx_extbibsonomycsl_publicationlist%5BintraHash%5D=f5a8e0042e500be98cb48615c72ac89e&tx_extbibsonomycsl_publicationlist%5BuserName%5D=andregreubel&cHash=f321d23048afc1cc7e895ac717393339).
 
 Andre Greubel, Alexandra Dmitrienko, Samuel Kounev.
 
