@@ -1066,6 +1066,10 @@ Bingyu Gao, Haoyu Wang, Pengcheng Xia, Siwei Wu, Yajin Zhou, Xiapu Luo, Gareth T
 
 W Chen, X Li, Y Sui, N He, H Wang, L Wu. SIGMETRICS2021
 
+[security] [Understanding (Mis)Behavior on the EOSIO Blockchain]().
+
+Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath . SIGMETRICS2020.
+
 [security] [Extracting Smart Contracts Tested and Verified in Coq]().
 
 Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. CPP2021
