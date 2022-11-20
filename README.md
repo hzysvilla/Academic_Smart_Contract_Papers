@@ -1058,6 +1058,10 @@ Abdullah A. Zarir, Gustavo Ansaldi Oliva, Zhen Ming (Jack) Jiang, Ahmed E. Hassa
 
 William Zhang, Sebastian Banescu, Leonardo Pasos, Steven T. Stewart, Vijay Ganesh. ISSRE2019
 
+[security] [Tracking Counterfeit Cryptocurrency End-to-end](https://research.polyu.edu.hk/en/publications/tracking-counterfeit-cryptocurrency-end-to-end).
+
+Bingyu Gao, Haoyu Wang, Pengcheng Xia, Siwei Wu, Yajin Zhou, Xiapu Luo, Gareth Tyson. SIGMETRICS2021
+
 [security] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).
 
 W Chen, X Li, Y Sui, N He, H Wang, L Wu. SIGMETRICS2021
