@@ -978,6 +978,10 @@ Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent 
 
 Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM
 
+[application] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
+
+Tao Li, Yaozheng Fang, Ye Lu, Jinni Yang, Zhaolong Jian, Zhiguo Wan, Yusen Li. TPDS
+
 [security] [TSecuring the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3560263). 
 
 Zibin Zheng, Weili Chen, Zhijie Zhong, Zhiguang Chen, Yutong Lu. TOSEM
