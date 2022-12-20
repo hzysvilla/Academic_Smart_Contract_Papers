@@ -994,6 +994,10 @@ Ye Wang, Patrick Zuest, Yaxing Yao, Zhicong Lu, Roger Wattenhofer. CHI 2022
 
 Leonardo Alt, Martin Blicha, Antti E. J. Hyvärinen & Natasha Sharygina. CAV 2022
 
+[security] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
+
+E.Albert, P Gordillo, A Rubio, MA Schett . CAV 2020
+
 [security] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts](https://dl.acm.org/doi/pdf/10.1145/3560264). 
 
 Fuchen Ma, Meng Ren, Lerong Ouyang, Yuanliang Chen, Juan Zhu, Ting Chen, Yingli Zheng, Xiao Dai, Yu Jiang, Jiaguang Sun. TOSEM2022
