@@ -978,6 +978,10 @@ Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent 
 
 Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM
 
+[security] [Challenges in decentralized name management: the case of ENS](https://dl.acm.org/doi/abs/10.1145/3517745.3561469). 
+
+Pengcheng Xia, Haoyu Wang, Zhou Yu, Xinyu Liu, Xiapu Luo, Guoai Xu, Gareth Tyson . IMC22
+
 [application] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
 
 Tao Li, Yaozheng Fang, Ye Lu, Jinni Yang, Zhaolong Jian, Zhiguo Wan, Yusen Li. TPDS
