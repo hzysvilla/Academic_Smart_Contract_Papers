@@ -339,9 +339,6 @@ Haoxian Chen, Gerald Whitters, Mohammad Javad Amiri, Yuepeng Wang, Boon Thau Loo
 
 ### 2021
 
-~~[security] [iBatch: saving Ethereum fees via secure and cost-effective batching of smart-contract invocations](https://tristartom.github.io/docs/fse21-ibatch.pdf).
-Yibo Wang, Qi Zhang, Kai Li, Yuzhe Tang, Jiaqi Chen, Xiapu Luo, Ting Chen.~~
-
 [security] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications](https://dl.acm.org/doi/pdf/10.1145/3468264.3468546).
 
 Wuqi Zhang, Lili Wei, Shuqing Li, Yepang Liu, Shing-Chi Cheung.
