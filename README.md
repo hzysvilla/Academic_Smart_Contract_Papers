@@ -592,6 +592,12 @@ Youngseok Yang, Seoul National University; Taesoo Kim, Georgia Institute of Tech
 
 ## INFOCOM
 
+### 2022
+
+[application] [S-Store: A Scalable Data Store towards Permissioned Blockchain Sharding](https://ieeexplore.ieee.org/document/9796800/).
+
+Xiaodong Qi.
+
 ### 2021
 
 [application] [Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks](https://ieeexplore.ieee.org/iel7/9488422/9488423/09488831.pdf).
@@ -899,6 +905,10 @@ Wing Kwong Chan, Bo Jian.
 
 ## WWW
 
+[security] [TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection]([https://dl.acm.org/doi/pdf/10.1145/3442381.3450059](https://arxiv.org/pdf/2204.13442)).
+
+Sijia Li, Gaopeng Gou, Chang Liu, Chengshang Hou, Zhenzhen Li, Gang Xiong.
+
 ### 2021
 
 [Finance] [Towards Understanding Cryptocurrency Derivatives:A Case Study of BitMEX](https://dl.acm.org/doi/pdf/10.1145/3442381.3450059).
@@ -974,6 +984,10 @@ Lexi Brent, Anton Jurisevic, Michael Kong, Eric Liu, Francois Gauthier, Vincent 
 [security] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
 
 Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM
+
+[MEV] [A flash(bot) in the pan: measuring maximal extractable value in private pools]([https://dl.acm.org/doi/abs/10.1145/3517745.3561469](https://dl.acm.org/doi/abs/10.1145/3517745.3561448)). 
+
+ Ben Weintraub, Christof Ferreira Torres, Cristina Nita-Rotaru, Radu State. IMC22
 
 [security] [Challenges in decentralized name management: the case of ENS](https://dl.acm.org/doi/abs/10.1145/3517745.3561469). 
 
