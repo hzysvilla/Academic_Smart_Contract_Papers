@@ -165,6 +165,9 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf).
 
+[security] [BlockSci: Design and applications of a blockchain analysis platform](https://www.usenix.org/system/files/sec20-kalodner.pdf)
+
+
 ### 2019 
 
 [security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf).
