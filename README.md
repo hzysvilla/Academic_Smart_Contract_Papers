@@ -171,6 +171,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [application] [FastKitten: Practical Smart Contracts on Bitcoin]().
 
+[security] [Tracing Transactions Across Cryptocurrency Ledgers](https://www.usenix.org/system/files/sec19-yousaf_0.pdf).
+
 ### 2018 
 
 [security] [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf).
