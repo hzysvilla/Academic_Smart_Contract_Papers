@@ -602,6 +602,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [Finance] [Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges](https://arxiv.org/pdf/2102.07001.pdf).
 
+[application] [Towards understanding and demystifying bitcoin mixing services](Towards Understanding and Demystifying Bitcoin Mixing Services).
+
 ### 2020
 
 [graph analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).
