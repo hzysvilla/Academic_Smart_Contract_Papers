@@ -288,7 +288,7 @@ Welcome developers or researchers to add more published paper to this list.
 ## ASE
 
 ### 2022
-[security] [Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing] (https://dl.acm.org/doi/pdf/10.1145/3551349.3560429).
+[security] [Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3551349.3560429).
 
 [security] [Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach]().
 
