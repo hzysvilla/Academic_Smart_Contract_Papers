@@ -634,7 +634,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2022
 
-[security] [SolType: Refinement Types for Solidity](https://arxiv.org/pdf/2110.00677.pdf).
+[security] [SolType: Refinement Types for Arithmetic Overflow in Solidity](https://dl.acm.org/doi/abs/10.1145/3498665).
 
 ------
 
