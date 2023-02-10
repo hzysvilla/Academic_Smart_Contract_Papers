@@ -190,6 +190,11 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## NDSS
 
+### 2023
+
+[security] [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf)
+
+
 ### 2021
 
 [application] [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains]().
