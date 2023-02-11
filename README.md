@@ -190,6 +190,11 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## NDSS
 
+### 2023
+
+[security] [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf)
+
+
 ### 2021
 
 [application] [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains]().
@@ -634,7 +639,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2022
 
-[security] [SolType: Refinement Types for Solidity](https://arxiv.org/pdf/2110.00677.pdf).
+[security] [SolType: Refinement Types for Arithmetic Overflow in Solidity](https://dl.acm.org/doi/abs/10.1145/3498665).
 
 ------
 
