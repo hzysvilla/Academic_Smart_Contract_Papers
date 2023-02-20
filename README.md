@@ -341,6 +341,11 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## ICSE
 
+
+### 2023
+
+[security] [Demystifying Exploitable Bugs in Smart Contracts](https://www.cs.purdue.edu/homes/zhan3299/res/ICSE23.pdf).
+
 ### 2022
 
 [security] [Utilizing Parallelism in Smart Contracts on Decentralized Blockchains by Taming Application-Inherent Conflicts](https://dl.acm.org/doi/pdf/10.1145/3510003.3510086).
