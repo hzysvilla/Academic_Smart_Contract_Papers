@@ -143,6 +143,10 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## USENIX Security
 
+### 2022
+
+[security] [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/system/files/sec22-kappos.pdf).
+
 ### 2021
 
 [security] [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf).
