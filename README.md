@@ -663,6 +663,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM
 
+[TSE][Checking smart contracts with structural code embedding](https://xin-xia.github.io/publication/tse201.pdf)
+
 [MEV] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). 
 
  Ben Weintraub, Christof Ferreira Torres, Cristina Nita-Rotaru, Radu State. IMC22
