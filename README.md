@@ -711,6 +711,8 @@ Faizan Khan, Istvan David, Daniel Varro, Shane McIntosh.
 
 Dabao Wang, Hang Feng, Siwei Wu, Yajin Zhou, Lei Wu, and Xingliang Yuan. Raid2022
 
+[Raid2022] [Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975) 
+
 [security] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf). 
 
 Xia, Pengcheng and Wang, Haoyu and Gao, Bingyu and Su, Weihang and Yu, Zhou and Luo, Xiapu and Zhang, Chao and Xiao, Xusheng and Xu, Guoai. POMACS2021
