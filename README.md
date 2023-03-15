@@ -667,6 +667,10 @@ Welcome developers or researchers to add more published paper to this list.
 
 Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM
 
+[TSE][Checking smart contracts with structural code embedding](https://xin-xia.github.io/publication/tse201.pdf)
+
+[ICPC][A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164)
+
 [MEV] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). 
 
  Ben Weintraub, Christof Ferreira Torres, Cristina Nita-Rotaru, Radu State. IMC22
@@ -714,6 +718,8 @@ Faizan Khan, Istvan David, Daniel Varro, Shane McIntosh.
 [security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf). 
 
 Dabao Wang, Hang Feng, Siwei Wu, Yajin Zhou, Lei Wu, and Xingliang Yuan. Raid2022
+
+[Raid2022] [Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975) 
 
 [security] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf). 
 
