@@ -143,6 +143,10 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## USENIX Security
 
+### 2023
+
+[security] [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://yueduan.github.io/pub/uschunt_usenix23.pdf).
+
 ### 2022
 
 [security] [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/system/files/sec22-kappos.pdf).
