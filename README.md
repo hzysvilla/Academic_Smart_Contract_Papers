@@ -117,6 +117,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417250).
 
+[security] [Bdos: Blockchain denial-of-service]().
+
 ### 2019
 [SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](https://dl.acm.org/doi/pdf/10.1145/3319535.3345664).
 
