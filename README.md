@@ -59,6 +59,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2023
 
+[security] [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/pdf/2208.13035.pdf)
+
 [security] [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf)
 
 [security] [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2023/9336/00/933600b186.pdf)
