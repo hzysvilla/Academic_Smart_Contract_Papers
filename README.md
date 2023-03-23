@@ -204,6 +204,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2023
 
+[security] [LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f78_paper.pdf)
+
 [security] [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf)
 
 
