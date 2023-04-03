@@ -357,6 +357,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 
 ### 2023
+[security] [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts]().
 
 [security] [Demystifying Exploitable Bugs in Smart Contracts](https://www.cs.purdue.edu/homes/zhan3299/res/ICSE23.pdf).
 
