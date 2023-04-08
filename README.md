@@ -674,6 +674,10 @@ Welcome developers or researchers to add more published paper to this list.
 
 Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM
 
+[security] [Synthesis-powered optimization of smart contracts via data type refactoring). 
+
+Yanju Chen, Yuepeng Wang, Maruth Goyal, James Dong , Yu Feng,  Işil Dillig.. OOSPLA
+
 [TSE][Checking smart contracts with structural code embedding](https://xin-xia.github.io/publication/tse201.pdf)
 
 [ICPC][A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164)
