@@ -615,6 +615,9 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## WWW
 
+### 2023
+[Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem]()
+
 ### 2022
 
 [security] [TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection](https://dl.acm.org/doi/pdf/10.1145/3442381.3450059).
