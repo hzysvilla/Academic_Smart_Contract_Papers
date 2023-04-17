@@ -309,7 +309,7 @@ Welcome developers or researchers to add more published paper to this list.
 ### 2022
 [security] [Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3551349.3560429).
 
-[security] [Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach]().
+[security] [Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach](https://dl.acm.org/doi/abs/10.1145/3551349.3560428).
 
 [security] [Identifying Solidity Smart Contract API Documentation Errors](https://personal.ntu.edu.sg/yi_li/files/Zhu2022ISS.pdf).
 
@@ -321,7 +321,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Characterizing Transaction-Reverting Statements in Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9678597).
 
-[security] [SMARTIAN: Enhancing Smart Contract Fuzzing with Static and Dynamic Analyses](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9678888).
+[security] [SMARTIAN: Enhancing Smart Contract Fuzzing with Static and Dynamic Analyses](https://ieeexplore.ieee.org/document/9678888).
 
 [security] [SigRec: Automatic Recovery of Function Signatures in Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9426396).
 
@@ -555,11 +555,11 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2021
 
-[security] [Symbolic Value-Flow Static Analysis: Deep, Precise, Complete Modeling of Ethereum Smart Contracts]().
+[security] [Symbolic Value-Flow Static Analysis: Deep, Precise, Complete Modeling of Ethereum Smart Contracts](https://dl.acm.org/doi/10.1145/3485540).
 
-[security] [Rich Specifications for Ethereum Smart Contract Verification]().
+[security] [Rich Specifications for Ethereum Smart Contract Verification](https://dl.acm.org/doi/10.1145/3485523).
 
-[security] [Pluto: Exposing Vulnerabilities in Inter-Contract Scenarios]().
+[security] [Pluto: Exposing Vulnerabilities in Inter-Contract Scenarios](https://ieeexplore.ieee.org/abstract/document/9562567).
 
 ### 2020
 
