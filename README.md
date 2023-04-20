@@ -33,6 +33,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 - [European Symposium on Research in Computer Security(ESORICS)](#esorics) 
 
+- [IEEE European Symposium on Security and Privacy](EuroSP)
+
 - [IEEE International Conference on Software Analysis, Evolution and Reengineering(SANER)](#saner) 
 
 - [Object-Oriented Programming, Systems, Languages & Applications(OOPSLA)](#oopsla) 
@@ -382,7 +384,6 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Gap between Theory and Practice : An Empirical Study of Security Patches in Solidity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9283944).
 
-
 [security] [Seraph: Enabling Cross-Platform Security Analysis For EVM and WASM Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9270363).
 
 ### 2019
@@ -512,6 +513,12 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [In Code We Trust? - Measuring the Control Flow Immutability of All Smart Contracts Deployed on Ethereum]().
 
 ------
+
+## Eurosp
+
+### 2023
+
+[security] [EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation]().
 
 ## SANER
 
