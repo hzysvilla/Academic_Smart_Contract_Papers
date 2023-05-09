@@ -100,6 +100,11 @@ Welcome developers or researchers to add more published paper to this list.
 ---
 
 ## CCS
+
+### 2023
+
+[security] [Demystifying DeFi MEV Activities in Flashbots Bundle]()
+
 ### 2022 
 
 [security] [Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security](https://arxiv.org/pdf/2201.05574.pdf).
@@ -244,6 +249,10 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [Chainspace: A Sharded Smart Contracts Platform]().
 
 ## ESEC/FSE
+
+### 2023
+
+[security] [DeepInfer: Deep Type Inference from Smart Contract Bytecode]()
 
 ### 2022
 
