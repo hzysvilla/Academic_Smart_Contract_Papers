@@ -570,7 +570,7 @@ Welcome developers or researchers to add more published paper to this list.
 ## OOPSLA
 
 ### 2022
-
+[security] [Synthesis-powered optimization of smart contracts via data type refactoring](https://dl.acm.org/doi/pdf/10.1145/3563308)
 [security] [Elipmoc: Advanced Decompilation of Ethereum Smart Contracts](https://yanniss.github.io/elipmoc-oopsla22.pdf).
 
 ### 2021
@@ -693,13 +693,9 @@ Welcome developers or researchers to add more published paper to this list.
 ------
 
 ## OTHERS
-[security] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
+[TOSEM] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
 
 Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM
-
-[security] [Synthesis-powered optimization of smart contracts via data type refactoring). 
-
-Yanju Chen, Yuepeng Wang, Maruth Goyal, James Dong , Yu Feng,  Işil Dillig.. OOSPLA
 
 [TSE][Checking smart contracts with structural code embedding](https://xin-xia.github.io/publication/tse201.pdf)
 
