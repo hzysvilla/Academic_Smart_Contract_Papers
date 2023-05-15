@@ -371,7 +371,6 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## ICSE
 
-
 ### 2023
 [security] [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts]().
 
@@ -429,10 +428,6 @@ Welcome developers or researchers to add more published paper to this list.
 ---
 
 ## INFOCOM
-
-### 2023
-
-[security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf)
 
 ### 2022
 
@@ -642,6 +637,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2023
 [Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem]()
+
+[security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf)]
 
 ### 2022
 
