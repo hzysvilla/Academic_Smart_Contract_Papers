@@ -430,6 +430,10 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## INFOCOM
 
+### 2023
+
+[security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf)
+
 ### 2022
 
 [application] [S-Store: A Scalable Data Store towards Permissioned Blockchain Sharding](https://ieeexplore.ieee.org/document/9796800/).
