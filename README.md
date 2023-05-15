@@ -127,6 +127,7 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [Bdos: Blockchain denial-of-service]().
 
 ### 2019
+
 [SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](https://dl.acm.org/doi/pdf/10.1145/3319535.3345664).
 
 [security] [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363230).
