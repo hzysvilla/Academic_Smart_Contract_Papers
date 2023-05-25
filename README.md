@@ -288,6 +288,15 @@ Welcome developers or researchers to add more published paper to this list.
 
 ## ISSTA
 
+### 2023
+
+[security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract]()
+
+[security] [DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols]()
+
+[security] [Definition and Detection of Defects in NFT Smart Contracts]()
+
+
 ### 2022
 
 [security] [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218).
@@ -375,6 +384,8 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts]().
 
 [security] [Demystifying Exploitable Bugs in Smart Contracts](https://www.cs.purdue.edu/homes/zhan3299/res/ICSE23.pdf).
+
+[security] [Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum]()
 
 ### 2022
 
@@ -534,6 +545,10 @@ Welcome developers or researchers to add more published paper to this list.
 [security] [EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation]().
 
 ## SANER
+
+### 2023
+
+[security] [Automatic Identification of Crash-inducing Smart Contracts]()
 
 ### 2021
 
