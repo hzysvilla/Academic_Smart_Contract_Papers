@@ -652,7 +652,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 [Finance] [Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges](https://arxiv.org/pdf/2102.07001.pdf).
 
-[application] [Towards understanding and demystifying bitcoin mixing services](Towards Understanding and Demystifying Bitcoin Mixing Services).
+[application] [Towards understanding and demystifying bitcoin mixing services]().
 
 ### 2020
 
