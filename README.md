@@ -118,6 +118,8 @@ Welcome developers or researchers to add more published paper to this list.
 ### 2021
 [security] [DETER: Denial of Ethereum Txpool sERvices](https://dl.acm.org/doi/pdf/10.1145/3460120.3485369).
 
+[security] [SyncAttack: Double-spending in Bitcoin Without Mining Power](https://dl.acm.org/doi/pdf/10.1145/3460120.3484568).
+
 ### 2020
 
 [security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417243).
