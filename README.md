@@ -104,7 +104,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2023
 
-[security] [Demystifying DeFi MEV Activities in Flashbots Bundle]()
+[security] [Demystifying DeFi MEV Activities in Flashbots Bundle]().
 
 ### 2022 
 
