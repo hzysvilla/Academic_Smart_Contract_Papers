@@ -33,7 +33,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 - [European Symposium on Research in Computer Security(ESORICS)](#esorics) 
 
-- [IEEE European Symposium on Security and Privacy](EuroSP)
+- [IEEE European Symposium on Security and Privacy](#EuroSP)
 
 - [IEEE International Conference on Software Analysis, Evolution and Reengineering(SANER)](#saner) 
 
@@ -88,7 +88,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](https://par.nsf.gov/servlets/purl/10159474).
 
-[security] [VerX: Safety Verification of Smart Contracts]().
+[security] [VerX: Safety Verification of Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/sp20-verx.pdf).
 
 [security] [VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contracts]().
 
@@ -589,6 +589,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2022
 [security] [Synthesis-powered optimization of smart contracts via data type refactoring](https://dl.acm.org/doi/pdf/10.1145/3563308)
+
 [security] [Elipmoc: Advanced Decompilation of Ethereum Smart Contracts](https://yanniss.github.io/elipmoc-oopsla22.pdf).
 
 ### 2021
