@@ -292,6 +292,7 @@ Welcome developers or researchers to add more published paper to this list.
 ## ISSTA
 
 ### 2023
+[security] [ItyFuzz: Snapshot-Based Fuzzer for Smart Contract](https://arxiv.org/pdf/2306.17135)
 
 [security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract]()
 
