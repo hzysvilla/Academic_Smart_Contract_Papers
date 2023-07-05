@@ -114,6 +114,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [VRust: Automated Vulnerability Detection for Solana Smart Contracts]().
 
+[security] [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration](https://github.com/jianyu-niu/blockchain_conference_paper/blob/master). 
+
 [security] [Understanding Security Issues in the NFT Ecosystem](https://arxiv.org/pdf/2111.08893.pdf).
 
 ### 2021
@@ -159,6 +161,7 @@ Welcome developers or researchers to add more published paper to this list.
 ## USENIX Security
 
 ### 2023
+[security] [Panda: Security Analysis of Algorand Smart Contracts]()
 
 [security] [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://yueduan.github.io/pub/uschunt_usenix23.pdf).
 
@@ -216,6 +219,7 @@ Welcome developers or researchers to add more published paper to this list.
 ## NDSS
 
 ### 2023
+[security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/)
 
 [security] [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf)
 
