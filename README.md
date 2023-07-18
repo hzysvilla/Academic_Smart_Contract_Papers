@@ -296,6 +296,8 @@ Welcome developers or researchers to add more published paper to this list.
 ## ISSTA
 
 ### 2023
+[security] [Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3597926.3598057).
+
 [security] [ItyFuzz: Snapshot-Based Fuzzer for Smart Contract](https://arxiv.org/pdf/2306.17135)
 
 [security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract]()
