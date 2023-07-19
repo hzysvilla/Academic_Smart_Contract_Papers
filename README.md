@@ -716,6 +716,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2018
 
+ [security] [Online detection of effectively callback free objects with applications to smart contracts](https://dl.acm.org/doi/pdf/10.1145/3158136).
+
 [security] [Vandal: A Scalable Security Analysis Framework for Smart Contracts](https://arxiv.org/abs/1809.03981).
 
 ------
