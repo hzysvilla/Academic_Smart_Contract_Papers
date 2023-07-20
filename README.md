@@ -60,16 +60,17 @@ Welcome developers or researchers to add more published paper to this list.
 ## S&P
 
 ### 2023
-[financail] [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)]()
 
-[security] [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/pdf/2208.13035.pdf)
+[financail] [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://roibarzur.github.io/assets/pdfs/werlman-systor-poster-2022.pdf).
 
-[security] [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf)
+[security] [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/pdf/2208.13035.pdf).
 
-[security] [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2023/9336/00/933600b186.pdf)
+[security] [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf).
+
+[security] [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2023/9336/00/933600b186.pdf).
 
 ### 2022
-[security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf)
+[security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf).
 
 [security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).
 
@@ -161,7 +162,8 @@ Welcome developers or researchers to add more published paper to this list.
 ## USENIX Security
 
 ### 2023
-[security] [Panda: Security Analysis of Algorand Smart Contracts]()
+
+[security] [Panda: Security Analysis of Algorand Smart Contracts]().
 
 [security] [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://yueduan.github.io/pub/uschunt_usenix23.pdf).
 
@@ -219,13 +221,13 @@ Welcome developers or researchers to add more published paper to this list.
 ## NDSS
 
 ### 2023
-[security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/)
+[security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/).
 
-[security] [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf)
+[security] [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf).
 
-[security] [LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f78_paper.pdf)
+[security] [LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f78_paper.pdf).
 
-[security] [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf)
+[security] [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf).
 
 
 ### 2021
@@ -260,7 +262,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2023
 
-[security] [DeepInfer: Deep Type Inference from Smart Contract Bytecode]()
+[security] [DeepInfer: Deep Type Inference from Smart Contract Bytecode]().
 
 ### 2022
 
@@ -296,6 +298,14 @@ Welcome developers or researchers to add more published paper to this list.
 ## ISSTA
 
 ### 2023
+
+[security] [SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis]().
+
+[security] [iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements]().
+
+[security] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf).
+
+[security] [Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode]().
 
 [security] [Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3597926.3598057).
 
@@ -343,6 +353,7 @@ Welcome developers or researchers to add more published paper to this list.
 ## ASE
 
 ### 2022
+
 [security] [Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3551349.3560429).
 
 [security] [Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach](https://dl.acm.org/doi/abs/10.1145/3551349.3560428).
@@ -393,9 +404,9 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2023
 
-[security] [SmartMark: Software Watermarking Scheme for Smart Contracts]()
+[security] [SmartMark: Software Watermarking Scheme for Smart Contracts]().
 
-[security] [AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities]()
+[security] [AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities]().
 
 [security] [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts]().
 
@@ -668,9 +679,10 @@ Welcome developers or researchers to add more published paper to this list.
 ## WWW
 
 ### 2023
-[Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem]()
 
-[security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf)]
+[Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](),
+
+[security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf).
 
 ### 2022
 
@@ -698,7 +710,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2020
 
-[security] [TinyEVM: Off-Chain Smart Contracts on Low-Power IoT Devices]().
+[security] [TinyEVM: Off-Chain Smart Contracts on Low-Power IoT Devices](https://www.ds.informatik.uni-kiel.de/en/publications/papers/2020-07-ICDCS-Profentzas-TinyEVM.pdf).
 
 ### 2019
 
@@ -737,151 +749,79 @@ Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He
 
 [ICPC][A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164)
 
-[MEV] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). 
+[IMC22] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). 
 
- Ben Weintraub, Christof Ferreira Torres, Cristina Nita-Rotaru, Radu State. IMC22
+[IMC22] [Challenges in decentralized name management: the case of ENS](https://dl.acm.org/doi/abs/10.1145/3517745.3561469). 
 
-[security] [Challenges in decentralized name management: the case of ENS](https://dl.acm.org/doi/abs/10.1145/3517745.3561469). 
+[IMC21] [TopoShot: uncovering Ethereum's network topology leveraging replacement transactions](https://dl.acm.org/doi/abs/10.1145/3487552.3487814). 
 
-Pengcheng Xia, Haoyu Wang, Zhou Yu, Xinyu Liu, Xiapu Luo, Guoai Xu, Gareth Tyson . IMC22
+[TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
 
-[security] [TopoShot: uncovering Ethereum's network topology leveraging replacement transactions](https://dl.acm.org/doi/abs/10.1145/3487552.3487814). 
+[TOSEM] [TSecuring the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3560263). 
 
-Kai Li,  Yuzhe Tang,  Jiaqi Chen,  Yibo Wang,  Xianghong Liu. IMC21
+[CHI 2022] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585). 
 
-[application] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
+[CAV 2022] [SolCMC: Solidity Compiler’s Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf). 
 
-Tao Li, Yaozheng Fang, Ye Lu, Jinni Yang, Zhaolong Jian, Zhiguo Wan, Yusen Li. TPDS
+[CAV 2020] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
 
-[security] [TSecuring the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3560263). 
+[TOSEM] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts](https://dl.acm.org/doi/pdf/10.1145/3560264). 
 
-Zibin Zheng, Weili Chen, Zhijie Zhong, Zhiguang Chen, Yutong Lu. TOSEM
+[TOSEM] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum](https://arxiv.org/pdf/2005.08278.pdf). 
 
-[security] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585). 
+[TSE] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study](https://arxiv.org/pdf/2005.08278.pdf). 
 
-Ye Wang, Patrick Zuest, Yaxing Yao, Zhicong Lu, Roger Wattenhofer. CHI 2022
-
-[security] [SolCMC: Solidity Compiler’s Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf). 
-
-Leonardo Alt, Martin Blicha, Antti E. J. Hyvärinen & Natasha Sharygina. CAV 2022
-
-[security] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
-
-E.Albert, P Gordillo, A Rubio, MA Schett . CAV 2020
-
-[security] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts](https://dl.acm.org/doi/pdf/10.1145/3560264). 
-
-Fuchen Ma, Meng Ren, Lerong Ouyang, Yuanliang Chen, Juan Zhu, Ting Chen, Yingli Zheng, Xiao Dai, Yu Jiang, Jiaguang Sun. TOSEM2022
-
-[security] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum](https://arxiv.org/pdf/2005.08278.pdf). 
-
-Siwei Wu, Lei Wu, Yajin Zhou, Runhuai Li, Zhi Wang, Xiapu Luo, Cong Wang, Kui Ren. TOSEM2022
-
-[security] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study](https://arxiv.org/pdf/2005.08278.pdf). 
-
-Faizan Khan, Istvan David, Daniel Varro, Shane McIntosh.
-
-[security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf). 
-
-Dabao Wang, Hang Feng, Siwei Wu, Yajin Zhou, Lei Wu, and Xingliang Yuan. Raid2022
+[Raid2022] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf). 
 
 [Raid2022] [Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975) 
 
-[security] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf). 
+[POMACS2021] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf). 
 
-Xia, Pengcheng and Wang, Haoyu and Gao, Bingyu and Su, Weihang and Yu, Zhou and Luo, Xiapu and Zhang, Chao and Xiao, Xusheng and Xu, Guoai. POMACS2021
+[Usenix ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). 
 
-[application] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). 
+[ICPC 2020] [Inheritance software metrics on smart contracts](). 
 
-Yeonsoo Kim and Seongho Jeong, Kamil Jezek, Bernd Burgstaller, Bernhard Scholz. Usenix ATC22.
+[ICPC 2019] [Recommending Differentiated Code to Support Smart Contract Update](). 
 
-[security] [Inheritance software metrics on smart contracts](). 
+[ICPC 2019] [Enabling clone detection for ethereum via smart contract birthmarks](). 
 
-Ashish Rajendra Sai, Conor Holmes, Jim Buckley, Andrew Le Gear. ICPC '2020
+[WETSEB 2018] [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445052). 
 
-[security] [Recommending Differentiated Code to Support Smart Contract Update](). 
+[EDCC 2018] [Runtime Verification of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8530777).
 
-Yuan Huang, Queping Kong, Nan Jia, Xiangping Chen, Zibin Zheng. ICPC '2019
+[ICSCA 2018] [Formal Modeling and Verification of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3185089.3185138).
 
-[security] [Enabling clone detection for ethereum via smart contract birthmarks](). 
+[SRDS 2020] [Protect Your Smart Contract Against Unfair Payment]().
 
-Han Liu, Zhiqiang Yang, Yu Jiang, Wenqi Zhao, Jiaguang Sun. ICPC '2019
+[SRDS 2020] [TZ4Fabric: Executing Smart Contracts with ARM TrustZone (Practical Experience Report)]().
 
-[security] [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445052). 
+[IJCAI 2020] [Smart Contract Vulnerability Detection Using Graph Neural Networks]().
 
-Sergei Tikhomirov, Ekaterina Voskresenskaya, Ivan Ivanitskiy, Ramil Takhaviev, Evgeny Marchenko, Yaroslav Alexandrov. WETSEB '2018
+[RAID2019] [Towards a first step to understand the cryptocurrency stealing attack on ethereum]().
 
-[security] [Runtime Verification of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8530777).
+[TOSEM] [Developing Cost-Effective Blockchain-Powered Applications: A Case Study of the Gas Usage of Smart Contract Transactions in the Ethereum Blockchain Platform]().
 
-Joshua Ellul, Gordon J. Pace. EDCC '2018
+[ISSRE2019] [MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contract](https://arxiv.org/pdf/1911.00570.pdf).
 
-[security] [Formal Modeling and Verification of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3185089.3185138).
+[SIGMETRICS2021] [Tracking Counterfeit Cryptocurrency End-to-end](https://research.polyu.edu.hk/en/publications/tracking-counterfeit-cryptocurrency-end-to-end).
 
-X. Bai, Zijing Cheng. ICSCA '2018
+[SIGMETRICS2021] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).
 
-[security] [Protect Your Smart Contract Against Unfair Payment]().
+[SIGMETRICS2020] [Understanding (Mis)Behavior on the EOSIO Blockchain]().
 
-Yue Li, Han Liu, Zhiqiang Yang, Bin Wang, Qian Ren, Lei Wang and Bangdao Chen. SRDS '2020
+[CPP2021] [Extracting Smart Contracts Tested and Verified in Coq]().
 
-[security] [TZ4Fabric: Executing Smart Contracts with ARM TrustZone (Practical Experience Report)]().
+[TOSEM] [Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum]().
 
-Christina Müller, Marcus Brandenburger, Christian Cachin, Pascal Felber, Christian Göttel and Valerio Schiavoni. SRDS '2020
+[TSE] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts]().
 
-[security] [Smart Contract Vulnerability Detection Using Graph Neural Networks]().
+[SAC2022] [Model checking of vulnerabilities in smart contracts: a solidity-to-CPN approach]().
 
-Yuan Zhuang, Zhenguang Liu, Peng Qian, Qi Liu, Xiang Wang, Qinming He. IJCAI'20
+[TSE22] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode]().
 
-[security] [Towards a first step to understand the cryptocurrency stealing attack on ethereum]().
+[ICPC2022] [An Empirical Investigation on the Trade-off between Smart Contract Readability and Gas Consumption]().
 
-Zhen Cheng, Xinrui Hou, Runhuai Li, Yajin Zhou, Xiapu Luo, Jinku Li, Kui Ren. RAID2019
-
-[application] [Developing Cost-Effective Blockchain-Powered Applications: A Case Study of the Gas Usage of Smart Contract Transactions in the Ethereum Blockchain Platform]().
-
-Abdullah A. Zarir, Gustavo Ansaldi Oliva, Zhen Ming (Jack) Jiang, Ahmed E. Hassan.
-
-[security] [MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contract](https://arxiv.org/pdf/1911.00570.pdf).
-
-William Zhang, Sebastian Banescu, Leonardo Pasos, Steven T. Stewart, Vijay Ganesh. ISSRE2019
-
-[security] [Tracking Counterfeit Cryptocurrency End-to-end](https://research.polyu.edu.hk/en/publications/tracking-counterfeit-cryptocurrency-end-to-end).
-
-Bingyu Gao, Haoyu Wang, Pengcheng Xia, Siwei Wu, Yajin Zhou, Xiapu Luo, Gareth Tyson. SIGMETRICS2021
-
-[security] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).
-
-W Chen, X Li, Y Sui, N He, H Wang, L Wu. SIGMETRICS2021
-
-[security] [Understanding (Mis)Behavior on the EOSIO Blockchain]().
-
-Aditya Gopalan, Abishek Sankararaman, Anwar Walid, Sriram Vishwanath . SIGMETRICS2020.
-
-[security] [Extracting Smart Contracts Tested and Verified in Coq]().
-
-Danil Annenkov, Mikkel Milo, Jakob Botsch Nielsen, Bas Spitters. CPP2021
-
-[security] [Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum]().
-
-Jiachi Chen， Xin Xia, David Lo, John Grundy. TOSEM 2021
-
-[security] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts]().
-
-Zhou Liao, Shuwei Song, Hang Zhu, Xiapu Luo, Zheyuan He, Renkai Jiang, Ting Chen, Jiachi Chen, Tao Zhang, and Xiao-song Zhang. TSE22
-
-[security] [Model checking of vulnerabilities in smart contracts: a solidity-to-CPN approach]().
-
-Ikram Garfatta, Kaïs Klai, Mohamed Graïet, Walid Gaaloul. SAC2022
-
-[security] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode]().
-
-Jiachi Chen, Xin Xia, David Lo, John Grundy, Xiapu Luo, Ting Chen. TSE22
-
-[security] [An Empirical Investigation on the Trade-off between Smart Contract Readability and Gas Consumption]().
-
-Anna Vacca; Michele Fredella; Andrea Di Sorbo; Corrado A. Visaggio; Gerardo Canfora. (ICPC2022)
-
-[security] [Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques]().
-
-Yihao, QinBo, LinXiaoguang, MaoYan, LeiZhuo, ZhangShangwen Wang. (ISSRE 2021)
+[ICPC2022] [Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques]().
 
 ## License
 
