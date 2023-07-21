@@ -745,6 +745,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM
 
+[VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System]()
+
 [TSE][Checking smart contracts with structural code embedding](https://xin-xia.github.io/publication/tse201.pdf)
 
 [ICPC][A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164)
