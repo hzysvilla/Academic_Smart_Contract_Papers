@@ -221,6 +221,7 @@ Welcome developers or researchers to add more published paper to this list.
 ## NDSS
 
 ### 2023
+
 [security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/).
 
 [security] [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf).
@@ -311,11 +312,11 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [ItyFuzz: Snapshot-Based Fuzzer for Smart Contract](https://arxiv.org/pdf/2306.17135)
 
-[security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract]()
+[security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract]().
 
-[security] [DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols]()
+[security] [DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols]().
 
-[security] [Definition and Detection of Defects in NFT Smart Contracts]()
+[security] [Definition and Detection of Defects in NFT Smart Contracts]().
 
 
 ### 2022
@@ -743,13 +744,11 @@ Welcome developers or researchers to add more published paper to this list.
 ## OTHERS
 [TOSEM] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
 
-Zheyuan He, Shuwei Song, Yang Bai, Xiapu Luo, Ting Chen, Wensheng Zhang, Peng He, Hongwei Li, Xiaodong Lin, Xiaosong Zhang. TOSEM
+[VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System]().
 
-[VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System]()
+[TSE][Checking smart contracts with structural code embedding](https://xin-xia.github.io/publication/tse201.pdf).
 
-[TSE][Checking smart contracts with structural code embedding](https://xin-xia.github.io/publication/tse201.pdf)
-
-[ICPC][A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164)
+[ICPC][A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164).
 
 [IMC22] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). 
 
