@@ -33,7 +33,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 - [European Symposium on Research in Computer Security(ESORICS)](#esorics) 
 
-- [IEEE European Symposium on Security and Privacy](#EuroSP)
+- [IEEE European Symposium on Security and Privacy(Eurosp)](#EuroSP)
 
 - [IEEE International Conference on Software Analysis, Evolution and Reengineering(SANER)](#saner) 
 
