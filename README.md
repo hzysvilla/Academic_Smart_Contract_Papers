@@ -680,12 +680,15 @@ Welcome developers or researchers to add more published paper to this list.
 ## WWW
 
 ### 2023
+[Finance] [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://arxiv.org/abs/2201.09035).
 
-[Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](),
+[Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://github.com/wuzhy1ng/MoTS/blob/master/MoTS_WWW_2023_manuscript.pdf).
 
 [security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf).
 
 ### 2022
+
+[Finance] [Cyclic Arbitrage in Decentralized Exchanges](https://arxiv.org/pdf/2105.02784.pdf).
 
 [security] [TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection](https://dl.acm.org/doi/pdf/10.1145/3442381.3450059).
 
