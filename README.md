@@ -91,7 +91,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [VerX: Safety Verification of Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/sp20-verx.pdf).
 
-[security] [VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contracts]().
+[security] [VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contracts](https://arxiv.org/pdf/1908.11227.pdf).
 
 [security] [Executable Operational Semantics of Solidity](https://arxiv.org/pdf/1804.01295.pdf).
 
@@ -163,7 +163,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2023
 
-[security] [Panda: Security Analysis of Algorand Smart Contracts]().
+[security] [Panda: Security Analysis of Algorand Smart Contracts](https://arxiv.org/pdf/2009.02663).
 
 [security] [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://yueduan.github.io/pub/uschunt_usenix23.pdf).
 
@@ -747,11 +747,31 @@ Welcome developers or researchers to add more published paper to this list.
 ## OTHERS
 [TOSEM] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
 
+[TOSEM] [TSecuring the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3560263).
+
+[TOSEM] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts](https://dl.acm.org/doi/pdf/10.1145/3560264). 
+
+[TOSEM] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum](https://arxiv.org/pdf/2005.08278.pdf). 
+
+[TOSEM] [Developing Cost-Effective Blockchain-Powered Applications: A Case Study of the Gas Usage of Smart Contract Transactions in the Ethereum Blockchain Platform](https://dl.acm.org/doi/pdf/10.1145/3431726).
+
+[TOSEM] [Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum]().
+
 [VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System]().
 
-[TSE][Checking smart contracts with structural code embedding](https://xin-xia.github.io/publication/tse201.pdf).
+[TSE22] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663).
 
-[ICPC][A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164).
+[TSE] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts](https://drive.google.com/file/d/111l8_vf7Gt7RxygjuBM8WQWLTQL700jY/view?pli=1).
+
+[TSE] [Checking smart contracts with structural code embedding](https://xin-xia.github.io/publication/tse201.pdf).
+
+[TSE] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study](https://arxiv.org/pdf/2005.08278.pdf). 
+
+[TSE] [Defining smart contract defects on ethereum](https://arxiv.org/pdf/1905.01467). 
+
+[TSE] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study]().
+
+[ICPC] [A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164).
 
 [IMC22] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). 
 
@@ -759,9 +779,9 @@ Welcome developers or researchers to add more published paper to this list.
 
 [IMC21] [TopoShot: uncovering Ethereum's network topology leveraging replacement transactions](https://dl.acm.org/doi/abs/10.1145/3487552.3487814). 
 
-[TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
+[IMC18] [analyzing ethereum's contract topology](https://dl.acm.org/doi/pdf/10.1145/3278532.3278575). 
 
-[TOSEM] [TSecuring the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3560263). 
+[TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
 
 [CHI 2022] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585). 
 
@@ -769,19 +789,19 @@ Welcome developers or researchers to add more published paper to this list.
 
 [CAV 2020] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
 
-[TOSEM] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts](https://dl.acm.org/doi/pdf/10.1145/3560264). 
-
-[TOSEM] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum](https://arxiv.org/pdf/2005.08278.pdf). 
-
-[TSE] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study](https://arxiv.org/pdf/2005.08278.pdf). 
-
 [Raid2022] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf). 
 
 [Raid2022] [Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975) 
 
+[RAID2019] [Towards a first step to understand the cryptocurrency stealing attack on ethereum](https://www.usenix.org/system/files/raid2019-cheng.pdf).
+
 [POMACS2021] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf). 
 
 [Usenix ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). 
+
+[ICPC2022] [An Empirical Investigation on the Trade-off between Smart Contract Readability and Gas Consumption]().
+
+[ICPC2022] [Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques]().
 
 [ICPC 2020] [Inheritance software metrics on smart contracts](). 
 
@@ -801,10 +821,6 @@ Welcome developers or researchers to add more published paper to this list.
 
 [IJCAI 2020] [Smart Contract Vulnerability Detection Using Graph Neural Networks]().
 
-[RAID2019] [Towards a first step to understand the cryptocurrency stealing attack on ethereum]().
-
-[TOSEM] [Developing Cost-Effective Blockchain-Powered Applications: A Case Study of the Gas Usage of Smart Contract Transactions in the Ethereum Blockchain Platform]().
-
 [ISSRE2019] [MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contract](https://arxiv.org/pdf/1911.00570.pdf).
 
 [SIGMETRICS2021] [Tracking Counterfeit Cryptocurrency End-to-end](https://research.polyu.edu.hk/en/publications/tracking-counterfeit-cryptocurrency-end-to-end).
@@ -815,17 +831,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 [CPP2021] [Extracting Smart Contracts Tested and Verified in Coq]().
 
-[TOSEM] [Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum]().
-
-[TSE] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts]().
-
 [SAC2022] [Model checking of vulnerabilities in smart contracts: a solidity-to-CPN approach]().
-
-[TSE22] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode]().
-
-[ICPC2022] [An Empirical Investigation on the Trade-off between Smart Contract Readability and Gas Consumption]().
-
-[ICPC2022] [Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques]().
 
 ## License
 
