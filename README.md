@@ -799,6 +799,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [Usenix ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). 
 
+[HPCA20] [BBS: Micro-Architecture Benchmarking Blockchain Systems through Machine Learning and Fuzzy Set]().
+
 [ICPC2022] [An Empirical Investigation on the Trade-off between Smart Contract Readability and Gas Consumption]().
 
 [ICPC2022] [Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques]().
