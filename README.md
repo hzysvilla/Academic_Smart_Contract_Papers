@@ -169,6 +169,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf).
 
+[security] [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://www.usenix.org/system/files/sec23fall-prepub-515-mclaughlin.pdf).
+
 ### 2022
 
 [security] [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/system/files/sec22-kappos.pdf).
@@ -498,6 +500,40 @@ Welcome developers or researchers to add more published paper to this list.
 
 ------
 
+## WWW
+
+### 2023
+
+[Finance] [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://arxiv.org/abs/2201.09035).
+
+[Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://github.com/wuzhy1ng/MoTS/blob/master/MoTS_WWW_2023_manuscript.pdf).
+
+[security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf).
+
+### 2022
+
+[Finance] [Cyclic Arbitrage in Decentralized Exchanges](https://arxiv.org/pdf/2105.02784.pdf).
+
+[security] [TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection](https://dl.acm.org/doi/pdf/10.1145/3442381.3450059).
+
+### 2021
+
+[Finance] [Towards Understanding Cryptocurrency Derivatives:A Case Study of BitMEX](https://dl.acm.org/doi/pdf/10.1145/3442381.3450059).
+
+[graph analysis] [Temporal Analysis of the Entire Ethereum Blockchain Network](https://personal.ntu.edu.sg/arijit.khan/Papers/Ethereum_Blockchain_Temporal_Network.pdf).
+
+[Finance] [Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges](https://arxiv.org/pdf/2102.07001.pdf).
+
+[application] [Towards understanding and demystifying bitcoin mixing services]().
+
+### 2020
+
+[graph analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).
+
+[graph analysis] [Traveling the token world: A graph analysis of Ethereum ERC20 token ecosystem](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).
+
+------
+
 ## DSN
 
 ### 2020
@@ -677,39 +713,6 @@ Welcome developers or researchers to add more published paper to this list.
 
 ------
 
-## WWW
-
-### 2023
-[Finance] [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://arxiv.org/abs/2201.09035).
-
-[Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://github.com/wuzhy1ng/MoTS/blob/master/MoTS_WWW_2023_manuscript.pdf).
-
-[security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf).
-
-### 2022
-
-[Finance] [Cyclic Arbitrage in Decentralized Exchanges](https://arxiv.org/pdf/2105.02784.pdf).
-
-[security] [TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection](https://dl.acm.org/doi/pdf/10.1145/3442381.3450059).
-
-### 2021
-
-[Finance] [Towards Understanding Cryptocurrency Derivatives:A Case Study of BitMEX](https://dl.acm.org/doi/pdf/10.1145/3442381.3450059).
-
-[graph analysis] [Temporal Analysis of the Entire Ethereum Blockchain Network](https://personal.ntu.edu.sg/arijit.khan/Papers/Ethereum_Blockchain_Temporal_Network.pdf).
-
-[Finance] [Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges](https://arxiv.org/pdf/2102.07001.pdf).
-
-[application] [Towards understanding and demystifying bitcoin mixing services]().
-
-### 2020
-
-[graph analysis] [Measurements, Analyses, and Insights on the Entire Ethereum Blockchain Network](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).
-
-[graph analysis] [Traveling the token world: A graph analysis of Ethereum ERC20 token ecosystem](https://dl.acm.org/doi/fullHtml/10.1145/3366423.3380103).
-
-------
-
 ## ICDCS
 
 ### 2020
@@ -745,6 +748,7 @@ Welcome developers or researchers to add more published paper to this list.
 ------
 
 ## OTHERS
+
 [TOSEM] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
 
 [TOSEM] [TSecuring the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3560263).
@@ -759,7 +763,11 @@ Welcome developers or researchers to add more published paper to this list.
 
 [VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System]().
 
-[TSE22] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663).
+[CHI22] [ChainDash: An Ad-Hoc Blockchain Data Analytics System](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
+
+[AsiaCCS22] [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390).
+
+[TSE] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663).
 
 [TSE] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts](https://drive.google.com/file/d/111l8_vf7Gt7RxygjuBM8WQWLTQL700jY/view?pli=1).
 
