@@ -232,6 +232,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf).
 
+[security] [Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s263_paper.pdf).
 
 ### 2021
 
