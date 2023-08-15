@@ -163,6 +163,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 ### 2023
 
+[security] [Confusum Contractum: Confused Deputy Vulnerabilities in Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-gritti.pdf).
+
 [security] [Panda: Security Analysis of Algorand Smart Contracts](https://arxiv.org/pdf/2009.02663).
 
 [security] [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://yueduan.github.io/pub/uschunt_usenix23.pdf).
