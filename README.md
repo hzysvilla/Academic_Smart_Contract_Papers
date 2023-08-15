@@ -364,6 +364,12 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Identifying Solidity Smart Contract API Documentation Errors](https://personal.ntu.edu.sg/yi_li/files/Zhu2022ISS.pdf).
 
+[security] [Xscope: Hunting for Cross-Chain Bridge Attacks](https://arxiv.org/pdf/2208.07119.pdf)
+
+[secutiry] [Property-Based Automated Repair of DeFi Protocols](https://personal.ntu.edu.sg/yi_li/files/Tolmach2022PBA.pdf)
+
+[security] [Towards Effective Static Analysis Approaches for Security Vulnerabilities in Smart Contracts](https://dl.acm.org/doi/abs/10.1145/3551349.3559567)
+
 ### 2021
 
 [security] [GASOL: Gas Analysis and Optimization for Ethereum Smart Contracts](https://arxiv.org/pdf/1912.11929.pdf).
