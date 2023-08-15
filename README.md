@@ -334,6 +334,8 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [SmartDagger: a bytecode-based static analysis approach for detecting cross-contract vulnerability](https://dl.acm.org/doi/pdf/10.1145/3533767.3534222).
 
+[security] [SpCon: Finding Smart Contract Permission Bugs with Role Mining](https://personal.ntu.edu.sg/yi_li/files/Liu2022FPB.pdf)
+
 ### 2021
 
 [security] [Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?](https://dl.acm.org/doi/pdf/10.1145/3460319.3464837).
