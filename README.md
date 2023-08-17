@@ -469,6 +469,10 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf).
 
+### 2017
+
+[application] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://pdfs.semanticscholar.org/52eb/be753328f3139cbf9dfba7b8d3c78654b561.pdf).
+
 ------
 
 ## OSDI
