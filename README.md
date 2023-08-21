@@ -329,7 +329,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218).
 
-[security] [Finding permission bugs in smart contracts with role mining](https://dl.acm.org/doi/pdf/10.1145/3533767.3534372) [TLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#issta22_SPCon).
+[security] [Finding permission bugs in smart contracts with role mining](https://dl.acm.org/doi/pdf/10.1145/3533767.3534372) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#issta22_SPCon).
 
 [security] [eTainter: detecting gas-related vulnerabilities in smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534378).
 
