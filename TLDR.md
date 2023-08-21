@@ -1,4 +1,5 @@
-# issta22_SPCon
+# issta22_SPCon 
+## issta22 | Finding permission bugs in smart contracts with role mining
 * Motivation：This research focuses on verifying whether the access control policy design of smart contracts is reasonable.
 * Key Idea：The author mines the corresponding role permission structure from historical transactions, and conducts a conformance testing on these role permissions to see if there are flaw.、
 * Technical challenge: The role and permission information provided by historical transactions is incomplete.
