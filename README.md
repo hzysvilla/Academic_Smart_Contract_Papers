@@ -276,10 +276,11 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Declarative Smart Contracts](https://arxiv.org/pdf/2207.13827.pdf).
 
+[security] [SolSEE: a source-level symbolic execution engine for solidity](https://personal.ntu.edu.sg/yi_li/files/Lin2022SAS.pdf)
+
 ### 2021
 
 [security] [ÐArcher: Detecting On-Chain-Off-Chain Synchronization Bugs in Decentralized Applications](https://dl.acm.org/doi/pdf/10.1145/3468264.3468546).
-
 
 [application] [Making Smart Contract Development More Secure and Easier](https://dl.acm.org/doi/pdf/10.1145/3468264.3473929).
 
