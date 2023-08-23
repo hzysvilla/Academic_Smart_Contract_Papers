@@ -14,3 +14,11 @@
 * Technical challenge：The high reward (i.e., the amount) for miners by MEV will cause the state space that needs to be simulated to become very large.
 * Solution: The author obtains a simplified model by simplifying the behavior of miners. The model is two orders of magnitude smaller than the full model and can be solved by dynamic programming.
 * Evalution and conlusion：The authors analyzed the historical records of Bitcoin and reveal that the security threshold of Bitcoin (the proportion of computing power required to attack the network) is declining sharply through their proposed model.
+
+* # sp23_CF
+* # sp23 | Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts.
+* Motivation: Detect and identify financial security issues of DeFi smart contracts.
+* Previous work: Existing works can only detect known and limited DeFi smart contract vulnerabilities.
+* Key Idea: The author uses formal verification techniques to automatically reason about and quantify the financial security problems that contracts may encounter.
+* Implements：The author instantiate Clockwork Finance Framework (CFF) in the K framework for mechanized proofs.
+* Insight: CFF uncovers on average an expected $56 million of EV per month in the recent past.
