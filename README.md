@@ -69,7 +69,7 @@ Welcome developers or researchers to add more published paper to this list.
 
 [security] [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2023/9336/00/933600b186.pdf).
 
-[security] [Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks]().
+[security] [Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks](). | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_27).
 
 ### 2022
 [security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf).
