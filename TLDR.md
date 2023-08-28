@@ -1,7 +1,17 @@
+# 23_8_28
+## sp22 | Quantifying Blockchain Extractable Value: How dark is the forest?
+* Motivation：Quantify and expand the profits of current blockchain extractable value (BEV) and analyze the harm of BEV to the current blockchain consensus.
+* Measurement：The author quantifies the profits brought by miner arbitrage, sandwich attacks, and  liquidation.
+* Key Idea: The author proposes an algorithm for repeated transactions to estimate the profits that are not calculated by BEV.
+* Contribution: The author formalizes the BEV relay concept as an extension of the P2P transaction fee auction model.
+* Conclusion: BEV relay not only did not alleviate the network load, but jeopardized the consensus of the blockchain. The algorithm from author extends the total captured BEV by 35.18M USD.
+
+
+
 # issta22_SPCon 
 ## issta22 | Finding permission bugs in smart contracts with role mining.
 * Motivation：This research focuses on verifying whether the access control policy design of smart contracts is reasonable.
-* Key Idea：The author mines the corresponding role permission structure from historical transactions, and conducts a conformance testing on these role permissions to see if there are flaw.、
+* Key Idea：The author mines the corresponding role permission structure from historical transactions, and conducts a conformance testing on these role permissions to see if there are flaw.
 * Technical challenge: The role and permission information provided by historical transactions is incomplete.
 * Solution：The author abstracts the process of recovering from a partial role permission model to a complete model as an optimization problem, and adopts genetic algorithm to obtain the optimal solution.
 * Implements and evaluation: The author implements SPCon and evaluate it on the sampled 50 smart contracts within the role mining benchmark. The results show that SPCon can largely reduce the number of mined with better accuracy.
