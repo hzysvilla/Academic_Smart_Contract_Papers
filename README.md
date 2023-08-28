@@ -3,6 +3,8 @@
 A curated Smart Contract related academic papers. All papers are sorted based on the conference name and published year.
 Welcome developers or researchers to add more published paper to this list.
 
+The cryptocurrency donation address:0xCC28B05fE858CDbc8692E3272A4451111bDCf700
+
 ## Table of Listed Conferences
 
 - [IEEE Security and Privacy(S&P)](#sp)
