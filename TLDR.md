@@ -1,3 +1,11 @@
+#23_8_29
+## ndss23 | Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams.
+* Motivation: The authors measure and investigate the current state of attackers using websites to phish victims with high cryptocurrency rebates.
+* approach: The author used the certificate information to obtain a large number of phishing websites of attackers, and then conducted a lot of analysis on the information of these websites. In addition, the author also analyzed the relevant transactions of the attacker's wallet account to assess the loss.
+* Observation1: During the six months the authors studied, a total of 10,079 phishing sites were observed, an average of 55.7 phishing sites per day.
+* Observation2: During the six months the authors studied, attackers have stolen the equivalent of tens of millions of dollars.
+* Observation3: The author extracts the transactions corresponding to 2,266 wallets belonging to scammers.
+
 # 23_8_28
 ## sec23 | A Large Scale Study of the Ethereum Arbitrage Ecosystem
 * Motivation: How will the current large-scale arbitrage affect the blockchain ecology.
