@@ -233,7 +233,7 @@ The cryptocurrency donation address:0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/).
+[security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_29).
 
 [security] [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf).
 
