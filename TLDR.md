@@ -1,12 +1,21 @@
-#23_8_29
+
+# 23_8_31
+# ndss23 | Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning
+* Motivation: How to efficiently, fine-grained and scalable detect vulnerabilities in smart contracts.
+* Prior work: Non-machine learning methods, such as program analysis, are inefficient and not scalable; machine learning-based methods rely on source code and intelligently perform binary classification.
+* Approach: The author utilizes transfer learning to quickly and lightweightly train a network containing new vulnerabilities while ensuring multi-classification of vulnerabilities.
+* Implement：The author first obtains the contract bytecode from the blockchain, then uses the existing vulnerability detection tools (e.g., Oyente, Mythril, Vandal, Maian) to label the contract, and finally sends it to the neural network for training.
+* Evaluation：The tool from this study can detect 11 vulnerability classes in 0.15 s per smart contract on average and yields an average F1 score of 97 % across all evaluated classes.
+
+# 23_8_30
 ## ndss23 | Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams.
 * Motivation: The authors measure and investigate the current state of attackers using websites to phish victims with high cryptocurrency rebates.
-* approach: The author used the certificate information to obtain a large number of phishing websites of attackers, and then conducted a lot of analysis on the information of these websites. In addition, the author also analyzed the relevant transactions of the attacker's wallet account to assess the loss.
+* Approach: The author used the certificate information to obtain a large number of phishing websites of attackers, and then conducted a lot of analysis on the information of these websites. In addition, the author also analyzed the relevant transactions of the attacker's wallet account to assess the loss.
 * Observation1: During the six months the authors studied, a total of 10,079 phishing sites were observed, an average of 55.7 phishing sites per day.
 * Observation2: During the six months the authors studied, attackers have stolen the equivalent of tens of millions of dollars.
 * Observation3: The author extracts the transactions corresponding to 2,266 wallets belonging to scammers.
 
-# 23_8_28
+# 23_8_29
 ## sec23 | A Large Scale Study of the Ethereum Arbitrage Ecosystem
 * Motivation: How will the current large-scale arbitrage affect the blockchain ecology.
 * Background: Arbitrage is defined as the simultaneous purchase and sale of the same asset in two different markets for advantageously different prices.
