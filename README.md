@@ -820,6 +820,8 @@ The cryptocurrency donation address:0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [CAV 2020] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
 
+[CAV2018] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts]()
+
 [TIFS] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts]().
 
 [TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
