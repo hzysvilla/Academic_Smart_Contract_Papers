@@ -38,7 +38,7 @@
 ## sp22 | Quantifying Blockchain Extractable Value: How dark is the forest?
 * Motivation：Quantify and expand the profits of current blockchain extractable value (BEV) and analyze the harm of BEV to the current blockchain consensus.
 * Measurement：The author quantifies the profits brought by miner arbitrage, sandwich attacks, and  liquidation.
-* Key Idea: The author proposes an algorithm for repeated transactions to estimate the profits that are not calculated by BEV.
+* Key Idea: The author proposes an algorithm for replayed transactions to estimate the profits that are not calculated by BEV.
 * Contribution: The author formalizes the BEV relay concept as an extension of the P2P transaction fee auction model.
 * Conclusion: BEV relay not only did not alleviate the network load, but jeopardized the consensus of the blockchain. The algorithm from author extends the total captured BEV by 35.18M USD.
 
