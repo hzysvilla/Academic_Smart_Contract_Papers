@@ -3,7 +3,7 @@
 A curated Smart Contract related academic papers. All papers are sorted based on the conference name and published year.
 Welcome developers or researchers to add more published paper to this list.
 
-The cryptocurrency donation address:0xCC28B05fE858CDbc8692E3272A4451111bDCf700
+The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## Table of Listed Conferences
 
@@ -65,7 +65,7 @@ The cryptocurrency donation address:0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [financail] [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://roibarzur.github.io/assets/pdfs/werlman-systor-poster-2022.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_WeRLman).
 
-[security] [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/pdf/2208.13035.pdf). | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_CF).
+[security] [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/pdf/2208.13035.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_CF).
 
 [security] [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_CF).
 
@@ -75,7 +75,7 @@ The cryptocurrency donation address:0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2022
 
-[security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf). | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_28).
+[security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_28).
 
 
 [security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).
@@ -118,7 +118,8 @@ The cryptocurrency donation address:0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security](https://arxiv.org/pdf/2201.05574.pdf).
 
-[security] [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://yueduan.github.io/pub/smart_contracts_analysis__ccs22.pdf).
+[security] [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://yueduan.github.io/pub/smart_contracts_analysis__ccs22.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_2).
+
 
 [security] [VRust: Automated Vulnerability Detection for Solana Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3548606.3560552) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#ccs22_vrust).
 
