@@ -1,3 +1,12 @@
+
+# 23_9_2
+## ccs22 | Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications
+* Motivation: The author mainly studies the inconsistency between the front-end UI of the DApp and the back-end contract of the DApp, and then does some risk research on the DApp.
+* Prior Study: Previous work mainly used heuristic rules to detect Dapp vulnerabilities, which is not universal.
+* Approach: The author first uses static analysis to extract the program semantic graph from the DApp's contract code, then extracts the business logic of the contract from the DApp's UI, and then conducts consistency detection and risk verification.
+* Innovation：The author uses the UI info to obtain the business logic of the Dapp (i.e., the specifications in formal analysis).
+* Evalution: The author discovers 19 new safety risks in the wild, such as expired lottery tickets and double voting.
+
 # 23_9_1
 ## raid22 | Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum
 * Motivation: The author studies the status quo, risks, and security issues of unlimited approvals in ERC20 tokens, and proposes a best practice for user-initiated approvals.
