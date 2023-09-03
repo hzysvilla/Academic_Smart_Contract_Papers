@@ -24,8 +24,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 - [IEEE Transactions on Dependable and Secure Computing (TDSC)](#tdsc)
 - [IEEE Transactions on Information Forensics and Security（TIFS）](#tifs)
 
-Also include: [CHI](#others).
-
+Also include: [CHI](#others), ICPC(#others), TPDS(#others), HPC(#others), POMACS(#others), AsiaCCS(#others), IJCAI(#others), SRDS(#others).
 ---
 
 # Conference
