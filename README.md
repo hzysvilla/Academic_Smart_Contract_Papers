@@ -14,7 +14,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 |           [NDSS](#ndss)             |               [ACM SIGMOD](#others)               |              [ACM PLDI](#pldi)              |     [OSDI](#osdi)    |
 |        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            |[Usenix ATC](#others) |
 |       [EuroS&P](#eurosp)            |                   [IMC](#imc)                     |              [ISSTA](#issta)                |                      |
-|        [RAID](#raid)                |                                                   |             [ACM POPL](#popl)               |                      |
+|          [RAID](#raid)              |                                                   |             [ACM POPL](#popl)               |                      |
 |          [CAV](#cav)                |                                                   |                                             |                      |
 
 
@@ -24,7 +24,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 - [IEEE Transactions on Dependable and Secure Computing (TDSC)](#tdsc)
 - [IEEE Transactions on Information Forensics and Security（TIFS）](#tifs)
 
-Also include: [CHI](#others), ICPC(#others), TPDS(#others), HPC(#others), POMACS(#others), AsiaCCS(#others), IJCAI(#others), SRDS(#others).
+### Also including:
+* [CHI](#others), [ICPC](#others), [TPDS](#others), [HPC](#others), [POMACS](#others), [AsiaCCS](#others), [IJCAI](#others), [SRDS](#others).
 ---
 
 # Conference
