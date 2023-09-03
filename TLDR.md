@@ -1,7 +1,15 @@
+# 23_9_3
+## sec23 | Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes.
+* Motivation: This research focuses on the security issue of the synchronization mechanism of the Ethereum client (i.e., go-ethereum), that is, by interfering with the synchronization mechanism of Ethereum to achieve the purpose of forking the blockchain.
+* Key Idea: The author uses some defects in the synchronization mechanism of the Ethereum client (geth), such as the chain import mechanism, the state pruning mechanism, and the segmented block verification mechanism, to construct three types of different attack schemes.
+* Scope: geth in Ethereum mainnet before PoS fork, Ethereum Classic, Ethereum PoW.
+* Implementation: The first Attack method uses the block import mechanism and state pruning mechanism to invalidate the legal chain; the second attack method uses the characteristics of the client to randomly verify blocks, constructs false blocks, and attacks consensus; third attack method is a combination of the first two.
+* Cost: The optimal cost of this attack only requires one millionth of the mining computing power to achieve the purpose of forking the blockchain.
+
 
 # 23_9_2
 ## ccs22 | Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications
-* Motivation: The author mainly studies the inconsistency between the front-end UI of the DApp and the back-end contract of the DApp, and then does some risk research on the DApp.
+* Motivation: The author mainly studies the inconsistency between the front-end UI of the DApps and the back-end contract of the DApps, and then does some risk research on the DApps.
 * Prior Study: Previous work mainly used heuristic rules to detect Dapp vulnerabilities, which is not universal.
 * Approach: The author first uses static analysis to extract the program semantic graph from the DApp's contract code, then extracts the business logic of the contract from the DApp's UI, and then conducts consistency detection and risk verification.
 * Innovation：The author uses the UI info to obtain the business logic of the Dapp (i.e., the specifications in formal analysis).
