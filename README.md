@@ -360,6 +360,12 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## ASE
 
+### 2023
+
+[security] [DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities]().
+
+[security] [SmartCoCo: Checking Comment-code Inconsistency in Smart Contracts via Constraint Propagation and Binding]().
+
 ### 2022
 
 [security] [Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3551349.3560429).
