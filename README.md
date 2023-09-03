@@ -23,58 +23,9 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 - [IEEE Transactions on Dependable and Secure Computing (TDSC)](#tdsc)
 - [IEEE Transactions on Information Forensics and Security](#tifs)
 
-
-## Table of Listed Conferences
-
-- [IEEE Security and Privacy(S&P)](#sp)
-
-- [ACM Conference on Computer and Communications Security(CCS)](#ccs)
-
-- [USENIX Security](#usenix-security)
-
-- [Network and Distributed System Security(NDSS)](#ndss)
-
-- [ACM SIGSOFT Symposium on the Foundation of Software Engineering/European Software Engineering Conference(ESEC/FSE)](#ESEC/FSE)
-
-- [International Symposium on Software Testing and Analysis(ISSTA)](#issta)
-
-- [International Conference on Automated Software Engineering(ASE)](#ase)
-
-- [International Conference on Software Engineering(ICSE)](#icse)
-
-- [The ACM Symposium on Operating Systems Principles(SOSP)](#sosp)
-
-- [USENIX Symposium on Operating Systems Design and Implementation(OSDI)](#osdi)
-
-- [IEEE International Conference on Computer Communications(INFOCOM)](#infocom)
-
-- [IEEE/IFIP International Conference on Dependable Systems and Networks(DSN)](#dsn)
-
-- [ACM SIGPLAN Conference on Programming Language Design&Implementation(PLDI)](#pldi) 
-
-- [European Symposium on Research in Computer Security(ESORICS)](#esorics) 
-
-- [IEEE European Symposium on Security and Privacy(Eurosp)](#EuroSP)
-
-- [IEEE International Conference on Software Analysis, Evolution and Reengineering(SANER)](#saner) 
-
-- [Object-Oriented Programming, Systems, Languages & Applications(OOPSLA)](#oopsla) 
-
-- [Annual Computer Security Applications Conference(ACSAC)](#acsac)
-
-- [Asia-Pacific Software Engineering Conference(APSEC)](#apsec)
-
-- [International World Wide Web Conference(WWW)](#www)
-
-- [IEEE International Conference on Distributed Computing Systems(ICDCS)](#icdcs)
-
-- [ACM SIGPLAN Symposium on Principles of Programming Languages(POPL)](#popl)
-
-- [Others(OTHERS)](#others)
-
-- [License](#license)
-
 ---
+
+# Conference
 
 -----
 
@@ -729,7 +680,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [security] [SolSaviour: A Defending Framework for Deployed Defective Smart Contracts](https://www4.comp.polyu.edu.hk/~csbxiao/paper/2021/acsac21_SolSavioiur.pdf).
 
 ### 2019
-[security] [SmarTor: Smarter Tor with Smart Contracts](https://www.informatik.uni-wuerzburg.de/didaktik/team/andre-greubel/?tx_extbibsonomycsl_publicationlist%5Baction%5D=download&tx_extbibsonomycsl_publicationlist%5Bcontroller%5D=Document&tx_extbibsonomycsl_publicationlist%5BfileName%5D=SmarTor.pdf&tx_extbibsonomycsl_publicationlist%5BintraHash%5D=f5a8e0042e500be98cb48615c72ac89e&tx_extbibsonomycsl_publicationlist%5BuserName%5D=andregreubel&cHash=f321d23048afc1cc7e895ac717393339).
+[security] [SmarTor: Smarter Tor with Smart Contracts](https://www.informatik.uni-wuerzburg.de/didaktik/team/andre-greubel/?tx_extbibsonomycsl_publicationlist).
 
 ### 2018
 [security] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038).
@@ -788,9 +739,14 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Vandal: A Scalable Security Analysis Framework for Smart Contracts](https://arxiv.org/abs/1809.03981).
 
+
+---
+
+# Journal
+
 ------
 
-## OTHERS
+## TOSEM
 
 [TOSEM] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
 
@@ -804,11 +760,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [TOSEM] [Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum]().
 
-[VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System]().
-
-[CHI22] [ChainDash: An Ad-Hoc Blockchain Data Analytics System](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
-
-[AsiaCCS22] [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390).
+## TSE
 
 [TSE] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663).
 
@@ -822,6 +774,17 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [TSE] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study]().
 
+##　
+
+
+[VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System]().
+
+[CHI22] [ChainDash: An Ad-Hoc Blockchain Data Analytics System](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
+
+[AsiaCCS22] [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390).
+
+
+
 [ICPC] [A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164).
 
 [IMC22] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). 
@@ -831,6 +794,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [IMC21] [TopoShot: uncovering Ethereum's network topology leveraging replacement transactions](https://dl.acm.org/doi/abs/10.1145/3487552.3487814). 
 
 [IMC18] [analyzing ethereum's contract topology](https://dl.acm.org/doi/pdf/10.1145/3278532.3278575). 
+
+## OTHERS
 
 [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
 
