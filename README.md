@@ -14,14 +14,15 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 |        [NDSS](#ndss)                |               [ACM SIGMOD](#sigmod)               |              [ACM PLDI](#pldi)              |     [OSDI](#osdi)    |
 |        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            |   [Usenix ATC](#atc) |
 |       [EuroS&P](#eurosp)            |                   [IMC](#imc)                     |              [ISSTA](#issta)                |                      |
-|                                     |                                                   |             [ACM POPL](#popl)               |                      |
+|        [RAID](#raid)                |                                                   |             [ACM POPL](#popl)               |                      |
+|          [CAV](#cav)                |                                                   |             [ACM POPL](#popl)               |                      |
 
 
 ## Table of Listed Journals
 - [ACM TRANSACTIONS ON SOFTWARE ENGINEERING AND METHODOLOGY (TOSEM)](#tosem)
 - [IEEE Transactions on Software Engineering (TSE)](#tse)
 - [IEEE Transactions on Dependable and Secure Computing (TDSC)](#tdsc)
-- [IEEE Transactions on Information Forensics and Security](#tifs)
+- [IEEE Transactions on Information Forensics and Security（TIFS）](#tifs)
 
 ---
 
@@ -241,6 +242,24 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [security] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf).
 
 [security] [Chainspace: A Sharded Smart Contracts Platform]().
+
+---
+
+## CAV
+
+### 2022
+
+[CAV 2022] [SolCMC: Solidity Compiler’s Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf). 
+
+### 2020
+
+[CAV 2020] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
+
+### 2018
+
+[CAV2018] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts]()
+
+---
 
 ## ESEC/FSE
 
@@ -674,15 +693,36 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ------
 
+## IMC
+
+### 2022
+
+[IMC22] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). 
+
+[IMC22] [Challenges in decentralized name management: the case of ENS](https://dl.acm.org/doi/abs/10.1145/3517745.3561469). 
+
+### 2021
+
+[IMC21] [TopoShot: uncovering Ethereum's network topology leveraging replacement transactions](https://dl.acm.org/doi/abs/10.1145/3487552.3487814). 
+
+### 2018
+
+[IMC18] [analyzing ethereum's contract topology](https://dl.acm.org/doi/pdf/10.1145/3278532.3278575). 
+
+------
+
 ## ACSAC
 
 ### 2021
+
 [security] [SolSaviour: A Defending Framework for Deployed Defective Smart Contracts](https://www4.comp.polyu.edu.hk/~csbxiao/paper/2021/acsac21_SolSavioiur.pdf).
 
 ### 2019
+
 [security] [SmarTor: Smarter Tor with Smart Contracts](https://www.informatik.uni-wuerzburg.de/didaktik/team/andre-greubel/?tx_extbibsonomycsl_publicationlist).
 
 ### 2018
+
 [security] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038).
 
 [security] [Osiris: Hunting for Integer Bugs in Ethereum Smart Contracts]().
@@ -704,6 +744,20 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 ### 2018
 
 [security] [Fuse: An Architecture for Smart Contract Fuzz Testing Service]().
+
+------
+
+## RAID
+
+### 2022
+
+[Raid2022] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_1). 
+
+[Raid2022] [Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975) 
+
+### 2019
+
+[RAID2019] [Towards a first step to understand the cryptocurrency stealing attack on ethereum](https://www.usenix.org/system/files/raid2019-cheng.pdf).
 
 ------
 
@@ -774,7 +828,13 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [TSE] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study]().
 
-##　
+## TIFS
+
+[TIFS] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts]().
+
+## TDSC
+
+[TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
 
 
 [VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System]().
@@ -783,39 +843,13 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [AsiaCCS22] [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390).
 
-
-
 [ICPC] [A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164).
-
-[IMC22] [A flash(bot) in the pan: measuring maximal extractable value in private pools](https://dl.acm.org/doi/abs/10.1145/3517745.3561448). 
-
-[IMC22] [Challenges in decentralized name management: the case of ENS](https://dl.acm.org/doi/abs/10.1145/3517745.3561469). 
-
-[IMC21] [TopoShot: uncovering Ethereum's network topology leveraging replacement transactions](https://dl.acm.org/doi/abs/10.1145/3487552.3487814). 
-
-[IMC18] [analyzing ethereum's contract topology](https://dl.acm.org/doi/pdf/10.1145/3278532.3278575). 
 
 ## OTHERS
 
 [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
 
 [CHI 2022] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585). 
-
-[CAV 2022] [SolCMC: Solidity Compiler’s Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf). 
-
-[CAV 2020] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
-
-[CAV2018] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts]()
-
-[TIFS] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts]().
-
-[TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
-
-[Raid2022] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_1). 
-
-[Raid2022] [Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975) 
-
-[RAID2019] [Towards a first step to understand the cryptocurrency stealing attack on ethereum](https://www.usenix.org/system/files/raid2019-cheng.pdf).
 
 [POMACS2021] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf). 
 
