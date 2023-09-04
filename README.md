@@ -9,7 +9,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 |     Security & Privacy & Crypto     |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
 | :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :------------------: |
 |           [IEEE S&P](#sp)           |             [SIGMETRICS](#sigmetrics)              |                [ICSE](#icse)                |  [EuroSys](#others)  |
-|           [ACM CCS](#ccs)           |                   [ICDE](#icde)                   |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)   |
+|           [ACM CCS](#ccs)           |                   [ICDE](#others)                   |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)   |
 | [USENIX Security](#usenix-security) |                   [VLDB](#others)                 |                 [ASE](#ase)                 |  [IEEE ICDCS](#icdcs)|
 |           [NDSS](#ndss)             |               [ACM SIGMOD](#others)               |              [ACM PLDI](#pldi)              |     [OSDI](#osdi)    |
 |        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            |[Usenix ATC](#others) |
@@ -278,6 +278,12 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
+[security] [SolSEE: a source-level symbolic execution engine for solidity]().
+
+[security] [MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous graph embeddings]().
+
+[security] [An empirical study of blockchain system vulnerabilities: modules, types, and patterns]().
+
 [security] [DeepInfer: Deep Type Inference from Smart Contract Bytecode]().
 
 ### 2022
@@ -460,7 +466,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [security] [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts](https://arxiv.org/pdf/2004.08563.pdf).
 
 [security] [Smart Contract Development: Challenges and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8847638).
-
 
 [security] [Targeted Greybox Fuzzing with Static Lookahead Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9284040).
 
