@@ -1,3 +1,11 @@
+# 23_9_5
+## sec23 | Automated Inference on Financial Security of Ethereum Smart Contracts.
+* Motivation: The author focuses on how to universally detect vulnerabilities in token contracts.
+* Existing work： The program static analysis technology is limited to fixed pattern matching and is not universal; while automatic reasoning technology only intelligently detects a single vulnerability and does not have scalability.
+* Key Idea: The author abstracts the relevant variables of the token, and uses automatic reasoning technology to detect the rationality of these abstract variables, and has achieved the purpose of multi-vulnerability detection.
+* Implement：The author first uses the K framework to abstract the source code of the token contract, then divides the variables of the token contract into invariant properties (e.g., the total amount of balance) and equivalence property (e.g., the balance of each account), then uses Tamarin prover for automatic reasoning, and finally Use z3 to check whether the relevant variables meet the corresponding constraints.
+* Expriments: The system proposed by author can detect transaction order dependency (TOD), timestamp dependency(TD), Reentrancy, gasless send, overflow/underflow, transferMint and the accuracy to identify token contracts is higher than 98%.
+
 # 23_9_4
 ## sec23 | Smart Learning to Find Dumb Contracts.
 * Motivation: The author studies the problem of smart contract vulnerability detection, specifically, how to extend the source code level analysis capabilities of existing formal detection tools to bytecode.
