@@ -164,6 +164,13 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Automated Inference on Financial Security of Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-wang-wansen.pdf).
 
+[security] [Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract](https://www.usenix.org/system/files/usenixsecurity23-zhang-zhuo-exploit.pdf).
+
+[security] [Anatomy of a High-Profile Data Breach: Dissecting the Aftermath of a Crypto-Wallet Case](https://www.usenix.org/system/files/sec23_slides_abramova.pdf).
+
+[security] [Mixed Signals: Analyzing Ground-Truth Data on the Users and Economics of a Bitcoin Mixing Service](https://www.usenix.org/system/files/usenixsecurity23-miedema.pdf).
+
+[security] [Is Your Wallet Snitching On You? An Analysis on the Privacy Implications of Web3](https://arxiv.org/pdf/2306.08170).
 
 ### 2022
 
