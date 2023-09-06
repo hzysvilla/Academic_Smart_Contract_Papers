@@ -1,3 +1,10 @@
+# 23_9_6
+## ASE23 | DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities.
+* Motivation: The author studies the problem of Token Leaking vulnerability, specifically, the problem that users can withdraw more tokens from DApp abnormally.
+* Key Idea: The author analyzes the token transaction flow based on on-chain transactions and calculates the ratio of the user's deposit amount and withdrawal amount to detect Token Leaking vulnerability.
+* Implement：The author first extracts the contract call tree in the transaction. The edges are the call relationships of the contracts, and the nodes are the logs of the token contracts. The tree is then heuristically pruned to exclude irrelevant data. Finally, the author merges the token transaction flow from the tree and determines the existence of Token Leaking Vulnerabilities based on the ratio (i.e., withdrawal amount / deposit amount).
+* Expriments: The system proposed by author successfully reveals 25 Token Leaking vulnerabilities from 30 Defi apps.
+
 # 23_9_5
 ## sec23 | Automated Inference on Financial Security of Ethereum Smart Contracts.
 * Motivation: The author focuses on how to universally detect vulnerabilities in token contracts.
