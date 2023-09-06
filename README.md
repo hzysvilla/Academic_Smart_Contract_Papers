@@ -386,7 +386,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[security] [DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities]().
+[security] [DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities]() | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_6).
 
 [security] [SmartCoCo: Checking Comment-code Inconsistency in Smart Contracts via Constraint Propagation and Binding]().
 
