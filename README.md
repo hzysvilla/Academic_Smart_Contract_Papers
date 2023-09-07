@@ -885,6 +885,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
 
 ## OTHERS
+[SC23] [FISCO-BCOS：An Enterprise-grade Permissioned Blockchain System with High-performance]().
 
 [Usenix ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). 
 
