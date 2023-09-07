@@ -1,3 +1,11 @@
+# 23_9_7
+## sec23 | Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB).
+* Motivation: The author mainly focuses on the ecology of tokens in the liquidity pools of Ethereum and Binance Chain, including: token life cycle, token spammers, token trading bots.
+* Method: The author ran the full nodes of Ethereum and Binance Chain to collect transaction data, and then collected token information based on the token interface and token events; collected token transaction pair information based on Dex events.
+* Insight1：About 60% of tokens are active for less than one day, and 1% of addresses create an anomalous number of tokens (between 20% and 25%).
+* Insight2: The author discovered a new scam called a 1-day rug pull, which is a rug pull that occurs in one day. This scam generates $240 million in profits
+* Insight3: The author found that some token trading robots in the market are becoming victims of rug pull because they buy tokens without restriction.
+
 # 23_9_6
 ## ASE23 | DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities.
 * Motivation: The author studies the problem of Token Leaking vulnerability, specifically, the problem that users can withdraw more tokens from DApp abnormally.
