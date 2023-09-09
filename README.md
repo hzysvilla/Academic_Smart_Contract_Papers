@@ -289,7 +289,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [An empirical study of blockchain system vulnerabilities: modules, types, and patterns]().
 
-[security] [DeepInfer: Deep Type Inference from Smart Contract Bytecode]().
+[security] [DeepInfer: Deep Type Inference from Smart Contract Bytecode]() |  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_9)..
 
 ### 2022
 
@@ -331,7 +331,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements]().
 
-[security] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf).
+[security] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_8).
 
 [security] [Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode]().
 
