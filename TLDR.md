@@ -1,5 +1,14 @@
+# 23_9_9
+## FSE23 | DeepInfer: Deep Type Inference from Smart Contract Bytecode.
+* Motivation: The author is mainly concerned about the problem of functional interface recovery of closed source contracts. Specifically, the author hopes to recover the type and number of parameters and return values from the contract bytecode.
+* Key idea: The author uses static analysis for feature extraction, and then uses machine learning techniques to perform type analysis.
+* Challenge: Nested complex types have no fixed rules and are difficult to infer, and the return value requires the entire function to be inferred.
+* Method: The author uses multiple neural networks to play different roles at different stages to solve the above Challenges.
+* Designt and Implemention: In the first step, the author uses Gigahorse to upgrade bytecode to SSA's IR, then extracts type features (constants, RD relationships) on the IR, and finally builds a CFG on the IR; in the second part, the author first uses the Word2Vec model to restore simple types and complex types Classification of nested types; in the third step, the author uses the sequence generation model to dynamically restore complex nested types; in the fourth step, the author uses the GAT network to learn the return value type from CFG.
+* Evaluation: The system designed by the author is superior to existing systems in terms of accuracy and precision, and can adapt to different compiler versions.
+
 # 23_9_8
-# issta23 | Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts.
+## issta23 | Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts.
 * Motivation: The author investigates and detects the security of modifiers in solidity smart contracts. The modifiers refer to some key conditions at the entrance of the contract function, similar to assert() in C language.
 * Challenges: The data dependencies of complex contract state variables and the calling relationships between functions.
 * Key Idea: The author constructed a modifiers dependency graph (MDG), abstracted the modifiers into a function, and then used the dependency relationship before the variables and the calling relationship of the function to connect the modifiers with the global state variables and functions into edges, and then in Solve security issues on MDG.
