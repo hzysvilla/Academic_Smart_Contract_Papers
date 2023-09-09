@@ -1,3 +1,11 @@
+# 23_9_8
+# issta23 | Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts.
+* Motivation: The author investigates and detects the security of modifiers in solidity smart contracts. The modifiers refer to some key conditions at the entrance of the contract function, similar to assert() in C language.
+* Challenges: The data dependencies of complex contract state variables and the calling relationships between functions.
+* Key Idea: The author constructed a modifiers dependency graph (MDG), abstracted the modifiers into a function, and then used the dependency relationship before the variables and the calling relationship of the function to connect the modifiers with the global state variables and functions into edges, and then in Solve security issues on MDG.
+* Design and Implemention: Step 1, the author first uses Slighter to convert the source code into IR, builds MDG on Slighter's IR, and then iteratively constructs new edges (some edges require multiple constructions to obtain) until a fixed point is reached. Step 2, the author uses Z3 to solve on MDG and detects whether any modifiers can be bypassed. Step 3: The author uses NLP technology to cluster the names of decorators and then classify the current decorators.
+* Evaluation: The system analyzes a large dataset of 62,464 contracts, over 400 of which were identified with bypassable modifiers.
+
 # 23_9_7
 ## sec23 | Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB).
 * Motivation: The author mainly focuses on the ecology of tokens in the liquidity pools of Ethereum and Binance Chain, including: token life cycle, token spammers, token trading bots.
