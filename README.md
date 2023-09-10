@@ -19,10 +19,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 
 ## Table of Listed Journals
-- [ACM TRANSACTIONS ON SOFTWARE ENGINEERING AND METHODOLOGY (TOSEM)](#tosem)
-- [IEEE Transactions on Software Engineering (TSE)](#tse)
-- [IEEE Transactions on Dependable and Secure Computing (TDSC)](#tdsc)
-- [IEEE Transactions on Information Forensics and Security（TIFS）](#tifs)
+- [TOSEM](#tosem)
+- [TSE](#tse)
+- [TDSC](#tdsc)
+- [TIFS](#tifs)
 
 ### Also including:
 * [CHI](#others), [ICPC](#others), [TPDS](#others), [HPC](#others), [POMACS](#others), [AsiaCCS](#others), [IJCAI](#others), [SRDS](#others).
