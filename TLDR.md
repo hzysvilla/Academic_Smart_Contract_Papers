@@ -1,3 +1,10 @@
+# 23_9_10
+## FSE23 | Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem.
+* Motivation: The author focuses on how to identify the high-level semantics of blockchain transactions, such as token exchange and liquidity addition.
+* Key Idea：The author uses the graph analysis method (network motifs) to first define some basic patterns, and then use these basic patterns to mine token transaction flows.
+* Design and Implemention: The author first reconstructs the RPC API of the blockchain client into a parallel design in order to improve efficiency; then extracts transaction flow information from the blockchain, including contract creation, token transfer, eth transfer and other information, to form a semantic graph. Finally, 16 basic patterns were defined, and then advanced semantic mining and inference were performed on the semantic graph.
+* Evaluatin：The method proposed by the author can extract nine categories of high-level semantics, which can then be applied in transaction classification and account classification.
+
 # 23_9_9
 ## FSE23 | DeepInfer: Deep Type Inference from Smart Contract Bytecode.
 * Motivation: The author is mainly concerned about the problem of functional interface recovery of closed source contracts. Specifically, the author hopes to recover the type and number of parameters and return values from the contract bytecode.
