@@ -287,8 +287,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous graph embeddings]().
 
-[security] [An empirical study of blockchain system vulnerabilities: modules, types, and patterns]().
-
 [security] [DeepInfer: Deep Type Inference from Smart Contract Bytecode]() |  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_9)..
 
 ### 2022
