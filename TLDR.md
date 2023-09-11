@@ -1,4 +1,12 @@
 # 23_9_10
+## ISSTA23 | SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis.
+* Motivation: The author focuses on the identification of a type of vulnerability in smart contracts, State-reverting Vulnerability (SRV).
+* Key Idea：The author constructed a new state dependency graph (SDG) based on state reading and writing and control flow relationships, and used historical transaction data to help complete the construction of the graph, and then performed SRVs detection based on the graph.
+* Design: The author first relies on the read-write relationship of state variables to build SDG in the function, then builds the SDG edges between functions based on control flow and data flow, and then builds some edges that cannot be found by static analysis based on historical transaction guidance. Finally, the author determines whether sensitive state variables lack access control and have uncertain state dependencies on the graph to determine whether there is SRV.
+* Implemention: The author built a tool SmartTest to implement the method it proposed.
+* Evaluatin：SmartTest achieves a precision of 87.23% and a recall of 89.13% and and detect 11 SRVs on the real contracts.
+  
+# 23_9_10
 ## FSE23 | Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem.
 * Motivation: The author focuses on how to identify the high-level semantics of blockchain transactions, such as token exchange and liquidity addition.
 * Key Idea：The author uses the graph analysis method (network motifs) to first define some basic patterns, and then use these basic patterns to mine token transaction flows.
