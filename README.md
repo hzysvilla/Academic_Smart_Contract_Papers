@@ -285,6 +285,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
+[security] [Understanding Solidity Event Logging Practices in the Wild]().
+
+[security] [EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes]().
+
 [security] [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://2023.esec-fse.org/details/fse-2023-research-papers/29/Demystifying-the-Composition-and-Code-Reuse-in-Solidity-Smart-Contracts).
 
 [security] [SmartFix: Fixing Vulnerable Smart Contracts by Accelerating Generate-and-Verify Repair using Statistical Models]()
