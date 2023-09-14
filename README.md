@@ -798,7 +798,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2018
 
-[security] [Fuse: An Architecture for Smart Contract Fuzz Testing Service]().
+[security] [Fuse: An Architecture for Smart Contract Fuzz Testing Service](https://dl.acm.org/doi/pdf/10.1145/3571847).
 
 ------
 
@@ -859,6 +859,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [TOSEM] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
 
+[TOSEM] [Securing the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3571847).
+
 [TOSEM] [TSecuring the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3560263).
 
 [TOSEM] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts](https://dl.acm.org/doi/pdf/10.1145/3560264). 
@@ -892,6 +894,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
 
 ## OTHERS
+
 [SC23] [FISCO-BCOS：An Enterprise-grade Permissioned Blockchain System with High-performance]().
 
 [Usenix ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). 
