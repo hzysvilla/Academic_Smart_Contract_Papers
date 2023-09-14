@@ -1,3 +1,11 @@
+# 23_9_14
+## ICSE23 | AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities
+* Motivation: The author mainly focuses on the access control issue of smart contracts, that is, accessing key variables and codes, and whether the contract implements reasonable access control.
+* Key Idea: The author associates the user role of the contract with related state variables to restore the implementation of state access.
+* Design：The author first uses backward data flow analysis and heuristic rules to obtain the state variables and specific implementation of access control, and then uses symbolic execution and taint analysis to see whether the state variables can be bypassed to access sensitive code or variables.
+* Implement: The authors implemented their method based on eTainter and named it AChecker.
+* Evalution: The author verified the effectiveness of AChecker on three data sets: CVE, Smartbug, and Popular contract. AChecker can flag vulnerabilities in 21 frequently-used contracts on Ethereum blockchain with 90% precision.
+
 # 23_9_11
 ## ISSTA23 | SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis.
 * Motivation: The author focuses on the identification of a type of vulnerability in smart contracts, State-reverting Vulnerability (SRV).
