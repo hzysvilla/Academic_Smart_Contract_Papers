@@ -285,11 +285,11 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
+[security] [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://kaixuanli-ecnu.github.io/files/fse23-sc-codeclone-kairansun.pdf).
+
 [security] [Understanding Solidity Event Logging Practices in the Wild]().
 
 [security] [EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes]().
-
-[security] [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://2023.esec-fse.org/details/fse-2023-research-papers/29/Demystifying-the-Composition-and-Code-Reuse-in-Solidity-Smart-Contracts).
 
 [security] [SmartFix: Fixing Vulnerable Smart Contracts by Accelerating Generate-and-Verify Repair using Statistical Models]()
 
@@ -456,7 +456,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [SmartMark: Software Watermarking Scheme for Smart Contracts]().
 
-[security] [AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities]().
+[security] [AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities](https://people.ece.ubc.ca/~mjulia/publications/ACheckerICSE2023.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_14).
 
 [security] [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts]().
 
