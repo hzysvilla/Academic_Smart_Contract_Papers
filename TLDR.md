@@ -1,3 +1,12 @@
+# 23_9_15
+## ISSTA23 | Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing
+* Motivation: The author focuses on state inconsistency vulnerabilities in smart contracts. Specifically, state inconsistency refers to situations where the contract does not meet the expectations of developers or users. For example, front-running, reentrancy, and lack of access control are all such vulnerabilities.
+* Prior work: Previous research using static analysis has extremely high false positives, while using dynamic analysis requires a sound oracle.
+* Key Idea：The authors use historical transactions and their context (state, contract calling relationship) for fuzz testing users to discover such vulnerabilities. In order to avoid using oracles, the author uses the consistency of the state after each transaction sequence is executed to determine whether there are loopholes in the contract.
+* Design and implement: The authors implemented their method into a tool IcyChecker. IcyChecker first collects transaction traces, then generates and mutates transaction sequences to fuzz test the Dapp contract, and determines whether there are vulnerabilities in the contract by looking at the state consistency before and after mutation.
+* Evaluation：IcyChecker identifies a total number of 277 SI bugs with a precision of 87% on the top 100 popular DApps. nine of flaws have new attack patterns which are never disclosed by
+prior research and are reported to corresponding authorities.
+
 # 23_9_14
 ## ICSE23 | AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities
 * Motivation: The author mainly focuses on the access control issue of smart contracts, that is, accessing key variables and codes, and whether the contract implements reasonable access control.
