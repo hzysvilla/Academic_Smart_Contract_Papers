@@ -345,7 +345,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode]().
 
-[security] [Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3597926.3598057).
+[security] [Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3597926.3598057) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_15).
 
 [security] [ItyFuzz: Snapshot-Based Fuzzer for Smart Contract](https://arxiv.org/pdf/2306.17135)
 
