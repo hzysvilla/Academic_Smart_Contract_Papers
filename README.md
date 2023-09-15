@@ -3,7 +3,7 @@
 A curated Smart Contract related academic papers. All papers are sorted based on the conference name and published year.
 Welcome developers or researchers to add more published paper to this list.
 
-You can find My **[TLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md)** notes for some paper.
+You can find my **[TLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md)** notes for some paper.
 
 The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
