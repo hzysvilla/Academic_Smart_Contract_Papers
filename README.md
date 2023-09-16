@@ -19,6 +19,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 |          [RAID](#raid)              |                   [WWW](#www)                     |             [ACM POPL](#popl)               |                      |
 |          [CAV](#cav)                |                                                   |                                             |                      |
 
+### Also including:
+* [CHI](#others), [ICPC](#others), [TPDS](#others), [HPC](#others), [POMACS](#others), [AsiaCCS](#others), [IJCAI](#others), [SRDS](#others), [SC](#others).
 
 ## Table of Listed Journals
 - [TOSEM](#tosem)
@@ -26,8 +28,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 - [TDSC](#tdsc)
 - [TIFS](#tifs)
 
-### Also including:
-* [CHI](#others), [ICPC](#others), [TPDS](#others), [HPC](#others), [POMACS](#others), [AsiaCCS](#others), [IJCAI](#others), [SRDS](#others).
 ---
 
 # Conference
