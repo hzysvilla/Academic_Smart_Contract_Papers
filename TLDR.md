@@ -1,3 +1,11 @@
+# 23_9_16
+## ICSE23 | Toward Automated Detecting Unanticipated Price Feed in Smart Contract.
+* Motivation: This article focuses on the security issues of blockchain oracles, specifically how to defend against price manipulation problems caused by oracles in real time.
+* Key Idea: The author uses formal modeling of the oracle, and then uses actual transactions to test the security of the oracle.
+* Design: First, developers need to predefine the specifications of the price oracle and the corresponding verification rules themselves, and then use the transactions in the memory pool to perform symbolic execution in real time using the k framework, and detect whether there is price manipulation based on the amount of tokens in the fund pool.
+* Implement: The author implemented their method into a tool VeriOracle.
+* Evalution: VeriOracle is efcient in that its verifcation time (about 4s) is less than the block time of Ethereum (about 14s).
+
 # 23_9_15
 ## ISSTA23 | Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing
 * Motivation: The author focuses on state inconsistency vulnerabilities in smart contracts. Specifically, state inconsistency refers to situations where the contract does not meet the expectations of developers or users. For example, front-running, reentrancy, and lack of access control are all such vulnerabilities.
