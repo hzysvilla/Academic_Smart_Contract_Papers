@@ -349,7 +349,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [ItyFuzz: Snapshot-Based Fuzzer for Smart Contract](https://arxiv.org/pdf/2306.17135)
 
-[security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract]().
+[security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract](https://dl.acm.org/doi/pdf/10.1145/3548606.3559384) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_16).
 
 [security] [DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols]().
 
