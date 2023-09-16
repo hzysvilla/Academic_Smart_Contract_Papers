@@ -1,5 +1,5 @@
 # 23_9_16
-## ICSE23 | Toward Automated Detecting Unanticipated Price Feed in Smart Contract.
+## ISSTA23 | Toward Automated Detecting Unanticipated Price Feed in Smart Contract.
 * Motivation: This article focuses on the security issues of blockchain oracles, specifically how to defend against price manipulation problems caused by oracles in real time.
 * Key Idea: The author uses formal modeling of the oracle, and then uses actual transactions to test the security of the oracle.
 * Design: First, developers need to predefine the specifications of the price oracle and the corresponding verification rules themselves, and then use the transactions in the memory pool to perform symbolic execution in real time using the k framework, and detect whether there is price manipulation based on the amount of tokens in the fund pool.
