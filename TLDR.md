@@ -1,3 +1,12 @@
+# 23_9_17
+## sec23 | A Mixed-Methods Study of Security Practices of Smart Contract Developers.
+* Motivation: The author investigates and analyzes current smart contract developers’ perceptions of security.
+* Method: The author first conducted semi-structured interviews and code audit tests on 29 participants, and then conducted an online questionnaire survey on 171 participants.
+* Observation1: Current developers do not pay attention to the security of smart contracts. The reasons include that they pay more attention to efficiency, the code is forked from well-known projects, and they rely on security audits.
+* Obervation2: Developer awareness of security vulnerabilities is high, with less than half of the participants identifying security vulnerabilities in the audit tasks designed by the authors.
+* Obervation3：Simply relying on existing measures such as documentation, reference implementations, and security tools is not enough to help junior developers identify contract security vulnerabilities.
+* Insight1: The industry needs to invest more resources in helping developers learn and understand security vulnerabilities.
+
 # 23_9_16
 ## ISSTA23 | Toward Automated Detecting Unanticipated Price Feed in Smart Contract.
 * Motivation: This article focuses on the security issues of blockchain oracles, specifically how to defend against price manipulation problems caused by oracles in real time.
