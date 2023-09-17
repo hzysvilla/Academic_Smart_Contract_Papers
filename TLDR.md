@@ -13,11 +13,11 @@
 * Key Idea: The author uses formal modeling of the oracle, and then uses actual transactions to test the security of the oracle.
 * Design: First, developers need to predefine the specifications of the price oracle and the corresponding verification rules themselves, and then use the transactions in the memory pool to perform symbolic execution in real time using the k framework, and detect whether there is price manipulation based on the amount of tokens in the fund pool.
 * Implement: The author implemented their method into a tool VeriOracle.
-* Evalution: VeriOracle is efcient in that its verifcation time (about 4s) is less than the block time of Ethereum (about 14s).
+* Evalution: VeriOracle is effcient in that its verifcation time (about 4s) is less than the block time of Ethereum (about 14s).
 
 # 23_9_15
 ## ISSTA23 | Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing
-* Motivation: The author focuses on state inconsistency vulnerabilities in smart contracts. Specifically, state inconsistency refers to situations where the contract does not meet the expectations of developers or users. For example, front-running, reentrancy, and lack of access control are all such vulnerabilities.
+* Motivation: The author focuses on state inconsistency vulnerabilities in smart contracts. Specifically, state inconsistency refers to state where the contract does not follow the expectations of developers or users. For example, front-running, reentrancy, and lack of access control are all such vulnerabilities.
 * Prior work: Previous research using static analysis has extremely high false positives, while using dynamic analysis requires a sound oracle.
 * Key Idea：The authors use historical transactions and their context (state, contract calling relationship) for fuzz testing users to discover such vulnerabilities. In order to avoid using oracles, the author uses the consistency of the state after each transaction sequence is executed to determine whether there are loopholes in the contract.
 * Design and implement: The authors implemented their method into a tool IcyChecker. IcyChecker first collects transaction traces, then generates and mutates transaction sequences to fuzz test the Dapp contract, and determines whether there are vulnerabilities in the contract by looking at the state consistency before and after mutation.
