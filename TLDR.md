@@ -1,4 +1,4 @@
-# 23_9_17
+# 23_9_18
 ## sec23 | Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract.
 * Motivation: The author studies real-time defense against attacks on smart contracts on the blockchain, specifically, attacks initiated through vulnerabilities in contract implementation.
 * Design: The author assumes that relevant attack transactions have been detected, so its main idea is how to identify attack contracts, generate countermeasure contracts, and then front run the attacker's malicious transactions.
