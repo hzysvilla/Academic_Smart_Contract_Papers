@@ -522,6 +522,12 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## INFOCOM
 
+### 2023
+
+[security] [Latency-First Smart Contract: Overclock the Blockchain for a while]().
+
+[security] [A Decentralized Truth Discovery Approach to the Blockchain Oracle Problem]().
+
 ### 2022
 
 [application] [S-Store: A Scalable Data Store towards Permissioned Blockchain Sharding](https://ieeexplore.ieee.org/document/9796800/).
@@ -557,7 +563,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 ### 2023
 
 [Finance] [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://arxiv.org/abs/2201.09035) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_10).
-
 
 [Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://github.com/wuzhy1ng/MoTS/blob/master/MoTS_WWW_2023_manuscript.pdf).
 
@@ -702,6 +707,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 ## OOPSLA
 
 ### 2022
+
 [security] [Synthesis-powered optimization of smart contracts via data type refactoring](https://dl.acm.org/doi/pdf/10.1145/3563308)
 
 [security] [Elipmoc: Advanced Decompilation of Ethereum Smart Contracts](https://yanniss.github.io/elipmoc-oopsla22.pdf).
@@ -764,10 +770,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ------
 
-
-
-
-
 ## ACSAC
 
 ### 2021
@@ -808,17 +810,21 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2022
 
-[Raid2022] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_1). 
+[security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_1). 
 
-[Raid2022] [Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975) 
+[security] [Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975) 
 
 ### 2019
 
-[RAID2019] [Towards a first step to understand the cryptocurrency stealing attack on ethereum](https://www.usenix.org/system/files/raid2019-cheng.pdf).
+[security] [Towards a first step to understand the cryptocurrency stealing attack on ethereum](https://www.usenix.org/system/files/raid2019-cheng.pdf).
 
 ------
 
 ## ICDCS
+
+### 2023
+
+[security] [Smart Contract Parallel Execution with Fine-Grained State Accesses](https://personal.ntu.edu.sg/yi_li/files/Qi2023SCP.pdf).
 
 ### 2020
 
