@@ -42,7 +42,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/pdf/2208.13035.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_CF)**.
 
-[security] [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_CF)**.
+[security] [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_CF)**.
 
 [security] [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2023/9336/00/933600b186.pdf).
 
@@ -158,11 +158,11 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [A Mixed-Methods Study of Security Practices of Smart Contract Developers](https://www.usenix.org/system/files/usenixsecurity23-sharma.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_17).
 
-[security] [Smart Learning to Find Dumb Contracts](https://www.usenix.org/system/files/usenixsecurity23-abdelaziz.pdf)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_4).
+[security] [Smart Learning to Find Dumb Contracts](https://www.usenix.org/system/files/usenixsecurity23-abdelaziz.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_4).
 
 [security] [Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes](https://www.usenix.org/system/files/usenixsecurity23-taverna.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_3).
 
-[security] [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://arxiv.org/pdf/2206.08202.pdf)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_7).
+[security] [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://arxiv.org/pdf/2206.08202.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_7).
 
 [security] [Automated Inference on Financial Security of Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-wang-wansen.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_5).
 
@@ -227,7 +227,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_30).
+[security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_30).
 
 [security] [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf).
 
@@ -341,7 +341,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements]().
 
-[security] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_8).
+[security] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_8).
 
 [security] [Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode]().
 
@@ -810,7 +810,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2022
 
-[security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf)  | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_1). 
+[security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_1). 
 
 [security] [Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975) 
 
@@ -824,7 +824,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[security] [Smart Contract Parallel Execution with Fine-Grained State Accesses](https://personal.ntu.edu.sg/yi_li/files/Qi2023SCP.pdf).
+[security] [Smart Contract Parallel Execution with Fine-Grained State Accesses](https://personal.ntu.edu.sg/yi_li/files/Qi2023SCP.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_19).
 
 ### 2020
 
