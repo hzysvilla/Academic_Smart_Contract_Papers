@@ -1,3 +1,13 @@
+# 23_9_19
+## ICDCS23 | Smart Contract Parallel Execution with Fine-Grained State Accesses.
+* Motivation: The author proposes a series of technologies to optimize the concurrent execution of contracts and optimize the performance of the blockchain.
+* Prior work: The optimistic concurrency control (OCC) repeatedly executes transactions until there are no transaction conflicts, which is inefficient.
+* Challenge: Transactions with state read and write conflicts will hinder the efficiency of concurrent execution.
+* Key idea: The author detects the conflicts of each transaction by constructing the contract's state read/write dependency graph, and then finds the optimal transaction execution sequence.
+* Design: Through SDG, the read and write dependencies between transactions can be analyzed. The author mainly uses SDG to resolve write and write conflicts. Specifically, the author records the write operation of each transaction, and then automatically finds the required transaction for conflicting transactions. In addition, conflicting transactions can perform required write operations from SDG in advance without having to wait for the transaction to be submitted to get the result.
+* Implement: The author implemented their design as DMVCC. For a blockchain node, DMVCC first builds SDG based on contracts and transactions, then uses SDG information to sort transactions, and finally executes the sorted transactions.
+* Evalution: The experimental results show that DMVCC doubles the parallel speedup achievable to a 20× overall speedup, compared with the serial execution baseline, approaching the theoretical optimum.
+
 # 23_9_18
 ## sec23 | Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract.
 * Motivation: The author studies real-time defense against attacks on smart contracts on the blockchain, specifically, attacks initiated through vulnerabilities in contract implementation.
