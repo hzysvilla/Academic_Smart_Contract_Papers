@@ -758,11 +758,17 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## SIGMETRICS
 
+### 2023
+
+[performance] [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks]().
+
+[security] [Characterizing Cryptocurrency-themed Malicious Browser Extensions]().
+
 ### 2022
 
 [performance] [Tuxedo: Maximizing Smart Contract computation in PoW Blockchains]().
 
-[security] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange ](https://dl.acm.org/doi/pdf/10.1145/3491051).
+[security] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://dl.acm.org/doi/pdf/10.1145/3491051).
 
 ### 2021
 
