@@ -706,6 +706,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## OOPSLA
 
+[security] [Asparagus: Automated Synthesis of Parametric Gas Upper-bounds for Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3563308)
+
 ### 2022
 
 [security] [Synthesis-powered optimization of smart contracts via data type refactoring](https://dl.acm.org/doi/pdf/10.1145/3563308)
