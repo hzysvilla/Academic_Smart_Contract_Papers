@@ -287,7 +287,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[security] [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://kaixuanli-ecnu.github.io/files/fse23-sc-codeclone-kairansun.pdf).
+[security] [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://kaixuanli-ecnu.github.io/files/fse23-sc-codeclone-kairansun.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_20). 
 
 [security] [Understanding Solidity Event Logging Practices in the Wild]().
 
