@@ -758,6 +758,12 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## SIGMETRICS
 
+### 2022
+
+[performance] [Tuxedo: Maximizing Smart Contract computation in PoW Blockchains]().
+
+[security] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange ](https://dl.acm.org/doi/pdf/10.1145/3491051).
+
 ### 2021
 
 [SIGMETRICS2021] [Tracking Counterfeit Cryptocurrency End-to-end](https://research.polyu.edu.hk/en/publications/tracking-counterfeit-cryptocurrency-end-to-end).
