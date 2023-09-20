@@ -1,3 +1,12 @@
+# 23_9_20
+## FSE23 | Demystifying the Composition and Code Reuse in Solidity Smart Contracts.
+* Motivation: The author empirically studies the code reuse problem during smart contract development , specifically the code type, purpose and deployment method reused by developers.
+* Method: The author collected 350,000 contract projects. Because a project may consist of multiple contracts, the author divided them into externally contracts and self-developed contracts for research.
+* Find1: 80% of contracts come from external references, of which NPM accounts for the majority.
+* Find2: Less than 5% of the code of self-developed contracts is customized.
+* Find3: 35% of the external contracts are related standard interfaces (such as ERC20), but there are a lot of interface misuses.
+* Find4: The author extracted 61 common reuse contract deployment scenarios, such as using uniswap code to obtain permissions, etc.
+
 # 23_9_19
 ## ICDCS23 | Smart Contract Parallel Execution with Fine-Grained State Accesses.
 * Motivation: The author proposes a series of technologies to optimize the concurrent execution of contracts and optimize the performance of the blockchain.
