@@ -1,3 +1,12 @@
+# 23_9_21
+## sec21 | SMARTEST: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution.
+* Motivation： The author mainly focuses on detecting smart contract vulnerabilities and generating corresponding transaction sequences to verify the corresponding vulnerabilities.
+* Key idea：Generate transaction sequences through statistical language models to explore program paths more effectively.
+* Design: The author first learns the transaction sequences that trigger the vulnerability through a statistical language model, and then uses these transaction sequences to guide the path judgment process of symbolic execution.
+* Implement：The authors implemented their design into the tool SmartTest, trained the n-gram language model to generate a model for transaction sequences, and then used the VeriSmart tool to perform symbolic execution. SMARTEST supports the detection of six types of security-critical vulnerabilities: integer over/underflow, assertion violation, division-by-zero,
+ERC20 standard violation, Ether-leaking vulnerability, and suicidal vulnerability. 
+* Evalution: SmartTest's vulnerability detection rate is as high as 90.5%, which is much higher than tools such as Mythril.
+
 # 23_9_20
 ## FSE23 | Demystifying the Composition and Code Reuse in Solidity Smart Contracts.
 * Motivation: The author empirically studies the code reuse problem during smart contract development , specifically the code type, purpose and deployment method reused by developers.
