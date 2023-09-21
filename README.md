@@ -454,6 +454,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## ICSE
 
+### 2024
+
+[security] [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG)]().
+
 ### 2023
 
 [security] [SmartMark: Software Watermarking Scheme for Smart Contracts]().
