@@ -184,7 +184,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [EOSAFE: Security Analysis of EOSIO Smart Contracts](http://sei.pku.edu.cn/~yaoguo/papers/He-Security-21.pdf).
 
-[security] [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](http://prl.korea.ac.kr/~ssb920/papers/sec21.pdf).
+[security] [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](http://prl.korea.ac.kr/~ssb920/papers/sec21.pdf)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_21)**.
 
 [security] [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.doc.ic.ac.uk/~livshits/papers/pdf/usenixsec21.pdf).
 
