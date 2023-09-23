@@ -916,11 +916,23 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [TIFS] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts]().
 
+[TIFS] [Hunting Vulnerable Smart Contracts via Graph Embedding Based Bytecode Matching]().
+
+[TIFS] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
+
 ## TDSC
 
 [TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
 
+[TDSC] [Oracle-Supported Dynamic Exploit Generation for Smart Contracts]().
+
+[TDSC] [Obfuscating verifiable Random Functions for Proof-of-Stake Blockchains]().
+
+[TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
+
 ## OTHERS
+
+[ICDE23] [Scaling Blockchain Consensus via a Robust Shared Mempool]().
 
 [SC23] [FISCO-BCOS：An Enterprise-grade Permissioned Blockchain System with High-performance]().
 
