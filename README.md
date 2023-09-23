@@ -50,7 +50,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2022
 
-[security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_28).
+[security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_28)**.
 
 
 [security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).
@@ -93,10 +93,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security](https://arxiv.org/pdf/2201.05574.pdf).
 
-[security] [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://yueduan.github.io/pub/smart_contracts_analysis__ccs22.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_2).
+[security] [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://yueduan.github.io/pub/smart_contracts_analysis__ccs22.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_2)**.
 
 
-[security] [VRust: Automated Vulnerability Detection for Solana Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3548606.3560552) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#ccs22_vrust).
+[security] [VRust: Automated Vulnerability Detection for Solana Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3548606.3560552) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#ccs22_vrust)**.
 
 [security] [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration](https://github.com/jianyu-niu/blockchain_conference_paper/blob/master). 
 
@@ -154,17 +154,17 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf).
 
-[security] [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://www.usenix.org/system/files/sec23fall-prepub-515-mclaughlin.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_29).
+[security] [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://www.usenix.org/system/files/sec23fall-prepub-515-mclaughlin.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_29)**.
 
-[security] [A Mixed-Methods Study of Security Practices of Smart Contract Developers](https://www.usenix.org/system/files/usenixsecurity23-sharma.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_17).
+[security] [A Mixed-Methods Study of Security Practices of Smart Contract Developers](https://www.usenix.org/system/files/usenixsecurity23-sharma.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_17)**.
 
-[security] [Smart Learning to Find Dumb Contracts](https://www.usenix.org/system/files/usenixsecurity23-abdelaziz.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_4).
+[security] [Smart Learning to Find Dumb Contracts](https://www.usenix.org/system/files/usenixsecurity23-abdelaziz.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_4)**.
 
-[security] [Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes](https://www.usenix.org/system/files/usenixsecurity23-taverna.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_3).
+[security] [Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes](https://www.usenix.org/system/files/usenixsecurity23-taverna.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_3)**.
 
 [security] [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://arxiv.org/pdf/2206.08202.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_7).
 
-[security] [Automated Inference on Financial Security of Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-wang-wansen.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_5).
+[security] [Automated Inference on Financial Security of Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-wang-wansen.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_5)**.
 
 [security] [Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract](https://www.usenix.org/system/files/usenixsecurity23-zhang-zhuo-exploit.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_18).
 
@@ -337,19 +337,19 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[security] [SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis]() | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_2).
+[security] [SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis]() | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_2)**.
 
 [security] [iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements]().
 
-[security] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_8).
+[security] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_8)**.
 
 [security] [Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode]().
 
-[security] [Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3597926.3598057) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_15).
+[security] [Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3597926.3598057) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_15)**.
 
 [security] [ItyFuzz: Snapshot-Based Fuzzer for Smart Contract](https://arxiv.org/pdf/2306.17135)
 
-[security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract](https://dl.acm.org/doi/pdf/10.1145/3548606.3559384) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_16).
+[security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract](https://dl.acm.org/doi/pdf/10.1145/3548606.3559384) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_16)**.
 
 [security] [DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols]().
 
@@ -358,9 +358,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2022
 
-[security] [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218).
+[security] [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_23)**.
 
-[security] [Finding permission bugs in smart contracts with role mining](https://dl.acm.org/doi/pdf/10.1145/3533767.3534372) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#issta22_SPCon).
+
+[security] [Finding permission bugs in smart contracts with role mining](https://dl.acm.org/doi/pdf/10.1145/3533767.3534372) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#issta22_SPCon)**.
 
 [security] [eTainter: detecting gas-related vulnerabilities in smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534378).
 
