@@ -1,15 +1,24 @@
+# 23_9_23
+## ISSTA22 | WASAI: uncovering vulnerabilities in Wasm smart contracts.
+* Motivation: The author focuses on the security issues of WASM (WebAssembly) smart contracts on the EOS blockchain platform.
+* Design: The author uses symbolic execution to generate the input on the trace of WASM contract, and then uses the input as a seed for fuzz testing on WASM contract.
+* Challenge: Specificity of the underlying architecture of WASM smart contracts, such as memory models, data types, etc.
+* Solution: The author uses hooker and collect the specific values (trace) of the relevant structures when the WASM contract is executed to avoid symbolizing.
+* Evaluation: The authors developed the tool WASAI to implement their method.
+* Implement: WASMI is twice as fast as existing tools and discovered a CVE (CVE-2022-27134).
+
 # 23_9_21
 ## sec21 | SMARTEST: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution.
 * Motivation： The author mainly focuses on detecting smart contract vulnerabilities and generating corresponding transaction sequences to verify the corresponding vulnerabilities.
 * Key idea：Generate transaction sequences through statistical language models to explore program paths more effectively.
 * Design: The author first learns the transaction sequences that trigger the vulnerability through a statistical language model, and then uses these transaction sequences to guide the path judgment process of symbolic execution.
-* Implement：The authors implemented their design into the tool SmartTest, trained the n-gram language model to generate a model for transaction sequences, and then used the VeriSmart tool to perform symbolic execution. SMARTEST supports the detection of six types of security-critical vulnerabilities: integer over/underflow, assertion violation, division-by-zero,
+* Implement: The authors implemented their design into the tool SmartTest, trained the n-gram language model to generate a model for transaction sequences, and then used the VeriSmart tool to perform symbolic execution. SMARTEST supports the detection of six types of security-critical vulnerabilities: integer over/underflow, assertion violation, division-by-zero,
 ERC20 standard violation, Ether-leaking vulnerability, and suicidal vulnerability. 
 * Evalution: SmartTest's vulnerability detection rate is as high as 90.5%, which is much higher than tools such as Mythril.
 
 # 23_9_20
 ## FSE23 | Demystifying the Composition and Code Reuse in Solidity Smart Contracts.
-* Motivation: The author empirically studies the code reuse problem during smart contract development , specifically the code type, purpose and deployment method reused by developers.
+* Motivation: The author empirically studies the code reuse problem during smart contract development, specifically the code type, purpose and deployment method reused by developers.
 * Method: The author collected 350,000 contract projects. Because a project may consist of multiple contracts, the author divided them into externally contracts and self-developed contracts for research.
 * Find1: 80% of contracts come from external references, of which NPM accounts for the majority.
 * Find2: Less than 5% of the code of self-developed contracts is customized.
