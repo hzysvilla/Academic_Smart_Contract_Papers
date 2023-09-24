@@ -14,13 +14,13 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 |           [ACM CCS](#ccs)           |                   [ICDE](#others)                 |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)   |
 | [USENIX Security](#usenix-security) |                   [VLDB](#others)                 |                 [ASE](#ase)                 |  [IEEE ICDCS](#icdcs)|
 |           [NDSS](#ndss)             |               [ACM SIGMOD](#others)               |              [ACM PLDI](#pldi)              |     [OSDI](#osdi)    |
-|        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            |[Usenix ATC](#others) |
-|       [EuroS&P](#eurosp)            |                   [IMC](#imc)                     |              [ISSTA](#issta)                |                      |
+|        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            | [Usenix ATC](#others)|
+|         [SRCS](#others)             |                   [IMC](#imc)                     |              [ISSTA](#issta)                |                      |
 |          [RAID](#raid)              |                   [WWW](#www)                     |             [ACM POPL](#popl)               |                      |
 |          [CAV](#cav)                |                                                   |                                             |                      |
 
 ### Also including:
-* [CHI](#others), [ICPC](#others), [TPDS](#others), [HPC](#others), [POMACS](#others), [AsiaCCS](#others), [IJCAI](#others), [SRDS](#others), [SC](#others).
+* [CHI](#others), [ICPC](#others), [TPDS](#others), [HPC](#others), [POMACS](#others), [AsiaCCS](#others), [IJCAI](#others), [SC](#others).
 
 ## Table of Listed Journals
 - [TOSEM](#tosem)
@@ -459,6 +459,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG)]().
 
+[security] [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts]().
+
 ### 2023
 
 [security] [SmartMark: Software Watermarking Scheme for Smart Contracts]().
@@ -637,6 +639,12 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## ESORICS
 
+### 2023
+
+[security] [n-MVTL Attack: Optimal Transaction Reordering Attack on DeFi]().
+
+[security] [When is Slower Block Propagation More Profitable for Large Miners?]().
+
 ### 2020
 
 [security] [PrivacyGuard: Enforcing Private Data Usage Control with Blockchain and Off-chain Contract Execution](https://arxiv.org/abs/2003.06552).
@@ -665,17 +673,31 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ------
 
-## Eurosp
-
-### 2023
-
-[security] [EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation]().
-
 ## SANER
 
 ### 2023
 
-[security] [Automatic Identification of Crash-inducing Smart Contracts]()
+[security] [An Empirical Study of Smart Contract Decompilers]().
+
+[security] [Automatic Identification of Crash-inducing Smart Contracts]().
+
+[security] [Security Code Recommendations for Smart Contract]().
+
+[security] [Combine sliced joint graph with graph neural networks for smart contract vulnerability detection]().
+
+### 2022
+
+[security] [When They Go Low: Automated Replacement of Low-level Functions in Ethereum Smart Contracts]().
+
+[security] [A Bytecode-based Approach for Smart Contract Classification]().
+
+[security] [A Tool to check the Ownership of Solana's Smart Contracts]().
+
+[security] [On the use of Petri Nets in Smart Contracts modeling, generation and verification]().
+
+[security] [Analysis Of The Relationship Between Smart Contracts' Categories and Vulnerabilities]().
+
+[security] [Goal and Policy Based Code Generation and Deployment of Smart Contracts]().
 
 ### 2021
 
@@ -931,6 +953,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
 
 ## OTHERS
+
+[Eurosp23] [EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation]().
 
 [ICDE23] [Scaling Blockchain Consensus via a Robust Shared Mempool]().
 
