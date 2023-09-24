@@ -733,6 +733,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## OOPSLA
 
+### 2023
+
 [security] [Asparagus: Automated Synthesis of Parametric Gas Upper-bounds for Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3563308)
 
 ### 2022
@@ -740,6 +742,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [security] [Synthesis-powered optimization of smart contracts via data type refactoring](https://dl.acm.org/doi/pdf/10.1145/3563308)
 
 [security] [Elipmoc: Advanced Decompilation of Ethereum Smart Contracts](https://yanniss.github.io/elipmoc-oopsla22.pdf).
+
+[security] [A Study of Inline Assembly in Solidity Smart Contracts]().
+
+[security] [SigVM: Enabling Event-Driven Execution for Truly Decentralized Smart Contracts]().
 
 ### 2021
 
