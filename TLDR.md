@@ -1,11 +1,18 @@
+# 23_9_25
+## CCS23 | Demystifying DeFi MEV Activities in Flashbots Bundle.
+* Motivation: The author mainly focuses on Ethereum ecnomic security, that is, studying how to analyze and recover MEV (Miner Extractable Value) activities, and the impact of MEV activities on the blockchain.
+* Prior work：Existing work uses fixed patterns and can only identify known MEV activities.
+* Design: The author first uses fixed financial behavior rules to identify known MEV activities, and then uses machine learning to learn unknown MEV activities.
+* Implement: The authors implemented their approach as tools ActLifter and ActCluster. ActLifter identifies ten types of known MEV activities (e.g., token swap, liquidity add) through contract events and fixed financial behavior rules, and ActCluster explores unknown MEV through clustering algorithms.
+* Evaluation: ActLifter can achieve nearly 100% precision and recall in DeFi action identification and ActCluster, we obtain many new observations and discover 17 new kinds of DeFi MEV activities.
+
 # 23_9_23
 ## ISSTA22 | WASAI: uncovering vulnerabilities in Wasm smart contracts.
 * Motivation: The author focuses on the security issues of WASM (WebAssembly) smart contracts on the EOS blockchain platform.
 * Design: The author uses symbolic execution to generate the input on the trace of WASM contract, and then uses the input as a seed for fuzz testing on WASM contract.
 * Challenge: Specificity of the underlying architecture of WASM smart contracts, such as memory models, data types, etc.
 * Solution: The author uses hooker and collect the specific values (trace) of the relevant structures when the WASM contract is executed to avoid symbolizing.
-* Evaluation: The authors developed the tool WASAI to implement their method.
-* Implement: WASMI is twice as fast as existing tools and discovered a CVE (CVE-2022-27134).
+* Evaluation: The authors developed the tool WASAI to implement their method, WASMI is twice as fast as existing tools and discovered a CVE (CVE-2022-27134).
 
 # 23_9_21
 ## sec21 | SMARTEST: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution.
