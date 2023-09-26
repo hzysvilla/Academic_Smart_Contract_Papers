@@ -873,6 +873,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Smart Contract Parallel Execution with Fine-Grained State Accesses](https://personal.ntu.edu.sg/yi_li/files/Qi2023SCP.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_19).
 
+### 2022
+
+[Application] [Blockchain Machine: A Network-Attached Hardware Accelerator for Hyperledger Fabric](https://arxiv.org/pdf/2104.06968).
+
 ### 2020
 
 [security] [TinyEVM: Off-Chain Smart Contracts on Low-Power IoT Devices](https://www.ds.informatik.uni-kiel.de/en/publications/papers/2020-07-ICDCS-Profentzas-TinyEVM.pdf).
@@ -960,8 +964,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## OTHERS
 
-[Eurosp23] [EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation]().
-
 [ICDE23] [Scaling Blockchain Consensus via a Robust Shared Mempool]().
 
 [SC23] [FISCO-BCOS：An Enterprise-grade Permissioned Blockchain System with High-performance]().
@@ -970,9 +972,11 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [Usenix ATC21] [RainBlock: Faster Transaction Processing in Public Blockchains](https://www.usenix.org/system/files/atc21-ponnapalli.pdf)
 
-[eorusys21] [Ethanos: efficient bootstrapping for full nodes on account-based blockchain](https://dl.acm.org/doi/pdf/10.1145/3447786.3456231)
+[EORUSYS23] [Diablo: A Benchmark Suite for Blockchains](https://6788543.fs1.hubspotusercontent-na1.net/hubfs/6788543/Eurosys23-Diablo.pdf).
 
-[eorusys18] [Hyperledger fabric: a distributed operating system for permissioned blockchains](https://dl.acm.org/doi/pdf/10.1145/3190508.3190538).
+[EORUSYS21] [Ethanos: efficient bootstrapping for full nodes on account-based blockchain](https://dl.acm.org/doi/pdf/10.1145/3447786.3456231)
+
+[EORUSYS18] [Hyperledger fabric: a distributed operating system for permissioned blockchains](https://dl.acm.org/doi/pdf/10.1145/3190508.3190538).
 
 [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
 
@@ -1017,6 +1021,9 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [CPP2021] [Extracting Smart Contracts Tested and Verified in Coq]().
 
 [SAC2022] [Model checking of vulnerabilities in smart contracts: a solidity-to-CPN approach]().
+
+[Eurosp23] [EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation]().
+
 
 ## License
 
