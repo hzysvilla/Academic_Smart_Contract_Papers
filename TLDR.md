@@ -1,4 +1,11 @@
 # 23_9_25
+## OOPSLA23 | Asparagus: Automated Synthesis of Parametric Gas Upper-bounds for Smart Contracts
+* Motivation: The author focuses on how to accurately estimate the gas upper bound of contract calls to avoid a series of problems caused by out of gas.
+* Approach: The author first establishes a state transition equation on the CFG of the contract function to obtain gas constraints, and then uses mathematical theorem to simplify the gas constraints to obtain a quadratic gas estimation parameter equation.
+* Implement: Asparagus first builds a CFG in the form of RBR (Rule-based Representations), then converts the CFG into a PTS (Polynomial Transition System), and then generates the corresponding gas constraints based on the PTS and utilizes the mathematical theorems (Farkas’ Lemma, Handelman’s Theorem, and Putinar’s Positivstellensatz) obtains the final quadratic parameter gas estimation polynomial.
+* Evaluation: Asparagus approach can handle 80.56% of the functions (126,269 out of 156,735) in comparison with GASTAP's 58.62%. 
+
+# 23_9_25
 ## CCS23 | Demystifying DeFi MEV Activities in Flashbots Bundle.
 * Motivation: The author mainly focuses on Ethereum ecnomic security, that is, studying how to analyze and recover MEV (Miner Extractable Value) activities, and the impact of MEV activities on the blockchain.
 * Prior work：Existing work uses fixed patterns and can only identify known MEV activities.
