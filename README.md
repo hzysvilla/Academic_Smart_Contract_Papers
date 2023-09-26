@@ -735,7 +735,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[security] [Asparagus: Automated Synthesis of Parametric Gas Upper-bounds for Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3563308)
+[security] [Asparagus: Automated Synthesis of Parametric Gas Upper-bounds for Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3563308) **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_26)**.
 
 ### 2022
 
