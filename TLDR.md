@@ -1,4 +1,13 @@
-# 23_9_25
+# 23_9_27
+## OOPSLA23 | Synthesis-powered optimization of smart contracts via data type refactoring 
+* Motivation: The author mainly focuses on how to save contract gas by modifying the definition of contract variables (data layout).
+* Approach: First, the user manually specifies how the data types of the current contract need to be decoupled; then a semantically equivalent sketch contract (i.e., the sketch contract refers to the contract that is marked with changes to the data structure and its impact statements) is generated based on the contract changes, and then the author uses the sketch contract to generate a semantically equivalent and more gas-saving contract.
+* challenge：How to use sketch contracts to generate semantically equivalent and more optimized gas contracts contracts?
+* Solution：The author converts the problem of searching for semantically equivalent and more optimized gas contracts into a MaxSAT problem to solve.
+* Implement: The author implemented the approach in a tool called Solidare, which is implemented in a combination of Java and Kotlin. Solidare uses the Sat4j tool to solve the generated MaxSAT instances.
+* Evalution: Solidare is able to reduce the gas usage of some Solidity programs by up to 48.6%.
+
+# 23_9_26
 ## OOPSLA23 | Asparagus: Automated Synthesis of Parametric Gas Upper-bounds for Smart Contracts
 * Motivation: The author focuses on how to accurately estimate the gas upper bound of contract calls to avoid a series of problems caused by out of gas.
 * Approach: The author first establishes a state transition equation on the CFG of the contract function to obtain gas constraints, and then uses mathematical theorem to simplify the gas constraints to obtain a quadratic gas estimation parameter equation.
