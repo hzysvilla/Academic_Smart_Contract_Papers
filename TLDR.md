@@ -1,3 +1,12 @@
+# 23_9_28
+## CCS23 | Fuzz on the Beach: Fuzzing Solana Smart Contracts 
+* Motivation: The author focuses on how to use fuzz testing to detect security issues in Solana contracts.
+* Prior work：The author was the first to conduct research on fuzzing Solana smart contracts.
+* Key idea：The author attempts to implement a solana contract fuzz testing tool based on code coverage guidance for bytecode.
+* Design：The author first consttruct the on-chain environment to simulate account and contract information, etc., then mutated the transaction sequence and fuzzed the contract in Solana's eBPF virtual machine.
+* Implement: The authors developed a tool, FuzzDelSol, to implement their proposed method. FuzzDelSol uses libalf to guide fuzz testing and implements the detection of six vulnerabilities including, i)missing signer check, ii) missing owner check, iii) arbitrary cross program invocation, iv) missing key check, v) integer bugs, vi) and a lamports-based bug oracle to detect lamport-theft.
+* Evalution: The evaluation on 6049 smart contracts shows that FuzzDelSol’s bug oracles finds impactful vulnerabilities with a high precision and recall.
+
 # 23_9_27
 ## OOPSLA23 | Synthesis-powered optimization of smart contracts via data type refactoring 
 * Motivation: The author mainly focuses on how to save contract gas by modifying the definition of contract variables (data layout).
