@@ -89,6 +89,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Demystifying DeFi MEV Activities in Flashbots Bundle]() | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_25)**.
 
+[security] [Fuzz on the Beach: Fuzzing Solana Smart Contracts](https://arxiv.org/pdf/2309.03006.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_28)**.
+
 ### 2022 
 
 [security] [Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security](https://arxiv.org/pdf/2201.05574.pdf).
