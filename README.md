@@ -1000,6 +1000,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
 
+[VLDB23] [Auto-Tuning with Reinforcement Learning for Permissioned Blockchain Systems](https://www.vldb.org/pvldb/vol16/p1000-li.pdf).
+
 [AsiaCCS22] [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390).
 
 [sigmod21] [Why Do My Blockchain Transactions Fail? A Study of Hyperledger Fabric.]().
