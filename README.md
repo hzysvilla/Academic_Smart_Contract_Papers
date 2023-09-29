@@ -982,11 +982,11 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [Usenix ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). 
 
-[Usenix ATC21] [RainBlock: Faster Transaction Processing in Public Blockchains](https://www.usenix.org/system/files/atc21-ponnapalli.pdf)
+[Usenix ATC21] [RainBlock: Faster Transaction Processing in Public Blockchains](https://www.usenix.org/system/files/atc21-ponnapalli.pdf).
 
-[EORUSYS23] [Diablo: A Benchmark Suite for Blockchains](https://6788543.fs1.hubspotusercontent-na1.net/hubfs/6788543/Eurosys23-Diablo.pdf).
+[EORUSYS23] [Diablo: A Benchmark Suite for Blockchains](https://6788543.fs1.hubspotusercontent-na1.net/hubfs/6788543/Eurosys23-Diablo.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_29)**.
 
-[EORUSYS21] [Ethanos: efficient bootstrapping for full nodes on account-based blockchain](https://dl.acm.org/doi/pdf/10.1145/3447786.3456231)
+[EORUSYS21] [Ethanos: efficient bootstrapping for full nodes on account-based blockchain](https://dl.acm.org/doi/pdf/10.1145/3447786.3456231).
 
 [EORUSYS18] [Hyperledger fabric: a distributed operating system for permissioned blockchains](https://dl.acm.org/doi/pdf/10.1145/3190508.3190538).
 
