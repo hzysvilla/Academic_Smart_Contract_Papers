@@ -1,3 +1,14 @@
+# 23_9_29
+## Eurosys23 | Diablo: A Benchmark Suite for Blockchains
+* Motivation: The author focuses on how to truly measure the performance of blockchain platforms.
+* Prior work：Performance measurement in the industry always over-exaggerates blockchain performance and does not disclose experimental configurations, while performance measurement in academia tends to focus on single-platform testing and is not generic.
+* Key idea：The author designed a set of test benchmarks and test environments that include a variety of real DApps of different types and languages, and proposed a unified strategy framework.
+* Design：The author uses smart contracts to simulate applications such as Dota, Uber, and FiFA to construct real blockchain loads, and then measures the performance of multiple types of blockchains based on different experimental environments (e.g., atacenter, testnet, devnet, community and consortium).
+* Implement: The authors implemented a framework called Diablo based on their proposed approach. Diablo consists of three parts. The master is used to generate load (transaction) summary results, slaves are used to execute load (transaction) and collect structures, and the underlying blockchain platform is used as the test object.
+* Evalution: The blockchains are not capable of handling the demand of the selected centralized applications when deployed on modern commodity computers across the world.
+* Insight: The authors found that the performance of current blockchain platforms is highly dependent on the underlying experimental settings in which they are evaluated. The language abstraction level supported by some blockchain platforms is low and unfriendly, and only EVM is very versatile.
+
+
 # 23_9_28
 ## CCS23 | Fuzz on the Beach: Fuzzing Solana Smart Contracts 
 * Motivation: The author focuses on how to use fuzz testing to detect security issues in Solana contracts.
