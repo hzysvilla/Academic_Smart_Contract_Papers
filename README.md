@@ -631,6 +631,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## PLDI
 
+### 2023
+
+[security] [Automated Detection of Under-constrained Circuits in Zero-Knowledge Proofs](https://dl.acm.org/doi/pdf/10.1145/3591282).
+
 ### 2021
 
 [security] [Practical Smart Contract Sharding with Ownership and Commutativity Analysis](https://dl.acm.org/doi/pdf/10.1145/3453483.3454112).
