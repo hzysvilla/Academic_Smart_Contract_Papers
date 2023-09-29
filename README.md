@@ -407,6 +407,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2022
 
+[security] [Learning Contract Invariants Using Reinforcement Learning](https://www.cs.utexas.edu/~isil/cider.pdf).
+
 [security] [Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3551349.3560429).
 
 [security] [Reentrancy Vulnerability Detection and Localization: A Deep Learning Based Two-phase Approach](https://dl.acm.org/doi/abs/10.1145/3551349.3560428).
