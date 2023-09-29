@@ -146,6 +146,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## USENIX Security
 
+### 2024
+
+[security] [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190.pdf).
+
 ### 2023
 
 [security] [Confusum Contractum: Confused Deputy Vulnerabilities in Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-gritti.pdf).
