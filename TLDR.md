@@ -1,3 +1,12 @@
+# 23_9_30
+## Sec24 | Practical Security Analysis of Zero-Knowledge Proof Circuits
+* Motivation: The author talks about vulnerability detection in zero-knowledge proof circuits, specifically circuits programmed by the language Circom.
+* Key idea：The author first collected vulnerabilities in existing zero-knowledge circuits to classify and model them, and then converted the zero-knowledge circuit into a graph, on which vulnerability patterns were matched and detected.
+* Design: The author divides the vulnerabilities of existing zkp circuits into three categories, including Unsafe component usage, Constraint-computation discrepancies, and Nondeterministic signals. Then the author abstract the program of the zero-knowledge protocol circuit into a graph structure, namely Circuit Dependence Graph (CDG) and established a set of predicate semantic detection rules for CDG. Based on predicate semantic detection rules, the author creates different anti-patterns for the three types of vulnerabilities mentioned above and then performs vulnerability detection on the graph.
+* Implementation：The authors implemented the ZKAP tool based on the method they proposed.
+* Evalution: The author implements 9 different detectors using this framework and performed an experimental evaluation on over 258 circuits from popular Circom projects on Github. 
+
+
 # 23_9_29
 ## Eurosys23 | Diablo: A Benchmark Suite for Blockchains
 * Motivation: The author focuses on how to truly measure the performance of blockchain platforms.
