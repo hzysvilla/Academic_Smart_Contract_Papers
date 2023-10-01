@@ -61,7 +61,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917).
 
-[finance] [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols]().
+[finance] [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228).
 
 [security] [Compositional Security for Reentrant Applications](https://arxiv.org/abs/2103.08577).
 
@@ -245,7 +245,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2021
 
-[application] [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains]().
+[application] [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](https://eprint.iacr.org/2019/857.pdf).
 
 [Sercurity] [As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3C-1_23108_paper.pdf).
 
@@ -263,13 +263,13 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://arxiv.org/pdf/1811.03265.pdf).
 
-[security] [Sereum: Protecting Existing Smart Contracts Against Re-Entrancy Attacks]().
+[security] [Sereum: Protecting Existing Smart Contracts Against Re-Entrancy Attacks](https://arxiv.org/pdf/1812.05934).
 
 ### 2018
 
 [security] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf).
 
-[security] [Chainspace: A Sharded Smart Contracts Platform]().
+[security] [Chainspace: A Sharded Smart Contracts Platform](https://arxiv.org/pdf/1708.03778).
 
 ---
 
@@ -307,7 +307,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2022
 
-[security] [MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous graph embeddings]().
+[security] [MANDO-GURU: vulnerability detection for smart contract source code by heterogeneous graph embeddings](https://dl.acm.org/doi/pdf/10.1145/3540250.3558927).
 
 [security] [An Empirical Study of Blockchain System Vulnerabilities: Modules, Types, and Patterns](https://dl.acm.org/doi/pdf/10.1145/3540250.3549105).
 
@@ -471,15 +471,15 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[security] [SmartMark: Software Watermarking Scheme for Smart Contracts]().
+[security] [SmartMark: Software Watermarking Scheme for Smart Contracts](https://arxiv.org/pdf/2303.13733).
 
 [security] [AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities](https://people.ece.ubc.ca/~mjulia/publications/ACheckerICSE2023.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_14).
 
-[security] [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts]().
+[security] [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts](https://zhengpeilin.com/research/BSHunter.pdf).
 
 [security] [Demystifying Exploitable Bugs in Smart Contracts](https://www.cs.purdue.edu/homes/zhan3299/res/ICSE23.pdf).
 
-[security] [Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum]()
+[security] [Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum](https://arxiv.org/pdf/2303.13770)
 
 ### 2022
 
@@ -559,13 +559,13 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [application] [A Solution for State Conflicts of Smart Contract in Interaction with Non-blockchain]().
 
-[application] [ChainIDE 2.0: Facilitating Smart Contract Development for Consortium Blockchain]().
+[application] [ChainIDE 2.0: Facilitating Smart Contract Development for Consortium Blockchain](https://mypage.cuhk.edu.cn/academics/caiwei/paper/papers/WuQZMC2020.pdf).
 
 [application] [EncELC: Hardening and Enriching Ethereum Light Clients with Trusted Enclaves]().
 
 ### 2019
 
-[application] [Interledger Smart Contracts for Decentralized Authorization to Constrained Things]().
+[application] [Interledger Smart Contracts for Decentralized Authorization to Constrained Things](https://arxiv.org/pdf/1905.01671).
 
 ### 2018
 
@@ -597,7 +597,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [Finance] [Detecting and Quantifying Wash Trading on Decentralized Cryptocurrency Exchanges](https://arxiv.org/pdf/2102.07001.pdf).
 
-[application] [Towards understanding and demystifying bitcoin mixing services]().
+[application] [Towards understanding and demystifying bitcoin mixing services](https://dl.acm.org/doi/pdf/10.1145/3442381.3449880).
 
 ### 2020
 
@@ -621,7 +621,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2019
 
-[application] [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric]().
+[application] [FabZK: Supporting Privacy-Preserving, Auditable Smart Contracts in Hyperledger Fabric](http://dance.csc.ncsu.edu/papers/DSN19.pdf).
 
 ### 2018
 
@@ -633,7 +633,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[security] [Automated Detection of Under-constrained Circuits in Zero-Knowledge Proofs](https://dl.acm.org/doi/pdf/10.1145/3591282).
+[security] [Automated Detection of Under-constrained Circuits in Zero-Knowledge Proofs](https://dl.acm.org/doi/pdf/10.1145/3591282) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_2)**.
+
 
 ### 2021
 
