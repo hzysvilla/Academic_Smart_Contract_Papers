@@ -1,6 +1,15 @@
+# 23_10_1
+## pldi23 | Automated Detection of Under-Constrained Circuits in Zero-Knowledge Proofs
+* Motivation: The authors focus on detecting underconstrained vulnerabilities in zero-knowledge circuit implementations. Underconstrained vulnerabilities refer to the situation where multiple solutions exist in zero-knowledge circuits, resulting in malicious users being able to construct malicious proofs, making the proof verification fail.
+* Key idea：The author found that the input of most zero-knowledge circuits only corresponds to the output, and the functions of these circuits can be decomposed into functions composed of inputs and a series of intermediate variables.
+* Design: The author proposes a method to detect under-constrained vulnerabilities. This method first expresses the relevant variables in the circuit equation as functions and inputs. When there are relevant variables that cannot be expressed as functions, the solver is used to construct equivalent functions; continuously The above process is repeated iteratively until a vulnerability is discovered.
+* Implementation：The authors implemented the QED^2 tool based on the method they proposed.
+* Evalution: The evaluation shows that QED^2 can successfully solve 70% in 163 arithmetic circuits from Circomlib and detects 8 vulnerable templates that can be underconstrained.
+
+
 # 23_9_30
 ## Sec24 | Practical Security Analysis of Zero-Knowledge Proof Circuits
-* Motivation: The author talks about vulnerability detection in zero-knowledge proof circuits, specifically circuits programmed by the language Circom.
+* Motivation: The author focus on vulnerability detection in zero-knowledge proof circuits, specifically circuits programmed by the language Circom.
 * Key idea：The author first collected vulnerabilities in existing zero-knowledge circuits to classify and model them, and then converted the zero-knowledge circuit into a graph, on which vulnerability patterns were matched and detected.
 * Design: The author divides the vulnerabilities of existing zkp circuits into three categories, including Unsafe component usage, Constraint-computation discrepancies, and Nondeterministic signals. Then the author abstract the program of the zero-knowledge protocol circuit into a graph structure, namely Circuit Dependence Graph (CDG) and established a set of predicate semantic detection rules for CDG. Based on predicate semantic detection rules, the author creates different anti-patterns for the three types of vulnerabilities mentioned above and then performs vulnerability detection on the graph.
 * Implementation：The authors implemented the ZKAP tool based on the method they proposed.
