@@ -58,7 +58,7 @@
 * Prior work：Existing work uses fixed patterns and can only identify known MEV activities.
 * Design: The author first uses fixed financial behavior rules to identify known MEV activities, and then uses machine learning to learn unknown MEV activities.
 * Implement: The authors implemented their approach as tools ActLifter and ActCluster. ActLifter identifies ten types of known MEV activities (e.g., token swap, liquidity add) through contract events and fixed financial behavior rules, and ActCluster explores unknown MEV through clustering algorithms.
-* Evaluation: ActLifter can achieve nearly 100% precision and recall in DeFi action identification and ActCluster, we obtain many new observations and discover 17 new kinds of DeFi MEV activities.
+* Evaluation: ActLifter can achieve nearly 100% precision and recall in DeFi action identification and ActCluster obtain many new observations and discover 17 new kinds of DeFi MEV activities.
 
 # 23_9_23
 ## ISSTA22 | WASAI: uncovering vulnerabilities in Wasm smart contracts.
