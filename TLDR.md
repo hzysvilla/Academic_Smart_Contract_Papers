@@ -63,11 +63,12 @@
 
 # 23_9_25
 ## CCS23 | Demystifying DeFi MEV Activities in Flashbots Bundle.
-* Motivation: The author mainly focuses on Ethereum ecnomic security, that is, studying how to analyze and recover MEV (Miner Extractable Value) activities, and the impact of MEV activities on the blockchain.
-* Prior work：Existing work uses fixed patterns and can only identify known MEV activities.
-* Design: The author first uses fixed financial behavior rules to identify known MEV activities, and then uses machine learning to learn unknown MEV activities.
-* Implement: The authors implemented their approach as tools ActLifter and ActCluster. ActLifter identifies ten types of known MEV activities (e.g., token swap, liquidity add) through contract events and fixed financial behavior rules, and ActCluster explores unknown MEV through clustering algorithms.
-* Evaluation: ActLifter can achieve nearly 100% precision and recall in DeFi action identification and ActCluster obtain many new observations and discover 17 new kinds of DeFi MEV activities.
+* Motivation: The author mainly focuses on the security of the Ethereum economy, that is, studying how to analyze and restore MEV (Miner Extractable Value) behavior, and studying the impact of MEV activities on the blockchain.
+* Background: Maximum Extractable Value (MEV) is the maximum value that can be extracted from block production in excess of standard block rewards and gas fees by adding and excluding transactions in the block and changing the order of transactions in the block.
+* Previous work: Existing work uses fixed patterns and can only identify known MEV activities.
+* Design: The author first uses fixed financial behavior rules to identify known financial behaviors, and then uses machine learning to cluster unknown new MEV behaviors.
+* Implement: Based on the method proposed by the author, the author implemented the tools ActLifter and ActCluster. ActLifter identifies ten known financial activities (such as token swaps, liquidity additions) and their asset transfer rules through contract events and fixed financial behavior rules, and ActCluster uses a clustering algorithm to explore previous financial behaviors and asset transfer rules. Unknown MEV behavior.
+* Evaluation: ActLifter’s DeFi behavior recognition capabilities and ActCluster clustering new MEV behaviors can achieve nearly 100% precision and recall. At the same time, the authors obtained many new observations using the above two tools and discovered 17 new MEV activities that have not been reported yet.
 
 # 23_9_23
 ## ISSTA22 | WASAI: uncovering vulnerabilities in Wasm smart contracts.
