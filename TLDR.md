@@ -1,3 +1,12 @@
+# 23_10_2
+## ISSTA23 | iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements
+* Motivation: The author studies how to convert textual legal agreements into smart contract programs.
+* Challenge: How to automatically preserve the semantics in legal agreements into the implementation of smart contracts.
+* Solution: The author implements a new IR (intermediate representation) for semantic abstraction of legal agreements.
+* Design: The author summarizes four common types of semantic rules in four types of legal agreements, abstracts these semantic rules into an IR, and then converts all legal agreements into this IR. The author implements different template functions for these different IRs. Depending on the IR, different smart contracts will be generated.
+* Implement: The authors implemented the method they proposed into the framework iSyn. The authors used a large number of different NLP technologies to extract the semantics of legal agreements, then established SMARTIR to describe these semantics, and finally implemented different Solidity templates for different ITEMs of IR.
+* Evalution：The author tested on 86 legal agreements, and the average length of the generated contracts was 179 lines, and the semantic consistency was as high as 90%.
+
 # 23_10_1
 ## pldi23 | Automated Detection of Under-Constrained Circuits in Zero-Knowledge Proofs
 * Motivation: The authors focus on detecting underconstrained vulnerabilities in zero-knowledge circuit implementations. Underconstrained vulnerabilities refer to the situation where multiple solutions exist in zero-knowledge circuits, resulting in malicious users being able to construct malicious proofs, making the proof verification fail.
