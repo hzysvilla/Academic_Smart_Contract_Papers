@@ -1,3 +1,10 @@
+# 23_10_6
+## CAV22 | SolCMC: Solidity Compiler’s Model Checker
+* Motivation: How to improve the security of smart contracts during the compilation phase
+* Approach: Integrating the formal verification tool SolCMC into the solc compiler allows the formal verification tool to play a role in the compilation phase, conduct more security checks on smart contracts, and provide more security warnings to developers.
+* Implement: The author converts the AST into a CFG composed of Horn clauses, and then uses theorem solver and model checking tools to perform automated vulnerability reasoning. Based on assertions and require conditions, the tool detects issues such as out of bounds, and the lack of underflows, overflows, divisions by zero, and transfers with insufficient balance. Detect issues such as reentrancy or self-destruction based on testing tools.
+* Evalution：The author use Beacon Chain Deposit Contract and the OpenZeppelin implementation of the ERC777 to demenstrate the effectiveness of the tool.
+
 # 23_10_2
 ## ISSTA23 | iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements
 * Motivation: The author studies how to convert textual legal agreements into smart contract programs.
