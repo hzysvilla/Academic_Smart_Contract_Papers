@@ -345,7 +345,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis]() | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_2)**.
 
-[security] [iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements]().
+[security] [iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements]() | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_2)**.
 
 [security] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_8)**.
 
