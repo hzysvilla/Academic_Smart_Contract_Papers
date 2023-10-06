@@ -277,7 +277,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2022
 
-[security] [SolCMC: Solidity Compiler’s Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf). 
+[security] [SolCMC: Solidity Compiler’s Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_6)**.
 
 ### 2020
 
@@ -365,7 +365,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 ### 2022
 
 [security] [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_23)**.
-
 
 [security] [Finding permission bugs in smart contracts with role mining](https://dl.acm.org/doi/pdf/10.1145/3533767.3534372) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#issta22_SPCon)**.
 
