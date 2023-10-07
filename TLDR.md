@@ -1,6 +1,14 @@
 # 23_10_6
+## SP21 | SmartPulse: Automated Checking of Temporal Properties in Smart Contracts
+* Motivation: Ensure the security properties and liveness of smart contracts.
+* Key idea: The author designed a user-friendly specification language that allows users to specify the rules that the contract needs to meet; and it is equipped with a corresponding property check system to verify the satisfiability of the rules.
+* Design: The author developed a specification language SmartLTL. Users use SmartLTL to specify specifications, then insert the specifications into the contract, then convert the contract into standard LTL, and finally use the counterexample-guided abstraction refinement (CEGAR) paradigm for property check.
+* Implement: The authors proposed SMARTPULSE based on their proposed method. SMARTPULSE first uses the VeriSol Solidity-to-Boogie translator to convert the solidity code into a Boogie intermediate representation, and then uses the UltimateAutomizer software model checker to detect the Boogie level.
+* Evalution: The authors use SMARTPULSE to check 1947 properties across 191 smart contracts and show that SMARTPULSE is effective at verifying/falsifying these properties
+
+# 23_10_6
 ## CAV22 | SolCMC: Solidity Compiler’s Model Checker
-* Motivation: How to improve the security of smart contracts during the compilation phase
+* Motivation: How to improve the security of smart contracts during the compilation phase.
 * Approach: Integrating the formal verification tool SolCMC into the solc compiler allows the formal verification tool to play a role in the compilation phase, conduct more security checks on smart contracts, and provide more security warnings to developers.
 * Implement: The author converts the AST into a CFG composed of Horn clauses, and then uses theorem solver and model checking tools to perform automated vulnerability reasoning. Based on assertions and require conditions, the tool detects issues such as out of bounds, and the lack of underflows, overflows, divisions by zero, and transfers with insufficient balance. Detect issues such as reentrancy or self-destruction based on testing tools.
 * Evalution：The author use Beacon Chain Deposit Contract and the OpenZeppelin implementation of the ERC777 to demenstrate the effectiveness of the tool.
