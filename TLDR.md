@@ -1,4 +1,14 @@
-# 23_10_6
+# 23_10_9
+## SP20 | VerX: Safety Verification of Smart Contracts
+* Motivation: The author proposes a new framework to ensure the security properties of smart contracts using formal verification techniques.
+* Key idea: The authors construct a new symbolic execution engine to more accurately and efficiently model the semantics of the Ethereum Virtual Machine.
+* Challenge：How to solve the infinity of contract test transactions during the verification process.
+* Solution：The authors collect constraints during symbolic execution and calculate the fixed points they eventually reach to avoid endless exploration and testing.
+* Design: First, users need to provide security requirements (specification) and the contract to be tested. The specification needs to be split and inserted into the contract, and then symbolic execution of the new contract is performed. If the contract can hold the specifications during the symbol period, the verification passes. If not, the author will collect path constraints and determine whether these path constraints can meet security requirements (reachability problem).
+* Implement: The authors proposed VerX based on their proposed method. 
+* Evalution: VERX successfully verified 12 real-world projects (138 contracts) with 83 properties author considered.
+
+# 23_10_7
 ## SP21 | SmartPulse: Automated Checking of Temporal Properties in Smart Contracts
 * Motivation: Ensure the security properties and liveness of smart contracts.
 * Key idea: The author designed a user-friendly specification language that allows users to specify the rules that the contract needs to meet; and it is equipped with a corresponding property check system to verify the satisfiability of the rules.
