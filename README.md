@@ -52,7 +52,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_28)**.
 
-
 [security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).
 
 ### 2021
