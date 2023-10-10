@@ -976,7 +976,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 ## OTHERS
 
 	
-[ICDE23] [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics](SIGKDD23)
+[SIGKDD23] [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics]()
 
 [ICDE23] [Scaling Blockchain Consensus via a Robust Shared Mempool]().
 
