@@ -19,14 +19,14 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 |          [RAID](#raid)              |                   [WWW](#www)                     |             [ACM POPL](#popl)               |                      |
 |          [CAV](#cav)                |                                                   |                                             |                      |
 
-### Also including:
-* [CHI](#others), [ICPC](#others), [TPDS](#others), [HPC](#others), [POMACS](#others), [AsiaCCS](#others), [IJCAI](#others), [SC](#others).
-
 ## Table of Listed Journals
 - [TOSEM](#tosem)
 - [TSE](#tse)
 - [TDSC](#tdsc)
 - [TIFS](#tifs)
+
+### Also including:
+* [CHI](#others), [ICPC](#others), [TPDS](#others), [HPC](#others), [POMACS](#others), [AsiaCCS](#others), [IJCAI](#others), [SC](#others), [SIGKDD](#others), [JSAC](#others).
 
 ---
 
@@ -975,7 +975,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## OTHERS
 
-	
 [SIGKDD23] [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics]()
 
 [ICDE23] [Scaling Blockchain Consensus via a Robust Shared Mempool]().
@@ -991,6 +990,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [EORUSYS21] [Ethanos: efficient bootstrapping for full nodes on account-based blockchain](https://dl.acm.org/doi/pdf/10.1145/3447786.3456231).
 
 [EORUSYS18] [Hyperledger fabric: a distributed operating system for permissioned blockchains](https://dl.acm.org/doi/pdf/10.1145/3190508.3190538).
+
+[JSAC22] [Detecting Arbitrage on Ethereum Through Feature Fusion and Positive-Unlabeled Learning]().
 
 [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
 
