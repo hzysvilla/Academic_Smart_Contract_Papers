@@ -88,7 +88,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Demystifying DeFi MEV Activities in Flashbots Bundle]() | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_25)**.
 
-[security] [Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos]().
+[security] [Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/CCS23.pdf).
 
 [security] [Fuzz on the Beach: Fuzzing Solana Smart Contracts](https://arxiv.org/pdf/2309.03006.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_28)**.
 
@@ -808,7 +808,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[performance] [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks]().
+[performance] [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837).
 
 [security] [Characterizing Cryptocurrency-themed Malicious Browser Extensions]().
 
@@ -896,9 +896,9 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2019
 
-[security] [DataEther: Data Exploration Framework For Ethereum]().
+[security] [DataEther: Data Exploration Framework For Ethereum](https://www.cs.rice.edu/~angchen/papers/icdcs-2019.pdf).
 
-[security] [Read-Uncommitted Transactions for Smart Contract Performance]().
+[security] [Read-Uncommitted Transactions for Smart Contract Performance](https://arxiv.org/pdf/1905.12351.pdf).
 
 ### 2018
 
@@ -945,9 +945,9 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## TSE
 
-[TSE] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663).
-
 [TSE] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts](https://drive.google.com/file/d/111l8_vf7Gt7RxygjuBM8WQWLTQL700jY/view?pli=1).
+
+[TSE] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663).
 
 [TSE] [Checking smart contracts with structural code embedding](https://xin-xia.github.io/publication/tse201.pdf).
 
@@ -955,13 +955,13 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [TSE] [Defining smart contract defects on ethereum](https://arxiv.org/pdf/1905.01467). 
 
-[TSE] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study]().
+[TSE] [Pluto: Exposing Vulnerabilities in Inter-Contract Scenarios](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/tse21.pdf).
 
 ## TIFS
 
-[TIFS22] [Behavior-aware Account De-anonymization on Ethereum Interaction Graph]().
+[TIFS22] [Behavior-aware Account De-anonymization on Ethereum Interaction Graph](https://arxiv.org/pdf/2203.09360.pdf).
 
-[TIFS22] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts]().
+[TIFS22] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts](https://arxiv.org/pdf/2301.08806.pdf).
 
 [TIFS21] [Hunting Vulnerable Smart Contracts via Graph Embedding Based Bytecode Matching]().
 
