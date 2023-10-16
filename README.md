@@ -381,6 +381,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Empirical Evaluation of Smart Contract Testing: What Is the Best Choice?](https://dl.acm.org/doi/pdf/10.1145/3460319.3464837).
 
+[security] [SCStudio: A Secure and Efficient Integrated Development Environment for Smart Contracts.]().
+
 ### 2020
 
 [security] [How effective are smart contract analysis tools? evaluating smart contract static analysis tools using bug injection](https://dl.acm.org/doi/abs/10.1145/3395363.3397385).
