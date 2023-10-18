@@ -88,7 +88,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Demystifying DeFi MEV Activities in Flashbots Bundle]() | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_25)**.
 
-[security] [Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/CCS23.pdf).
+[security] [Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/CCS23.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_18)**.
 
 [security] [Fuzz on the Beach: Fuzzing Solana Smart Contracts](https://arxiv.org/pdf/2309.03006.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_28)**.
 
