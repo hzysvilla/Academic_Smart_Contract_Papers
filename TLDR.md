@@ -1,3 +1,11 @@
+# 23_10_18
+## CCS23 | Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos
+* Motivation: The authors focus on how to detect resilience issues in blockchain systems. Resilience refers to the ability of the blockchain system to return to normal state after encountering an abnormality.
+* Key idea: The author introduces chaos engineering technology to test the resilience of the blockchain system.
+* Design: The author uses chaos engineering to test the resilience issues of the blockchain at the consensus level, network level, and blockchain level. When a problem is found, the corresponding problem sequence is collected for replay and analysis of the problem.
+* Implement: The authors proposed Phoenix based on their proposed method. Phoenix can deploy on Hyperledger Fabric, FISCO-BCOS, Quorum, Go-Ethereum, and Binance Smart Chain.
+* Evalution: Phoenix has detected 13 resilience issues and successfully generated reproduction sequences for all of them.
+
 # 23_10_9
 ## SP20 | VerX: Safety Verification of Smart Contracts
 * Motivation: The author proposes a new framework to ensure the security properties of smart contracts using formal verification techniques.
