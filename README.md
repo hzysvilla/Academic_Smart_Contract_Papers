@@ -62,7 +62,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [finance] [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228).
 
-[security] [Compositional Security for Reentrant Applications](https://arxiv.org/abs/2103.08577).
+[security] [Compositional Security for Reentrant Applications](https://arxiv.org/abs/2103.08577) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_24)**.
 
 [security] [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf).
 
