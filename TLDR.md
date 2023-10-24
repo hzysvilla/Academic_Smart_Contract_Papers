@@ -1,3 +1,11 @@
+# 23_10_24
+## SP20 |  Compositional Security for Reentrant Applications
+* Motivation: The author focuses on composable security of smart contracts such as reentrancy
+* Key idea: The author uses control flow integrity (CFI) technology to ensure the integrity of data across contracts and modules.
+* Design: The control flow integrity mechanism designed by the author requires that all state changes be completed when trusted code calls untrusted code, and no further state (invariant) changes can be made when calling back trusted code from untrusted code. At the same time, the author proposes static and dynamic locking schemes to protect key invariants.
+* Implement: The authors proposed SeRIF based on their proposed method. The authors used JFlex and CUP to parse the contract source code, and then used SHErrLoc as the theorem solver to analyze the integrity of the control flow.
+* Evalution: The author evaluates SeRIF on four cases, and all of them were able to identify the corresponding reentrancy vulnerabilities.
+
 # 23_10_18
 ## CCS23 | Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos
 * Motivation: The authors focus on how to detect resilience issues in blockchain systems. Resilience refers to the ability of the blockchain system to return to normal state after encountering an abnormality.
