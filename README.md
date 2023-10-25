@@ -583,7 +583,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://github.com/wuzhy1ng/MoTS/blob/master/MoTS_WWW_2023_manuscript.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_10)**.
 
-[security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_10)**.
+[security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_25)**.
 
 ### 2022
 
