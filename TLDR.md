@@ -1,6 +1,16 @@
+# 23_10_25
+## WWW23 | BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection
+* Motivation: The author focuses on how to universally detect financial fraud in Ethereum.
+* Key idea:The author uses machine learning technology to extract timing features of Ethereum to detect financial fraud, instead of conventional graph features.
+* Design：The author uses Transfermer to extract the characteristics of the transaction sequence, then uses BERT for pre-training, and finally detects the corresponding fraud problem.
+* Challenges: The duplication and skew alleviation of blockchain dataset.
+* Solutions: The author uses higher mask rate and drop rate in the pre-training stage to solve the problem of repeated data, and the author designs a comparative loss function to solve the skew alleviation problem.
+* Implement: The authors proposed BERT4ETH based on their proposed method. 
+* Evalution: BERT4ETH achieved on phishing account detection and de-anonymization tasks.
+
 # 23_10_24
 ## SP20 |  Compositional Security for Reentrant Applications
-* Motivation: The author focuses on composable security of smart contracts such as reentrancy
+* Motivation: The author focuses on composable security of smart contracts such as reentrancy.
 * Key idea: The author uses control flow integrity (CFI) technology to ensure the integrity of data across contracts and modules.
 * Design: The control flow integrity mechanism designed by the author requires that all state changes be completed when trusted code calls untrusted code, and no further state (invariant) changes can be made when calling back trusted code from untrusted code. At the same time, the author proposes static and dynamic locking schemes to protect key invariants.
 * Implement: The authors proposed SeRIF based on their proposed method. The authors used JFlex and CUP to parse the contract source code, and then used SHErrLoc as the theorem solver to analyze the integrity of the control flow.
