@@ -4,7 +4,7 @@
 * Key idea: The authors define two basic types of latency and propose their solutions for mitigating latency.
 * Model：The author defines two latency types: direct latency and triangle latency. Direct latency refers to the delay between nodes, and triangle latency refers to the latency when one node is a relay of the other two nodes.
 * Mitigation：The author optimizes the delay between nodes based on the Peri scheme. Specifically, each node is required to actively relay blocks, otherwise the node will be forced offline.
-* Evalution: The author found that Peri technology can optimize half of the latency of P2P networks.
+* Evalution: The author found that Peri technology can optimize half of the latency of P2P networks. At the same time, the author proves that it is difficult to design a strategy-proof peering protocols.
 
 # 23_10_25
 ## WWW23 | BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection
