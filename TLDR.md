@@ -9,12 +9,12 @@
 # 23_10_25
 ## WWW23 | BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection
 * Motivation: The author focuses on how to universally detect financial fraud in Ethereum.
-* Key idea:The author uses machine learning technology to extract timing features of Ethereum to detect financial fraud, instead of conventional graph features.
+* Key idea: The author uses machine learning technology to extract timing features of Ethereum to detect financial fraud, instead of conventional graph features.
 * Design：The author uses Transfermer to extract the characteristics of the transaction sequence, then uses BERT for pre-training, and finally detects the corresponding fraud problem.
 * Challenges: The duplication and skew alleviation of blockchain dataset.
 * Solutions: The author uses higher mask rate and drop rate in the pre-training stage to solve the problem of repeated data, and the author designs a comparative loss function to solve the skew alleviation problem.
 * Implement: The authors proposed BERT4ETH based on their proposed method. 
-* Evalution: BERT4ETH achieved on phishing account detection and de-anonymization tasks.
+* Evalution: BERT4ETH achieved high hit rate on phishing account detection and de-anonymization tasks.
 
 # 23_10_24
 ## SP20 |  Compositional Security for Reentrant Applications
