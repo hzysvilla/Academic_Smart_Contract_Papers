@@ -810,7 +810,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[performance] [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837).
+[performance] [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_9)**.
 
 [security] [Characterizing Cryptocurrency-themed Malicious Browser Extensions]().
 
