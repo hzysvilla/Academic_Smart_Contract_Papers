@@ -1,4 +1,12 @@
 # 23_10_25
+## Sigmetric23 | Strategic Latency Reduction in Blockchain Peer-to-Peer Networks
+* Motivation: The author focuses on the latency problem of the Ethereum P2P network and the economic security caused by the delay problem.
+* Key idea: The authors define two basic types of latency and propose their solutions for mitigating latency.
+* Model：The author defines two latency types: direct latency and triangle latency. Direct latency refers to the delay between nodes, and triangle latency refers to the latency when one node is a relay of the other two nodes.
+* Mitigation：The author optimizes the delay between nodes based on the Peri scheme. Specifically, each node is required to actively relay blocks, otherwise the node will be forced offline.
+* Evalution: The author found that Peri technology can optimize half of the latency of P2P networks.
+
+# 23_10_25
 ## WWW23 | BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection
 * Motivation: The author focuses on how to universally detect financial fraud in Ethereum.
 * Key idea:The author uses machine learning technology to extract timing features of Ethereum to detect financial fraud, instead of conventional graph features.
