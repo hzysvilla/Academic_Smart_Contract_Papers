@@ -1,4 +1,4 @@
-# 23_10_25
+# 23_10_26
 ## Sigmetric23 | Strategic Latency Reduction in Blockchain Peer-to-Peer Networks
 * Motivation: The author focuses on the latency problem of the Ethereum P2P network and the economic security caused by the delay problem.
 * Key idea: The authors define two basic types of latency and propose their solutions for mitigating latency.
