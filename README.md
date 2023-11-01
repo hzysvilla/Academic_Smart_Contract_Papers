@@ -479,6 +479,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts]().
 
+[security] [Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts]().
+
 ### 2023
 
 [security] [SmartMark: Software Watermarking Scheme for Smart Contracts](https://arxiv.org/pdf/2303.13733).
