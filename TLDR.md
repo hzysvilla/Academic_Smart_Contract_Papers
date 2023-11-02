@@ -1,4 +1,14 @@
 # 23_10_26
+## IMC18 | Measuring Ethereum Network Peers
+* Motivation: The authors measured the topological characteristics and network characteristics of the Ethereum execution layer P2P network.
+* Background: The protocol of the Ethereum network is divided into three layers, including RLPx for node discovery and secure transport, DEVp2p for application session establishment, and the Ethereum application-level protocol (a.k.a, subprotocol).
+* Method：The author developed nodedefinder based on the Ethereum client geth. Nodefinder reconstructs the network implementation limitations of geth, making it easier for the author to collect more information and data on the Ethereum P2P network.
+* Measure：The author deployed NodeFinder from April 18–July 8, 2018 and collected two datasets: 1) a comprehensive view of the Ethereum ecosystem via the nodes seen within the full 82 day collection period and 2) a 24 hour snapshot view of the peers on the main Ethereum network to understand the network’s instantaneous properties.
+* Observation1：The author ultimately discovered 228% more nodes than prior work.
+* Observation2：Fewer than half of DEVp2p nodes contribute to the main Ethereum blockchain and there are a large number of nodes in the main network running unofficial versions and unstable versions of clients.
+* Observation3: The author found that geth and parity have inconsistencies in the calculation implementation of kad distance.
+
+# 23_10_26
 ## Sigmetric23 | Strategic Latency Reduction in Blockchain Peer-to-Peer Networks
 * Motivation: The author focuses on the latency problem of the Ethereum P2P network and the economic security caused by the delay problem.
 * Key idea: The authors define two basic types of latency and propose their solutions for mitigating latency.
