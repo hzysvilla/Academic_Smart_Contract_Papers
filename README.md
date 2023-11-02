@@ -1031,7 +1031,9 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [AsiaCCS22] [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390).
 
-[sigmod21] [Why Do My Blockchain Transactions Fail? A Study of Hyperledger Fabric.]().
+[sigmod23] [Semantics-Aware Key-Value store for Blockchain systems]().
+
+[sigmod21] [Why Do My Blockchain Transactions Fail? A Study of Hyperledger Fabric]().
 
 [ICPC] [A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164).
 
