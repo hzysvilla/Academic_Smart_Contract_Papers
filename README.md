@@ -812,7 +812,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2018
 
-[measure] [Measuring ethereum network peers](https://dl.acm.org/doi/pdf/10.1145/3278532.3278542).
+[measure] [Measuring ethereum network peers](https://dl.acm.org/doi/pdf/10.1145/3278532.3278542) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_2)**.
 
 [security] [analyzing ethereum's contract topology](https://dl.acm.org/doi/pdf/10.1145/3278532.3278575). 
 
