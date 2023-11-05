@@ -58,7 +58,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_7)**.
 
-[security] [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917).
+[security] [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917)
 
 [finance] [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228).
 
@@ -74,7 +74,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contracts](https://arxiv.org/pdf/1908.11227.pdf).
 
-[security] [Executable Operational Semantics of Solidity](https://arxiv.org/pdf/1804.01295.pdf).
+[security] [Executable Operational Semantics of Solidity](https://arxiv.org/pdf/1804.01295.pdf)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_5)**.
 
 ### 2016
 
@@ -1066,6 +1066,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [SAC2022] [Model checking of vulnerabilities in smart contracts: a solidity-to-CPN approach]().
 
 [Eurosp23] [EF/CF: High Performance Smart Contract Fuzzing for Exploit Generation]().
+
+[CSFW] [Kevm: A complete formal semantics of the ethereum virtual machine](http://www.t-news.cn/Floc2018/FLoC2018-pages/proceedings_paper_513.pdf).
 
 
 ## License
