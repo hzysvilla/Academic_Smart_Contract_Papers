@@ -1,4 +1,11 @@
-# 23_10_26
+# 23_11_5
+## SP20 | Executable Operational Semantics of Solidity
+* Motivation: The author focuses on the correctness of the semantic implementation of the solidity language.
+* Method：The author formally implemented and reconstructed the semantics and syntax of solidity based on the rewriting logic of the K framework.
+* Evaluation：The author evaluates the completeness of their formalized solidity semantics through solc compiler test set.
+* Application：The authors applied the solidity semantic implementation they proposed to security testing such as compiler bugs and reentrancy vulnerability detection.
+
+# 23_11_2
 ## IMC18 | Measuring Ethereum Network Peers
 * Motivation: The authors measured the topological characteristics and network characteristics of the Ethereum execution layer P2P network.
 * Background: The protocol of the Ethereum network is divided into three layers, including RLPx for node discovery and secure transport, DEVp2p for application session establishment, and the Ethereum application-level protocol (a.k.a, subprotocol).
