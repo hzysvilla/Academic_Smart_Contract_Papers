@@ -541,6 +541,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## OSDI
 
+### 2023
+
+[performance] [LVMT: An Efficient Authenticated Storage for Blockchain](https://www.usenix.org/system/files/osdi23-li-chenxing.pdf).
+
 ### 2021
 
 [security] [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf).
