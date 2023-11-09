@@ -1073,6 +1073,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [CSFW] [Kevm: A complete formal semantics of the ethereum virtual machine](http://www.t-news.cn/Floc2018/FLoC2018-pages/proceedings_paper_513.pdf).
 
+[DAC20] [BPU: A blockchain processing unit for accelerated smart contract execution](https://www.ece.lsu.edu/lpeng/papers/DAC20.pdf).
+
 
 ## License
 
