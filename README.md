@@ -531,7 +531,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2021
 
-[security] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf).
+[security] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_9)**.
 
 ### 2017
 
