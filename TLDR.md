@@ -1,9 +1,18 @@
+# 23_11_9
+## SOSP21 | Forerunner: Constraint-based Speculative Transaction Execution for Ethereum.
+* Motivation: The author focuses on how to use speculative execution technology to improve the performance of Ethereum.
+* Challenge: The transactions packaged in each block are unpredictable, which requires speculative execution technology to predict a large number of transaction execution results.
+* Solution：The author found that the contracts called by a large number of transactions all executed the same code, so by extracting a small number of different data flows and execution flow results, it was possible to cover all transaction execution results to the greatest extent possible.
+* Design: First, in the consensus phase, all possible transaction execution results are analyzed through speculative execution technology, and the sequence of these possible executions is converted into a new, faster execution intermediate representation, and then these intermediate representations are used in the transaction execution phase to achieve faster transactions executing and state transferring.
+* Implement: The authors implemented their design based on the go-ethereum client, dubbed the Foreruner.
+* Evalution：Forerunner can bring six times acceleration to Ethereum transaction execution.
+
 # 23_11_5
 ## SP20 | Executable Operational Semantics of Solidity
 * Motivation: The author focuses on the correctness of the semantic implementation of the solidity language.
-* Method：The author formally implemented and reconstructed the semantics and syntax of solidity based on the rewriting logic of the K framework.
-* Evaluation：The author evaluates the completeness of their formalized solidity semantics through solc compiler test set.
-* Application：The authors applied the solidity semantic implementation they proposed to security testing such as compiler bugs and reentrancy vulnerability detection.
+* Method: The author formally implemented and reconstructed the semantics and syntax of solidity based on the rewriting logic of the K framework.
+* Evaluation: The author evaluates the completeness of their formalized solidity semantics through solc compiler test set.
+* Application: The authors applied the solidity semantic implementation they proposed to security testing such as compiler bugs and reentrancy vulnerability detection.
 
 # 23_11_2
 ## IMC18 | Measuring Ethereum Network Peers
