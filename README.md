@@ -477,7 +477,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG)]().
 
-[security] [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts]().
+[security] [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts]() |  [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_11).
 
 [security] [Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts]().
 
