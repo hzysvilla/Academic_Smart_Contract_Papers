@@ -1,3 +1,11 @@
+# 23_11_11
+## ICSE24 | Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts.
+* Motivation: The author focuses on security issues related to library misuse in smart contracts.
+* Method：The author first collected reports from contract auditing companies, summarized common library misuse patterns in eight types of contract development, and finally looked for cases of library misuse patterns in contracts on the Ethereum.
+* Insght1: The library misuse patterns are widespread in the real world and the author analyze 1018 realworld contracts and found 905 misuse cases in 456 contracts.
+* Insght2: The  99% of all identified cases concentrated in three subtle patterns. The most common pattern occurred 543 times in 204 contracts, with 83 of those contracts containing the same type of misuse in different code locations.
+* Suggestion: Some libraries that lack maintenance or do not trust the source are still used by many contracts.
+
 # 23_11_9
 ## SOSP21 | Forerunner: Constraint-based Speculative Transaction Execution for Ethereum.
 * Motivation: The author focuses on how to use speculative execution technology to improve the performance of Ethereum.
