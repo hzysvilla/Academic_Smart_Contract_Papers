@@ -955,6 +955,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [TOSEM] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
 
+[TOSEM] [Is my transaction done yet? an empirical study of transaction processing times in the ethereum blockchain platform](https://dl.acm.org/doi/pdf/10.1145/3549542?).
+
 [TOSEM] [Securing the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3571847).
 
 [TOSEM] [TSecuring the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3560263).
