@@ -481,6 +481,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts]().
 
+[security] [Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?]().
+
 ### 2023
 
 [security] [SmartMark: Software Watermarking Scheme for Smart Contracts](https://arxiv.org/pdf/2303.13733).
@@ -984,6 +986,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [TSE] [Pluto: Exposing Vulnerabilities in Inter-Contract Scenarios](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/tse21.pdf).
 
 ## TIFS
+
+[TIFS] [Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning]().
 
 [TIFS22] [Behavior-aware Account De-anonymization on Ethereum Interaction Graph](https://arxiv.org/pdf/2203.09360.pdf).
 
