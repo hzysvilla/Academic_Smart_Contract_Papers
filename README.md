@@ -808,7 +808,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2023
 
-[security] [Ethereum's Proposer-Builder Separation: Promises and Realities](https://arxiv.org/pdf/2305.19037.pdf). 
+[security] [Ethereum's Proposer-Builder Separation: Promises and Realities](https://arxiv.org/pdf/2305.19037.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_15)**.
 
 [security] [The Cloud Strikes Back: Investigating the Decentralization of IPFS](https://dl.acm.org/doi/abs/10.1145/3618257.3624797). 
 
