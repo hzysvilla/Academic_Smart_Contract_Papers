@@ -1,7 +1,7 @@
 # 23_11_15
 ## IMC23 | Ethereum's Proposer-Builder Separation: Promises and Realities
 * Motivation: The author analyzes whether the Proposer-Builder Separation (PBS) mechanism plays a decentralized and censorship-resistant role.
-* Background: The PBS mechanism decouples the ability of miners (validators) to order transactions in blocks to a new role, the builder. The PBS design goals are two-fold: (1) prevent censorship, and (2) decentralize transaction validation by not giving large entities an advantage in block building.
+* Background: The PBS mechanism decouples the ability of miners (validators) to order transactions in blocks to two new role and replay, the builder. The PBS design goals are two-fold: (1) prevent censorship, and (2) decentralize transaction validation by not giving large entities an advantage in block building.
 * Method: The author collected transaction pool data, MEV data, and relay data for analysis.
 * Observation1: PBS allows professional amateur builders to compete with large entities, but the builders and relays themselves remain centralized.
 * Observation2: PBS does not play a censorship-resistant role because the transaction amount of the sanctioned address involved in the non-PBS block exceeds the transaction amount of the PBS block.
