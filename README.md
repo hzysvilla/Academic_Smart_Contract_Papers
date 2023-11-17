@@ -987,6 +987,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## TIFS
 
+[TIFS23] [sChain: An Efficient and Secure Solution for Improving Blockchain Storage]().
+
 [TIFS] [Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning]().
 
 [TIFS22] [Behavior-aware Account De-anonymization on Ethereum Interaction Graph](https://arxiv.org/pdf/2203.09360.pdf).
