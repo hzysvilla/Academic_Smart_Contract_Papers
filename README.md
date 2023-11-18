@@ -114,13 +114,14 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 [security] [Understanding Security Issues in the NFT Ecosystem](https://arxiv.org/pdf/2111.08893.pdf).
 
 ### 2021
+
 [security] [DETER: Denial of Ethereum Txpool sERvices](https://dl.acm.org/doi/pdf/10.1145/3460120.3485369).
 
 [security] [SyncAttack: Double-spending in Bitcoin Without Mining Power](https://dl.acm.org/doi/pdf/10.1145/3460120.3484568).
 
 ### 2020
 
-[security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417243).
+[security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417243)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_18)**.
 
 [security] [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417250).
 
