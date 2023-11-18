@@ -1,4 +1,4 @@
-# 23_11_17
+# 23_11_18
 ## CCS20 | ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts
 * Motivation：The author focuses on how to execute more complex smart contracts faster.
 * Challenge: Challenge: Smart contract execution needs to be verified on all blockchain nodes.
