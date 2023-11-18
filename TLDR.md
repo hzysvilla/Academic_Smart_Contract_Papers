@@ -1,3 +1,15 @@
+# 23_11_17
+## CCS20 | ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts
+* Motivation：The author focuses on how to execute more complex smart contracts faster.
+* Challenge: Challenge: Smart contract execution needs to be verified on all blockchain nodes.
+* Prior research: Arbitrum_{usenixsec18} randomly selects some nodes from the nodes set as verification nodes to improve the performance and Ekiden_{enrosp19} performs contract execution in TEE to ensure confidentiality.
+* Key idea: The author's main idea is to let the contract owner randomly allocate the verifiers for contract execution, and it does not require all verifiers to reach a consensus, but only satisfies the Byzantine consensus.
+* Design: Step 1, the user executes the transaction locally and obtains the contracts involved in the transaction; Step2, the miner determines the order of transaction execution based on the contract dependencies; Step3, the miner appoints transaction execution to nodes trusted by the contract owner for execution; Step4, after the execution result of the trust node reaches the Byzantine consensus, the result is submitted to the miner for uploading to the chain.
+* Implement：The author implemented the ACE framework based on the proposed design for concurrent and offline execution of transactions.
+* Evalution: The concurrency capabilities of the ACE framework can be 100 to 10,000 times faster than Ethereum's sequential execution, and require less storage, communication, and computing resources.
+  
+  
+
 # 23_11_15
 ## IMC23 | Ethereum's Proposer-Builder Separation: Promises and Realities
 * Motivation: The author analyzes whether the Proposer-Builder Separation (PBS) mechanism plays a decentralized and censorship-resistant role.
