@@ -36,9 +36,11 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## S&P
 
-### 2023
+### 2024
 
 [financail] [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://roibarzur.github.io/assets/pdfs/werlman-systor-poster-2022.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_WeRLman)**.
+
+### 2023
 
 [security] [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/pdf/2208.13035.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_CF)**.
 
