@@ -1,3 +1,12 @@
+
+# 23_11_20
+## CCS16 | Making Smart Contracts Smarter
+* Motivation: The author focuses on detecting security issues in smart contracts, that is, how to use symbolic execution technology to determine that smart contracts do not contain four types of security issues.
+* Background: The author introduces four categories of threatened contract vulnerabilities, including Transaction-Ordering Dependence, Timestamp Dependence, Mishandled Exceptions, and Reentrancy Vulnerability.
+* Design: The author first formalized the basic semantics of EVM, including instructions, blocks, transaction execution, etc., then proposed four types of security issue detection rules based on this formal model, and finally constructed symbolic execution tools based on this formal system to detect corresponding security issues.
+* Implement: The author implemented the Oyente framework based on the proposed design. Oyente first builds a CFG graph based on the contract bytecode, and then simulates the execution of the contract based on the symbolic model, in which the solver uses z3.
+* Evaluation: The author used Oyente to detect 19 366 smart contracts and found that 8833 contracts potentially have the proposed bugs.
+
 # 23_11_18
 ## CCS20 | ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts
 * Motivation：The author focuses on how to execute more complex smart contracts faster.
