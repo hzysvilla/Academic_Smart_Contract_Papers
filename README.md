@@ -239,6 +239,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Enter the Hydra: Towards principled bug bounties and exploit-resistant smart contracts](https://eprint.iacr.org/2017/1090.pdf).
 
+### 2017
+
+[security] [SmartPool: Practical Decentralized Pooled Mining](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-luu.pdf).
+
 ---
 
 ## NDSS
