@@ -1,3 +1,11 @@
+# 23_11_22
+## Sec20 | EthBMC: A Bounded Model Checker for Smart Contracts
+* Motivation: How to enhance the capabilities of existing smart contract formal verification tools.
+* Prior work and Challenges: Existing work has the following problems: the hash function cannot be modeled, the memory model modeling is not accurate enough, and cross-contract analysis cannot be performed.
+* Solutions: For the hash function, the author converted it into a set of memory-based constraints; for the memory model, the author proposed that the author built a graph-based memory model (similar to a data flow graph). For cross-contract calls, the author believes that based on Accurate memory modeling can solve this problem.
+* Design: The author abstracts and models the execution environment of the contract, including accounts, memory, persistent storage, contract calls, and hash functions, and then symbolically executes them.
+* Implementation: The author implemented the EthBMC framework based on the proposed design. ETHBMC is implemented in around 13,000 lines of Rust code and uses SMT Yices2 as a solver.
+* Evaluation: The author used ETHBMC to detect three types of vulnerabilities: Ether theft, control flow hijacking, and self-destruction, and found that 1983, 54, and 1474 contracts had the above problems respectively.
 
 # 23_11_20
 ## CCS16 | Making Smart Contracts Smarter
