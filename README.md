@@ -213,7 +213,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2020 
 
-[security] [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf).
+[security] [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_22)**.
 
 [security] [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf).
 
