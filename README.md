@@ -90,6 +90,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Demystifying DeFi MEV Activities in Flashbots Bundle]() | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_25)**.
 
+[security] [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://yajin.org/papers/ccs23_phishing.pdf).
+
 [security] [How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance]().
 
 [security] [Uncle Maker: (Time)Stamping Out The Competition in Ethereum]().
