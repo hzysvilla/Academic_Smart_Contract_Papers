@@ -8,7 +8,7 @@ You can find my **[TLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Pa
 The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## Table of Listed Conferences
-|     Security & Privacy & Crypto     |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
+|     Security & Crypto     |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
 | :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :------------------: |
 |           [IEEE S&P](#sp)           |             [SIGMETRICS](#sigmetrics)             |                [ICSE](#icse)                |  [EuroSys](#others)  |
 |           [ACM CCS](#ccs)           |                   [ICDE](#others)                 |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)   |
