@@ -1091,6 +1091,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [DAC20] [BPU: A blockchain processing unit for accelerated smart contract execution](https://www.ece.lsu.edu/lpeng/papers/DAC20.pdf).
 
+[TOPLAS20] [Obsidian: Typestate and Assets for Safer Blockchain Programming](https://dl.acm.org/doi/pdf/10.1145/3417516).
+
 
 ## License
 
