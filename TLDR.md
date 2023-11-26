@@ -1,3 +1,14 @@
+# 23_11_25
+## CCS23 | TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum
+* Motivation: The author empirically studies a new phishing attack on Ethereum, namely TxPhish.
+* Backgroud: The author defines Txphish as a scam in which users visit a phishing website and are then induced to send transactions, resulting in the loss of their own crypto assets.
+* Approach: The author designed a system, TxPhishScope, to detect TxPhish scams. First, TxPhishScope collects domain names through certificate transparency and filters domain names based on keywords in web content. Then TxPhishScope triggers transactions on suspicious websites, and finally determines whether the website is a TxPhish scam based on the results.
+* Observation: TxPhishScope successfully detected and reported 26,333 TxPhish websites (78.9% of them were first reported) and 3,486 phishing accounts.
+* Insight1: The author reveals that TxPhish websites have three charactistics, encompassing short lifespan, low cost, and fast update frequency.
+* Insight2: phishing fund flow demonstrates that 54.0% of phishing funds ($43.7 million) flowed into centralized exchanges.
+* Migation：TxPhishScope identified bugs in six Ethereum projects and provided criminal evidence of four phishing accounts (involving $1.5 million) to aid in the recovery of funds. 
+
+
 # 23_11_22
 ## Sec20 | EthBMC: A Bounded Model Checker for Smart Contracts
 * Motivation: How to enhance the capabilities of existing smart contract formal verification tools.
