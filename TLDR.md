@@ -6,7 +6,7 @@
 * Observation: TxPhishScope successfully detected and reported 26,333 TxPhish websites (78.9% of them were first reported) and 3,486 phishing accounts.
 * Insight1: The author reveals that TxPhish websites have three charactistics, encompassing short lifespan, low cost, and fast update frequency.
 * Insight2: phishing fund flow demonstrates that 54.0% of phishing funds ($43.7 million) flowed into centralized exchanges.
-* Mitigration：TxPhishScope identified bugs in six Ethereum projects and provided criminal evidence of four phishing accounts (involving $1.5 million) to aid in the recovery of funds. 
+* Mitigration: TxPhishScope identified bugs in six Ethereum projects and provided criminal evidence of four phishing accounts (involving $1.5 million) to aid in the recovery of funds. 
 
 
 # 23_11_22
