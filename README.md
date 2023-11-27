@@ -378,7 +378,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Definition and Detection of Defects in NFT Smart Contracts]().
 
-
 ### 2022
 
 [security] [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_23)**.
@@ -465,9 +464,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Manticore: A User-Friendly Symbolic Execution Framework for Binaries and Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8952204).
 
-
 [security] [MuSC: A Tool for Mutation Testing of Ethereum Smart Contract](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8952206).
-
 
 [security] [Securing Smart Contracts in Blockchain](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8967424).
 
@@ -660,7 +657,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 ### 2023
 
 [security] [Automated Detection of Under-constrained Circuits in Zero-Knowledge Proofs](https://dl.acm.org/doi/pdf/10.1145/3591282) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_1)**.
-
 
 ### 2021
 
@@ -955,7 +951,6 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
  [security] [Online detection of effectively callback free objects with applications to smart contracts](https://dl.acm.org/doi/pdf/10.1145/3158136).
 
 [security] [Vandal: A Scalable Security Analysis Framework for Smart Contracts](https://arxiv.org/abs/1809.03981).
-
 
 ---
 
