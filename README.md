@@ -926,6 +926,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2020
 
+[security] [Fair and Efficient Gossip in Hyperledger Fabri](https://dial.uclouvain.be/pr/boreal/object/boreal%3A229465/datastream/PDF_01/view).
+
 [security] [TinyEVM: Off-Chain Smart Contracts on Low-Power IoT Devices](https://www.ds.informatik.uni-kiel.de/en/publications/papers/2020-07-ICDCS-Profentzas-TinyEVM.pdf).
 
 ### 2019
