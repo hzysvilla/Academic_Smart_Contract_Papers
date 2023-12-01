@@ -250,6 +250,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ## NDSS
 
+### 2024
+
+[security] [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit]().
+
 ### 2023
 
 [security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_30).
@@ -835,6 +839,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 ------
 
 ## SIGMETRICS
+
+### 2024
+
+[security] [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit ]()
 
 ### 2023
 
