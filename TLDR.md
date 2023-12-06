@@ -1,3 +1,10 @@
+# 23_12_6
+## CCS23 | Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning
+* Motivation: This research explores how to maximize the benefits of MEV, that is, how to order transactions to maximize benefits.
+* Design: The author takes the transaction sorting problem into a black-box optimization problem, and then uses adaptive machine learning technology to optimize it.
+* Implement: The author implemented the Lanturn framework based on the proposed design. Lanturn is deployed on the valited node. It first optimizes the transaction sequence, then simulates the execution of the transaction sequence, then optimizes the transaction sequence based on the execution results, and then executes the transaction again until the profit reaches the maximum.
+* Evaluation: Lanturn two new MEV strategies.
+
 # 23_11_25
 ## CCS23 | TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum
 * Motivation: The author empirically studies a new phishing attack on Ethereum, namely TxPhish.
