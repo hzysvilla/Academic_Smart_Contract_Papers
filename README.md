@@ -90,7 +90,7 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 [security] [Demystifying DeFi MEV Activities in Flashbots Bundle](https://zzzihao-li.github.io/papers/CCS23_Bundle_MEV_full_version.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_25)**.
 
-[security] [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning]().
+[security] [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://eprint.iacr.org/2023/1338) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_12_6)**.
 
 [security] [Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild]().
 
