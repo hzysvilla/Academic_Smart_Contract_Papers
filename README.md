@@ -488,6 +488,10 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2024
 
+[security] [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network]().
+
+[security] [When Contracts Meets Crypto: Exploring Developers' Struggleswith Ethereum Cryptographic APIs]()
+
 [security] [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG)]().
 
 [security] [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts]() |  [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_11).
@@ -991,6 +995,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 ## TSE
 
 [TSE] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts](https://drive.google.com/file/d/111l8_vf7Gt7RxygjuBM8WQWLTQL700jY/view?pli=1).
+
+[TSE] [Demystifying Random Number in Ethereum Smart Contract: Taxonomy, Vulnerability Identification, and Attack Detection]()
 
 [TSE] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663).
 
