@@ -586,6 +586,8 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
 ### 2021
 
+[security] [Code is the (F)Law: Demystifying and Mitigating Blockchain Inconsistency Attacks Caused by Software Bugs]().
+
 [application] [Counter-Collusion Smart Contracts for Watchtowers in Payment Channel Networks](https://ieeexplore.ieee.org/iel7/9488422/9488423/09488831.pdf).
 
 [mine] [Characterizing Ethereum's Mining Power Decentralization at a Deeper Level](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/infocom-camready.pdf).
