@@ -1031,6 +1031,8 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 ## TDSC
 
+[TDSC] [Highly Available Blockchain Nodes With N-Version Design](http://arxiv.org/pdf/2303.14438).
+
 [TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
 
 [TDSC] [Oracle-Supported Dynamic Exploit Generation for Smart Contracts]().
@@ -1041,7 +1043,11 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 ## OTHERS
 
-[SIGKDD23] [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics]()
+[IEEE Computer] [The Multibillion Dollar Software Supply Chain of Ethereum](http://arxiv.org/pdf/2202.07029).
+
+[ACM DTL] [Chaos Engineering of Ethereum Blockchain Clients In ACM Distributed Ledger Technologies: Research and Practice](http://oadoi.org/10.1145/3611649).
+
+[SIGKDD23] [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics]().
 
 [ICDE23] [Scaling Blockchain Consensus via a Robust Shared Mempool]().
 
