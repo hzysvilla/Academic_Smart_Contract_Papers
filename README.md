@@ -1,11 +1,14 @@
 # Academic Smart Contract Papers
 
 A curated Smart Contract related academic papers. All papers are sorted based on the conference name and published year.
-Welcome developers or researchers to add more published paper to this list.
+
+**Welcome developers or researchers to add more published papers on this list**.
 
 You can find my **[TLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md)** notes for some paper.
 
 The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
+
+Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 ## Table of Listed Conferences
 |     Security & Crypto     |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
