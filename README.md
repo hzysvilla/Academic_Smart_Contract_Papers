@@ -29,7 +29,8 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 - [TIFS](#tifs)
 
 ### Also including:
-* [CSFW](#others), [CHI](#others), [ICPC](#others), [TPDS](#others), [HPC](#others), [POMACS](#others), [AsiaCCS](#others), [IJCAI](#others), [SC](#others), [SIGKDD](#others), [JSAC](#others), [DAC](#others), [TOPLAS](#others) .
+* * [CSFW](#miscellaneous), [CHI](#miscellaneouss), [ICPC](#miscellaneouss), [TPDS](#miscellaneouss), [HPC](#miscellaneouss), [POMACS](#miscellaneouss), [AsiaCCS](#miscellaneouss), [IJCAI](#miscellaneouss), [SC](#miscellaneouss), [SIGKDD](#miscellaneouss), [JSAC](#miscellaneouss), [DAC](#miscellaneouss), [TOPLAS](#miscellaneouss).
+
 
 ---
 
@@ -1041,7 +1042,7 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 [TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
 
-## OTHERS
+## Miscellaneous
 
 [IEEE Computer] [The Multibillion Dollar Software Supply Chain of Ethereum](http://arxiv.org/pdf/2202.07029).
 
