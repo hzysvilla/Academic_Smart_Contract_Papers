@@ -1018,8 +1018,6 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 ## TIFS
 
-[]
-
 [TIFS23] [sChain: An Efficient and Secure Solution for Improving Blockchain Storage]().
 
 [TIFS23] [Breaking the Anonymity of Ethereum Mixing Services Using Graph Feature Learning]().
@@ -1045,8 +1043,6 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 [TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
 
 ## Miscellaneous
-
-[TC] [Who is Who on Ethereum? Account Labeling Using Heterophilic Graph Convolutional Network]().
 
 [IEEE Computer] [The Multibillion Dollar Software Supply Chain of Ethereum](http://arxiv.org/pdf/2202.07029).
 
