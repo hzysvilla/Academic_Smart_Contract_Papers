@@ -209,6 +209,8 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 [security] [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/system/files/sec22-kappos.pdf).
 
+[security] [Total Eclipse of the Heart – Disrupting the InterPlanetary File System](https://www.usenix.org/system/files/sec22-prunster.pdf).
+
 ### 2021
 
 [security] [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf).
