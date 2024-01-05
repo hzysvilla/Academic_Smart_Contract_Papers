@@ -622,6 +622,8 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 ### 2023
 
+[Finance] [Ready, Aim, Snipe! Analysis of Sniper Bots and their Impact on the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3543873.3587612).
+
 [Finance] [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://arxiv.org/abs/2201.09035).
 
 [Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://github.com/wuzhy1ng/MoTS/blob/master/MoTS_WWW_2023_manuscript.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_10)**.
