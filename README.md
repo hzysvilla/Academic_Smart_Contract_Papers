@@ -1076,7 +1076,9 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
 
-[CHI 2022] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585). 
+[CHI22] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585). 
+
+[CHI21] [Efect of the Gas Price Surges on User Activity in the DAOs of the Ethereum Blockchain](https://dl.acm.org/doi/pdf/10.1145/3411763.3451755).
 
 [POMACS2021] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf). 
 
