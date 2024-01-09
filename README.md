@@ -1060,7 +1060,9 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 [ACM DTL] [Chaos Engineering of Ethereum Blockchain Clients In ACM Distributed Ledger Technologies: Research and Practice](http://oadoi.org/10.1145/3611649).
 
-[SIGKDD23] [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics]().
+[SIGKDD23] [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics](https://dl.acm.org/doi/pdf/10.1145/3580305.3599351).
+
+[SIGKDD23] [Diga: Guided Diffusion Model for Graph Recovery in Anti-Money Laundering](https://dl.acm.org/doi/pdf/10.1145/3580305.3599806).
 
 [ICDE23] [Scaling Blockchain Consensus via a Robust Shared Mempool]().
 
