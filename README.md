@@ -1028,6 +1028,8 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 ## TIFS
 
+[TIFS23] [EVM-Shield: In-Contract State Access Control for Fast Vulnerability Detection and Prevention]().
+
 [TIFS23] [Towards Understanding Asset Flows in Crypto Money Laundering Through the Lenses of Ethereum Heists]().
 
 [TIFS23] [sChain: An Efficient and Secure Solution for Improving Blockchain Storage]().
