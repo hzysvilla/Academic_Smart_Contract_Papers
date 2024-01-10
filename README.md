@@ -942,6 +942,8 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 ### 2023
 
+[security] [Towards Decentralized Adaptive Control of Cryptocurrency Liquidity via Auction]().
+
 [applicaton] [A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain](https://massimolamorgia.com/assets/pdf/NFT_Wash_Trading___ICDCS2023.pdf).
 
 [security] [Smart Contract Parallel Execution with Fine-Grained State Accesses](https://personal.ntu.edu.sg/yi_li/files/Qi2023SCP.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_19).
