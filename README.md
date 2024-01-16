@@ -580,6 +580,10 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 ## INFOCOM
 
+### 2024
+
+[security] [ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum]()
+
 ### 2023
 
 [security] [Latency-First Smart Contract: Overclock the Blockchain for a while]().
@@ -1029,6 +1033,8 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 [TSE] [Pluto: Exposing Vulnerabilities in Inter-Contract Scenarios](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/tse21.pdf).
 
 ## TIFS
+
+[TIFS23] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting](https://arxiv.org/pdf/2301.03943.pdf).
 
 [TIFS23] [EVM-Shield: In-Contract State Access Control for Fast Vulnerability Detection and Prevention]().
 
