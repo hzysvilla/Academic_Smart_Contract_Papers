@@ -582,7 +582,7 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 ### 2024
 
-[security] [ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum]()
+[security] [ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum]().
 
 ### 2023
 
