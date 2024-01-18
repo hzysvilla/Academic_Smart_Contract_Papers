@@ -264,7 +264,7 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 ### 2024
 
-[security] [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit]().
+[security] [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](https://arxiv.org/pdf/2307.00549.pdf).
 
 ### 2023
 
@@ -866,7 +866,7 @@ Welcome to [my personal homepage](https://hzysvilla.github.io/).
 
 ### 2024
 
-[security] [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit ]()
+[security] [Miracle or Mirage? A Measurement Study of NFT Rug Pulls](https://dl.acm.org/doi/pdf/10.1145/3626782)
 
 ### 2023
 
