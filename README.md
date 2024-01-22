@@ -1054,6 +1054,8 @@ Welcome to [my homepage](https://hzysvilla.github.io/) and [Google Scholar](http
 
 ## TDSC
 
+[TDSC] [DeFiRanger: Detecting DeFi Price Manipulation Attacks]().
+
 [TDSC] [Highly Available Blockchain Nodes With N-Version Design](http://arxiv.org/pdf/2303.14438).
 
 [TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
