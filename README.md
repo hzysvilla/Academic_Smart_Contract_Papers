@@ -264,6 +264,8 @@ Welcome to [my homepage](https://hzysvilla.github.io/) and [Google Scholar](http
 
 ### 2024
 
+[security] [Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts](https://seclab.cs.ucsb.edu/files/publications/ruaro24crush.pdf).
+
 [security] [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](https://arxiv.org/pdf/2307.00549.pdf).
 
 ### 2023
