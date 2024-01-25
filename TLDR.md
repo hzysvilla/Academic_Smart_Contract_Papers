@@ -1,5 +1,5 @@
 # 23_1_25
-## NDSS23 | Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts
+## NDSS24 | Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts
 * Motivation: This work aims to analyze automatically and exploit a type of flaw called storage collision vulnerabilities in smart contracts.
 * Background: The storage collision vulnerabilities are caused when the proxy invokes of smart contracts don't have type check.
 * Design: The author adopts symbolic execution technology to inspect and exploit such flaws.
