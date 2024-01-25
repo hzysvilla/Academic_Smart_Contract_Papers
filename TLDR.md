@@ -4,7 +4,7 @@
 * Background: The storage collision vulnerabilities are caused when the proxy invokes of smart contracts don't have type check.
 * Design: The author adopts symbolic execution technology to inspect and exploit such flaws.
 * Implement: The author implements CRUSH framework based on the proposed design. The author first uses symbolic execution technology to infer the semantics of the contract and use backward slice technology to analysis the exploitability of such flaws.
-* Evaluation: CRUSH detects such flaw on 14,237,696 smart contracts and uncovers smart contract with such storage collision vulnerable about 6M USD.
+* Evaluation: CRUSH detects such flaw on 14,237,696 smart contracts and unevil financial lost bout 6M USD by storage collision vulnerable.
 
 # 23_12_6
 ## CCS23 | Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning
