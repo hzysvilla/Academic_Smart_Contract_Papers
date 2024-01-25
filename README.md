@@ -8,7 +8,7 @@ You can find my **[TLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Pa
 
 The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
 
-Welcome to [my homepage](https://hzysvilla.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=O_vixKoAAAAJ).
+Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=O_vixKoAAAAJ).
 
 ## Table of Listed Conferences
 |     Security & Crypto     |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
