@@ -1,3 +1,11 @@
+# 23_1_25
+## NDSS23 | Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts
+* Motivation: This work aims to analyze automatically and exploit a type of flaw called storage collision vulnerabilities in smart contracts.
+* Background: The storage collision vulnerabilities are caused when the proxy invokes of smart contracts don't have type check.
+* Design: The author adopts symbolic execution technology to inspect and exploit such flaws.
+* Implement: The author implements CRUSH framework based on the proposed design. The author first uses symbolic execution technology to infer the semantics of the contract and use backward slice technology to analysis the exploitability of such flaws.
+* Evaluation: CRUSH detects such flaw on 14,237,696 smart contracts and uncovers smart contract with such storage collision vulnerable about 6M USD.
+
 # 23_12_6
 ## CCS23 | Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning
 * Motivation: This research explores how to maximize the benefits of MEV, that is, how to order transactions to maximize benefits.
