@@ -948,6 +948,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
+[security] [Detecting Flash Loan Based Attacks in Ethereum]()
+
 [security] [Towards Decentralized Adaptive Control of Cryptocurrency Liquidity via Auction]().
 
 [applicaton] [A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain](https://massimolamorgia.com/assets/pdf/NFT_Wash_Trading___ICDCS2023.pdf).
