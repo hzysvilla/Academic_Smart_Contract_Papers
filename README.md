@@ -1072,6 +1072,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## Miscellaneous
 
+[ISCA23] [An Algorithm and Architecture Co-design for Accelerating Smart Contracts in Blockchain](https://dl.acm.org/doi/pdf/10.1145/3579371.3589067).
+
 [SODA23] [Foundations of Transaction Fee Mechanism Design]().
 
 [IEEE Computer] [The Multibillion Dollar Software Supply Chain of Ethereum](http://arxiv.org/pdf/2202.07029).
