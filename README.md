@@ -626,6 +626,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## WWW
 
+### 2024 
+
+[Finance] [DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs]().
+
 ### 2023
 
 [Finance] [Ready, Aim, Snipe! Analysis of Sniper Bots and their Impact on the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3543873.3587612).
