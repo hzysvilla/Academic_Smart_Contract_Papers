@@ -1,14 +1,18 @@
 # 23_2_2
 ## NDSS24 | Abusing the Ethereum Smart Contract Verification Services for Fun and Profit
-* Motivation: 
-
+* Motivation: The author researches the inconsistency between the service of contract verification (e.g., Etherscan) and the real source code of the contract.
+* Background: The service of contract verification will display the source code of the contract submitted by the developer, but the adversary can submit the malicious source code of the contract to deceive the verification service and mislead the user.
+* Design: The author summarizes the six steps of the verification service, and abstracts the three security properties of such verification service including data integrity, data consistency, and unambiguous Reference.
+* discover: Based on the three security properties the author unveils eight vulnerabilities of verification services, which the adversary can exploit to deceive the verification service. The eight vulnerabilities of verification services are caused by compilers, EVM design, and libraries etc.
+* Evaluation: The author conduct the experiment of Verification Services into Etherscan, Sourcify, and Blockscout. They uncovered 19 exploitable vulnerabilities in total on such services and lead to a financial loss of $7.2M.
+ 
 
 # 23_1_25
 ## NDSS24 | Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts
 * Motivation: This work aims to analyze automatically and exploit a type of flaw called storage collision vulnerabilities in smart contracts.
 * Background: The storage collision vulnerabilities are caused when the proxy invokes of smart contracts don't have type check.
 * Design: The author adopts symbolic execution technology to inspect and exploit such flaws.
-* Implement: The author implements CRUSH framework based on the proposed design. The author first uses symbolic execution technology to infer the semantics of the contract and uses backward slice technology to analysis the exploitability of such flaws.
+* Implement: The author implements CRUSH framework based on the proposed design. The author first uses symbolic execution technology to infer the semantics of the contract and uses backward slice technology to analyze the exploitability of such flaws.
 * Evaluation: CRUSH detects such flaws on 14,237,696 smart contracts and unevil financial lost about 6M USD by storage collision vulnerability.
 
 # 23_12_6
@@ -71,7 +75,7 @@
 ## ICSE24 | Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts.
 * Motivation: The author focuses on security issues related to library misuse in smart contracts.
 * Method： The author first collected reports from contract auditing companies, summarized common library misuse patterns in eight types of contract development, and finally looked for cases of library misuse patterns in contracts on the Ethereum.
-* Insght1: The library misuse patterns are widespread in the real world and the author analyze 1018 realworld contracts and found 905 misuse cases in 456 contracts.
+* Insght1: The library misuse patterns are widespread in the real world and the author analyzed 1018 real-world contracts and found 905 misuse cases in 456 contracts.
 * Insght2: 99% of all identified cases are concentrated in three subtle patterns. The most common pattern occurred 543 times in 204 contracts, with 83 of those contracts containing the same type of misuse in different code locations.
 * Suggestion: Some libraries that lack maintenance or do not trust the source are still used by many contracts.
 
@@ -82,7 +86,7 @@
 * Solution： The author found that the contracts called by a large number of transactions all executed the same code, so by extracting a small number of different data flows and execution flow results, it was possible to cover all transaction execution results to the greatest extent possible.
 * Design: First, in the consensus phase, all possible transaction execution results are analyzed through speculative execution technology, and the sequence of these possible executions is converted into a new, faster execution intermediate representation, and then these intermediate representations are used in the transaction execution phase to achieve faster transactions executing and state transferring.
 * Implement: The authors implemented their design based on the go-ethereum client, dubbed the Foreruner.
-* Evaluation：Forerunner can bring six times acceleration to Ethereum transaction execution.
+* Evaluation： Forerunner can bring six times acceleration to Ethereum transaction execution.
 
 # 23_11_5
 ## SP20 | Executable Operational Semantics of Solidity
