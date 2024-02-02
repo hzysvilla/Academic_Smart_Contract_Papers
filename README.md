@@ -266,7 +266,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts](https://seclab.cs.ucsb.edu/files/publications/ruaro24crush.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_1_25)**.
 
-[security] [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](https://arxiv.org/pdf/2307.00549.pdf).
+[security] [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](https://arxiv.org/pdf/2307.00549.pdf)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#24_2_2)**.
 
 ### 2023
 
