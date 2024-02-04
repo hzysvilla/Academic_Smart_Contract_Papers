@@ -404,7 +404,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [eTainter: detecting gas-related vulnerabilities in smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534378)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#24_2_4)**.
 
-
 [security] [Park: accelerating smart contract vulnerability detection via parallel-fork symbolic execution](https://dl.acm.org/doi/pdf/10.1145/3533767.3534395).
 
 [security] [SmartDagger: a bytecode-based static analysis approach for detecting cross-contract vulnerability](https://dl.acm.org/doi/pdf/10.1145/3533767.3534222).
