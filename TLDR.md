@@ -1,3 +1,12 @@
+# 23_2_4
+## ISSTA22 | eTainter: Detecting Gas-Related Vulnerabilities in Smart Contracts
+* Motivation: The author researches the types of smart contracts, which cause the high cost of gas.
+* Prior: The prior work (i.e., MadMax) researches the high cost of smart contracts with fixed patterns, e.g., unbound loop. However, such works can be bypassed via subtle code changes.
+* Idea: The author deems the high gas costs are caused by the user's input and access to persistent storage.
+* Design: The author leverages taint analysis and static analysis technology to determine whether the user's input reaches persistent storage multiple times. Besides, the author with
+* Implement: The author implements eTainter based on the proposed design and MadMax.
+* Evaluation: eTainter to perform analysis of 60,612 smart contracts on the Ethereum blockchain. It finds that gas-related vulnerabilities exist in 2,763 of these contracts.
+
 # 23_2_2
 ## NDSS24 | Abusing the Ethereum Smart Contract Verification Services for Fun and Profit
 * Motivation: The author researches the inconsistency between the service of contract verification (e.g., Etherscan) and the real source code of the contract.
