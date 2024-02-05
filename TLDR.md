@@ -1,7 +1,17 @@
+# 23_2_5
+## ICSE24 | GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis.
+* Motivation: The researcher studies how to detect logic flaws in the smart contract by leveraging the ChatGPT.
+* Idea: The author proposes a fine-granular prompt approach to submit the flaw description to ChatGPT. Concretely, the authors submit function-level specifications and the reason of vulnerabilities separately, which the authors believe allows Chatgpt to understand the semantics of the code. Next, the static analyzer will evaluate the results from ChatGPT.
+* Challenge: The token amounts of the smart contracts are too large, which will cause a large financial cost in training on ChatGPT.
+* Solution: The authors use a heuristic filtering scheme to reduce the number of functions of smart contracts that need to be checked.
+* Approach: The author develops the GPTScan to achieve their ideas. The GPTScan first filters sensitive functions, then uses GPT to detect the semantics of the contract and infer key variables and finally passes it to a static analyzer to do the confirmation of the vulnerability.
+* Evalution: GPTScan achieves high precision and finds 9 new vulnerabilities.
+  
+
 # 23_2_4
 ## ISSTA22 | eTainter: Detecting Gas-Related Vulnerabilities in Smart Contracts
 * Motivation: The author researches the types of smart contracts, which cause the high cost of gas.
-* Prior: The prior work (i.e., MadMax) researches the high cost of smart contracts with fixed patterns, e.g., unbound loop. However, such works can be bypassed via subtle code changes.
+* Prior work: The prior work (i.e., MadMax) researches the high cost of smart contracts with fixed patterns, e.g., unbound loop. However, such works can be bypassed via subtle code changes.
 * Idea: The author deems the high gas costs are caused by the user's input and access to persistent storage.
 * Design: The author leverages taint analysis and static analysis technology to determine whether the user's input reaches persistent storage multiple times. Besides, the author with
 * Implement: The author implements eTainter based on the proposed design and MadMax.
@@ -12,7 +22,7 @@
 * Motivation: The author researches the inconsistency between the service of contract verification (e.g., Etherscan) and the real source code of the contract.
 * Background: The service of contract verification will display the source code of the contract submitted by the developer, but the adversary can submit the malicious source code of the contract to deceive the verification service and mislead the user.
 * Design: The author summarizes the six steps of the verification service, and abstracts the three security properties of such verification service including data integrity, data consistency, and unambiguous Reference.
-* discover: Based on the three security properties the author unveils eight vulnerabilities of verification services, which the adversary can exploit to deceive the verification service. The eight vulnerabilities of verification services are caused by compilers, EVM design, and libraries etc.
+* discover: Based on the three security properties the author unveils eight vulnerabilities of verification services, which the adversary can exploit to deceive the verification service. The eight vulnerabilities of verification services are caused by compilers, EVM design, and libraries, etc.
 * Evaluation: The author conduct the experiment of Verification Services into Etherscan, Sourcify, and Blockscout. They uncovered 19 exploitable vulnerabilities in total on such services and lead to a financial loss of $7.2M.
  
 
