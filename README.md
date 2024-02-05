@@ -510,7 +510,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?]().
 
-[security] [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://arxiv.org/abs/2308.03314)
+[security] [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://arxiv.org/abs/2308.03314) |  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#24_2_5)**.
 
 ### 2023
 
