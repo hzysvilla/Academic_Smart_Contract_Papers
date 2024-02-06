@@ -1,9 +1,15 @@
-# 24_2_6
+# 24_2_6 
+## CCS19 | Learning to Fuzz from Symbolic Execution with Application to Smart Contracts
+* Motivation: The author focuses on improving the efficacy of smart contracts fuzzing.
+* Idea: The author leverages machine learning to obtain the feeds of fuzzy from symbolic execution, which helps fuzzy can achieve more coverage of the smart contract.
+* Design: The author first symbolically executes a smart contract to get some invoking sequences (i.e., transactions or inputs). Then they use a neural network to learn the invoking sequences, and fuzzing smart contact with such sequences.
+* Implement: The author develops the ILF to achieve their ideas. They use go-ethereum to replay sequences, and construct a network by themselves.
+* Evaluation: The ILF is evaluated on 18k smart contracts, which outperforms the existing fuzzer in code coverage and speed.
 
 # 24_2_5
 ## ICSE24 | GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis.
 * Motivation: The researcher studies how to detect logic flaws in the smart contract by leveraging the ChatGPT.
-* Idea: The author proposes a fine-granular prompt approach to submit the flaw description to ChatGPT. Concretely, the authors submit function-level specifications and the reason of vulnerabilities separately, which the authors believe allows Chatgpt to understand the semantics of the code. Next, the static analyzer will evaluate the results from ChatGPT.
+* Idea: The author proposes a fine-granular prompt approach to submit the flaw description to ChatGPT. Concretely, the authors submit function-level specifications and the reason for vulnerabilities separately, which the authors believe allows Chatgpt to understand the semantics of the code. Next, the static analyzer will evaluate the results from ChatGPT.
 * Challenge: The token amounts of the smart contracts are too large, which will cause a large financial cost in training on ChatGPT.
 * Solution: The authors use a heuristic filtering scheme to reduce the number of functions of smart contracts that need to be checked.
 * Approach: The author develops the GPTScan to achieve their ideas. The GPTScan first filters sensitive functions, then uses GPT to detect the semantics of the contract and infer key variables and finally passes it to a static analyzer to do the confirmation of the vulnerability.
@@ -25,7 +31,7 @@
 * Background: The service of contract verification will display the source code of the contract submitted by the developer, but the adversary can submit the malicious source code of the contract to deceive the verification service and mislead the user.
 * Design: The author summarizes the six steps of the verification service, and abstracts the three security properties of such verification service including data integrity, data consistency, and unambiguous Reference.
 * discover: Based on the three security properties the author unveils eight vulnerabilities of verification services, which the adversary can exploit to deceive the verification service. The eight vulnerabilities of verification services are caused by compilers, EVM design, and libraries, etc.
-* Evaluation: The author conduct the experiment of Verification Services into Etherscan, Sourcify, and Blockscout. They uncovered 19 exploitable vulnerabilities in total on such services and lead to a financial loss of $7.2M.
+* Evaluation: The author conducts the experiment of Verification Services into Etherscan, Sourcify, and Blockscout. They uncovered 19 exploitable vulnerabilities in total on such services and lead to a financial loss of $7.2M.
  
 
 # 24_1_25
