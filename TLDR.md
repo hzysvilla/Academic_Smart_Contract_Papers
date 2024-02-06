@@ -1,4 +1,6 @@
-# 23_2_5
+# 24_2_6
+
+# 24_2_5
 ## ICSE24 | GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis.
 * Motivation: The researcher studies how to detect logic flaws in the smart contract by leveraging the ChatGPT.
 * Idea: The author proposes a fine-granular prompt approach to submit the flaw description to ChatGPT. Concretely, the authors submit function-level specifications and the reason of vulnerabilities separately, which the authors believe allows Chatgpt to understand the semantics of the code. Next, the static analyzer will evaluate the results from ChatGPT.
@@ -8,7 +10,7 @@
 * Evalution: GPTScan achieves high precision and finds 9 new vulnerabilities.
   
 
-# 23_2_4
+# 24_2_4
 ## ISSTA22 | eTainter: Detecting Gas-Related Vulnerabilities in Smart Contracts
 * Motivation: The author researches the types of smart contracts, which cause the high cost of gas.
 * Prior work: The prior work (i.e., MadMax) researches the high cost of smart contracts with fixed patterns, e.g., unbound loop. However, such works can be bypassed via subtle code changes.
@@ -17,7 +19,7 @@
 * Implement: The author implements eTainter based on the proposed design and MadMax.
 * Evaluation: eTainter to perform analysis of 60,612 smart contracts on the Ethereum blockchain. It finds that gas-related vulnerabilities exist in 2,763 of these contracts.
 
-# 23_2_2
+# 24_2_2
 ## NDSS24 | Abusing the Ethereum Smart Contract Verification Services for Fun and Profit
 * Motivation: The author researches the inconsistency between the service of contract verification (e.g., Etherscan) and the real source code of the contract.
 * Background: The service of contract verification will display the source code of the contract submitted by the developer, but the adversary can submit the malicious source code of the contract to deceive the verification service and mislead the user.
@@ -26,7 +28,7 @@
 * Evaluation: The author conduct the experiment of Verification Services into Etherscan, Sourcify, and Blockscout. They uncovered 19 exploitable vulnerabilities in total on such services and lead to a financial loss of $7.2M.
  
 
-# 23_1_25
+# 24_1_25
 ## NDSS24 | Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts
 * Motivation: This work aims to analyze automatically and exploit a type of flaw called storage collision vulnerabilities in smart contracts.
 * Background: The storage collision vulnerabilities are caused when the proxy invokes of smart contracts don't have type check.
