@@ -29,7 +29,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 - [TIFS](#tifs)
 
 ### Also including:
-* [CSFW](#miscellaneous), [CHI](#miscellaneous), [ICPC](#miscellaneous), [TPDS](#miscellaneous), [HPC](#miscellaneous), [POMACS](#miscellaneous), [AsiaCCS](#miscellaneous), [IJCAI](#miscellaneous), [SC](#miscellaneous), [SIGKDD](#miscellaneous), [JSAC](#miscellaneous), [DAC](#miscellaneous), [TOPLAS](#miscellaneous).
+* [CSFW](#miscellaneous), [CHI](#miscellaneous), [ICPC](#miscellaneous), [TPDS](#miscellaneous), [HPC](#miscellaneous), [POMACS](#miscellaneous), [AsiaCCS](#miscellaneous), [IJCAI](#miscellaneous), [SC](#miscellaneous), [SIGKDD](#miscellaneous), [JSAC](#miscellaneous), [DAC](#miscellaneous), [TOPLAS](#miscellaneous), [ICSA](#miscellaneous.
 
 
 ---
@@ -1123,6 +1123,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [VLDB22] [Hybrid Blockchain Database Systems: Design and Performance](https://dl.acm.org/doi/pdf/10.14778/3510397.3510406).
 
 [AsiaCCS22] [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390).
+
+[TC21] [Precise Dynamic Symbolic Execution for Nonuniform Data Access in Smart Contracts](https://rucsesec.github.io/papers/TC2021b.pdf).
 
 [sigmod23] [Semantics-Aware Key-Value store for Blockchain systems]().
 
