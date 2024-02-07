@@ -1044,6 +1044,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TIFS
 
+[TIFS23] [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data]().
+
 [TIFS23] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting](https://arxiv.org/pdf/2301.03943.pdf).
 
 [TIFS23] [EVM-Shield: In-Contract State Access Control for Fast Vulnerability Detection and Prevention]().
