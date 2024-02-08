@@ -42,13 +42,23 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[security] [NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://github.com/hzysvilla/Nurgle_Oakland24/blob/main/Nurgle_oakland24.pdf).
+
+[security] [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution]().
+
+[security] [SMARTINV: Multimodal Learning for Smart Contract Invariant Inference]().
+
+[security] [Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts]().
+
+[security] [Optimal Flexible Consensus and its Application to Ethereum]().
+
+### 2023
+
 [security] [Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Chronos_sp24.pdf).
 
 [financail] [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://roibarzur.github.io/assets/pdfs/werlman-systor-poster-2022.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_WeRLman)**.
 
 [security] [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_CF)**.
-
-### 2023
 
 [security] [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/pdf/2208.13035.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#sp23_CF)**.
 
@@ -125,7 +135,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration](https://github.com/jianyu-niu/blockchain_conference_paper/blob/master). 
 
-[security] [Understanding Security Issues in the NFT Ecosystem](https://arxiv.org/pdf/2111.08893.pdf).
+[security] [Understanding Security Issues in the NFT Ecosystem](https://arxiv.org/pdf/2305.15829.pdf).
 
 ### 2021
 
