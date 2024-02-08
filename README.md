@@ -2,16 +2,16 @@
 
 A curated Smart Contract related academic papers. All papers are sorted based on the conference name and published year.
 
-**Welcome developers or researchers to add more published papers on this list**.
+**Welcome developers or researchers to add more published papers to this list**.
 
-You can find my **[TLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md)** notes for some paper.
+You can find my **[TLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md)** notes for some papers.
 
-The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700
+The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700.
 
 Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=O_vixKoAAAAJ).
 
 ## Table of Listed Conferences
-|     Security & Crypto     |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
+|     Security & Crypto               |               Networking & Database               | Software Engineering & Programming Language | System Architecture  |
 | :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :------------------: |
 |           [IEEE S&P](#sp)           |             [SIGMETRICS](#sigmetrics)             |                [ICSE](#icse)                |  [EuroSys](#others)  |
 |           [ACM CCS](#ccs)           |                   [ICDE](#others)                 |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)   |
