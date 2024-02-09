@@ -1,3 +1,11 @@
+# 24_2_9
+## ISSTA23 | Definition and Detection of Defects in NFT Smart Contracts
+* Motivation: The author focuses on detecting the flaw in NFT smart contracts.
+* Idea: The author conducts surveys to summarize five flaws in NFT smart contract, and uses program analysis technology to inspect these flaws.
+* Design: The author first uses symbolic execution technology to key variables and program logic, then encodes the flaw's rule by SMT to detect the flaw.
+* Implement: The author develops the NFTGuard to achieve their idea. 
+* Evaluation: The experimental results show that NFTGuard finds 1,331 smart contracts in the dataset to contain at least one of the flaws. Furthermore, the overall precision achieved by NFTGuard is 92.6%.
+
 # 24_2_6 
 ## CCS19 | Learning to Fuzz from Symbolic Execution with Application to Smart Contracts
 * Motivation: The author focuses on improving the efficacy of smart contracts fuzzing.
