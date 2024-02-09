@@ -130,7 +130,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://yueduan.github.io/pub/smart_contracts_analysis__ccs22.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_2)**.
 
-
 [security] [VRust: Automated Vulnerability Detection for Solana Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3548606.3560552) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#ccs22_vrust)**.
 
 [security] [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration](https://github.com/jianyu-niu/blockchain_conference_paper/blob/master). 
@@ -404,7 +403,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols]().
 
-[security] [Definition and Detection of Defects in NFT Smart Contracts]().
+[security] [Definition and Detection of Defects in NFT Smart Contracts](https://arxiv.org/pdf/2305.15829.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#24_2_9)**.
 
 ### 2022
 
