@@ -1093,7 +1093,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [ISCA23] [An Algorithm and Architecture Co-design for Accelerating Smart Contracts in Blockchain](https://dl.acm.org/doi/pdf/10.1145/3579371.3589067).
 
-[SODA23] [Foundations of Transaction Fee Mechanism Design]().
+[SODA23] [Foundations of Transaction Fee Mechanism Design](https://eprint.iacr.org/2021/1474.pdf).
 
 [IEEE Computer] [The Multibillion Dollar Software Supply Chain of Ethereum](http://arxiv.org/pdf/2202.07029).
 
@@ -1105,7 +1105,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [ICDE23] [Scaling Blockchain Consensus via a Robust Shared Mempool]().
 
-[SC23] [FISCO-BCOS：An Enterprise-grade Permissioned Blockchain System with High-performance]().
+[SC23] [FISCO-BCOS: An Enterprise-grade Permissioned Blockchain System with High-performance]().
 
 [Usenix ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). 
 
