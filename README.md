@@ -4,7 +4,7 @@ A curated Smart Contract related academic papers. All papers are sorted based on
 
 **Welcome developers or researchers to add more published papers to this list**.
 
-You can find my **[TLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md)** notes for some papers.
+You can find my **[TLDR](TLDR.md)** notes for some papers.
 
 The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700.
 
@@ -132,7 +132,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [VRust: Automated Vulnerability Detection for Solana Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3548606.3560552) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#ccs22_vrust)**.
 
-[security] [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration](https://github.com/jianyu-niu/blockchain_conference_paper/blob/master). 
+[security] [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration](https://dl.acm.org/doi/pdf/10.1145/3548606.3560587). 
 
 [security] [Understanding Security Issues in the NFT Ecosystem](https://arxiv.org/pdf/2305.15829.pdf).
 
@@ -144,7 +144,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2020
 
-[security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417243)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_18)**.
+[security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417243)  | **[MyTLDR](TLDR.md#23_11_18)**.
 
 [security] [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417250).
 
@@ -154,7 +154,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](https://dl.acm.org/doi/pdf/10.1145/3319535.3345664).
 
-[security] [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363230).  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#24_2_6)**.
+[security] [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363230).  | **[MyTLDR](TLDR.md#24_2_6)**.
 
 [security] [Zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363222).
 
@@ -170,7 +170,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2016
 
-[security] [Making Smart Contracts Smarter](https://dl.acm.org/doi/pdf/10.1145/2976749.2978309) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_20)**.
+[security] [Making Smart Contracts Smarter](https://dl.acm.org/doi/pdf/10.1145/2976749.2978309) | **[MyTLDR](TLDR.md#23_11_20)**.
 
 [security] [Formal verification of smart contracts: Short paper](https://dl.acm.org/doi/10.1145/2993600.2993611).
 
@@ -182,7 +182,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
-[security] [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_30)**.
+[security] [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190.pdf) | **[MyTLDR](TLDR.md#23_9_30)**.
 
 ### 2023
 
@@ -194,19 +194,19 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf).
 
-[security] [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://www.usenix.org/system/files/sec23fall-prepub-515-mclaughlin.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_29)**.
+[security] [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://www.usenix.org/system/files/sec23fall-prepub-515-mclaughlin.pdf) | **[MyTLDR](TLDR.md#23_8_29)**.
 
-[security] [A Mixed-Methods Study of Security Practices of Smart Contract Developers](https://www.usenix.org/system/files/usenixsecurity23-sharma.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_17)**.
+[security] [A Mixed-Methods Study of Security Practices of Smart Contract Developers](https://www.usenix.org/system/files/usenixsecurity23-sharma.pdf) | **[MyTLDR](TLDR.md#23_9_17)**.
 
-[security] [Smart Learning to Find Dumb Contracts](https://www.usenix.org/system/files/usenixsecurity23-abdelaziz.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_4)**.
+[security] [Smart Learning to Find Dumb Contracts](https://www.usenix.org/system/files/usenixsecurity23-abdelaziz.pdf) | **[MyTLDR](TLDR.md#23_9_4)**.
 
-[security] [Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes](https://www.usenix.org/system/files/usenixsecurity23-taverna.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_3)**.
+[security] [Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes](https://www.usenix.org/system/files/usenixsecurity23-taverna.pdf) | **[MyTLDR](TLDR.md#23_9_3)**.
 
-[security] [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://arxiv.org/pdf/2206.08202.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_7).
+[security] [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://arxiv.org/pdf/2206.08202.pdf) | [MyTLDR](TLDR.md#23_9_7).
 
-[security] [Automated Inference on Financial Security of Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-wang-wansen.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_5)**.
+[security] [Automated Inference on Financial Security of Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-wang-wansen.pdf) | **[MyTLDR](TLDR.md#23_9_5)**.
 
-[security] [Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract](https://www.usenix.org/system/files/usenixsecurity23-zhang-zhuo-exploit.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_18).
+[security] [Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract](https://www.usenix.org/system/files/usenixsecurity23-zhang-zhuo-exploit.pdf) | [MyTLDR](TLDR.md#23_9_18).
 
 [security] [Anatomy of a High-Profile Data Breach: Dissecting the Aftermath of a Crypto-Wallet Case](https://www.usenix.org/system/files/sec23_slides_abramova.pdf).
 
@@ -226,7 +226,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [EOSAFE: Security Analysis of EOSIO Smart Contracts](http://sei.pku.edu.cn/~yaoguo/papers/He-Security-21.pdf).
 
-[security] [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](http://prl.korea.ac.kr/~ssb920/papers/sec21.pdf)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_21)**.
+[security] [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](http://prl.korea.ac.kr/~ssb920/papers/sec21.pdf)  | **[MyTLDR](TLDR.md#23_9_21)**.
 
 [security] [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.doc.ic.ac.uk/~livshits/papers/pdf/usenixsec21.pdf).
 
@@ -236,7 +236,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2020 
 
-[security] [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_22)**.
+[security] [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf) | **[MyTLDR](TLDR.md#23_11_22)**.
 
 [security] [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf).
 
@@ -273,13 +273,13 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
-[security] [Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts](https://seclab.cs.ucsb.edu/files/publications/ruaro24crush.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_1_25)**.
+[security] [Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts](https://seclab.cs.ucsb.edu/files/publications/ruaro24crush.pdf) | **[MyTLDR](TLDR.md#23_1_25)**.
 
-[security] [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](https://arxiv.org/pdf/2307.00549.pdf)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#24_2_2)**.
+[security] [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](https://arxiv.org/pdf/2307.00549.pdf)  | **[MyTLDR](TLDR.md#24_2_2)**.
 
 ### 2023
 
-[security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_30).
+[security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/) | [MyTLDR](TLDR.md#23_8_30).
 
 [security] [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf).
 
@@ -287,7 +287,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf).
 
-[security] [Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s263_paper.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_8_31).
+[security] [Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s263_paper.pdf) | [MyTLDR](TLDR.md#23_8_31).
 
 ### 2021
 
@@ -321,7 +321,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2022
 
-[security] [SolCMC: Solidity Compiler’s Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_6)**.
+[security] [SolCMC: Solidity Compiler’s Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf)  | **[MyTLDR](TLDR.md#23_10_6)**.
 
 ### 2020
 
@@ -337,7 +337,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[security] [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://kaixuanli-ecnu.github.io/files/fse23-sc-codeclone-kairansun.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_20). 
+[security] [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://kaixuanli-ecnu.github.io/files/fse23-sc-codeclone-kairansun.pdf) | [MyTLDR](TLDR.md#23_9_20). 
 
 [security] [Understanding Solidity Event Logging Practices in the Wild]().
 
@@ -347,7 +347,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [TransRacer: Function Dependence-Guided Transaction Race Detection for Smart Contracts]()
 
-[security] [DeepInfer: Deep Type Inference from Smart Contract Bytecode]() | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_9).
+[security] [DeepInfer: Deep Type Inference from Smart Contract Bytecode]() | [MyTLDR](TLDR.md#23_9_9).
 
 ### 2022
 
@@ -387,31 +387,31 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[security] [SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis]() | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_2)**.
+[security] [SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis]() | **[MyTLDR](TLDR.md#23_9_2)**.
 
-[security] [iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements]() | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_2)**.
+[security] [iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements]() | **[MyTLDR](TLDR.md#23_10_2)**.
 
-[security] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_8)**.
+[security] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf) | **[MyTLDR](TLDR.md#23_9_8)**.
 
 [security] [Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode]().
 
-[security] [Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3597926.3598057) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_15)**.
+[security] [Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3597926.3598057) | **[MyTLDR](TLDR.md#23_9_15)**.
 
 [security] [ItyFuzz: Snapshot-Based Fuzzer for Smart Contract](https://arxiv.org/pdf/2306.17135)
 
-[security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract](https://dl.acm.org/doi/pdf/10.1145/3548606.3559384) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_16)**.
+[security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract](https://dl.acm.org/doi/pdf/10.1145/3548606.3559384) | **[MyTLDR](TLDR.md#23_9_16)**.
 
 [security] [DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols](papers/issta23_DeFiTainter.pdf) | **[MyTLDR](TLDR.md#24_2_11)**.
 
-[security] [Definition and Detection of Defects in NFT Smart Contracts](https://arxiv.org/pdf/2305.15829.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#24_2_9)**.
+[security] [Definition and Detection of Defects in NFT Smart Contracts](https://arxiv.org/pdf/2305.15829.pdf) | **[MyTLDR](TLDR.md#24_2_9)**.
 
 ### 2022
 
-[security] [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_23)**.
+[security] [WASAI: uncovering vulnerabilities in Wasm smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534218)  | **[MyTLDR](TLDR.md#23_9_23)**.
 
-[security] [Finding permission bugs in smart contracts with role mining](https://dl.acm.org/doi/pdf/10.1145/3533767.3534372) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#issta22_SPCon)**.
+[security] [Finding permission bugs in smart contracts with role mining](https://dl.acm.org/doi/pdf/10.1145/3533767.3534372) | **[MyTLDR](TLDR.md#issta22_SPCon)**.
 
-[security] [eTainter: detecting gas-related vulnerabilities in smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534378)  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#24_2_4)**.
+[security] [eTainter: detecting gas-related vulnerabilities in smart contracts](https://dl.acm.org/doi/pdf/10.1145/3533767.3534378)  | **[MyTLDR](TLDR.md#24_2_4)**.
 
 [security] [Park: accelerating smart contract vulnerability detection via parallel-fork symbolic execution](https://dl.acm.org/doi/pdf/10.1145/3533767.3534395).
 
@@ -445,7 +445,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[security] [DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities]() | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_6).
+[security] [DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities]() | [MyTLDR](TLDR.md#23_9_6).
 
 [security] [SmartCoCo: Checking Comment-code Inconsistency in Smart Contracts via Constraint Propagation and Binding]().
 
@@ -513,19 +513,19 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG)]().
 
-[security] [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts]() |  [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_11).
+[security] [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts]() |  [MyTLDR](TLDR.md#23_11_11).
 
 [security] [Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts]().
 
 [security] [Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?]().
 
-[security] [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://arxiv.org/abs/2308.03314) |  | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#24_2_5)**.
+[security] [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://arxiv.org/abs/2308.03314) |  | **[MyTLDR](TLDR.md#24_2_5)**.
 
 ### 2023
 
 [security] [SmartMark: Software Watermarking Scheme for Smart Contracts](https://arxiv.org/pdf/2303.13733).
 
-[security] [AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities](https://people.ece.ubc.ca/~mjulia/publications/ACheckerICSE2023.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_14).
+[security] [AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities](https://people.ece.ubc.ca/~mjulia/publications/ACheckerICSE2023.pdf) | [MyTLDR](TLDR.md#23_9_14).
 
 [security] [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts](https://zhengpeilin.com/research/BSHunter.pdf).
 
@@ -571,7 +571,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2021
 
-[security] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_9)**.
+[security] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf) | **[MyTLDR](TLDR.md#23_11_9)**.
 
 ### 2017
 
@@ -647,9 +647,9 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Finance] [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://arxiv.org/abs/2201.09035).
 
-[Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://github.com/wuzhy1ng/MoTS/blob/master/MoTS_WWW_2023_manuscript.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_10)**.
+[Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://github.com/wuzhy1ng/MoTS/blob/master/MoTS_WWW_2023_manuscript.pdf) | **[MyTLDR](TLDR.md#23_9_10)**.
 
-[security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_25)**.
+[security] [BERT4ETH: A Pre-trained Transformer for Ethereum Fraud Detection](https://arxiv.org/pdf/2303.18138.pdf) | **[MyTLDR](TLDR.md#23_10_25)**.
 
 ### 2022
 
@@ -701,7 +701,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[security] [Automated Detection of Under-constrained Circuits in Zero-Knowledge Proofs](https://dl.acm.org/doi/pdf/10.1145/3591282) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_1)**.
+[security] [Automated Detection of Under-constrained Circuits in Zero-Knowledge Proofs](https://dl.acm.org/doi/pdf/10.1145/3591282) | **[MyTLDR](TLDR.md#23_10_1)**.
 
 ### 2021
 
@@ -815,11 +815,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[security] [Asparagus: Automated Synthesis of Parametric Gas Upper-bounds for Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3563308) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_26)**.
+[security] [Asparagus: Automated Synthesis of Parametric Gas Upper-bounds for Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3563308) | **[MyTLDR](TLDR.md#23_9_26)**.
 
 ### 2022
 
-[security] [Synthesis-powered optimization of smart contracts via data type refactoring](https://dl.acm.org/doi/pdf/10.1145/3563308) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_27)**.
+[security] [Synthesis-powered optimization of smart contracts via data type refactoring](https://dl.acm.org/doi/pdf/10.1145/3563308) | **[MyTLDR](TLDR.md#23_9_27)**.
 
 [security] [Elipmoc: Advanced Decompilation of Ethereum Smart Contracts](https://yanniss.github.io/elipmoc-oopsla22.pdf).
 
@@ -857,7 +857,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[security] [Ethereum's Proposer-Builder Separation: Promises and Realities](https://arxiv.org/pdf/2305.19037.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_15)**.
+[security] [Ethereum's Proposer-Builder Separation: Promises and Realities](https://arxiv.org/pdf/2305.19037.pdf) | **[MyTLDR](TLDR.md#23_11_15)**.
 
 [security] [The Cloud Strikes Back: Investigating the Decentralization of IPFS](https://dl.acm.org/doi/abs/10.1145/3618257.3624797). 
 
@@ -873,7 +873,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2018
 
-[measure] [Measuring ethereum network peers](https://dl.acm.org/doi/pdf/10.1145/3278532.3278542) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_11_2)**.
+[measure] [Measuring ethereum network peers](https://dl.acm.org/doi/pdf/10.1145/3278532.3278542) | **[MyTLDR](TLDR.md#23_11_2)**.
 
 [security] [analyzing ethereum's contract topology](https://dl.acm.org/doi/pdf/10.1145/3278532.3278575). 
 
@@ -887,7 +887,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[performance] [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_10_26)**.
+[performance] [Strategic Latency Reduction in Blockchain Peer-to-Peer Networks](https://arxiv.org/abs/2205.06837) | **[MyTLDR](TLDR.md#23_10_26)**.
 
 [security] [Characterizing Cryptocurrency-themed Malicious Browser Extensions]().
 
@@ -949,7 +949,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2022
 
-[security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_1). 
+[security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf) | [MyTLDR](TLDR.md#23_9_1). 
 
 [security] [Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975) 
 
@@ -969,7 +969,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [applicaton] [A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain](https://massimolamorgia.com/assets/pdf/NFT_Wash_Trading___ICDCS2023.pdf).
 
-[security] [Smart Contract Parallel Execution with Fine-Grained State Accesses](https://personal.ntu.edu.sg/yi_li/files/Qi2023SCP.pdf) | [MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_19).
+[security] [Smart Contract Parallel Execution with Fine-Grained State Accesses](https://personal.ntu.edu.sg/yi_li/files/Qi2023SCP.pdf) | [MyTLDR](TLDR.md#23_9_19).
 
 ### 2022
 
@@ -1111,7 +1111,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Usenix ATC21] [RainBlock: Faster Transaction Processing in Public Blockchains](https://www.usenix.org/system/files/atc21-ponnapalli.pdf).
 
-[EORUSYS23] [Diablo: A Benchmark Suite for Blockchains](https://6788543.fs1.hubspotusercontent-na1.net/hubfs/6788543/Eurosys23-Diablo.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_29)**.
+[EORUSYS23] [Diablo: A Benchmark Suite for Blockchains](https://6788543.fs1.hubspotusercontent-na1.net/hubfs/6788543/Eurosys23-Diablo.pdf) | **[MyTLDR](TLDR.md#23_9_29)**.
 
 [EORUSYS21] [Ethanos: efficient bootstrapping for full nodes on account-based blockchain](https://dl.acm.org/doi/pdf/10.1145/3447786.3456231).
 
