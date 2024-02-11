@@ -1,3 +1,13 @@
+# 24_2_11
+### ISSTA23 | DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols
+* Motivation: The author focuses on detect the price manulation flaws in smart contract.
+* Idea: The author uses the dataflow analysis to restore the  intra-contract and inter-contract call graph.
+* Design: Then author first restores the call graph by dataflow analysis, then adopts the flaws pattern and taint analysis to check the flaws.
+* Implement: The author develops the DeFiTainter to achieve their idea. They use GigahorseIR and Datalog to conduct taint analysis
+* Evaluation: DeFiTainter uncovers three previously undisclosed
+price manipulation flaws.
+
+
 # 24_2_9
 ## ISSTA23 | Definition and Detection of Defects in NFT Smart Contracts
 * Motivation: The author focuses on detecting the flaw in NFT smart contracts.

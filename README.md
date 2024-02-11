@@ -373,7 +373,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [ModCon: a model-based testing platform for smart contracts](https://dl.acm.org/doi/pdf/10.1145/3368089.3417939).
 
-[security] [HARVEY：A Greybox Fuzzer for Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3368089.3417064).
+[security] [HARVEY： A Greybox Fuzzer for Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3368089.3417064).
 
 ### 2019
 
@@ -401,7 +401,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Toward Automated Detecting Unanticipated Price Feed in Smart Contract](https://dl.acm.org/doi/pdf/10.1145/3548606.3559384) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#23_9_16)**.
 
-[security] [DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols]().
+[security] [DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols](papers/issta23_DeFiTainter.pdf)**[MyTLDR](TLDR.md#24_2_11)**.
 
 [security] [Definition and Detection of Defects in NFT Smart Contracts](https://arxiv.org/pdf/2305.15829.pdf) | **[MyTLDR](https://github.com/hzysvilla/Academic_Smart_Contract_Papers/blob/master/TLDR.md#24_2_9)**.
 
