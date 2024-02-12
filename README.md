@@ -1037,11 +1037,9 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [TSE] [VulHunter: Hunting Vulnerable Smart Contracts at EVM Bytecode-Level via Multiple Instance Learning]().
 
-[TSE] [Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation]().
-
 [TSE] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts](https://drive.google.com/file/d/111l8_vf7Gt7RxygjuBM8WQWLTQL700jY/view?pli=1).
 
-[TSE] [Demystifying Random Number in Ethereum Smart Contract: Taxonomy, Vulnerability Identification, and Attack Detection]()
+[TSE] [Demystifying Random Number in Ethereum Smart Contract: Taxonomy, Vulnerability Identification, and Attack Detection](https://arxiv.org/pdf/2304.12645.pdf)
 
 [TSE] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663).
 
