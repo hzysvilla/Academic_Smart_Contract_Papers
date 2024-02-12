@@ -48,7 +48,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [SMARTINV: Multimodal Learning for Smart Contract Invariant Inference]().
 
-[security] [Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts]().
+[security] [Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts](papers/sp24_Nyx.pdf) | **[MyTLDR](TLDR.md#sp23_CF)**.
 
 [security] [Optimal Flexible Consensus and its Application to Ethereum]().
 

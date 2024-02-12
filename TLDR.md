@@ -1,7 +1,19 @@
+# 24_2_12 
+### SP24 | Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts
+* Motivation: The author concentrates on detecting exploit front-running vulnerabilities of smart contract.
+* Background: front-running vulnerabilities represent that malicious users leverage prior knowledge of upcoming transactions to execute attack transactions in advance and make profits.
+* Prior work: The prior work only detects one single function that caused false positives.
+* Idea: The author detects a pair of functions to check whether the contract has the flaw.
+* Challenge: The large search space hinders the detection
+* Solution: The author formulas some patterns to prune the space.
+* Approach: The author develops the Nyx to achieve their idea. Nyx first transforms the contract to Slither IR, and generates a system dependency graph (SDG). Then Nyx filters the function pairs, and leverages the z3 SMT to detect front-running flaw.
+* Evaluation: Nyx unveils the four 0-day flaws.
+
+
 # 24_2_11
 ### ISSTA23 | DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols
-* Motivation: The author focuses on detect the price manulation flaws in smart contract.
-* Idea: The author uses the dataflow analysis to restore the  intra-contract and inter-contract call graph.
+* Motivation: The author focuses on detecting the price manipulation flaws in smart contract.
+* Idea: The author uses the dataflow analysis to restore the intra-contract and inter-contract call graph.
 * Design: The author first restores the call graph by dataflow analysis, then adopts the flaws pattern and taint analysis to check the flaws.
 * Implement: The author develops the DeFiTainter to achieve their idea. They use GigahorseIR and Datalog to conduct taint analysis
 * Evaluation: DeFiTainter uncovers three previously undisclosed price manipulation flaws.
@@ -30,7 +42,7 @@
 * Challenge: The token amounts of the smart contracts are too large, which will cause a large financial cost in training on ChatGPT.
 * Solution: The authors use a heuristic filtering scheme to reduce the number of functions of smart contracts that need to be checked.
 * Approach: The author develops the GPTScan to achieve their ideas. The GPTScan first filters sensitive functions, then uses GPT to detect the semantics of the contract and infer key variables and finally passes it to a static analyzer to do the confirmation of the vulnerability.
-* Evalution: GPTScan achieves high precision and finds 9 new vulnerabilities.
+* Evaluation: GPTScan achieves high precision and finds 9 new vulnerabilities.
   
 
 # 24_2_4
