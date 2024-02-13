@@ -1017,6 +1017,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [TOSEM] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
 
+[TOSEM] [sGuard+: Machine Learning Guided Rule-based AutomatedVulnerability Repair on Smart Contracts.](https://dl.acm.org/doi/pdf/10.1145/3641846).
+
 [TOSEM] [Is my transaction done yet? an empirical study of transaction processing times in the ethereum blockchain platform](https://dl.acm.org/doi/pdf/10.1145/3549542?).
 
 [TOSEM] [Securing the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3571847).
