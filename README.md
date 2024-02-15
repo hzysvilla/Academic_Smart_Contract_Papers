@@ -1139,7 +1139,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [TC21] [Precise Dynamic Symbolic Execution for Nonuniform Data Access in Smart Contracts](https://rucsesec.github.io/papers/TC2021b.pdf).
 
-[sigmod23] [Semantics-Aware Key-Value store for Blockchain systems]().
+[sigmod23] [ChainKV: A Semantics-Aware Key-Value Store for Ethereum System]().
 
 [sigmod21] [Why Do My Blockchain Transactions Fail? A Study of Hyperledger Fabric]().
 
