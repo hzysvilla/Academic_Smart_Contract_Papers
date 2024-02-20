@@ -1095,6 +1095,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## Miscellaneous
 
+[FAST23] [COLE: A Column-based Learned Storage for Blockchain Systems](papers/fast23_cole.pdf).
+
 [ISCA23] [An Algorithm and Architecture Co-design for Accelerating Smart Contracts in Blockchain](https://dl.acm.org/doi/pdf/10.1145/3579371.3589067).
 
 [SODA23] [Foundations of Transaction Fee Mechanism Design](https://eprint.iacr.org/2021/1474.pdf).
@@ -1125,11 +1127,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
 
-[CHI22] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585). 
+[CHI22] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
 
 [CHI21] [Efect of the Gas Price Surges on User Activity in the DAOs of the Ethereum Blockchain](https://dl.acm.org/doi/pdf/10.1145/3411763.3451755).
 
-[POMACS2021] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf). 
+[POMACS2021] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf).
 
 [HPCA20] [BBS: Micro-Architecture Benchmarking Blockchain Systems through Machine Learning and Fuzzy Set]().
 
