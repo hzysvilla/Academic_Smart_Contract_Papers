@@ -1,11 +1,11 @@
 # 24_2_21
 ### FSE23 | EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes
-* Motivation: The author focus on inspecting the inconsistent implementations of RPC services between four implementations of Ethereum.
-* Background: RPC services are the front-nodes of the Ethereum, and user invokes DApp by RPC services.
-* Idea: Author adopts differential testing technology to find inconsistent bug of RPC services in geth, besu, nethermind, and erigon.
+* Motivation: The author focuses on inspecting the inconsistent implementations of RPC services between four implementations of Ethereum.
+* Background: RPC services are the front-nodes of the Ethereum, and the user invokes DApp by RPC services.
+* Idea: The author adopts differential testing technology to find inconsistent bugs of RPC services in geth, besu, nethermind, and erigon.
 * Challenge: How to generate test cases?
-* Solution：The author construct a domain-specific language (DSL) to capture syntax and semantic infomation. The DSL can generate the valid and invalid test cases.
-* Approach: The author develops EtherDiffer to achieve their idea. EtherDiffer constructs a local network with those four client and generate the transactions to mock the non-deterministic on-chain enviroment.
+* Solution： The author constructs a domain-specific language (DSL) to capture syntax and semantic information. The DSL can generate valid and invalid test cases.
+* Approach: The author develops EtherDiffer to achieve their idea. EtherDiffer constructs a local network with those four clients and generates the transactions to mock the non-deterministic on-chain environment.
 * Evaluation: EtherDiffer detected 48 different classes of deviations including 11 implementation bugs
 such as crash and denial-of-service bugs.
 
