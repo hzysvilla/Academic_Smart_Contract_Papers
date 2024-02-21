@@ -345,7 +345,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Understanding Solidity Event Logging Practices in the Wild]().
 
-[security] [EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes]().
+[software engineering] [EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes](https://dl.acm.org/doi/pdf/10.1145/3611643.3616251) | [MyTLDR](TLDR.md#24_2_21).
 
 [security] [SmartFix: Fixing Vulnerable Smart Contracts by Accelerating Generate-and-Verify Repair using Statistical Models]()
 

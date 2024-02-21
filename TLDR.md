@@ -1,7 +1,20 @@
+# 24_2_21
+### FSE23 | EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes
+* Motivation: The author focus on inspecting the inconsistent implementations of RPC services between four implementations of Ethereum.
+* Background: RPC services are the front-nodes of the Ethereum, and user invokes DApp by RPC services.
+* Idea: Author adopts differential testing technology to find inconsistent bug of RPC services in geth, besu, nethermind, and erigon.
+* Challenge: How to generate test cases?
+* Solution：The author construct a domain-specific language (DSL) to capture syntax and semantic infomation. The DSL can generate the valid and invalid test cases.
+* Approach: The author develops EtherDiffer to achieve their idea. EtherDiffer constructs a local network with those four client and generate the transactions to mock the non-deterministic on-chain enviroment.
+* Evaluation: EtherDiffer detected 48 different classes of deviations including 11 implementation bugs
+such as crash and denial-of-service bugs.
+
+
+
 # 24_2_12 
 ### SP24 | Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts
 * Motivation: The author concentrates on detecting exploit front-running vulnerabilities of smart contract.
-* Background: front-running vulnerabilities represent that malicious users leverage prior knowledge of upcoming transactions to execute attack transactions in advance and make profits.
+* Background: Front-running vulnerabilities represent that malicious users leverage prior knowledge of upcoming transactions to execute attack transactions in advance and make profits.
 * Prior work: The prior work only detects one single function that caused false positives.
 * Idea: The author detects a pair of functions to check whether the contract has the flaw.
 * Challenge: The large search space hinders the detection
