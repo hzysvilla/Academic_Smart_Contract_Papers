@@ -1,3 +1,12 @@
+# 24_2_22
+### SP24 | SMARTINV: Multimodal Learning for Smart Contract Invariant Inference
+* Motivation: The author try to detect the flaw of smart contract based on invariable.
+* Background: Invariable specifies the variable must remain unchange on the execution of contract. Such the variable in an assert condition.
+* Idea: The author adopts LLM to detect such flaw.
+* Design: The author decouple the funetuning process to find invariable. The author adopts the process the expert discovering flaw to finetune and prompt LLM by a fine-tuning approach.
+* Approach: The author develop SMARTINV to achieve their idea.
+* Evaluation:  SMARTINV uncovers 119 zero-day bugs and six of them are high severity.
+
 # 24_2_21
 ### FSE23 | EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes
 * Motivation: The author focuses on inspecting the inconsistent implementations of RPC services between four implementations of Ethereum.
