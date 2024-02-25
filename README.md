@@ -46,7 +46,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution]().
 
-[security] [SMARTINV: Multimodal Learning for Smart Contract Invariant Inference]().
+[security] [SMARTINV: Multimodal Learning for Smart Contract Invariant Inference]()| **[MyTLDR](TLDR.md#24_2_22)**.
 
 [security] [Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts](papers/sp24_Nyx.pdf) | **[MyTLDR](TLDR.md#24_2_12)**.
 
