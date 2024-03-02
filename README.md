@@ -248,7 +248,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2019 
 
-[security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf).
+[security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf) | **[MyTLDR](TLDR.md#24_3_2)**.
 
 [application] [FastKitten: Practical Smart Contracts on Bitcoin]().
 

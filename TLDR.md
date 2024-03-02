@@ -1,17 +1,26 @@
+# 24_3_2
+### SEC19 | Tracing Transactions Across Cryptocurrency Ledgers
+* Motivation: The author focuses on tracing the cross-chain transaction of cryptocurrency incurred by ShapeShift to evaluate  Anonymity and the motivations of crime.
+* Background: ShapeShift is a centralized exchange supporting transactions of cross-chain cryptocurrency.
+* Data collection: The author collects their data from the webpage of ShapeShift and its API.
+* Approach: First, the author uses their heuristics algorithms and predefined patterns to recover the transaction relationships between different blockchains. Then, the author adopts their heuristics cluster algorithm such relationships to identify the account entity
+* Applications: The author applies their approach in four aspects. 1) Starscrape's rug pull scam. 2) Stoling coins scams. 3) Trading bots detections. 4) measurement of anonymity. e.g., this approach detects 107 trade bots with seven pairs of coins.
+
+
 # 24_2_22
 ### SP24 | SMARTINV: Multimodal Learning for Smart Contract Invariant Inference
-* Motivation: The author try to detect the flaw of smart contract based on invariable.
-* Background: Invariable specifies the variable must remain unchange on the execution of contract. Such the variable in an assert condition.
-* Idea: The author adopts LLM to detect such flaw.
-* Design: The author decouple the funetuning process to find invariable. The author adopts the process the expert discovering flaw to finetune and prompt LLM by a fine-tuning approach.
-* Approach: The author develop SMARTINV to achieve their idea.
+* Motivation: The author tries to detect the flaws of smart contracts based on invariable.
+* Background: Invariable specifies the variable must remain unchanged on the execution of contract. Such is the variable in an assert condition.
+* Idea: The author adopts LLM to detect such flaws.
+* Design: The author decouples the funetuning process to find invariable. The author adopts the process the expert discovering flaws to finetune and prompt LLM by a fine-tuning approach.
+* Approach: The author develops SMARTINV to achieve their idea.
 * Evaluation:  SMARTINV uncovers 119 zero-day bugs and six of them are high severity.
 
 # 24_2_21
 ### FSE23 | EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes
 * Motivation: The author focuses on inspecting the inconsistent implementations of RPC services between four implementations of Ethereum.
 * Background: RPC services are the front-nodes of the Ethereum, and the user invokes DApp by RPC services.
-* Idea: The author adopts differential testing technology to find inconsistent bugs of RPC services in geth, besu, nethermind, and erigon.
+* Idea: The author adopts differential testing technology to find inconsistent bugs in RPC services in geth, besu, nethermind, and Erigon.
 * Challenge: How to generate test cases?
 * Solution： The author constructs a domain-specific language (DSL) to capture syntax and semantic information. The DSL can generate valid and invalid test cases.
 * Approach: The author develops EtherDiffer to achieve their idea. EtherDiffer constructs a local network with those four clients and generates the transactions to mock the non-deterministic on-chain environment.
