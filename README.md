@@ -1126,6 +1126,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
 
+[CHI23] [Code Will Tell: Visual Identification of Ponzi Schemes on Ethereum](https://dl.acm.org/doi/pdf/10.1145/3544549.3585861).
+
 [CHI22] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
 
 [CHI21] [Efect of the Gas Price Surges on User Activity in the DAOs of the Ethereum Blockchain](https://dl.acm.org/doi/pdf/10.1145/3411763.3451755).
