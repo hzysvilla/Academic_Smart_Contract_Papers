@@ -1,3 +1,8 @@
+# 24_3_5
+### IMC22 | SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts
+* Motivation: The author concentrates on analyzing and identifying ponzi scams of smart contracts on Ethereum.
+* Background: The ponzi scams represents 
+
 # 24_3_2
 ### SEC19 | Tracing Transactions Across Cryptocurrency Ledgers
 * Motivation: The author focuses on tracing the cross-chain transaction of cryptocurrency incurred by ShapeShift to evaluate  Anonymity and the motivations of crime.
