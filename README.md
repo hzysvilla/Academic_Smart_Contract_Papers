@@ -904,7 +904,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [SIGMETRICS2021] [Tracking Counterfeit Cryptocurrency End-to-end](https://research.polyu.edu.hk/en/publications/tracking-counterfeit-cryptocurrency-end-to-end).
 
-[SIGMETRICS2021] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).
+[SIGMETRICS2021] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf) | **[MyTLDR](TLDR.md#24_3_6)**.
 
 ### 2018
 
