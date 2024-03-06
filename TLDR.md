@@ -1,7 +1,11 @@
-# 24_3_5
+# 24_3_6
 ### IMC22 | SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts
-* Motivation: The author concentrates on analyzing and identifying ponzi scams of smart contracts on Ethereum.
-* Background: The ponzi scams represents 
+* Motivation: The authors concentrate on analyzing and identifying Ponzi scams of smart contracts on Ethereum.
+* Background: The Ponzi scam represents financial scams that raise money through a growing downline.
+* Ideas: The authors first define four types of implementation patterns, involving, handover scheme, chain scheme, tree scheme, and withdraw scheme. Then they use the program analysis technology to identify ponzi contracts based on the pattern.
+* Design: The authors first abstract the dataflow and type information from their pre-defined pattern. Then they adopt symbolic execution analysis technology to match the pattern with the target contract.
+* Implementation: The authors achieve their design by developing a system named SADPonzi. SADPonzi integrates Manticore to analyze the contract based on the four types of patterns.
+* Evaluation: The authors further apply SADPonzi to all 3.4 million smart contracts, and identify 835 Ponzi scheme contracts, with over 17 million US Dollars invested by victims.
 
 # 24_3_2
 ### SEC19 | Tracing Transactions Across Cryptocurrency Ledgers
@@ -15,9 +19,9 @@
 # 24_2_22
 ### SP24 | SMARTINV: Multimodal Learning for Smart Contract Invariant Inference
 * Motivation: The author tries to detect the flaws of smart contracts based on invariable.
-* Background: Invariable specifies the variable must remain unchanged on the execution of contract. Such is the variable in an assert condition.
+* Background: Invariable specifies the variable must remain unchanged on the execution of the contract. Such is the variable in an assert condition.
 * Idea: The author adopts LLM to detect such flaws.
-* Design: The author decouples the funetuning process to find invariable. The author adopts the process the expert discovering flaws to finetune and prompt LLM by a fine-tuning approach.
+* Design: The author decouples the finetuning process to find invariable. The author adopts the process of the expert discovering flaws to finetune and prompt LLM by a fine-tuning approach.
 * Approach: The author develops SMARTINV to achieve their idea.
 * Evaluation:  SMARTINV uncovers 119 zero-day bugs and six of them are high severity.
 
