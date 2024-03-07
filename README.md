@@ -203,11 +203,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes](https://www.usenix.org/system/files/usenixsecurity23-taverna.pdf) | **[MyTLDR](TLDR.md#23_9_3)**.
 
-[security] [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://arxiv.org/pdf/2206.08202.pdf) | [MyTLDR](TLDR.md#23_9_7).
+[security] [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://arxiv.org/pdf/2206.08202.pdf) | **[MyTLDR](TLDR.md#23_9_7)**.
 
 [security] [Automated Inference on Financial Security of Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-wang-wansen.pdf) | **[MyTLDR](TLDR.md#23_9_5)**.
 
-[security] [Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract](https://www.usenix.org/system/files/usenixsecurity23-zhang-zhuo-exploit.pdf) | [MyTLDR](TLDR.md#23_9_18).
+[security] [Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract](https://www.usenix.org/system/files/usenixsecurity23-zhang-zhuo-exploit.pdf) | **[MyTLDR](TLDR.md#23_9_18)**.
 
 [security] [Anatomy of a High-Profile Data Breach: Dissecting the Aftermath of a Crypto-Wallet Case](https://www.usenix.org/system/files/sec23_slides_abramova.pdf).
 
@@ -282,7 +282,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/) | [MyTLDR](TLDR.md#23_8_30).
+[security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/) | **[MyTLDR](TLDR.md#23_8_30)**.
 
 [security] [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf).
 
@@ -290,7 +290,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf).
 
-[security] [Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s263_paper.pdf) | [MyTLDR](TLDR.md#23_8_31).
+[security] [Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s263_paper.pdf) | **[MyTLDR](TLDR.md#23_8_31)**.
 
 ### 2021
 
@@ -340,17 +340,17 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[security] [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://kaixuanli-ecnu.github.io/files/fse23-sc-codeclone-kairansun.pdf) | [MyTLDR](TLDR.md#23_9_20). 
+[security] [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://kaixuanli-ecnu.github.io/files/fse23-sc-codeclone-kairansun.pdf) | **[MyTLDR](TLDR.md#23_9_20)**. 
 
 [security] [Understanding Solidity Event Logging Practices in the Wild]().
 
-[software engineering] [EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes](https://dl.acm.org/doi/pdf/10.1145/3611643.3616251) | [MyTLDR](TLDR.md#24_2_21).
+[software engineering] [EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes](https://dl.acm.org/doi/pdf/10.1145/3611643.3616251) | **[MyTLDR](TLDR.md#24_2_21)**.
 
 [security] [SmartFix: Fixing Vulnerable Smart Contracts by Accelerating Generate-and-Verify Repair using Statistical Models]()
 
 [security] [TransRacer: Function Dependence-Guided Transaction Race Detection for Smart Contracts]()
 
-[security] [DeepInfer: Deep Type Inference from Smart Contract Bytecode]() | [MyTLDR](TLDR.md#23_9_9).
+[security] [DeepInfer: Deep Type Inference from Smart Contract Bytecode]() | **[MyTLDR](TLDR.md#23_9_9)**.
 
 ### 2022
 
@@ -448,7 +448,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
-[security] [DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities]() | [MyTLDR](TLDR.md#23_9_6).
+[security] [DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities]() | **[MyTLDR](TLDR.md#23_9_6)**.
 
 [security] [SmartCoCo: Checking Comment-code Inconsistency in Smart Contracts via Constraint Propagation and Binding]().
 
@@ -528,7 +528,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [SmartMark: Software Watermarking Scheme for Smart Contracts](https://arxiv.org/pdf/2303.13733).
 
-[security] [AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities](https://people.ece.ubc.ca/~mjulia/publications/ACheckerICSE2023.pdf) | [MyTLDR](TLDR.md#23_9_14).
+[security] [AChecker: Statically Detecting Smart Contract Access Control Vulnerabilities](https://people.ece.ubc.ca/~mjulia/publications/ACheckerICSE2023.pdf) | **[MyTLDR](TLDR.md#23_9_14)**.
 
 [security] [BSHUNTER: Detecting and Tracing Defects of Bitcoin Scripts](https://zhengpeilin.com/research/BSHunter.pdf).
 
@@ -952,7 +952,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2022
 
-[security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf) | [MyTLDR](TLDR.md#23_9_1). 
+[security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf) | **[MyTLDR](TLDR.md#23_9_1)**. 
 
 [security] [Elysium: Context-Aware Bytecode-Level Patching to Automatically Heal Vulnerable Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3545948.3545975) 
 
@@ -972,7 +972,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [applicaton] [A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain](https://massimolamorgia.com/assets/pdf/NFT_Wash_Trading___ICDCS2023.pdf).
 
-[security] [Smart Contract Parallel Execution with Fine-Grained State Accesses](https://personal.ntu.edu.sg/yi_li/files/Qi2023SCP.pdf) | [MyTLDR](TLDR.md#23_9_19).
+[security] [Smart Contract Parallel Execution with Fine-Grained State Accesses](https://personal.ntu.edu.sg/yi_li/files/Qi2023SCP.pdf) | **[MyTLDR](TLDR.md#23_9_19)**.
 
 ### 2022
 
