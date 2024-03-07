@@ -248,7 +248,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2019 
 
-[security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf).
+[security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf) | **[MyTLDR](TLDR.md#24_3_2)**.
 
 [application] [FastKitten: Practical Smart Contracts on Bitcoin]().
 
@@ -904,7 +904,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [SIGMETRICS2021] [Tracking Counterfeit Cryptocurrency End-to-end](https://research.polyu.edu.hk/en/publications/tracking-counterfeit-cryptocurrency-end-to-end).
 
-[SIGMETRICS2021] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf).
+[SIGMETRICS2021] [SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts](https://www4.comp.polyu.edu.hk/~csxluo/SADPonzi.pdf) | **[MyTLDR](TLDR.md#24_3_6)**.
 
 ### 2018
 
@@ -1125,6 +1125,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [JSAC22] [Detecting Arbitrage on Ethereum Through Feature Fusion and Positive-Unlabeled Learning]().
 
 [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
+
+[CHI23] [Code Will Tell: Visual Identification of Ponzi Schemes on Ethereum](https://dl.acm.org/doi/pdf/10.1145/3544549.3585861).
 
 [CHI22] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
 
