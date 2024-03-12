@@ -510,13 +510,13 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[security] [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network]().
+
 [security] [Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection]().
 
 [security] [Towards Finding Accounting Errors in Smart Contracts]().
 
 [security] [PrettySmart: Detecting Permission Re-delegation Vulnerability for Token Behaviors in Smart Contracts]().
-
-[security] [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network]().
 
 [security] [When Contracts Meets Crypto: Exploring Developers' Struggleswith Ethereum Cryptographic APIs]()
 
