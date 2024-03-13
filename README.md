@@ -654,6 +654,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024 
 
+[Finance] [Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets]().
+
 [Finance] [DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs]().
 
 ### 2023
