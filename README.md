@@ -166,6 +166,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [security] [BitML: a calculus for Bitcoin smart contracts Massimo](https://dl.acm.org/doi/pdf/10.1145/3243734.3243795).
 
 ### 2017
+
 [security] [Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing](https://dl.acm.org/doi/pdf/10.1145/3133956.3134032).
 
 
@@ -186,6 +187,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [security] [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190.pdf) | **[MyTLDR](TLDR.md#23_9_30)**.
 
 ### 2023
+
+[security] [Smart Learning to Find Dumb Contracts](https://www.usenix.org/system/files/usenixsecurity23-abdelaziz.pdf).
 
 [security] [Confusum Contractum: Confused Deputy Vulnerabilities in Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-gritti.pdf).
 
