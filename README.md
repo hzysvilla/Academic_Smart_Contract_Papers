@@ -512,6 +512,14 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network]().
 
+[security] [Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection]().
+
+[security] [Towards Finding Accounting Errors in Smart Contracts]().
+
+[security] [Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers]().
+
+[security] [PrettySmart: Detecting Permission Re-delegation Vulnerability for Token Behaviors in Smart Contracts]().
+
 [security] [When Contracts Meets Crypto: Exploring Developers' Struggleswith Ethereum Cryptographic APIs]()
 
 [security] [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG)]().
@@ -521,6 +529,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [security] [Uncover the Premeditated Attacks: Detecting Exploitable Reentrancy Vulnerabilities by Identifying Attacker Contracts]().
 
 [security] [Smart Contract and DeFi Security Tools: Do They Meet the Needs of Practitioners?]().
+
+[security] [Safeguarding DeFi Smart Contracts against Oracle Deviations]().
+
+[security] [Verifying Declarative Smart Contracts]().
 
 [security] [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://arxiv.org/abs/2308.03314) |  | **[MyTLDR](TLDR.md#24_2_5)**.
 
@@ -641,6 +653,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## WWW
 
 ### 2024 
+
+[Finance] [Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets]().
 
 [Finance] [DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs]().
 
