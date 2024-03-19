@@ -515,6 +515,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network]().
 
+[security] [Stop Pulling my Rug: Exposing Rug Pull Risks in Crypto Token to Investors]().
+
 [security] [Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection]().
 
 [security] [Towards Finding Accounting Errors in Smart Contracts]().
@@ -1036,6 +1038,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## TOSEM
 
 [TOSEM] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
+
+[TOSEM] [CLFuzz: Vulnerability Detection of Cryptographic Algorithm Implementation via Semantic-Aware Fuzzing]().
 
 [TOSEM] [sGuard+: Machine Learning Guided Rule-based AutomatedVulnerability Repair on Smart Contracts.](https://dl.acm.org/doi/pdf/10.1145/3641846).
 
