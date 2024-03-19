@@ -1,3 +1,11 @@
+# 24_3_19
+### CCS23 | Uncle Maker: (Time)Stamping Out The Competition in Ethereum
+* Motivation: The authors focus on the security of Poof of Work (POW) mechanism of Ethereum.
+* Background: The tip of the blockchain can be determined by difficulty, and difficulty can be determined by timestamp.
+* Idea: The adversary miner manipulate the timestmap of block to decrease the difficulty of the fork chain. The fork chain with higher difficulty mined by adversary will be the tip of current chain, and make more profits for the adversary miner.
+* Obervation: The authors uncover F2pool adopting such attack to gain about 3 million USD from March 8th 2021 to September 15th 2022.
+* Mitigation: The authors proposes two mitigations, including increasing the minimal difficulty and reject competing chains more aggressively.
+
 # 24_3_6
 ### IMC22 | SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts
 * Motivation: The authors concentrate on analyzing and identifying Ponzi scams of smart contracts on Ethereum.

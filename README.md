@@ -115,7 +115,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance]().
 
-[security] [Uncle Maker: (Time)Stamping Out The Competition in Ethereum]().
+[security] [Uncle Maker: (Time)Stamping Out The Competition in Ethereum](https://eprint.iacr.org/2022/1020.pdf) | **[MyTLDR](TLDR.md#24_3_19)**.
 
 [security] [TrustBoost: Boosting Trust among Interoperable Blockchains]().
 
