@@ -277,11 +277,13 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
-[security] [Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus]()
+[security] [Pisces: Private and Compliable Cryptocurrency Exchange]().
 
-[security] [Content Censorship in the InterPlanetary File System]()
+[security] [Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus]().
 
-[security] [DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs]()
+[security] [Content Censorship in the InterPlanetary File System]().
+
+[security] [DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs]().
 
 [security] [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](papers/NDSS24_vetEos.pdf)
 
