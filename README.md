@@ -1115,6 +1115,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## Miscellaneous
 
+[arxiv] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://arxiv.org/pdf/2403.14280.pdf).
+
+[TCAD 2023] [A Semantic-Integrated LSM-Tree Based Key-Value Storage Engine for Blockchain Systems]().
+
 [FAST23] [COLE: A Column-based Learned Storage for Blockchain Systems](papers/fast23_cole.pdf).
 
 [ISCA23] [An Algorithm and Architecture Co-design for Accelerating Smart Contracts in Blockchain](https://dl.acm.org/doi/pdf/10.1145/3579371.3589067).
