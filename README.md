@@ -1091,6 +1091,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TIFS
 
+[TIFS23] [Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation]().
+
 [TIFS23] [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data]().
 
 [TIFS23] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting](https://arxiv.org/pdf/2301.03943.pdf).
