@@ -115,6 +115,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance]().
 
+[security] [Uncovering Impact of Mental Models towards Adoption of Multi-device Crypto-Wallets]().
+
 [security] [Uncle Maker: (Time)Stamping Out The Competition in Ethereum](https://eprint.iacr.org/2022/1020.pdf) | **[MyTLDR](TLDR.md#24_3_19)**.
 
 [security] [TrustBoost: Boosting Trust among Interoperable Blockchains]().
@@ -124,6 +126,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [security] [Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/CCS23.pdf) | **[MyTLDR](TLDR.md#23_10_18)**.
 
 [security] [Fuzz on the Beach: Fuzzing Solana Smart Contracts](https://arxiv.org/pdf/2309.03006.pdf) | **[MyTLDR](TLDR.md#23_9_28)**.
+
+[security] [Cybercrime Bitcoin Revenue Estimations: Quantifying the Impact of Methodology and Coverage]().
 
 ### 2022 
 
