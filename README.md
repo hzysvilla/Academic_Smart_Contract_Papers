@@ -471,6 +471,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2022
 
+[security] [InvCon: A Dynamic Invariant Detector for Ethereum Smart Contracts]().
+
 [security] [Learning Contract Invariants Using Reinforcement Learning](https://www.cs.utexas.edu/~isil/cider.pdf).
 
 [security] [Effectively Generating Vulnerable Transaction Sequences in Smart Contracts with Reinforcement Learning-guided Fuzzing](https://dl.acm.org/doi/pdf/10.1145/3551349.3560429).
