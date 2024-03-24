@@ -471,6 +471,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2022
 
+[security] [A Unified Specification Mining Framework for Smart Contracts]().
+
 [security] [InvCon: A Dynamic Invariant Detector for Ethereum Smart Contracts]().
 
 [security] [Learning Contract Invariants Using Reinforcement Learning](https://www.cs.utexas.edu/~isil/cider.pdf).
