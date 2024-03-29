@@ -1141,6 +1141,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [arxiv] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://arxiv.org/pdf/2403.14280.pdf).
 
+[WINE2023] [Routing MEV in Constant Function Market Makers]().
+
 [TCAD 2023] [A Semantic-Integrated LSM-Tree Based Key-Value Storage Engine for Blockchain Systems]().
 
 [FAST23] [COLE: A Column-based Learned Storage for Blockchain Systems](papers/fast23_cole.pdf).
