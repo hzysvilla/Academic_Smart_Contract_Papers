@@ -355,6 +355,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## ESEC/FSE
 
+### 2024
+
+[security] [Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts](https://arxiv.org/abs/2403.11254). (arxiv)
+
 ### 2023
 
 [security] [Demystifying the Composition and Code Reuse in Solidity Smart Contracts](https://kaixuanli-ecnu.github.io/files/fse23-sc-codeclone-kairansun.pdf) | **[MyTLDR](TLDR.md#23_9_20)**. 
