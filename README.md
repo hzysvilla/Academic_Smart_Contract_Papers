@@ -1141,6 +1141,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [arxiv] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://arxiv.org/pdf/2403.14280.pdf).
 
+[TKDE24] [Unravelling Token Ecosystem of EOSIO Blockchain](https://arxiv.org/abs/2202.11201).
+
 [WINE2023] [Routing MEV in Constant Function Market Makers]().
 
 [TCAD 2023] [A Semantic-Integrated LSM-Tree Based Key-Value Storage Engine for Blockchain Systems]().
