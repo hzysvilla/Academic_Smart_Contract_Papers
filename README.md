@@ -1179,6 +1179,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [JSAC22] [Detecting Arbitrage on Ethereum Through Feature Fusion and Positive-Unlabeled Learning]().
 
+[TPDS24] [PaVM: A Parallel Virtual Machine for Smart Contract Execution and Validation]().
+
 [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
 
 [CHI23] [Code Will Tell: Visual Identification of Ponzi Schemes on Ethereum](https://dl.acm.org/doi/pdf/10.1145/3544549.3585861).
