@@ -1007,6 +1007,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2023
 
+[storage] [GeckoDAG: Towards A Lightweight DAG-based Blockchain via Reducing Data Redundancy](https://repository.hkust.edu.hk/ir/Record/1783.1-133053)
+
 [security] [Detecting Flash Loan Based Attacks in Ethereum]()
 
 [security] [Towards Decentralized Adaptive Control of Cryptocurrency Liquidity via Auction]().
