@@ -14,11 +14,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 |     Security & Crypto               |               Networking & Database               | Software Engineering & Programming Language |     System Architecture     |
 | :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :--------------------------:|
 |           [IEEE S&P](#sp)           |             [SIGMETRICS](#sigmetrics)             |                [ICSE](#icse)                |  [EuroSys](#miscellaneous)  |
-|           [ACM CCS](#ccs)           |                   [ICDE](#others)                 |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)          |
-| [USENIX Security](#usenix-security) |                   [VLDB](#others)                 |                 [ASE](#ase)                 |  [IEEE ICDCS](#icdcs)       |
-|           [NDSS](#ndss)             |               [ACM SIGMOD](#others)               |              [ACM PLDI](#pldi)              |     [OSDI](#osdi)           |
+|           [ACM CCS](#ccs)           |                   [ICDE](#miscellaneous)                 |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)          |
+| [USENIX Security](#usenix-security) |                   [VLDB](#miscellaneous)                 |                 [ASE](#ase)                 |  [IEEE ICDCS](#icdcs)       |
+|           [NDSS](#ndss)             |               [ACM SIGMOD](#miscellaneous)               |              [ACM PLDI](#pldi)              |     [OSDI](#osdi)           |
 |        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            | [Usenix ATC](#miscellaneous)|
-|         [SRCS](#others)             |                   [IMC](#imc)                     |              [ISSTA](#issta)                |                             |
+|         [SRCS](#miscellaneous)             |                   [IMC](#imc)                     |              [ISSTA](#issta)                |                             |
 |          [RAID](#raid)              |                   [WWW](#www)                     |             [ACM POPL](#popl)               |                             |
 |          [CAV](#cav)                |                                                   |                                             |                             |
 
