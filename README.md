@@ -1139,6 +1139,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [TDSC] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
 
+[TDSC] [ExGen: Cross-platform, Automated Exploit Generation for Smart Contract Vulnerabilities]().
+
 ## Miscellaneous
 
 [arxiv] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://arxiv.org/pdf/2403.14280.pdf).
