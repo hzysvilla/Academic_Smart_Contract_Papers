@@ -43,6 +43,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://github.com/hzysvilla/Nurgle_Oakland24/blob/main/Nurgle_oakland24.pdf).
 
+[security] [Certifying Zero-Knowledge Circuits with Refinement Types]().
+
+[security] [Conning the CryptoConman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams]().
+
+[security] [Formal Model-DrivenAnalysis of Resilience of GossipSub to Attacks from Misbehaving Peers]().
+
 [security] [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution]().
 
 [security] [Towards Smart Contract Fuzzing on GPUs]().
