@@ -643,6 +643,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[performance] [Broker2Earn: Towards Maximizing Broker Revenue and System Liquidity for Sharded Blockchains]().
+
+[Performance] [Account Migration across Blockchain Shards using Fine-tuned Lock Mechanism]().
+
 [security] [ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum]().
 
 ### 2023
