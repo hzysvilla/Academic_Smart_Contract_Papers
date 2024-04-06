@@ -45,9 +45,9 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Certifying Zero-Knowledge Circuits with Refinement Types]().
 
-[security] [Conning the CryptoConman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams]().
+[security] [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams]().
 
-[security] [Formal Model-DrivenAnalysis of Resilience of GossipSub to Attacks from Misbehaving Peers]().
+[security] [Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers]().
 
 [security] [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution]().
 
