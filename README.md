@@ -1157,6 +1157,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [arxiv] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://arxiv.org/pdf/2403.14280.pdf).
 
+[DASFAA24] [DS-Ponzi: Anti-jamming Detection of Ponzi Scheme on Ethereum Utilizing Dynamic-Static Features of Smart Contract Codes]().
+
 [TKDE24] [Unravelling Token Ecosystem of EOSIO Blockchain](https://arxiv.org/abs/2202.11201).
 
 [WINE2023] [Routing MEV in Constant Function Market Makers]().
