@@ -45,13 +45,13 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://arxiv.org/pdf/2401.09824)
 
-[security] [Certifying Zero-Knowledge Circuits with Refinement Types]().
+[security] [Certifying Zero-Knowledge Circuits with Refinement Types](https://eprint.iacr.org/2023/547.pdf).
 
-[security] [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams]().
+[security] [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://arxiv.org/pdf/2401.09824.pdf).
 
-[security] [Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers]().
+[security] [Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers](https://arxiv.org/pdf/2212.05197.pdf).
 
-[security] [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution]().
+[security] [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://arxiv.org/pdf/2212.05219.pdf).
 
 [security] [Towards Smart Contract Fuzzing on GPUs]().
 
@@ -545,13 +545,13 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network]().
 
-[security] [Stop Pulling my Rug: Exposing Rug Pull Risks in Crypto Token to Investors]().
+[security] [Stop Pulling my Rug: Exposing Rug Pull Risks in Crypto Token to Investors](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/Tokeer_CameraReady.pdf).
 
 [security] [Improving Smart Contract Security with Contrastive Learning-based Vulnerability Detection]().
 
 [security] [Towards Finding Accounting Errors in Smart Contracts]().
 
-[security] [Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers]().
+[security] [Are We There Yet? Unraveling the State-of-the-Art Smart Contract Fuzzers](https://arxiv.org/pdf/2402.02973.pdf).
 
 [security] [PrettySmart: Detecting Permission Re-delegation Vulnerability for Token Behaviors in Smart Contracts]().
 
