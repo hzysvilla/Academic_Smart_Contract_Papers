@@ -1,10 +1,19 @@
+# 24_4_17
+### S&P24 | Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers
+* Motivation: The authors concentrate on whether the GossipSub network can undertake and defend against the attack from its malicious nodes.
+* Background: GossipSub manages the set of network nodes with the pub/sub mechanism, which is widely adopted in ethereum and file coin. GossipSub wields a mechanism named the score function to measure the behaviors of the nodes. The nodes with misbehaves will have a low score, which probably will be dropped.
+* Idea: The author combinates the document specifications of GossipSub and the consultant from developers to formal verification the GossipSub network.
+* Design: The author first defined four security properties of the GossipSub network, (i) If a peer’s performance for some topic is continuously non-positive, then, eventually, the peer’s score will be non-positive. (ii) When a peer misbehaves, its score decreases. (iii) When a peer behaves, its score does not decrease. (iv) Peers are scored fairly: if they appear to behave identically, they are given identical scores. Then, the authors adopt automatic theorem proving to determine whether configurations (i.g., size, cap, and  topology) of GossipSub invalides the security properties.
+* Implement: The authors use ACL2s as the theorem prover, and construct the model based on the golang GossipSub.
+* Evaluation: The authors uncover the configurations of File coin can defend against the attack from misbehaving peers, but Ethereum can't.
+
 # 24_3_19
 ### CCS23 | Uncle Maker: (Time)Stamping Out The Competition in Ethereum
 * Motivation: The authors focus on the security of Poof of Work (POW) mechanism of Ethereum.
 * Background: The tip of the blockchain can be determined by difficulty, and difficulty can be determined by timestamp.
-* Idea: The adversary miner manipulate the timestmap of block to decrease the difficulty of the fork chain. The fork chain with higher difficulty mined by adversary will be the tip of current chain, and make more profits for the adversary miner.
-* Obervation: The authors uncover F2pool adopting such attack to gain about 3 million USD from March 8th 2021 to September 15th 2022.
-* Mitigation: The authors proposes two mitigations, including increasing the minimal difficulty and reject competing chains more aggressively.
+* Idea: The adversary miner manipulates the timestmap of block to decrease the difficulty of the fork chain. The fork chain with higher difficulty mined by adversary will be the tip of current chain, and make more profits for the adversary miner.
+* Observation: The authors uncover F2pool adopting such attack to gain about 3 million USD from March 8th 2021 to September 15th 2022.
+* Mitigation: The authors propose two mitigations, including increasing the minimal difficulty and rejecting competing chains more aggressively.
 
 # 24_3_6
 ### IMC22 | SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts
@@ -36,7 +45,7 @@
 # 24_2_21
 ### FSE23 | EtherDiffer: Differential Testing on RPC Services of Ethereum Nodes
 * Motivation: The author focuses on inspecting the inconsistent implementations of RPC services between four implementations of Ethereum.
-* Background: RPC services are the front-nodes of the Ethereum, and the user invokes DApp by RPC services.
+* Background: RPC services are the front nodes of the Ethereum, and the user invokes DApp by RPC services.
 * Idea: The author adopts differential testing technology to find inconsistent bugs in RPC services in geth, besu, nethermind, and Erigon.
 * Challenge: How to generate test cases?
 * Solution： The author constructs a domain-specific language (DSL) to capture syntax and semantic information. The DSL can generate valid and invalid test cases.
@@ -48,19 +57,19 @@ such as crash and denial-of-service bugs.
 
 # 24_2_12 
 ### SP24 | Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts
-* Motivation: The author concentrates on detecting exploit front-running vulnerabilities of smart contract.
+* Motivation: The author concentrates on detecting exploit front-running vulnerabilities of smart contracts.
 * Background: Front-running vulnerabilities represent that malicious users leverage prior knowledge of upcoming transactions to execute attack transactions in advance and make profits.
 * Prior work: The prior work only detects one single function that caused false positives.
 * Idea: The author detects a pair of functions to check whether the contract has the flaw.
 * Challenge: The large search space hinders the detection
 * Solution: The author formulas some patterns to prune the space.
-* Approach: The author develops the Nyx to achieve their idea. Nyx first transforms the contract to Slither IR, and generates a system dependency graph (SDG). Then Nyx filters the function pairs, and leverages the z3 SMT to detect front-running flaw.
+* Approach: The author develops the Nyx to achieve their idea. Nyx first transforms the contract to Slither IR, and generates a system dependency graph (SDG). Then Nyx filters the function pairs and leverages the z3 SMT to detect front-running flaws.
 * Evaluation: Nyx unveils the four 0-day flaws.
 
 
 # 24_2_11
 ### ISSTA23 | DeFiTainter: Detecting Price Manipulation Vulnerabilities in DeFi Protocols
-* Motivation: The author focuses on detecting the price manipulation flaws in smart contract.
+* Motivation: The author focuses on detecting the price manipulation flaws in smart contracts.
 * Idea: The author uses the dataflow analysis to restore the intra-contract and inter-contract call graph.
 * Design: The author first restores the call graph by dataflow analysis, then adopts the flaws pattern and taint analysis to check the flaws.
 * Implement: The author develops the DeFiTainter to achieve their idea. They use GigahorseIR and Datalog to conduct taint analysis
@@ -69,7 +78,7 @@ such as crash and denial-of-service bugs.
 
 # 24_2_9
 ## ISSTA23 | Definition and Detection of Defects in NFT Smart Contracts
-* Motivation: The author focuses on detecting the flaw in NFT smart contracts.
+* Motivation: The author focuses on detecting the flaws in NFT smart contracts.
 * Idea: The author conducts surveys to summarize five flaws in NFT smart contract, and uses program analysis technology to inspect these flaws.
 * Design: The author first uses symbolic execution technology to key variables and program logic, then encodes the flaw's rule by SMT to detect the flaw.
 * Implement: The author develops the NFTGuard to achieve their idea. 
