@@ -49,7 +49,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://arxiv.org/pdf/2401.09824.pdf).
 
-[security] [Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers](https://arxiv.org/pdf/2212.05197.pdf).
+[security] [Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers](https://arxiv.org/pdf/2212.05197.pdf) | **[MyTLDR](TLDR.md#24_4_17)**.
 
 [security] [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://arxiv.org/pdf/2212.05219.pdf).
 
