@@ -365,6 +365,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[security] [Demystifying Invariant Effectiveness for Securing Smart Contracts](https://arxiv.org/abs/2404.14580). 
+
 [security] [Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts](https://arxiv.org/abs/2403.11254). (arxiv)
 
 ### 2023
@@ -542,6 +544,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## ICSE
 
 ### 2024
+
+[security] [FlashSyn: Flash Loan Attack Synthesis via Counter Example Driven Approximation](https://arxiv.org/pdf/2206.10708.pdf).
 
 [security] [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network]().
 
