@@ -601,8 +601,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [sFuzz-An Efficient Adaptive Fuzzer for Solidity Smart Contracts](https://arxiv.org/pdf/2004.08563.pdf).
 
-[security] [Smart Contract Development: Challenges and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8847638).
-
 [security] [Targeted Greybox Fuzzing with Static Lookahead Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9284040).
 
 [security] [Gap between Theory and Practice : An Empirical Study of Security Patches in Solidity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9283944).
@@ -1087,8 +1085,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [TOSEM] [Securing the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3571847).
 
-[TOSEM] [TSecuring the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3560263).
-
 [TOSEM] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts](https://dl.acm.org/doi/pdf/10.1145/3560264). 
 
 [TOSEM] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum](https://arxiv.org/pdf/2005.08278.pdf). 
@@ -1118,6 +1114,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [TSE] [Defining smart contract defects on ethereum](https://arxiv.org/pdf/1905.01467). 
 
 [TSE] [Pluto: Exposing Vulnerabilities in Inter-Contract Scenarios](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/tse21.pdf).
+
+[TSE] [Smart Contract Development: Challenges and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8847638).
 
 ## TIFS
 
