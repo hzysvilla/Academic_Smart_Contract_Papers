@@ -617,7 +617,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2018
 
-[security] [ReGuard: Finding Reentrancy Bugs in Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8805696).
+[security] [ReGuard: Finding Reentrancy Bugs in Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8449446).
 
 ---
 
