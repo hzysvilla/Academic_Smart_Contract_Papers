@@ -291,6 +291,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[security] [Proof of Backhaul: Trustfree Measurement of Broadband Bandwidth](https://www.ndss-symposium.org/wp-content/uploads/2024-764-paper.pdf)
+
+[security] [A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance]().
+
 [security] [Pisces: Private and Compliable Cryptocurrency Exchange]().
 
 [security] [Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus]().
