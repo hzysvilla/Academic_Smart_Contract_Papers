@@ -1123,6 +1123,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TIFS
 
+[TIFS23] [ExGen: Cross-platform, Automated Exploit Generation for Smart Contract Vulnerabilities]().
+
+[TIFS23] [Black Swan in Blockchain: Micro Analysis of Natural Forking]().
+
+[TIFS23] [Correct-by-Design Interacting Smart Contracts and a Systematic Approach for Verifying ERC20 and ERC721 Contracts With VeriSolid]().
+
 [TIFS23] [Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation]().
 
 [TIFS23] [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data]().
