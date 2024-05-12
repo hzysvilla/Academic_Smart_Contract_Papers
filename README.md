@@ -705,6 +705,18 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [Finance] [DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs]().
 
+[Finance] [Unveiling the Paradox of NFT Prosperity]().
+
+[security] [Advancing Web 3.0: Making Smart Contracts Smarter on Blockchain]().
+
+[security] [Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications]().
+
+[security] [ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain]().
+
+[security] [Investigations of Top-Level Domain Name Collisions in Blockchain Naming Services]().
+
+[security] [Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets]().
+
 ### 2023
 
 [Finance] [Ready, Aim, Snipe! Analysis of Sniper Bots and their Impact on the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3543873.3587612).
