@@ -43,6 +43,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://github.com/hzysvilla/Nurgle_Oakland24/blob/main/Nurgle_oakland24.pdf).
 
+[security] [Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts]().
+
+[security] [POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance]().
+
 [security] [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://arxiv.org/pdf/2401.09824)
 
 [security] [Certifying Zero-Knowledge Circuits with Refinement Types](https://eprint.iacr.org/2023/547.pdf).
