@@ -1245,6 +1245,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [HPCA20] [BBS: Micro-Architecture Benchmarking Blockchain Systems through Machine Learning and Fuzzy Set]().
 
+[VLDB24] [Spectrum: Speedy and Strictly-Deterministic Smart Contract Transactions for Blockchain Ledgers]().
+
 [VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
 
 [VLDB23] [Auto-Tuning with Reinforcement Learning for Permissioned Blockchain Systems](https://www.vldb.org/pvldb/vol16/p1000-li.pdf).
