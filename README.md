@@ -202,6 +202,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[security] [Speculative Denial-of-Service Attacks in Ethereum]().
+
 [security] [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190.pdf) | **[MyTLDR](TLDR.md#23_9_30)**.
 
 ### 2023
