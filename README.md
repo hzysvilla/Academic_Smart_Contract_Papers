@@ -705,6 +705,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024 
 
+[security] [Towards Understanding Crypto-Asset Risks on Ethereum Caused by Key Leakage on the Internet]().
+
 [Finance] [Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets]().
 
 [Finance] [DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs]().
