@@ -1121,6 +1121,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TSE
 
+[TSE24] [ContractCheck: Checking Ethereum Smart Contracts in Fine-Grained Level]().
+
 [TSE23] [Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation]().
 
 [TSE23] [CRPWarner: Warning the Risk of Contract-related Rug Pull in DeFi Smart Contracts]().
