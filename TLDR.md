@@ -1,3 +1,14 @@
+# 24_5_20
+### S&P24 | Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts
+* Motivation: The author wonders to evaluate the detection capability of contract vulnerability tools.
+* Approach: The author measures 18 vulnerability detectors with four categories (symbolic analysis, static analysis, machine learning, and fuzz), in 8 types flaws.
+* Measure detectors: Slither, SmartCheck, Maian, Oyente, Artemis, Osiris, Securify2, Mythril, TeEther, ConFuzzius, Smartian, sFuzz, GNNSCVulDetector, MANDO-GURU, Vandal, Maian, Oyente, and Mythril.
+* Measure flaws: Suicide, Reentrancy, Transaction Order Dependency (ToD), Arithmetic Bugs, Usage of txOrigin, Time Dependency, Locked Ether, and DelegateCall.
+* Dataset: The authors collect 77,219 source codes, 4 million bytecodes, 14,000 manually annotated, and 373 smart contracts verified through audits.
+* Insight1: The tools has different results for the flaws, suggesting that combining several tools won’t be very useful in practice.
+* Insight2: The tools have poor performance, as their high false positives and negatives.
+* Insight3: The compiler versions and code practices of developers will affect the detection results of these tools, which highlight the directions of these tools.
+
 # 24_4_17
 ### S&P24 | Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers
 * Motivation: The authors concentrate on whether the GossipSub network can undertake and defend against the attack from its malicious nodes.
