@@ -45,7 +45,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://arxiv.org/abs/2312.16533) | **[MyTLDR](TLDR.md#24_5_20)**.
 
-[security] [POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance]().
+[security] [POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://www.dropbox.com/scl/fi/ye9ij7m782bbr2lckt20e/IEEES_P24-camera-ready.pdf) | **[MyTLDR](TLDR.md#24_5_22)**.
 
 [security] [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://arxiv.org/pdf/2401.09824)
 

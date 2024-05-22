@@ -1,20 +1,29 @@
+# 24_5_22
+### SP24 | POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance
+* Motivation: This work aims to detect the price oracle manipulation attacks (POMA) in the defi ecosystem.
+* Background: POMA indicates the adversary manipulates the coin price to gain profits by arbitrage.
+* Prior work: DefiRanger can only detect POMA with in single transaction, but POMA can be exploited by several transaction.
+* Approach: The author deveplop POMABuster to detect POMA. First, POMABuster filter the transactions by only focusing the high value crypto asset to reduce search space. Then, PoMABuster detects the POMA based the rules derived from the author, which generates from the SEC (in conventional stock market), including wash sales and market domination.
+* Evaluation: The authors evaluate POMABuster on two years blockchain history and the audit reports from Code4rena. POMA achieves 6.5X more POMA then the prior work with 1% false positves and 0% false negetive.
+
+
 # 24_5_20
-### S&P24 | Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts
+### SP24 | Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts
 * Motivation: The author wonders to evaluate the detection capability of contract vulnerability tools.
-* Approach: The author measures 18 vulnerability detectors with four categories (symbolic analysis, static analysis, machine learning, and fuzz), in 8 types flaws.
+* Approach: The author measures 18 vulnerability detectors with four categories (symbolic analysis, static analysis, machine learning, and fuzz), in 8 types of flaws.
 * Measure detectors: Slither, SmartCheck, Maian, Oyente, Artemis, Osiris, Securify2, Mythril, TeEther, ConFuzzius, Smartian, sFuzz, GNNSCVulDetector, MANDO-GURU, Vandal, Maian, Oyente, and Mythril.
 * Measure flaws: Suicide, Reentrancy, Transaction Order Dependency (ToD), Arithmetic Bugs, Usage of txOrigin, Time Dependency, Locked Ether, and DelegateCall.
 * Dataset: The authors collect 77,219 source codes, 4 million bytecodes, 14,000 manually annotated, and 373 smart contracts verified through audits.
-* Insight1: The tools has different results for the flaws, suggesting that combining several tools won’t be very useful in practice.
+* Insight1: The tools have different results for the flaws, suggesting that combining several tools won't be very useful in practice.
 * Insight2: The tools have poor performance, as their high false positives and negatives.
 * Insight3: The compiler versions and code practices of developers will affect the detection results of these tools, which highlight the directions of these tools.
 
 # 24_4_17
-### S&P24 | Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers
+### SP24 | Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers
 * Motivation: The authors concentrate on whether the GossipSub network can undertake and defend against the attack from its malicious nodes.
 * Background: GossipSub manages the set of network nodes with the pub/sub mechanism, which is widely adopted in ethereum and file coin. GossipSub wields a mechanism named the score function to measure the behaviors of the nodes. The nodes with misbehaves will have a low score, which probably will be dropped.
 * Idea: The author combinates the document specifications of GossipSub and the consultant from developers to formal verification the GossipSub network.
-* Design: The author first defined four security properties of the GossipSub network, (i) If a peer’s performance for some topic is continuously non-positive, then, eventually, the peer’s score will be non-positive. (ii) When a peer misbehaves, its score decreases. (iii) When a peer behaves, its score does not decrease. (iv) Peers are scored fairly: if they appear to behave identically, they are given identical scores. Then, the authors adopt automatic theorem proving to determine whether configurations (i.g., size, cap, and  topology) of GossipSub invalides the security properties.
+* Design: The author first defined four security properties of the GossipSub network, (i) If a peer's performance for some topic is continuously non-positive, then, eventually, the peer's score will be non-positive. (ii) When a peer misbehaves, its score decreases. (iii) When a peer behaves, its score does not decrease. (iv) Peers are scored fairly: if they appear to behave identically, they are given identical scores. Then, the authors adopt automatic theorem proving to determine whether configurations (i.g., size, cap, and  topology) of GossipSub invalides the security properties.
 * Implement: The authors use ACL2s as the theorem prover, and construct the model based on the golang GossipSub.
 * Evaluation: The authors uncover the configurations of File coin can defend against the attack from misbehaving peers, but Ethereum can't.
 
