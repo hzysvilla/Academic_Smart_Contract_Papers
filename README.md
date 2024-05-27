@@ -373,11 +373,13 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
-[security] [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?)](https://arxiv.org/pdf/2404.18186). (arxiv)
+[security] [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?)](https://arxiv.org/pdf/2404.18186).
+
+[security] [SmartAxe: Detecting Cross-Chain Vulnerabilities in Bridge Smart Contracts via Fine-Grained Static Analysis]().
 
 [security] [Demystifying Invariant Effectiveness for Securing Smart Contracts](https://arxiv.org/abs/2404.14580). 
 
-[security] [Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts](https://arxiv.org/abs/2403.11254). (arxiv)
+[security] [Efficiently Detecting Reentrancy Vulnerabilities in Complex Smart Contracts](https://arxiv.org/abs/2403.11254).
 
 ### 2023
 
