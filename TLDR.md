@@ -1,3 +1,14 @@
+# 24_5_29
+### ICSE24 | SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network
+* Motivation: This work aims to detect the flaws of smart contract at the level of source code.
+* Main Idea: The author converts the contract to a heterogeneous semantic graph, and detects flaw on it by machine learning technology.
+* Challenge: How to extract the semantic information from the contract.
+* Solution: The author designs a IR, CGIR, to extract to captrue the contract and data information.
+* Approach: The author achieves their ideas by developing SCVHunter. SCVHunter convert the sourc code to CGIR and generates the heterogeneous semantic graph from it. Then SCVHunter adopts graph neural network to detect flaws of contracts.
+* Evaluation: The author evaluates the SCVHunter on four vulnerabilitis, reentrancy, block
+info dependency, nested call, and transaction state dependency vulnerabilities. It achieves  accuracies of 93.72%, 91.07%, 85.41%, and 87.37% for these vulnerabilities.
+
+
 # 24_5_22
 ### SP24 | POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance
 * Motivation: This work aims to detect the price oracle manipulation attacks (POMA) in the defi ecosystem.

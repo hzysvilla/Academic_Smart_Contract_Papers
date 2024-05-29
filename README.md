@@ -557,9 +557,9 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
-[security] [FlashSyn: Flash Loan Attack Synthesis via Counter Example Driven Approximation](https://arxiv.org/pdf/2206.10708.pdf).
+[security] [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network]() | **[MyTLDR](TLDR.md#24_5_29)**.
 
-[security] [SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network]().
+[security] [FlashSyn: Flash Loan Attack Synthesis via Counter Example Driven Approximation](https://arxiv.org/pdf/2206.10708.pdf).
 
 [security] [Stop Pulling my Rug: Exposing Rug Pull Risks in Crypto Token to Investors](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/Tokeer_CameraReady.pdf).
 
