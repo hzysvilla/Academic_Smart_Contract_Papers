@@ -659,6 +659,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[application] [IPFS in the Fast Lane: Accelerating Record Storage with Optimistic Provide]().
+
+[application] [Federated Analytics-Empowered Frequent Pattern Mining for Decentralized Web 3.0 Applications]().
+
+[performance] [DEthna: Accurate Ethereum Network Topology Discovery with Marked Transactions]().
+
 [performance] [Broker2Earn: Towards Maximizing Broker Revenue and System Liquidity for Sharded Blockchains]().
 
 [Performance] [Account Migration across Blockchain Shards using Fine-tuned Lock Mechanism]().
@@ -760,6 +766,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ------
 
 ## DSN
+
+### 2024
+
+[security] [Byzantine Attacks Exploiting Penalties in Ethereum PoS]().
+
+[security] [PAROLE: Profitable Arbitrage in Optimistic Rollup with ERC-721 Token Transactions]().
 
 ### 2020
 
@@ -1248,6 +1260,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [POMACS2021] [Trade or Trick? Detecting and Characterizing Scam Tokens on Uniswap Decentralized Exchange](https://arxiv.org/pdf/2109.00229.pdf).
 
 [HPCA20] [BBS: Micro-Architecture Benchmarking Blockchain Systems through Machine Learning and Fuzzy Set]().
+
+[VLDB24] [FlexChain: An Elastic Disaggregated Blockchain]().
+
+[VLDB24] [L2chain: Towards High-performance, Confidential and Secure Layer-2 Blockchain Solution for Decentralized Applications]().
 
 [VLDB24] [Spectrum: Speedy and Strictly-Deterministic Smart Contract Transactions for Blockchain Ledgers]().
 
