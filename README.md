@@ -65,6 +65,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Chronos_sp24.pdf).
 
+[security] [Pulling off the mask: Forensic analysis of the deceptive creator wallets behind smart contract fraud]().
+
 ### 2023
 
 [financail] [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://roibarzur.github.io/assets/pdfs/werlman-systor-poster-2022.pdf) | **[MyTLDR](TLDR.md#sp23_WeRLman)**.
