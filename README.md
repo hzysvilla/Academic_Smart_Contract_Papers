@@ -1281,6 +1281,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [sigmod23] [ChainKV: A Semantics-Aware Key-Value Store for Ethereum System]().
 
+[sigmod23] [LETUS: A Log-Structured Efficient Trusted Universal BlockChain Storage]().
+
 [sigmod21] [Why Do My Blockchain Transactions Fail? A Study of Hyperledger Fabric]().
 
 [ICPC] [A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164).
