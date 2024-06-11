@@ -1213,6 +1213,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [arxiv] [DISL: Fueling Research with A Large Dataset of Solidity Smart Contracts](https://arxiv.org/pdf/2403.16861).
 
+[ASPLOS22] [Who Goes First? Detecting Go Concurrency Bugs via Message Reordering](https://songlh.github.io/paper/gfuzz.pdf).
+
 [DASFAA24] [DS-Ponzi: Anti-jamming Detection of Ponzi Scheme on Ethereum Utilizing Dynamic-Static Features of Smart Contract Codes]().
 
 [TKDE24] [Unravelling Token Ecosystem of EOSIO Blockchain](https://arxiv.org/abs/2202.11201).
