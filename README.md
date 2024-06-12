@@ -121,6 +121,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Demystifying DeFi MEV Activities in Flashbots Bundle](https://zzzihao-li.github.io/papers/CCS23_Bundle_MEV_full_version.pdf) | **[MyTLDR](TLDR.md#23_9_25)**.
 
+[security] [Cryptocurrency wallets, security, usability, multi-device wallets]().
+
+[security] [Fait Accompli Committee Selection: Improving the Size-Security Tradeoff of Stake-Based Committees]().
+
 [security] [The Locality of Memory Checking](/papers/ccs23__Locality_of_Memory_Checking.pdf)
 
 [security] [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://eprint.iacr.org/2023/1338) | **[MyTLDR](TLDR.md#23_12_6)**.
