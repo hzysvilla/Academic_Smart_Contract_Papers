@@ -803,6 +803,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## PLDI
 
+### 2024
+
+[optimization] [SuperStack: Superoptimization of Stack-Bytecode via Greedy, Constraint-Based, and SAT Techniques]().
+
 ### 2023
 
 [security] [Automated Detection of Under-constrained Circuits in Zero-Knowledge Proofs](https://dl.acm.org/doi/pdf/10.1145/3591282) | **[MyTLDR](TLDR.md#23_10_1)**.
