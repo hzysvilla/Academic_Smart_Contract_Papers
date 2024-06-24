@@ -805,6 +805,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[verification] [Consolidating Smart Contracts with Behavioral Contracts](https://dl.acm.org/doi/10.1145/3656416).
+
 [optimization] [SuperStack: Superoptimization of Stack-Bytecode via Greedy, Constraint-Based, and SAT Techniques]().
 
 ### 2023
