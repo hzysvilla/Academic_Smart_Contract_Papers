@@ -441,6 +441,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## ISSTA
 
+[security] [ldentifying Smart Contract Security lssues in Code Snippets from Stack Overflow]().
+
+[security] [Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis]().
+
 ### 2023
 
 [security] [SmartState: Detecting State-Reverting Vulnerabilities in Smart Contracts via Fine-Grained State-Dependency Analysis]() | **[MyTLDR](TLDR.md#23_9_2)**.
@@ -564,6 +568,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ---
 
 ## ICSE
+
+### 2025
+
+[security] [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-GuidedSymbolic Execution]().
+
+[security] [Demystifying and Detecting Cryptographic Defects in Ethereum SmartContracts]().
 
 ### 2024
 
