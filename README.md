@@ -441,6 +441,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## ISSTA
 
+[security] [LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts]().
+
 [security] [ldentifying Smart Contract Security lssues in Code Snippets from Stack Overflow]().
 
 [security] [Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis]().
