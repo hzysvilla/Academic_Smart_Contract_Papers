@@ -1269,6 +1269,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [SC23] [FISCO-BCOS: An Enterprise-grade Permissioned Blockchain System with High-performance]().
 
+[Usenix ATC24] [SlimArchive: A Lightweight Architecture for Ethereum Archive Nodes]().
+
 [Usenix ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). 
 
 [Usenix ATC21] [RainBlock: Faster Transaction Processing in Public Blockchains](https://www.usenix.org/system/files/atc21-ponnapalli.pdf).
