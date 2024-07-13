@@ -441,11 +441,23 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## ISSTA
 
+### 2024
+
 [security] [LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts]().
 
-[security] [ldentifying Smart Contract Security lssues in Code Snippets from Stack Overflow]().
+[security] [ldentifying Smart Contract Security Issues in Code Snippets from Stack Overflow]().
 
 [security] [Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis]().
+
+[security] [Following the "Thread": Toward Finding Manipulatable Bottlenecks In Blockchain Clients]().
+
+[security] [FunRedisp: Reordering Function Dispatch in Smart Contract to Reduce Invocation Gas Fees]().
+
+[security] [Midas: Mining Profitable Exploits in On-Chain Smart Contracts via Feedback-Driven Fuzzing and Differential Analysis]().
+
+[security] [DeFort: Automatic Detection and Analysis of Price Manipulation Attacks in DeFi Applications]().
+
+[security] [DAppFL: Just-in-Time Fault Localization for Decentralized Applications in Web3]().
 
 ### 2023
 
