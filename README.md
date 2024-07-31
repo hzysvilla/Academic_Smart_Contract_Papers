@@ -809,6 +809,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [PAROLE: Profitable Arbitrage in Optimistic Rollup with ERC-721 Token Transactions]().
 
+[security] [AOAB: Optimal and Fair Ordering of Financial Transactions]().
+
+[security] [BFTRAND: Low-Latency Random Number Provider for BFT Smart Contracts]().
+
 ### 2020
 
 [security] [SMACS: Smart Contract Access Control Service](https://arxiv.org/abs/2003.07495). 
