@@ -208,6 +208,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[security] [Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://arxiv.org/pdf/2312.02642).
+
 [security] [All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts](https://arxiv.org/pdf/2405.20561).
 
 [security] [Speculative Denial-of-Service Attacks in Ethereum]().
