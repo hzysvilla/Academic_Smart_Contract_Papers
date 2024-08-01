@@ -1281,6 +1281,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [SIGKDD23] [Diga: Guided Diffusion Model for Graph Recovery in Anti-Money Laundering](https://dl.acm.org/doi/pdf/10.1145/3580305.3599806).
 
+[ICDE24] [MuFuzz: Sequence-Aware Mutation and Seed Mask Guidance for Blockchain Smart Contract Fuzzing](https://arxiv.org/pdf/2312.04512).
+
 [ICDE23] [Scaling Blockchain Consensus via a Robust Shared Mempool]().
 
 [SC23] [FISCO-BCOS: An Enterprise-grade Permissioned Blockchain System with High-performance]().
