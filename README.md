@@ -1257,6 +1257,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [arxiv] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://arxiv.org/pdf/2403.14280.pdf).
 
+[FM23] [Formal and Executable Semantics of the Ethereum Virtual Machine in Dafny](https://arxiv.org/pdf/2303.00152).
+
 [arxiv] [DISL: Fueling Research with A Large Dataset of Solidity Smart Contracts](https://arxiv.org/pdf/2403.16861).
 
 [ASPLOS22] [Who Goes First? Detecting Go Concurrency Bugs via Message Reordering](https://songlh.github.io/paper/gfuzz.pdf).
