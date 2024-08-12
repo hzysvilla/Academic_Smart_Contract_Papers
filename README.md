@@ -1257,6 +1257,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [arxiv] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://arxiv.org/pdf/2403.14280.pdf).
 
+[TC24] [GFBE: A Generalized and Fine-Grained Blockchain Evaluation Framework]().
+
+[TC24] [BlockCompass: A Benchmarking Platform for Blockchain Performance]().
+
 [FM23] [Formal and Executable Semantics of the Ethereum Virtual Machine in Dafny](https://arxiv.org/pdf/2303.00152).
 
 [arxiv] [DISL: Fueling Research with A Large Dataset of Solidity Smart Contracts](https://arxiv.org/pdf/2403.16861).
