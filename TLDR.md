@@ -6,7 +6,7 @@
 * Solution: The author designs a IR, CGIR, to extract to captrue the contract and data information.
 * Approach: The author achieves their ideas by developing SCVHunter. SCVHunter convert the sourc code to CGIR and generates the heterogeneous semantic graph from it. Then SCVHunter adopts graph neural network to detect flaws of contracts.
 * Evaluation: The author evaluates the SCVHunter on four vulnerabilitis, reentrancy, block
-info dependency, nested call, and transaction state dependency vulnerabilities. It achieves  accuracies of 93.72%, 91.07%, 85.41%, and 87.37% for these vulnerabilities.
+info dependency, nested call, and transaction state dependency vulnerabilities. It achieves accuracies of 93.72%, 91.07%, 85.41%, and 87.37% for these vulnerabilities.
 
 
 # 24_5_22
@@ -14,8 +14,8 @@ info dependency, nested call, and transaction state dependency vulnerabilities. 
 * Motivation: This work aims to detect the price oracle manipulation attacks (POMA) in the defi ecosystem.
 * Background: POMA indicates the adversary manipulates the coin price to gain profits by arbitrage.
 * Prior work: DefiRanger can only detect POMA with in single transaction, but POMA can be exploited by several transaction.
-* Approach: The author deveplop POMABuster to detect POMA. First, POMABuster filter the transactions by only focusing the high value crypto asset to reduce search space. Then, PoMABuster detects the POMA based the rules derived from the author, which generates from the SEC (in conventional stock market), including wash sales and market domination.
-* Evaluation: The authors evaluate POMABuster on two years blockchain history and the audit reports from Code4rena. POMA achieves 6.5X more POMA then the prior work with 1% false positves and 0% false negetive.
+* Approach: The author developed POMABuster to detect POMA. First, POMABuster filter the transactions by only focusing the high value crypto asset to reduce search space. Then, PoMABuster detects the POMA based the rules derived from the author, which generates from the SEC (in conventional stock market), including wash sales and market domination.
+* Evaluation: The authors evaluate POMABuster on two years blockchain history and the audit reports from Code4rena. POMA achieves 6.5X more POMA then the prior work with 1% false positives and 0% false negative.
 
 
 # 24_5_20
@@ -34,13 +34,13 @@ info dependency, nested call, and transaction state dependency vulnerabilities. 
 * Motivation: The authors concentrate on whether the GossipSub network can undertake and defend against the attack from its malicious nodes.
 * Background: GossipSub manages the set of network nodes with the pub/sub mechanism, which is widely adopted in ethereum and file coin. GossipSub wields a mechanism named the score function to measure the behaviors of the nodes. The nodes with misbehaves will have a low score, which probably will be dropped.
 * Idea: The author combinates the document specifications of GossipSub and the consultant from developers to formal verification the GossipSub network.
-* Design: The author first defined four security properties of the GossipSub network, (i) If a peer's performance for some topic is continuously non-positive, then, eventually, the peer's score will be non-positive. (ii) When a peer misbehaves, its score decreases. (iii) When a peer behaves, its score does not decrease. (iv) Peers are scored fairly: if they appear to behave identically, they are given identical scores. Then, the authors adopt automatic theorem proving to determine whether configurations (i.g., size, cap, and  topology) of GossipSub invalides the security properties.
+* Design: The author first defined four security properties of the GossipSub network, (i) If a peer's performance for some topic is continuously non-positive, then, eventually, the peer's score will be non-positive. (ii) When a peer misbehaves, its score decreases. (iii) When a peer behaves, its score does not decrease. (iv) Peers are scored fairly: if they appear to behave identically, they are given identical scores. Then, the authors adopt automatic theorem proving to determine whether configurations (i.g., size, cap, and topology) of GossipSub invalides the security properties.
 * Implement: The authors use ACL2s as the theorem prover, and construct the model based on the golang GossipSub.
 * Evaluation: The authors uncover the configurations of File coin can defend against the attack from misbehaving peers, but Ethereum can't.
 
 # 24_3_19
 ### CCS23 | Uncle Maker: (Time)Stamping Out The Competition in Ethereum
-* Motivation: The authors focus on the security of Poof of Work (POW) mechanism of Ethereum.
+* Motivation: The authors focus on the security of Proof of Work (POW) mechanism of Ethereum.
 * Background: The tip of the blockchain can be determined by difficulty, and difficulty can be determined by timestamp.
 * Idea: The adversary miner manipulates the timestmap of block to decrease the difficulty of the fork chain. The fork chain with higher difficulty mined by adversary will be the tip of current chain, and make more profits for the adversary miner.
 * Observation: The authors uncover F2pool adopting such attack to gain about 3 million USD from March 8th 2021 to September 15th 2022.
@@ -119,7 +119,7 @@ such as crash and denial-of-service bugs.
 ## CCS19 | Learning to Fuzz from Symbolic Execution with Application to Smart Contracts
 * Motivation: The author focuses on improving the efficacy of smart contracts fuzzing.
 * Idea: The author leverages machine learning to obtain the feeds of fuzzy from symbolic execution, which helps fuzzy can achieve more coverage of the smart contract.
-* Design: The author first symbolically executes a smart contract to get some invoking sequences (i.e., transactions or inputs). Then they use a neural network to learn the invoking sequences, and fuzzing smart contact with such sequences.
+* Design: The author first symbolically executes a smart contract to get some invoking sequences (i.e., transactions or inputs). Then they use a neural network to learn the invoking sequences, and fuzzing smart contract with such sequences.
 * Implement: The author develops the ILF to achieve their ideas. They use go-ethereum to replay sequences, and construct a network by themselves.
 * Evaluation: The ILF is evaluated on 18k smart contracts, which outperforms the existing fuzzer in code coverage and speed.
 
