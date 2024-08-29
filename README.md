@@ -1287,6 +1287,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [ACM DTL] [Chaos Engineering of Ethereum Blockchain Clients In ACM Distributed Ledger Technologies: Research and Practice](http://oadoi.org/10.1145/3611649).
 
+[SIGKDD24] [BitLINK: Temporal Linkage of Address Clusters in Bitcoin Blockchain]().
+
 [SIGKDD23] [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics](https://dl.acm.org/doi/pdf/10.1145/3580305.3599351).
 
 [SIGKDD23] [Diga: Guided Diffusion Model for Graph Recovery in Anti-Money Laundering](https://dl.acm.org/doi/pdf/10.1145/3580305.3599806).
