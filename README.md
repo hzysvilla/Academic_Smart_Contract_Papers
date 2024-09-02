@@ -1209,6 +1209,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TIFS
 
+[TFIS24] [Proof of Finalization: A Self-Fulfilling Function of Blockchain]().
+
 [TFIS24] [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data]().
 
 [TIFS23] [ExGen: Cross-platform, Automated Exploit Generation for Smart Contract Vulnerabilities]().
