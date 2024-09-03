@@ -1209,9 +1209,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TIFS
 
-[TFIS24] [Proof of Finalization: A Self-Fulfilling Function of Blockchain]().
+[TIFS24] [Profitability Analysis of Time-Restricted Double-Spending Attack on PoW-based Large Scale Blockchains with the Aid of Multiple Attacks]().
 
-[TFIS24] [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data]().
+[TIFS24] [Proof of Finalization: A Self-Fulfilling Function of Blockchain]().
+
+[TIFS24] [Fishing for Fraudsters: Uncovering Ethereum Phishing Gangs With Blockchain Data]().
 
 [TIFS23] [ExGen: Cross-platform, Automated Exploit Generation for Smart Contract Vulnerabilities]().
 
