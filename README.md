@@ -1149,7 +1149,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2018
 
- [security] [Online detection of effectively callback free objects with applications to smart contracts](https://dl.acm.org/doi/pdf/10.1145/3158136).
+[security] [Online detection of effectively callback free objects with applications to smart contracts](https://dl.acm.org/doi/pdf/10.1145/3158136).
 
 [security] [Vandal: A Scalable Security Analysis Framework for Smart Contracts](https://arxiv.org/abs/1809.03981).
 
@@ -1260,6 +1260,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## Miscellaneous
 
 [arxiv] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://arxiv.org/pdf/2403.14280.pdf).
+
+[PPoPP23] [Block-STM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing](https://arxiv.org/pdf/2203.06871).
 
 [SC24] [Toward High-Performance Blockchain System by Blurring the Line between Ordering and Execution]().
 
