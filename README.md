@@ -1263,6 +1263,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## Miscellaneous
 
+[arxiv] [DogeFuzz: A Simple Yet Efficient Grey-box Fuzzer for Ethereum Smart Contracts](https://arxiv.org/pdf/2409.01788v1).
+
 [JACM24] [Transaction Fee Mechanism Design]().
 
 [arxiv] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://arxiv.org/pdf/2403.14280.pdf).
