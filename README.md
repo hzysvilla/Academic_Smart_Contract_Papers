@@ -309,6 +309,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[security] [Separation is Good: A Faster Order-Fairness Byzantine Consensus](https://www.ndss-symposium.org/wp-content/uploads/2024-693-paper.pdf).
+
 [security] [Proof of Backhaul: Trustfree Measurement of Broadband Bandwidth](https://www.ndss-symposium.org/wp-content/uploads/2024-764-paper.pdf)
 
 [security] [A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance]().
