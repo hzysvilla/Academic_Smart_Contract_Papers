@@ -1,28 +1,28 @@
 # 24_9_18
 ### CCS24 | TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning
-* Motivation: This work aims detect the token scam (i.e., Rugpull, Honeypot, and Ponzi) before it happens.
-* Prior work: The code analysis of token contract cannot cover all scams (e.g., Rugpull weild the normal contract logic) and transactions flow analysis cannot detect the scam never happen.
-* Approach: The authors adopt neural network to capture the subtle signs before the scam happen. First, they design Dynamic Temporal Attributed Multigraph (DTAM) to represent the token transfer flows. Then, the authors construct a Token-Flow Graph Neural Network (TF-GNN) to learn scam features from DTAM. Then, they cluster(refine) the TF-GNN by clustering different scam in embeded space with distinct pattern. They deploy their tool named TokenScout.
-* Evalution: They author detect 214,084 smart contract, and labeled them over 800 human-hours. The evalution results demonstrate that TokenScout achieves a precision of 98.03%, recall of 97.47%, F1 score of 97.75%, and balanced accuracy (BAC) of 98.41% in early-detecting scam tokens.
+* Motivation: This work aims to detect token scams (i.e., Rugpull, Honeypot, and Ponzi) before they happen.
+* Prior work: The code analysis of the token contracts cannot cover all scams (e.g., Rugpull wields the normal contract logic), and transaction flow analysis cannot detect the scam that never happens.
+* Approach: The authors adopt a neural network to capture the subtle signs before the scam happens. First, they designed a Dynamic Temporal Attributed Multigraph (DTAM) to represent the token transfer flows. Then, the authors construct a Token-Flow Graph Neural Network (TF-GNN) to learn scam features from DTAM. Then, they cluster(refine) the TF-GNN by clustering different scams in embedded space with distinct patterns. They deploy their tool named TokenScout.
+* Evaluation: The author detected 214,084 smart contracts and labeled them over 800 human hours. The evaluation results demonstrate that TokenScout achieves a precision of 98.03%, recall of 97.47%, F1 score of 97.75%, and balanced accuracy (BAC) of 98.41% in early-detecting scam tokens.
 
 # 24_5_29
 ### ICSE24 | SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network
-* Motivation: This work aims to detect the flaws of smart contract at the level of source code.
-* Main Idea: The author converts the contract to a heterogeneous semantic graph, and detects flaw on it by machine learning technology.
-* Challenge: How to extract the semantic information from the contract.
+* Motivation: This work aims to detect the flaws of smart contracts at the level of source code.
+* Main Idea: The author converts the contract to a heterogeneous semantic graph and detects flaws in it by machine learning technology.
+* Challenge: How do we extract the semantic information from the contract?
 * Solution: The author designs a IR, CGIR, to extract to captrue the contract and data information.
-* Approach: The author achieves their ideas by developing SCVHunter. SCVHunter convert the sourc code to CGIR and generates the heterogeneous semantic graph from it. Then SCVHunter adopts graph neural network to detect flaws of contracts.
-* Evaluation: The author evaluates the SCVHunter on four vulnerabilitis, reentrancy, block
-info dependency, nested call, and transaction state dependency vulnerabilities. It achieves accuracies of 93.72%, 91.07%, 85.41%, and 87.37% for these vulnerabilities.
+* Approach: The author achieves their ideas by developing SCVHunter. SCVHunter converts the source code to CGIR and generates the heterogeneous semantic graph from it. Then, SCVHunter adopts a graph neural network to detect flaws of contracts.
+* Evaluation: The author evaluates the SCVHunter on four vulnerabilities: vulnerability, reentrancy, block
+info dependency, nested call, and transaction state dependency. It achieves accuracies of 93.72%, 91.07%, 85.41%, and 87.37% for these vulnerabilities.
 
 
 # 24_5_22
 ### SP24 | POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance
 * Motivation: This work aims to detect the price oracle manipulation attacks (POMA) in the defi ecosystem.
 * Background: POMA indicates the adversary manipulates the coin price to gain profits by arbitrage.
-* Prior work: DefiRanger can only detect POMA with in single transaction, but POMA can be exploited by several transaction.
-* Approach: The author developed POMABuster to detect POMA. First, POMABuster filter the transactions by only focusing the high value crypto asset to reduce search space. Then, PoMABuster detects the POMA based the rules derived from the author, which generates from the SEC (in conventional stock market), including wash sales and market domination.
-* Evaluation: The authors evaluate POMABuster on two years blockchain history and the audit reports from Code4rena. POMA achieves 6.5X more POMA then the prior work with 1% false positives and 0% false negative.
+* Prior work: DefiRanger can only detect POMA within a single transaction, but POMA can be exploited by several transactions.
+* Approach: The author developed a POMABuster to detect POMA. First, POMABuster filters the transactions by only focusing on high-value crypto assets to reduce search space. Then, PoMABuster detects the POMA based on the rules derived from the author, which are generated by the SEC (in the conventional stock market), including wash sales and market domination.
+* Evaluation: The authors evaluate POMABuster on two years of blockchain history and the audit reports from Code4rena. POMA achieves 6.5X more POMA than the prior work, with 1% false positives and 0% false negatives.
 
 
 # 24_5_20
@@ -39,8 +39,8 @@ info dependency, nested call, and transaction state dependency vulnerabilities. 
 # 24_4_17
 ### SP24 | Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers
 * Motivation: The authors concentrate on whether the GossipSub network can undertake and defend against the attack from its malicious nodes.
-* Background: GossipSub manages the set of network nodes with the pub/sub mechanism, which is widely adopted in ethereum and file coin. GossipSub wields a mechanism named the score function to measure the behaviors of the nodes. The nodes with misbehaves will have a low score, which probably will be dropped.
-* Idea: The author combinates the document specifications of GossipSub and the consultant from developers to formal verification the GossipSub network.
+* Background: GossipSub manages the set of network nodes with the pub/sub mechanism, which is widely adopted in Ethereum and file coins. GossipSub wields a mechanism named the score function to measure the behaviors of the nodes. The nodes with misbehaves will have a low score, which probably will be dropped.
+* Idea: The author combines the document specifications of GossipSub and the consultant from developers to formal verify the GossipSub network.
 * Design: The author first defined four security properties of the GossipSub network, (i) If a peer's performance for some topic is continuously non-positive, then, eventually, the peer's score will be non-positive. (ii) When a peer misbehaves, its score decreases. (iii) When a peer behaves, its score does not decrease. (iv) Peers are scored fairly: if they appear to behave identically, they are given identical scores. Then, the authors adopt automatic theorem proving to determine whether configurations (i.g., size, cap, and topology) of GossipSub invalides the security properties.
 * Implement: The authors use ACL2s as the theorem prover, and construct the model based on the golang GossipSub.
 * Evaluation: The authors uncover the configurations of File coin can defend against the attack from misbehaving peers, but Ethereum can't.
@@ -50,7 +50,7 @@ info dependency, nested call, and transaction state dependency vulnerabilities. 
 * Motivation: The authors focus on the security of Proof of Work (POW) mechanism of Ethereum.
 * Background: The tip of the blockchain can be determined by difficulty, and difficulty can be determined by timestamp.
 * Idea: The adversary miner manipulates the timestmap of block to decrease the difficulty of the fork chain. The fork chain with higher difficulty mined by adversary will be the tip of current chain, and make more profits for the adversary miner.
-* Observation: The authors uncover F2pool adopting such attack to gain about 3 million USD from March 8th 2021 to September 15th 2022.
+* Observation: The authors uncover F2pool adopting such an attack to gain about 3 million USD from March 8th, 2021, to September 15th, 2022.
 * Mitigation: The authors propose two mitigations, including increasing the minimal difficulty and rejecting competing chains more aggressively.
 
 # 24_3_6
