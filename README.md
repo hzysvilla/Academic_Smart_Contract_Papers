@@ -119,23 +119,23 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
-[MEV] [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups]().
+[security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup]().
 
-[Consensus protocal] [Lutris: A Blockchain Combining Broadcast and Consensus]().
-
-[Economic] [Blockchain Bribing Attacks and the Efficacy of Counterincentives]().
+[security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]().
 
 [security] [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]().
 
-[security] [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials]().
+[MEV] [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups]().
 
-[security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup]().
+[Consensus] [Lutris: A Blockchain Combining Broadcast and Consensus]().
+
+[Economic] [Blockchain Bribing Attacks and the Efficacy of Counterincentives]().
+
+[security] [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials]().
 
 [security] [DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back]().
 
 [security] [Data Independent Order Policy Enforcement: Limitations and Solutions]().
-
-[security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]().
 
 [security] [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets]().
 
