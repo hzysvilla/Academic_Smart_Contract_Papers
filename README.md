@@ -117,6 +117,30 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## CCS
 
+### 2024
+
+[MEV] [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups]().
+
+[Consensus protocal] [Lutris: A Blockchain Combining Broadcast and Consensus]().
+
+[Economic] [Blockchain Bribing Attacks and the Efficacy of Counterincentives]().
+
+[security] [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]().
+
+[security] [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials]().
+
+[security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup]().
+
+[security] [DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back]().
+
+[security] [Data Independent Order Policy Enforcement: Limitations and Solutions]().
+
+[security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]().
+
+[security] [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets]().
+
+[security] [Characterizing Ethereum Address Poisoning Attack]().
+
 ### 2023
 
 [security] [Demystifying DeFi MEV Activities in Flashbots Bundle](https://zzzihao-li.github.io/papers/CCS23_Bundle_MEV_full_version.pdf) | **[MyTLDR](TLDR.md#23_9_25)**.
