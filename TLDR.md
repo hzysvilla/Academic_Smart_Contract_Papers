@@ -1,3 +1,10 @@
+# 24_9_18
+### CCS24 | TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning
+* Motivation: This work aims detect the token scam (i.e., Rugpull, Honeypot, and Ponzi) before it happens.
+* Prior work: The code analysis of token contract cannot cover all scams (e.g., Rugpull weild the normal contract logic) and transactions flow analysis cannot detect the scam never happen.
+* Approach: The authors adopt neural network to capture the subtle signs before the scam happen. First, they design Dynamic Temporal Attributed Multigraph (DTAM) to represent the token transfer flows. Then, the authors construct a Token-Flow Graph Neural Network (TF-GNN) to learn scam features from DTAM. Then, they cluster(refine) the TF-GNN by clustering different scam in embeded space with distinct pattern. They deploy their tool named TokenScout.
+* Evalution: They author detect 214,084 smart contract, and labeled them over 800 human-hours. The evalution results demonstrate that TokenScout achieves a precision of 98.03%, recall of 97.47%, F1 score of 97.75%, and balanced accuracy (BAC) of 98.41% in early-detecting scam tokens.
+
 # 24_5_29
 ### ICSE24 | SCVHunter: Smart Contract Vulnerability Detection Based on Heterogeneous Graph Attention Network
 * Motivation: This work aims to detect the flaws of smart contract at the level of source code.
