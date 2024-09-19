@@ -121,7 +121,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup]().
 
-[security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]().
+[security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() | **[MyTLDR](TLDR.md#24_9_18)**.
 
 [security] [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]().
 
