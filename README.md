@@ -1211,6 +1211,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TSE
 
+[TSE24] [SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts]().
+
 [TSE24] [ContractCheck: Checking Ethereum Smart Contracts in Fine-Grained Level]().
 
 [TSE23] [Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation]().
@@ -1236,6 +1238,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [TSE] [Smart Contract Development: Challenges and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8847638).
 
 ## TIFS
+
+[TIFS24] [Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum]().
 
 [TIFS24] [Profitability Analysis of Time-Restricted Double-Spending Attack on PoW-based Large Scale Blockchains with the Aid of Multiple Attacks]().
 
