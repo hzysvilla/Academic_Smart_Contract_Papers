@@ -1293,9 +1293,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## Miscellaneous
 
+[CACM24] [A Brief History of Blockchain Interoperability](https://dl.acm.org/doi/pdf/10.1145/3648607).
+
 [arxiv] [DogeFuzz: A Simple Yet Efficient Grey-box Fuzzer for Ethereum Smart Contracts](https://arxiv.org/pdf/2409.01788v1).
 
-[JACM24] [Transaction Fee Mechanism Design]().
+[CACM24] [Transaction Fee Mechanism Design]().
 
 [arxiv] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://arxiv.org/pdf/2403.14280.pdf).
 
