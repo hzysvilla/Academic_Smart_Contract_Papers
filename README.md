@@ -232,6 +232,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[security] [Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS](https://www.usenix.org/system/files/usenixsecurity24-zhang-mingfei.pdf).
+
 [security] [zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://www.usenix.org/system/files/usenixsecurity24-guo-yihao.pdf).
 
 [security] [Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://arxiv.org/pdf/2312.02642).
