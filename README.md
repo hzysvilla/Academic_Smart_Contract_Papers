@@ -547,6 +547,20 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## ASE
 
+### 2025
+
+[security] [HighGuard: Cross-Chain Business Logic Monitoring of Smart Contract] ().
+
+### 2024
+
+[security] [AdvSCanner: Generating Adversarial Smart Contracts to Exploit Reentrancy Vulnerabilities Using LLM and Static Analysis]().
+
+[security] [COBRA: Interaction-Aware Bytecode-Level Vulnerability Detector for Smart Contracts]().
+
+[security] [Semantic Sleuth: Identifying Ponzi Contracts via Large Language Models]().
+
+[security] [Skyeye: Detecting Imminent Attacks via Analyzing Adversarial Smart Contracts]().
+
 ### 2023
 
 [security] [DeFiWarder: Protecting DeFi Apps from Token Leaking Vulnerabilities]() | **[MyTLDR](TLDR.md#23_9_6)**.
