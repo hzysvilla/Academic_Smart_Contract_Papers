@@ -813,6 +813,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets]().
 
+[measurement] [Don't Trust, Verify: The Case of Slashing from a Popular Ethereum Explorer]().
+
 ### 2023
 
 [Finance] [Ready, Aim, Snipe! Analysis of Sniper Bots and their Impact on the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3543873.3587612).
