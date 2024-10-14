@@ -403,6 +403,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2020
 
+[security] [End-to-End Formal Verification of Ethereum 2.0 Deposit Smart Contract](https://daejunpark.github.io/papers/deposit.pdf).
+
 [security] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
 
 ### 2018
