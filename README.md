@@ -1383,6 +1383,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [JSAC22] [Detecting Arbitrage on Ethereum Through Feature Fusion and Positive-Unlabeled Learning]().
 
+[TPDS24] [MoltDB: Accelerating Blockchain via Ancient State Segregation]().
+
 [TPDS24] [PaVM: A Parallel Virtual Machine for Smart Contract Execution and Validation]().
 
 [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
