@@ -1005,6 +1005,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## OOPSLA
 
+### 2024
+
+[Program language] [VarLifter: Recovering Variables and Types from Bytecode of Solidity Smart Contracts]().
+
+[Program language] [Practical Verification of Smart Contracts using Memory Splitting]().
+
 ### 2023
 
 [security] [Asparagus: Automated Synthesis of Parametric Gas Upper-bounds for Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3563308) | **[MyTLDR](TLDR.md#23_9_26)**.
