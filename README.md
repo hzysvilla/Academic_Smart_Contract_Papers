@@ -1261,6 +1261,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TIFS
 
+[TIFS24] [Blockchain-based Covert Communication: A Detection Attack and Efficient Improvement]().
+
 [TIFS24] [Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum]().
 
 [TIFS24] [Profitability Analysis of Time-Restricted Double-Spending Attack on PoW-based Large Scale Blockchains with the Aid of Multiple Attacks]().
