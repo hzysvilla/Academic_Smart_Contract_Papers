@@ -1159,6 +1159,21 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## ICDCS
 
+### 2024
+
+[performance] [Hammer: A General Blockchain Evaluation Framework]().
+
+[performance] [SecSCS: A User-Centric Secure Smart Camera System Based on Blockchain]().
+
+[security] [SG-FCB: A Stackelberg Game-Driven Fair Committee-based Blockchain Consensus Protocol]().
+
+[security] [AcBF: A Revocable Blockchain-based Identity Management Enabling Low-Latency Authentication]().
+
+[security] [Orbit: A Dynamic Account Allocation Mechanism In Sharding Blockchain System]().
+
+[security] [Timed Data Release using Smart Contracts]().
+
+
 ### 2023
 
 [storage] [GeckoDAG: Towards A Lightweight DAG-based Blockchain via Reducing Data Redundancy](https://repository.hkust.edu.hk/ir/Record/1783.1-133053)
