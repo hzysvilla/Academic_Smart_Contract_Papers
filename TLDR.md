@@ -1,3 +1,14 @@
+# 24_10_22
+### Infocom24 | DEthna: Accurate Ethereum Network Topology Discovery with Marked Transactions
+* Motivation: This work aims to discover the network topology in EL layers.
+* Background: The Ethereum EL layer is designed to conceal its network topology for security purposes. Every node in the EL network can only connect a few nodes.
+* Current research: The current works need to consume large resources (transaction numbers) with inefficiency.
+* Main Idea: The author proposes a technology named marked transaction. concretely, the author first sends three transactions (tx1, tx2, tx3) with the same notices and different gas prices to three nodes (n1,n2,n3). By constructing the nonce and gas price, tx1 can be replaced by tx2, but tx1 and tx2 can't be replaced by tx3. The probing node controlled by the author connects to n1. When the probe node receives tx2 from n1 (replacement occurred), it means n1 and n2 are connected.
+* Implementation: The authors achieve their ideas by developing a tool named DEthna based on Geth. DEthna adopts the distributed design to connect and probe more network nodes in EL's network.
+* Evaluation: The authors evaluate the DEthna in the Ethereum's Goerli testnet. DEthna can find more than 2.5 times more nodes than the baseline (i.e., Toposhot).
+* Observation: The nodes in Goerli testnet establish 16 outbound and 34 inbound connections on average, which will weaken the network's robustness. Every message will take three hops between the blockchain nodes.
+
+
 # 24_9_18
 ### CCS24 | TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning
 * Motivation: This work aims to detect token scams (i.e., Rugpull, Honeypot, and Ponzi) before they happen.
