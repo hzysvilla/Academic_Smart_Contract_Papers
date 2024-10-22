@@ -553,7 +553,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2025
 
-[security] [HighGuard: Cross-Chain Business Logic Monitoring of Smart Contract] ().
+[security] [HighGuard: Cross-Chain Business Logic Monitoring of Smart Contract]().
 
 ### 2024
 
