@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e22fa5c5-51cc-44fe-9c3d-f2ca21cfbc27)# Academic Smart Contract Papers
+# Academic Smart Contract Papers
 
 A curated Smart Contract related academic papers. All papers are sorted based on the conference name and published year.
 
