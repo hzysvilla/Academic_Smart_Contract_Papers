@@ -1,4 +1,4 @@
-# Academic Smart Contract Papers
+![image](https://github.com/user-attachments/assets/e22fa5c5-51cc-44fe-9c3d-f2ca21cfbc27)# Academic Smart Contract Papers
 
 A curated Smart Contract related academic papers. All papers are sorted based on the conference name and published year.
 
@@ -477,6 +477,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
+[security] [Towards Understanding the Bugs in Solidity Compiler]().
+
+[security] [Synthesis of Sound and Precise Storage Cost Bounds via Unsound Resource Analysis and Max-SMT]()
+
 [security] [LENT-SSE: Leveraging Executed and Near Transactions for Speculative Symbolic Execution of Smart Contracts]().
 
 [security] [ldentifying Smart Contract Security Issues in Code Snippets from Stack Overflow]().
@@ -484,8 +488,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [security] [Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis]().
 
 [security] [Following the "Thread": Toward Finding Manipulatable Bottlenecks In Blockchain Clients]().
-
-[security] [FunRedisp: Reordering Function Dispatch in Smart Contract to Reduce Invocation Gas Fees]().
 
 [security] [Midas: Mining Profitable Exploits in On-Chain Smart Contracts via Feedback-Driven Fuzzing and Differential Analysis]().
 
