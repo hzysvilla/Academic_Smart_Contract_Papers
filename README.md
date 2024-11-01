@@ -43,7 +43,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://github.com/hzysvilla/Nurgle_Oakland24/blob/main/Nurgle_oakland24.pdf).
 
-[security] [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs]().
+[security] [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271.pdf).
 
 [security] [Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://arxiv.org/abs/2312.16533) | **[MyTLDR](TLDR.md#24_5_20)**.
 
@@ -119,7 +119,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2024
 
-[security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup]().
+[security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://arxiv.org/pdf/2410.12210).
 
 [security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() | **[MyTLDR](TLDR.md#24_9_18)**.
 
@@ -240,7 +240,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts](https://arxiv.org/pdf/2405.20561).
 
-[security] [Speculative Denial-of-Service Attacks in Ethereum]().
+[security] [Speculative Denial-of-Service Attacks in Ethereum](https://www.usenix.org/system/files/sec24summer-prepub-32-yaish.pdf).
 
 [security] [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190.pdf) | **[MyTLDR](TLDR.md#23_9_30)**.
 
@@ -1441,6 +1441,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [AsiaCCS22] [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390).
 
 [TC21] [Precise Dynamic Symbolic Execution for Nonuniform Data Access in Smart Contracts](https://rucsesec.github.io/papers/TC2021b.pdf).
+
+[sigmod23] [When Private Blockchain Meets Deterministic Database](https://arxiv.org/pdf/2211.15163).
 
 [sigmod23] [ChainKV: A Semantics-Aware Key-Value Store for Ethereum System]().
 
