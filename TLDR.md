@@ -1,3 +1,12 @@
+# 24_11_1
+### Sec24 | Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS
+
+* Motivation: this work proposes a new method to attack the honest stakers in the Ethereum Poof-of-Stake (PoS) mechanism, which causes the stakers to lose part of their staking funding.
+* Background: in Ethereum’s PoS, every block will be proposed in a slot and every 32 slots will constitute a epoch. To keep the consensus and security of the chain, PoS mechanism constructs a type of actors called validators to propose and validate every block. To become the validators, the user must stake 32 eth on the Ethereum. To finality and check every epoch, every validator will vote on the last epoch (source) to the current epoch (target). The validator who doesn’t vote will get the penalty.
+* Threat models: the attacker must be the proposer of the first slot in an epoch and control 29.8% of total staking funding.
+* Core idea: the attacker as the proposer uninterruptedly withholds the block to disturb the visibility (a.k.a view) of the honest stakers. At this moment, the honest stakers will vote for attestation with the wrong source and target (as the attacker withholds the block, the chain in honest stakers is discrete). The Ethereum will discard the wrong attestation and the honest staker will get the penalty.
+* Poof-of-Conception: the authors simulate an environment with 1000 validators running Prysm. The result shows if the adversary controls a 29.6% stake, all honest validators lose their incentives.
+
 # 24_10_22
 ### Infocom24 | DEthna: Accurate Ethereum Network Topology Discovery with Marked Transactions
 * Motivation: This work aims to discover the network topology in EL layers.
