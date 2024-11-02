@@ -1284,6 +1284,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TIFS
 
+[TIFS24] [2DynEthNet: A Two-Dimensional Streaming Framework for Ethereum Phishing Scam Detection]().
+
+[TIFS24] [Bringing Smart Contract Confidentiality via Trusted Hardware: Fact and Fiction]().
+
 [TIFS24] [Blockchain-based Covert Communication: A Detection Attack and Efficient Improvement]().
 
 [TIFS24] [Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum]().
