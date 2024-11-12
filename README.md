@@ -127,6 +127,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() | **[MyTLDR](TLDR.md#24_9_18)**.
 
+[security] [Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication]().
+
 [security] [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]().
 
 [MEV] [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups]().
