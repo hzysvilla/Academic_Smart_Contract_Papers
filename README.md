@@ -1354,6 +1354,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## Miscellaneous
 
+[SC24] [Toward High-Performance Blockchain System by Blurring the Line between Ordering and Execution]().
+
 [CACM24] [A Brief History of Blockchain Interoperability](https://dl.acm.org/doi/pdf/10.1145/3648607).
 
 [arxiv] [DogeFuzz: A Simple Yet Efficient Grey-box Fuzzer for Ethereum Smart Contracts](https://arxiv.org/pdf/2409.01788v1).
@@ -1382,7 +1384,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [WINE2023] [Routing MEV in Constant Function Market Makers]().
 
-[TCAD 2023] [A Semantic-Integrated LSM-Tree Based Key-Value Storage Engine for Blockchain Systems]().
+[TCAD2023] [A Semantic-Integrated LSM-Tree Based Key-Value Storage Engine for Blockchain Systems]().
 
 [FAST23] [COLE: A Column-based Learned Storage for Blockchain Systems](papers/fast23_cole.pdf).
 
