@@ -119,6 +119,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [application] [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf).
 
+### 2015
+
+[security] [The miner's dilemma](https://ieeexplore.ieee.org/abstract/document/7163020/?casa_token=2ShbDBdLkqsAAAAA:2azvGTReTOEq1W57w26L7RFfiWDIccjuTzxLD9j4ErZZ7skL1hrK4FqetEvLKdwQK9gBnIftdGZ3cw)
+
 ---
 
 ## CCS
@@ -215,6 +219,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363222).
 
+[security] [Power adjusting and bribery racing: Novel mining attacks in the bitcoin system](https://dl.acm.org/doi/abs/10.1145/3319535.3354203?casa_token=xLz-OozqQroAAAAA:0kL7UecW8hMvAQzpv8ULn9k41WJynntymzzy3VQ65e4W_nRAmb_aH0q9p_zUH0QPPnDokB5OroM4yYc)
+
 ### 2018
 
 [security] [Securify: Practical Security Analysis of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3243734.3243780).
@@ -224,6 +230,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2017
 
 [security] [Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing](https://dl.acm.org/doi/pdf/10.1145/3133956.3134032).
+
+[security] [Be selfish and avoid dilemmas: Fork after withholding (faw) attacks on bitcoin](https://dl.acm.org/doi/abs/10.1145/3133956.3134019?casa_token=RygrxGCbX1wAAAAA:mCNjib6WmZcqSJ_vmYligwXGkfAGSVTujZ9YWVoPTcFUe8fyrOgCkrb9vu4vxdjM4t37TCG9sF8F0ys)
 
 
 ### 2016
