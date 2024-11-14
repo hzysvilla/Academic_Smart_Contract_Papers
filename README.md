@@ -135,6 +135,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 [security] [Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication]().
 
+[security] [FORAY: Towards Effective Attack Synthesis against Deep Logical Vulnerabilities in DeFi Protocols](https://www.arxiv.org/pdf/2407.06348).
+
 [security] [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]().
 
 [MEV] [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups]().
@@ -1273,6 +1275,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [TOSEM] [Why Do Smart Contracts Self-Destruct? Investigating the Selfdestruct Function on Ethereum]().
 
 ## TSE
+
+[TSE24] [Unearthing Gas-Wasting Code Smells in Smart Contracts with Large Language Models]().
 
 [TSE24] [SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts]().
 
