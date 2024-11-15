@@ -353,6 +353,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## NDSS
 
+### 2025
+
+[security] [Dissecting Payload-based Transaction Phishing on Ethereum](https://arxiv.org/pdf/2409.02386).
+
 ### 2024
 
 [security] [Separation is Good: A Faster Order-Fairness Byzantine Consensus](https://www.ndss-symposium.org/wp-content/uploads/2024-693-paper.pdf).
@@ -1101,6 +1105,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## SIGMETRICS
 
+### 2025 
+
+[security] [Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks]()
+
+[security] [Towards Understanding and Analyzing Instant Cryptocurrency Exchanges]()
+
 ### 2024
 
 [security] [Miracle or Mirage? A Measurement Study of NFT Rug Pulls](https://dl.acm.org/doi/pdf/10.1145/3626782)
@@ -1367,6 +1377,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 [TDSC] [ExGen: Cross-platform, Automated Exploit Generation for Smart Contract Vulnerabilities]().
 
 ## Miscellaneous
+
+[EuroSys25] [ParallelEVM: Operation-Level Concurrent Transaction Execution for EVM-Compatible Blockchains](https://arxiv.org/pdf/2211.07911).
 
 [SC24] [Toward High-Performance Blockchain System by Blurring the Line between Ordering and Execution]().
 
