@@ -1468,6 +1468,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [HPCA20] [BBS: Micro-Architecture Benchmarking Blockchain Systems through Machine Learning and Fuzzy Set]().
 
+* [VLDB24] [A Comprehensive Outlook for Analyzing and Enhancing the Performance of Blockchain Platforms]().
+
+* [VLDB24] [Practical Declarative Smart Contracts Optimization]().
+
 * [VLDB24] [CMixing: An Efficient Coin Mixing Platform to Enhance Anonymity in Cryptocurrency Transactions]().
 
 * [VLDB24] [FlexChain: An Elastic Disaggregated Blockchain]().
