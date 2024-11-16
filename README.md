@@ -262,6 +262,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [security] [Speculative Denial-of-Service Attacks in Ethereum](https://www.usenix.org/system/files/sec24summer-prepub-32-yaish.pdf).
 
+* [security] [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts](https://www.usenix.org/system/files/usenixsecurity24-liu-han.pdf).
+
 * [security] [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190.pdf) | **[MyTLDR](TLDR.md#23_9_30)**.
 
 ### 2023
@@ -354,6 +356,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## NDSS
 
 ### 2025
+
+* [security] [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/pdf/2405.02580).
 
 * [security] [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers]().
 
