@@ -300,7 +300,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [security] [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/system/files/sec22-kappos.pdf).
 
-* [security] [Total Eclipse of the Heart – Disrupting the InterPlanetary File System](https://www.usenix.org/system/files/sec22-prunster.pdf).
+* [security] [Total Eclipse of the Heart-Disrupting the InterPlanetary File System](https://www.usenix.org/system/files/sec22-prunster.pdf).
 
 ### 2021
 
@@ -377,7 +377,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [security] [DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs]().
 
-* [security] [VETEOS: Statically Vetting EOSIO Contracts for the “Groundhog Day” Vulnerabilities](papers/NDSS24_vetEos.pdf)
+* [security] [VETEOS: Statically Vetting EOSIO Contracts for the "Groundhog Day" Vulnerabilities](papers/NDSS24_vetEos.pdf)
 
 * [security] [Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts](https://seclab.cs.ucsb.edu/files/publications/ruaro24crush.pdf) | **[MyTLDR](TLDR.md#23_1_25)**.
 
@@ -427,7 +427,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2022
 
-* [security] [SolCMC: Solidity Compiler’s Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf)  | **[MyTLDR](TLDR.md#23_10_6)**.
+* [security] [SolCMC: Solidity Compiler's Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf)  | **[MyTLDR](TLDR.md#23_10_6)**
 
 ### 2020
 
@@ -529,7 +529,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [security] [iSyn: Semi-automated Smart Contract Synthesis from Legal Financial Agreements]() | **[MyTLDR](TLDR.md#23_10_2)**.
 
-* [security] [Beyond “Protected” and “Private”: An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf) | **[MyTLDR](TLDR.md#23_9_8)**.
+* [security] [Beyond "Protected" and "Private": An Empirical Security Analysis of Custom Function Modifiers in Smart Contracts](https://daoyuan14.github.io/papers/ISSTA23_SoMo.pdf) | **[MyTLDR](TLDR.md#23_9_8)**.
 
 * [security] [Automated Generation of Security-Centric Descriptions for Smart Contract Bytecode]().
 
@@ -719,7 +719,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2021
 
-* [security] [Smart Contract Security: a Practitioners’ Perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9402082).
+* [security] [Smart Contract Security: a Practitioners' Perspective](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9402082).
 
 ### 2020
 
@@ -729,7 +729,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [security] [Targeted Greybox Fuzzing with Static Lookahead Analysis](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9284040).
 
-* [security] [Gap between Theory and Practice : An Empirical Study of Security Patches in Solidity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9283944).
+* [security] [Gap between Theory and Practice: An Empirical Study of Security Patches in Solidity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9283944).
 
 * [security] [Seraph: Enabling Cross-Platform Security Analysis For EVM and WASM Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9270363).
 
@@ -1500,27 +1500,27 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [ICPC] [A multi-modal transformer-based code summarization approach for smart contracts](https://arxiv.org/pdf/2103.07164).
 
-* [ICPC 2022] [An Empirical Investigation on the Trade-off between Smart Contract Readability and Gas Consumption]().
+* [ICPC22] [An Empirical Investigation on the Trade-off between Smart Contract Readability and Gas Consumption]().
 
-* [ICPC 2022] [Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques]().
+* [ICPC22] [Peculiar: Smart Contract Vulnerability Detection Based on Crucial Data Flow Graph and Pre-training Techniques]().
 
-* [ICPC 2020] [Inheritance software metrics on smart contracts](). 
+* [ICPC20] [Inheritance software metrics on smart contracts](). 
 
-* [ICPC 2019] [Recommending Differentiated Code to Support Smart Contract Update](). 
+* [ICPC19] [Recommending Differentiated Code to Support Smart Contract Update](). 
 
-* [ICPC 2019] [Enabling clone detection for ethereum via smart contract birthmarks](). 
+* [ICPC19] [Enabling clone detection for ethereum via smart contract birthmarks](). 
 
-* [WETSEB 2018] [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445052). 
+* [WETSEB18] [SmartCheck: Static Analysis of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8445052). 
 
-* [EDCC 2018] [Runtime Verification of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8530777).
+* [EDCC18] [Runtime Verification of Ethereum Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8530777).
 
-* [ICSCA 2018] [Formal Modeling and Verification of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3185089.3185138).
+* [ICSCA18] [Formal Modeling and Verification of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3185089.3185138).
 
-* [SRDS 2020] [Protect Your Smart Contract Against Unfair Payment]().
+* [SRDS20] [Protect Your Smart Contract Against Unfair Payment]().
 
-* [SRDS 2020] [TZ4Fabric: Executing Smart Contracts with ARM TrustZone (Practical Experience Report)]().
+* [SRDS20] [TZ4Fabric: Executing Smart Contracts with ARM TrustZone (Practical Experience Report)]().
 
-* [IJCAI 2020] [Smart Contract Vulnerability Detection Using Graph Neural Networks]().
+* [IJCAI20] [Smart Contract Vulnerability Detection Using Graph Neural Networks]().
 
 * [ISSRE2019] [MPro: Combining Static and Symbolic Analysis for Scalable Testing of Smart Contract](https://arxiv.org/pdf/1911.00570.pdf).
 
@@ -1535,7 +1535,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [DAC20] [BPU: A blockchain processing unit for accelerated smart contract execution](https://www.ece.lsu.edu/lpeng/papers/DAC20.pdf).
 
 * [TOPLAS20] [Obsidian: Typestate and Assets for Safer Blockchain Programming](https://dl.acm.org/doi/pdf/10.1145/3417516).
-
 
 ## License
 
