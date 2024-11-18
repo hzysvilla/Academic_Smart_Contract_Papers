@@ -18,7 +18,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 | [USENIX Security](#usenix-security) |    [VLDB](#miscellaneous)    |                 [ASE](#ase)                 |     [IEEE ICDCS](#icdcs)     |
 |            [NDSS](#ndss)            | [ACM SIGMOD](#miscellaneous) |              [ACM PLDI](#pldi)              |        [OSDI](#osdi)         |
 |          [IEEE DSN](#dsn)           |   [IEEE INFOCOM](#infocom)   |            [ACM OOPSLA](#oopsla)            | [Usenix ATC](#miscellaneous) |
-|       [SRCS](#miscellaneous)        |         [IMC](#imc)          |               [ISSTA](#issta)               |         NSDI(#nsdi)          |
+|       [SRCS](#miscellaneous)        |         [IMC](#imc)          |               [ISSTA](#issta)               |                              |
 |            [RAID](#raid)            |         [WWW](#www)          |              [ACM POPL](#popl)              |                              |
 |             [CAV](#cav)             |                              |                                             |                              |
 
@@ -1191,13 +1191,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [security] [Towards a first step to understand the cryptocurrency stealing attack on ethereum](https://www.usenix.org/system/files/raid2019-cheng.pdf).
 
-------
 
-## NSDI
-
-### 2024
-
-[performance] [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
 
 ## ICDCS
 
@@ -1449,6 +1443,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [Usenix ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). 
 
 * [Usenix ATC21] [RainBlock: Faster Transaction Processing in Public Blockchains](https://www.usenix.org/system/files/atc21-ponnapalli.pdf).
+
+* [NSDI 24] [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
 
 * [EORUSYS23] [Diablo: A Benchmark Suite for Blockchains](https://6788543.fs1.hubspotusercontent-na1.net/hubfs/6788543/Eurosys23-Diablo.pdf) | **[MyTLDR](TLDR.md#23_9_29)**.
 
