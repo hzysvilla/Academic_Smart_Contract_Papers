@@ -11,16 +11,16 @@ The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700.
 Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=O_vixKoAAAAJ).
 
 ## Table of Listed Conferences
-|          Security & Crypto          |    Networking & Database     | Software Engineering & Programming Language |     System Architecture      |
-| :---------------------------------: | :--------------------------: | :-----------------------------------------: | :--------------------------: |
-|           [IEEE S&P](#sp)           |  [SIGMETRICS](#sigmetrics)   |                [ICSE](#icse)                |  [EuroSys](#miscellaneous)   |
-|           [ACM CCS](#ccs)           |    [ICDE](#miscellaneous)    |            [ESEC/FSE](#esecfse)             |      [ACM SOSP](#sosp)       |
-| [USENIX Security](#usenix-security) |    [VLDB](#miscellaneous)    |                 [ASE](#ase)                 |     [IEEE ICDCS](#icdcs)     |
-|            [NDSS](#ndss)            | [ACM SIGMOD](#miscellaneous) |              [ACM PLDI](#pldi)              |        [OSDI](#osdi)         |
-|          [IEEE DSN](#dsn)           |   [IEEE INFOCOM](#infocom)   |            [ACM OOPSLA](#oopsla)            | [Usenix ATC](#miscellaneous) |
-|       [SRCS](#miscellaneous)        |         [IMC](#imc)          |               [ISSTA](#issta)               |                              |
-|            [RAID](#raid)            |         [WWW](#www)          |              [ACM POPL](#popl)              |                              |
-|             [CAV](#cav)             |                              |                                             |                              |
+|     Security & Crypto               |               Networking & Database               | Software Engineering & Programming Language |     System Architecture     |
+| :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :--------------------------:|
+|           [IEEE S&P](#sp)           |             [SIGMETRICS](#sigmetrics)             |                [ICSE](#icse)                |  [EuroSys](#miscellaneous)  |
+|           [ACM CCS](#ccs)           |                   [ICDE](#miscellaneous)                 |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)          |
+| [USENIX Security](#usenix-security) |                   [VLDB](#miscellaneous)                 |                 [ASE](#ase)                 |  [IEEE ICDCS](#icdcs)       |
+|           [NDSS](#ndss)             |               [ACM SIGMOD](#miscellaneous)               |              [ACM PLDI](#pldi)              |     [OSDI](#osdi)           |
+|        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            | [Usenix ATC](#miscellaneous)|
+|         [SRCS](#miscellaneous)             |                   [IMC](#imc)                     |              [ISSTA](#issta)                |                             |
+|          [RAID](#raid)              |                   [WWW](#www)                     |             [ACM POPL](#popl)               |                             |
+|          [CAV](#cav)                |                                                   |                                             |                             |
 
 ## Table of Listed Journals
 - [TOSEM](#tosem)
@@ -834,17 +834,23 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2024 
 
 * [security] [Towards Understanding Crypto-Asset Risks on Ethereum Caused by Key Leakage on the Internet]().
+
 * [Finance] [Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets]().
+
 * [Finance] [DenseFlow: Spotting Cryptocurrency Money Laundering in Ethereum Transaction Graphs]().
+
 * [Finance] [Unveiling the Paradox of NFT Prosperity]().
-* [security] [Blockchain Censorship](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blockchain+Censorship&btnG=)
-* [security] [ARTEMIS: Detecting Airdrop Hunters in NFT Markets with a Graph Learning System](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ARTEMIS%3A+Detecting+Airdrop+Hunters+in+NFT+Markets+with+a+Graph+Learning+System&btnG=)
+
 * [security] [Advancing Web 3.0: Making Smart Contracts Smarter on Blockchain]().
-* [security] [Identifying Risky Vendors in Cryptocurrency P2P Marketplaces](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Identifying+Risky+Vendors+in+Cryptocurrency+P2P+Marketplaces&btnG=)
+
 * [security] [Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications]().
+
 * [security] [ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain]().
+
 * [security] [Investigations of Top-Level Domain Name Collisions in Blockchain Naming Services]().
+
 * [security] [Interface Illusions: Uncovering the Rise of Visual Scams in Cryptocurrency Wallets]().
+
 * [measurement] [Don't Trust, Verify: The Case of Slashing from a Popular Ethereum Explorer]().
 
 ### 2023
@@ -1191,7 +1197,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [security] [Towards a first step to understand the cryptocurrency stealing attack on ethereum](https://www.usenix.org/system/files/raid2019-cheng.pdf).
 
-
+------
 
 ## ICDCS
 
@@ -1443,8 +1449,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [Usenix ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf). 
 
 * [Usenix ATC21] [RainBlock: Faster Transaction Processing in Public Blockchains](https://www.usenix.org/system/files/atc21-ponnapalli.pdf).
-
-* [NSDI 24] [The Eternal Tussle: Exploring the Role of Centralization in IPFS](https://www.usenix.org/system/files/nsdi24-wei.pdf)
 
 * [EORUSYS23] [Diablo: A Benchmark Suite for Blockchains](https://6788543.fs1.hubspotusercontent-na1.net/hubfs/6788543/Eurosys23-Diablo.pdf) | **[MyTLDR](TLDR.md#23_9_29)**.
 
