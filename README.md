@@ -843,6 +843,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [security] [Advancing Web 3.0: Making Smart Contracts Smarter on Blockchain]().
 
+* [security] [Blockchain Censorship](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Blockchain+Censorship&btnG=)
+
+* [security] [Identifying Risky Vendors in Cryptocurrency P2P Marketplaces](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Identifying+Risky+Vendors+in+Cryptocurrency+P2P+Marketplaces&btnG=)
+
+* [security] [ARTEMIS: Detecting Airdrop Hunters in NFT Markets with a Graph Learning System](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=ARTEMIS%3A+Detecting+Airdrop+Hunters+in+NFT+Markets+with+a+Graph+Learning+System&btnG=)
+
 * [security] [Characterizing Ethereum Upgradable Smart Contracts and Their Security Implications]().
 
 * [security] [ZipZap: Efficient Training of Language Models for Large-Scale Fraud Detection on Blockchain]().
