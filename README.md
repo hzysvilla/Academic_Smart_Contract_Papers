@@ -42,6 +42,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2025
 
 * [security] [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://arxiv.org/pdf/2407.03543).
+* [security] [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4)
+* [security] [Volatile and Persistent Memory for zkSNARKs via Algebraic Interactive Proofs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a054/21B7R0YQXtK)
+* [security] [Phecda: Post-Quantum Transparent zkSNARKs from Improved Polynomial Commitment and VOLE-in-the-Head with Application in Publicly Verifiable AES](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a055/21B7R1Oem1q)
+* [security] [Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a042/21B7QvjJ9Ty)
+* [security] [P2C2T: Preserving the Privacy of Cross-Chain Transfer](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a051/21B7QYE5x8Q)
 
 ### 2024
 
