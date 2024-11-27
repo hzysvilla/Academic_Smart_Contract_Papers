@@ -675,10 +675,16 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2025
 
 * [security] [Safeguarding DeFi Smart Contracts against Oracle Deviations]().
-
 * [security] [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-GuidedSymbolic Execution]().
-
-* [security] [Demystifying and Detecting Cryptographic Defects in Ethereum SmartContracts]().
+* [security] [Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts]().
+* [LLM] [Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications]().
+* [security] [An Empirical Study of Proxy Smart Contracts at the Ethereum Ecosystem Scale]().
+* [security] [Fork State-Aware Differential Fuzzing for Blockchain Consensus Implementations]().
+* [security] [Automated Test Generation For Smart Contracts via On-Chain Test Case Augmentation and Migration]().
+* [security] [FairChecker: Detecting Fund-stealing Bugs in DeFi Protocols via Fairness Validation]().
+* [security] [Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects]().
+* [security] [Code Cloning in Solidity Smart Contracts: Prevalence, Evolution, and Impact on Development]().
+* [security] [Definition and Detection of Centralization Defects in Smart Contracts]().
 
 ### 2024
 
@@ -697,7 +703,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [PrettySmart: Detecting Permission Re-delegation Vulnerability for Token Behaviors in Smart Contracts]().
 
 * [security] [When Contracts Meets Crypto: Exploring Developers' Struggleswith Ethereum Cryptographic APIs]()
-
+ 
 * [security] [PonziGuard: Detecting Ponzi Schemes on Ethereum with Contract Runtime Behavior Graph (CRBG)]().
 
 * [security] [Revealing Hidden Threats: An Empirical Study of Library Misuse in Smart Contracts]() |  [MyTLDR](TLDR.md#23_11_11).
