@@ -51,33 +51,19 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2024
 
 * [security] [NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://github.com/hzysvilla/Nurgle_Oakland24/blob/main/Nurgle_oakland24.pdf).
-
 * [security] [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271.pdf).
-
 * [security] [Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://arxiv.org/abs/2312.16533) | **[MyTLDR](TLDR.md#24_5_20)**.
-
 * [security] [POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://www.dropbox.com/scl/fi/ye9ij7m782bbr2lckt20e/IEEES_P24-camera-ready.pdf) | **[MyTLDR](TLDR.md#24_5_22)**.
-
 * [security] [Conning the Crypto Conman: End-to-End Analysis of Cryptocurrency-based Technical Support Scams](https://arxiv.org/pdf/2401.09824)
-
 * [security] [Certifying Zero-Knowledge Circuits with Refinement Types](https://eprint.iacr.org/2023/547.pdf).
-
 * [security] [Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers](https://arxiv.org/pdf/2212.05197.pdf) | **[MyTLDR](TLDR.md#24_4_17)**.
-
 * [security] [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://arxiv.org/pdf/2212.05219.pdf).
-
 * [security] [Towards Smart Contract Fuzzing on GPUs]().
-
 * [security] [SMARTINV: Multimodal Learning for Smart Contract Invariant Inference]()| **[MyTLDR](TLDR.md#24_2_22)**.
-
 * [security] [Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts](papers/sp24_Nyx.pdf) | **[MyTLDR](TLDR.md#24_2_12)**.
-
 * [security] [Optimal Flexible Consensus and its Application to Ethereum]().
-
 * [security] [Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Chronos_sp24.pdf).
-
 * [security] [Pulling off the mask: Forensic analysis of the deceptive creator wallets behind smart contract fraud]().
-
 * [security] [Non-Atomic Arbitrage in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Non-Atomic+Arbitrage+in+Decentralized+Finance&btnG=)
 
 ### 2023
@@ -265,7 +251,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [security] [All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts](https://arxiv.org/pdf/2405.20561).
 
-* [security] [Speculative Denial-of-Service Attacks in Ethereum](https://www.usenix.org/system/files/sec24summer-prepub-32-yaish.pdf).
+* [security] [Speculative Denial-of-Service Attacks in Ethereum](https://www.usenix.org/system/files/sec24summer-prepub-32-yaish.pdf) | **[MyTLDR](TLDR.md#24_11_1)**.
 
 * [security] [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts](https://www.usenix.org/system/files/usenixsecurity24-liu-han.pdf).
 

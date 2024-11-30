@@ -1,8 +1,18 @@
+# 24_11_30
+## Sec24 | Speculative Denial-of-Service Attacks in Ethereum
+* Motivation: this work proposes three exploit methods to launch the DoS attack for Ethereum's proposer.
+* Main ideas: the authors contrast the malicious transactions by crafting the logic of smart contracts, sanctioned addresses, and cross-transaction dependency relations.
+* Attack1: the author constructed a type of conditional resource exhaust attack. Concretely, the authors craft the transaction interacted with an exploit contract. In the exploit contract, the author uses some block environment parameters (e.g., specific block number or block miner) as a condition to trigger some heavy I/O logic (i.e., payload) to decrease the proposer's efficiency. The condition of specific block numbers and block miners in the exploited contract ensures the time and target (i.e., validator) of the attack. 
+* The cost-saving trick of attack1: The author adopts an interesting trick to save the cost of attack, which makes the exploit contract interact with the sanctioned addresses (The addresses that are banned by powerful institutions). If the proposer wants to meet compliance requirements, they will drop the malicious transactions after executing the payload. 
+* Attack2: the author constructs another attack by constructing a transactions exploit chain. The first transaction in the exploit chains will execute some operations to nullify subsequent transactions (e.g., transferring all the funding of the account related to the rest of the transactions). By doing so, the attack can evict the validated transaction in the memory pool.
+* Exploit: The author exploits the above two methods to attack the proposer in the MEV system. The attack2 first evicts the validated transaction in the memory pool, and attack1 will be included as the first transaction in tranaction2's export chains.  Finally, the proposer cannot package any validated transaction in block.
+* Evaluation: The authors conducted experiments on a testnet, simulating attacks with specific parameters, showing up to 96% block sync slowdown and 80% mempool clogging.
+
+
 # 24_11_1
 ### Sec24 | Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS
-
 * Motivation: this work proposes a new method to attack the honest stakers in the Ethereum Poof-of-Stake (PoS) mechanism, which causes the stakers to lose part of their staking funding.
-* Background: in Ethereum’s PoS, every block will be proposed in a slot and every 32 slots will constitute a epoch. To keep the consensus and security of the chain, PoS mechanism constructs a type of actors called validators to propose and validate every block. To become the validators, the user must stake 32 eth on the Ethereum. To finality and check every epoch, every validator will vote on the last epoch (source) to the current epoch (target). The validator who doesn’t vote will get the penalty.
+* Background: in Ethereum's PoS, every block will be proposed in a slot and every 32 slots will constitute a epoch. To keep the consensus and security of the chain, PoS mechanism constructs a type of actors called validators to propose and validate every block. To become the validators, the user must stake 32 eth on the Ethereum. To finality and check every epoch, every validator will vote on the last epoch (source) to the current epoch (target). The validator who doesn't vote will get the penalty.
 * Threat models: the attacker must be the proposer of the first slot in an epoch and control 29.8% of total staking funding.
 * Core idea: the attacker as the proposer uninterruptedly withholds the block to disturb the visibility (a.k.a view) of the honest stakers. At this moment, the honest stakers will vote for attestation with the wrong source and target (as the attacker withholds the block, the chain in honest stakers is discrete). The Ethereum will discard the wrong attestation and the honest staker will get the penalty.
 * Poof-of-Conception: the authors simulate an environment with 1000 validators running Prysm. The result shows if the adversary controls a 29.6% stake, all honest validators lose their incentives.
