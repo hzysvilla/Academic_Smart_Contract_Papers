@@ -37,9 +37,9 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 -----
 
-## S&P
+## S&P([25](#sp2025),[24](#sp2024),[23](#sp2023),[22](#sp2022),[21](#sp2021),[20](#sp2020),[16](#sp2016),[15](#sp2015))
 
-### 2025
+### 2025 {#sp2025}
 
 * [security] [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://arxiv.org/pdf/2407.03543).
 * [security] [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4)
@@ -48,7 +48,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Security Perceptions of Users in Stablecoins: Advantages and Risks within the Cryptocurrency Ecosystem](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a042/21B7QvjJ9Ty)
 * [security] [P2C2T: Preserving the Privacy of Cross-Chain Transfer](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a051/21B7QYE5x8Q)
 
-### 2024
+### 2024 {#sp2024}
 
 * [security] [NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://github.com/hzysvilla/Nurgle_Oakland24/blob/main/Nurgle_oakland24.pdf).
 * [security] [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271.pdf).
@@ -66,59 +66,47 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Pulling off the mask: Forensic analysis of the deceptive creator wallets behind smart contract fraud]().
 * [security] [Non-Atomic Arbitrage in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Non-Atomic+Arbitrage+in+Decentralized+Finance&btnG=)
 
-### 2023
+### 2023 {#sp2023}
 
 * [financail] [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://roibarzur.github.io/assets/pdfs/werlman-systor-poster-2022.pdf) | **[MyTLDR](TLDR.md#sp23_WeRLman)**.
-
 * [security] [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf) | **[MyTLDR](TLDR.md#sp23_CF)**.
-
 * [security] [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/pdf/2208.13035.pdf) | **[MyTLDR](TLDR.md#sp23_CF)**.
-
 * [security] [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2023/9336/00/933600b186.pdf).
-
 * [security] [Three Birds with One Stone: Efficient Partitioning Attacks on Interdependent Cryptocurrency Networks]() | **[MyTLDR](TLDR.md#23_8_27)**.
 
-### 2022
+### 2022 {#sp2022}
 
 * [security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf) | **[MyTLDR](TLDR.md#23_8_28)**.
-
 * [security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).
 
-### 2021
+### 2021 {#sp2021}
 
 * [security] [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf) | **[MyTLDR](TLDR.md#23_10_7)**.
-
 * [security] [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917)
-
 * [finance] [On the Just-In-Time Discovery of Profit-Generating Transactions in DeFi Protocols](https://arxiv.org/pdf/2103.02228).
-
 * [security] [Compositional Security for Reentrant Applications](https://arxiv.org/abs/2103.08577) | **[MyTLDR](TLDR.md#23_10_24)**.
-
 * [security] [High-Frequency Trading on Decentralized On-Chain Exchanges](https://arxiv.org/pdf/2009.14021.pdf).
 
-### 2020
+### 2020 {#sp2020}
 
 * [security] [Flash Boys 2.0: Frontrunning in Decentralized Exchanges, Miner Extractable Value, and Consensus Instability](https://par.nsf.gov/servlets/purl/10159474).
-
 * [security] [VerX: Safety Verification of Smart Contracts](https://files.sri.inf.ethz.ch/website/papers/sp20-verx.pdf) | **[MyTLDR](TLDR.md#23_10_9)**.
-
 * [security] [VeriSmart: A Highly Precise Safety Verifier for Ethereum Smart Contracts](https://arxiv.org/pdf/1908.11227.pdf).
-
 * [security] [Executable Operational Semantics of Solidity](https://arxiv.org/pdf/1804.01295.pdf)  | **[MyTLDR](TLDR.md#23_11_5)**.
 
-### 2016
+### 2016 {#sp2016}
 
 * [application] [Hawk: The Blockchain Model of Cryptography and Privacy-Preserving Smart Contracts](https://eprint.iacr.org/2015/675.pdf).
 
-### 2015
+### 2015 {#sp2015}
 
 * [security] [The miner's dilemma](https://ieeexplore.ieee.org/abstract/document/7163020/?casa_token=2ShbDBdLkqsAAAAA:2azvGTReTOEq1W57w26L7RFfiWDIccjuTzxLD9j4ErZZ7skL1hrK4FqetEvLKdwQK9gBnIftdGZ3cw)
 
 ---
 
-## CCS
+## CCS([24](#ccs2024),[23](#ccs2023),[22](#ccs2022),[21](#ccs2021),[20](#ccs2020),[19](#ccs2019),[18](#ccs2018),[17](#ccs2017),[16](#ccs2016))
 
-### 2024
+### CCS2024 {#ccs2023}
 
 * [security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://arxiv.org/pdf/2410.12210).
 
@@ -146,93 +134,65 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [security] [Characterizing Ethereum Address Poisoning Attack]().
 
-### 2023
+### CCS2023 {#ccs2023}
 
 * [security] [Demystifying DeFi MEV Activities in Flashbots Bundle](https://zzzihao-li.github.io/papers/CCS23_Bundle_MEV_full_version.pdf) | **[MyTLDR](TLDR.md#23_9_25)**.
-
 * [security] [Cryptocurrency wallets, security, usability, multi-device wallets]().
-
 * [security] [Fait Accompli Committee Selection: Improving the Size-Security Tradeoff of Stake-Based Committees]().
-
 * [security] [The Locality of Memory Checking](/papers/ccs23__Locality_of_Memory_Checking.pdf)
-
 * [security] [Lanturn: Measuring Economic Security of Smart Contracts Through Adaptive Learning](https://eprint.iacr.org/2023/1338) | **[MyTLDR](TLDR.md#23_12_6)**.
-
 * [security] [Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild]().
-
 * [security] [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://yajin.org/papers/ccs23_phishing.pdf)  | **[MyTLDR](TLDR.md#23_11_25)**.
-
 * [security] [How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance]().
-
 * [security] [Uncovering Impact of Mental Models towards Adoption of Multi-device Crypto-Wallets]().
-
 * [security] [Uncle Maker: (Time)Stamping Out The Competition in Ethereum](https://eprint.iacr.org/2022/1020.pdf) | **[MyTLDR](TLDR.md#24_3_19)**.
-
 * [security] [TrustBoost: Boosting Trust among Interoperable Blockchains]().
-
 * [security] [Analyzing the Real-World Security of the Algorand Blockchain]().
-
 * [security] [Phoenix: Detect and Locate Resilience Issues in Blockchain via Context-Sensitive Chaos](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/CCS23.pdf) | **[MyTLDR](TLDR.md#23_10_18)**.
-
 * [security] [Fuzz on the Beach: Fuzzing Solana Smart Contracts](https://arxiv.org/pdf/2309.03006.pdf) | **[MyTLDR](TLDR.md#23_9_28)**.
-
 * [security] [Cybercrime Bitcoin Revenue Estimations: Quantifying the Impact of Methodology and Coverage]().
 
-### 2022 
+### CCS2022 {#ccs2022} 
 
 * [security] [Empirical Analysis of EIP-1559: Transaction Fees, Waiting Time, and Consensus Security](https://arxiv.org/pdf/2201.05574.pdf).
-
 * [security] [Towards Automated Safety Vetting of Smart Contracts in Decentralized Applications](https://yueduan.github.io/pub/smart_contracts_analysis__ccs22.pdf) | **[MyTLDR](TLDR.md#23_9_2)**.
-
 * [security] [VRust: Automated Vulnerability Detection for Solana Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3548606.3560552) | **[MyTLDR](TLDR.md#ccs22_vrust)**.
-
 * [security] [Watch Your Back: Identifying Cybercrime Financial Relationships in Bitcoin through Back-and-Forth Exploration](https://dl.acm.org/doi/pdf/10.1145/3548606.3560587). 
-
 * [security] [Understanding Security Issues in the NFT Ecosystem](https://arxiv.org/pdf/2305.15829.pdf).
 
-### 2021
+### CCS2021 {#ccs2021} 
 
 * [security] [DETER: Denial of Ethereum Txpool sERvices](https://dl.acm.org/doi/pdf/10.1145/3460120.3485369).
-
 * [security] [SyncAttack: Double-spending in Bitcoin Without Mining Power](https://dl.acm.org/doi/pdf/10.1145/3460120.3484568).
 
-### 2020
+### CCS2020 {#ccs2020}
 
 * [security] [ACE: Asynchronous and Concurrent Execution of Complex Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417243)  | **[MyTLDR](TLDR.md#23_11_18)**.
-
 * [security] [eThor: Practical and Provably Sound Static Analysis of Ethereum Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3372297.3417250).
-
 * [security] [Bdos: Blockchain denial-of-service]().
 
-### 2019
+### CCS2019 {#ccs2019}
 
 * [SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](https://dl.acm.org/doi/pdf/10.1145/3319535.3345664).
-
 * [security] [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363230).  | **[MyTLDR](TLDR.md#24_2_6)**.
-
 * [security] [Zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363222).
-
 * [security] [Power adjusting and bribery racing: Novel mining attacks in the bitcoin system](https://dl.acm.org/doi/abs/10.1145/3319535.3354203?casa_token=xLz-OozqQroAAAAA:0kL7UecW8hMvAQzpv8ULn9k41WJynntymzzy3VQ65e4W_nRAmb_aH0q9p_zUH0QPPnDokB5OroM4yYc)
 
-### 2018
+### CCS2018 {#ccs2018}
 
 * [security] [Securify: Practical Security Analysis of Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3243734.3243780).
-
 * [security] [BitML: a calculus for Bitcoin smart contracts Massimo](https://dl.acm.org/doi/pdf/10.1145/3243734.3243795).
 
-### 2017
+### CCS2017 {#ccs2017}
 
 * [security] [Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing](https://dl.acm.org/doi/pdf/10.1145/3133956.3134032).
-
 * [security] [Be selfish and avoid dilemmas: Fork after withholding (faw) attacks on bitcoin](https://dl.acm.org/doi/abs/10.1145/3133956.3134019?casa_token=RygrxGCbX1wAAAAA:mCNjib6WmZcqSJ_vmYligwXGkfAGSVTujZ9YWVoPTcFUe8fyrOgCkrb9vu4vxdjM4t37TCG9sF8F0ys)
 
 
-### 2016
+### CCS2016 {#ccs2016}
 
 * [security] [Making Smart Contracts Smarter](https://dl.acm.org/doi/pdf/10.1145/2976749.2978309) | **[MyTLDR](TLDR.md#23_11_20)**.
-
 * [security] [Formal verification of smart contracts: Short paper](https://dl.acm.org/doi/10.1145/2993600.2993611).
-
 * [security] [Town crier: An authenticated data feed for smart contracts](https://dl.acm.org/doi/pdf/10.1145/2976749.2978326).
 
 ---
