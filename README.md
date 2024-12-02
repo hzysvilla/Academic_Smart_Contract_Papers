@@ -621,7 +621,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2025
 
 * [security] [Safeguarding DeFi Smart Contracts against Oracle Deviations]().
-* [security] [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-GuidedSymbolic Execution]().
+* [security] [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution]().
 * [security] [Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts]().
 * [LLM] [Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications]().
 * [security] [An Empirical Study of Proxy Smart Contracts at the Ethereum Ecosystem Scale]().
