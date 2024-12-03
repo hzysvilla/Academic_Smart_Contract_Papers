@@ -39,7 +39,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## S&P ([25](#sp2025),[24](#sp2024),[23](#sp2023),[22](#sp2022),[21](#sp2021),[20](#sp2020),[16](#sp2016),[15](#sp2015))
 
-### 2025 {#sp2025}
+### sp2025
 
 * [security] [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://arxiv.org/pdf/2407.03543).
 * [security] [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4)
