@@ -79,7 +79,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Quantifying Blockchain Extractable Value: How dark is the forest?](https://arxiv.org/pdf/2101.05511.pdf) | **[MyTLDR](TLDR.md#23_8_28)**.
 * [security] [SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds](https://arxiv.org/pdf/2104.08638.pdf).
 
-### 2021 {#sp2021}
+### sp2021
 
 * [security] [SmartPulse: Automated Checking of Temporal Properties in Smart Contracts](https://www.microsoft.com/en-us/research/uploads/prod/2021/02/SmartPulse-Oakland21-preprint.pdf) | **[MyTLDR](TLDR.md#23_10_7)**.
 * [security] [sGUARD: Towards Fixing Vulnerable Smart Contracts Automatically](https://arxiv.org/abs/2101.01917)
@@ -991,7 +991,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## TOSEM
 
 * [TOSEM] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
-* [TOSEM] [Automating Comment Generation for Smart Contracts from Bytecode](().
+* [TOSEM] [Automating Comment Generation for Smart Contracts from Bytecode]().
 * [TOSEM] [FunFuzz: A Function-oriented Fuzzer for Smart Contract Vulnerability Detection with High Effectiveness and Efficiency]().
 * [TOSEM] [CLFuzz: Vulnerability Detection of Cryptographic Algorithm Implementation via Semantic-Aware Fuzzing]().
 * [TOSEM] [sGuard+: Machine Learning Guided Rule-based AutomatedVulnerability Repair on Smart Contracts.](https://dl.acm.org/doi/pdf/10.1145/3641846).
