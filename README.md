@@ -37,7 +37,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 -----
 
-## S&P([25](#sp2025),[24](#sp2024),[23](#sp2023),[22](#sp2022),[21](#sp2021),[20](#sp2020),[16](#sp2016),[15](#sp2015))
+## S&P ([25](#sp2025),[24](#sp2024),[23](#sp2023),[22](#sp2022),[21](#sp2021),[20](#sp2020),[16](#sp2016),[15](#sp2015))
 
 ### 2025 {#sp2025}
 
@@ -104,34 +104,22 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ---
 
-## CCS([24](#ccs2024),[23](#ccs2023),[22](#ccs2022),[21](#ccs2021),[20](#ccs2020),[19](#ccs2019),[18](#ccs2018),[17](#ccs2017),[16](#ccs2016))
+## CCS ([24](#ccs2024),[23](#ccs2023),[22](#ccs2022),[21](#ccs2021),[20](#ccs2020),[19](#ccs2019),[18](#ccs2018),[17](#ccs2017),[16](#ccs2016))
 
-### CCS2024 {#ccs2023}
+### CCS2024 {#ccs2024}
 
 * [security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://arxiv.org/pdf/2410.12210).
-
 * [security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() | **[MyTLDR](TLDR.md#24_9_18)**.
-
 * [security] [Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication]().
-
 * [security] [FORAY: Towards Effective Attack Synthesis against Deep Logical Vulnerabilities in DeFi Protocols](https://www.arxiv.org/pdf/2407.06348).
-
 * [security] [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]().
-
 * [MEV] [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups]().
-
 * [Consensus] [Lutris: A Blockchain Combining Broadcast and Consensus]().
-
 * [Economic] [Blockchain Bribing Attacks and the Efficacy of Counterincentives]().
-
 * [security] [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials]().
-
 * [security] [DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back]().
-
 * [security] [Data Independent Order Policy Enforcement: Limitations and Solutions]().
-
 * [security] [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets]().
-
 * [security] [Characterizing Ethereum Address Poisoning Attack]().
 
 ### CCS2023 {#ccs2023}
@@ -197,185 +185,127 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ---
 
-## USENIX Security
+## USENIX Security ([24](#sec2024),[23](#sec2023),[22](#sec2022),[21](#sec2021),[20](#sec2020),[19](#sec2019),[18](#sec2018),[17](#sec2017))
 
-### 2024
+### Sec2024 {#sec2024}
 
 * [security] [Sprints: Intermittent Blockchain PoW Mining](https://eprint.iacr.org/2023/626.pdf).
-
 * [security] [Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS](https://www.usenix.org/system/files/usenixsecurity24-zhang-mingfei.pdf) | **[MyTLDR](TLDR.md#24_11_1)**.
-
 * [security] [zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://www.usenix.org/system/files/usenixsecurity24-guo-yihao.pdf).
-
 * [security] [Understanding Ethereum Mempool Security under Asymmetric DoS by Symbolized Stateful Fuzzing](https://arxiv.org/pdf/2312.02642).
-
 * [security] [All Your Tokens are Belong to Us: Demystifying Address Verification Vulnerabilities in Solidity Smart Contracts](https://arxiv.org/pdf/2405.20561).
-
 * [security] [Speculative Denial-of-Service Attacks in Ethereum](https://www.usenix.org/system/files/sec24summer-prepub-32-yaish.pdf) | **[MyTLDR](TLDR.md#24_11_1)**.
-
 * [security] [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts](https://www.usenix.org/system/files/usenixsecurity24-liu-han.pdf).
-
 * [security] [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190.pdf) | **[MyTLDR](TLDR.md#23_9_30)**.
-  
 * [security] [Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus](https://www.usenix.org/system/files/usenixsecurity24-wei-jianghong.pdf).
 
-### 2023
-
-* [security] [Smart Learning to Find Dumb Contracts](https://www.usenix.org/system/files/usenixsecurity23-abdelaziz.pdf).
+### Sec2023 {#sec2023}
 
 * [security] [Confusum Contractum: Confused Deputy Vulnerabilities in Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-gritti.pdf).
-
 * [security] [Panda: Security Analysis of Algorand Smart Contracts](https://arxiv.org/pdf/2009.02663).
-
 * [security] [Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains](https://yueduan.github.io/pub/uschunt_usenix23.pdf).
-
 * [security] [The Blockchain Imitation Game](https://www.usenix.org/system/files/sec23fall-prepub-331-qin.pdf).
-
 * [security] [A Large Scale Study of the Ethereum Arbitrage Ecosystem](https://www.usenix.org/system/files/sec23fall-prepub-515-mclaughlin.pdf) | **[MyTLDR](TLDR.md#23_8_29)**.
-
 * [security] [A Mixed-Methods Study of Security Practices of Smart Contract Developers](https://www.usenix.org/system/files/usenixsecurity23-sharma.pdf) | **[MyTLDR](TLDR.md#23_9_17)**.
-
 * [security] [Smart Learning to Find Dumb Contracts](https://www.usenix.org/system/files/usenixsecurity23-abdelaziz.pdf) | **[MyTLDR](TLDR.md#23_9_4)**.
-
 * [security] [Snapping Snap Sync: Practical Attacks on Go Ethereum Synchronising Nodes](https://www.usenix.org/system/files/usenixsecurity23-taverna.pdf) | **[MyTLDR](TLDR.md#23_9_3)**.
-
 * [security] [Token Spammers, Rug Pulls, and Sniper Bots: An Analysis of the Ecosystem of Tokens in Ethereum and in the Binance Smart Chain (BNB)](https://arxiv.org/pdf/2206.08202.pdf) | **[MyTLDR](TLDR.md#23_9_7)**.
-
 * [security] [Automated Inference on Financial Security of Ethereum Smart Contracts](https://www.usenix.org/system/files/usenixsecurity23-wang-wansen.pdf) | **[MyTLDR](TLDR.md#23_9_5)**.
-
 * [security] [Your Exploit is Mine: Instantly Synthesizing Counterattack Smart Contract](https://www.usenix.org/system/files/usenixsecurity23-zhang-zhuo-exploit.pdf) | **[MyTLDR](TLDR.md#23_9_18)**.
-
 * [security] [Anatomy of a High-Profile Data Breach: Dissecting the Aftermath of a Crypto-Wallet Case](https://www.usenix.org/system/files/sec23_slides_abramova.pdf).
-
 * [security] [Mixed Signals: Analyzing Ground-Truth Data on the Users and Economics of a Bitcoin Mixing Service](https://www.usenix.org/system/files/usenixsecurity23-miedema.pdf).
-
 * [security] [Is Your Wallet Snitching On You? An Analysis on the Privacy Implications of Web3](https://arxiv.org/pdf/2306.08170).
 
-### 2022
+### Sec2022 {#sec2022}
 
 * [security] [How to Peel a Million: Validating and Expanding Bitcoin Clusters](https://www.usenix.org/system/files/sec22-kappos.pdf).
-
 * [security] [Total Eclipse of the Heart-Disrupting the InterPlanetary File System](https://www.usenix.org/system/files/sec22-prunster.pdf).
 
-### 2021
+### Sec2021 {#sec2021}
 
 * [security] [Evil Under the Sun: Understanding and Discovering Attacks on Ethereum Decentralized Applications](https://www.usenix.org/system/files/sec21summer_su.pdf).
-
 * [security] [EOSAFE: Security Analysis of EOSIO Smart Contracts](http://sei.pku.edu.cn/~yaoguo/papers/He-Security-21.pdf).
-
 * [security] [SmarTest: Effectively Hunting Vulnerable Transaction Sequences in Smart Contracts through Language Model-Guided Symbolic Execution](http://prl.korea.ac.kr/~ssb920/papers/sec21.pdf)  | **[MyTLDR](TLDR.md#23_9_21)**.
-
 * [security] [Smart Contract Vulnerabilities: Vulnerable Does Not Imply Exploited](https://www.doc.ic.ac.uk/~livshits/papers/pdf/usenixsec21.pdf).
-
 * [security] [EVMPatch: Timely and Automated Patching of Ethereum Smart Contracts](https://www.usenix.org/system/files/sec21summer_rodler.pdf).
-
 * [security] [Frontrunner Jones and the Raiders of the Dark Forest: An Empirical Study of Frontrunning on the Ethereum Blockchain](https://arxiv.org/abs/2102.03347).
 
-### 2020 
+### Sec2020 {#sec2020}
 
 * [security] [ETHBMC: A Bounded Model Checker for Smart Contracts](https://www.usenix.org/system/files/sec20-frank.pdf) | **[MyTLDR](TLDR.md#23_11_22)**.
-
 * [security] [TXSPECTOR: Uncovering Attacks in Ethereum from Transactions](https://www.usenix.org/system/files/sec20-zhang-mengya.pdf).
-
 * [security] [An Ever-evolving Game: Evaluation of Real-world Attacks and Defenses in Ethereum Ecosystem](https://www.usenix.org/system/files/sec20-zhou-shunfan.pdf).
-
 * [security] [BlockSci: Design and applications of a blockchain analysis platform](https://www.usenix.org/system/files/sec20-kalodner.pdf)
 
 
-### 2019 
+### Sec2019 {#sec2019}
 
 * [security] [The art of the scam: Demystifying honeypots in ethereum smart contracts](https://www.usenix.org/system/files/sec19-torres.pdf) | **[MyTLDR](TLDR.md#24_3_2)**.
-
 * [application] [FastKitten: Practical Smart Contracts on Bitcoin]().
-
 * [security] [Tracing Transactions Across Cryptocurrency Ledgers](https://www.usenix.org/system/files/sec19-yousaf_0.pdf).
 
-### 2018 
+### Sec2018 {#sec2018}
 
 * [security] [Erays: Reverse Engineering Ethereum's Opaque Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-zhou.pdf).
-
 * [security] [teEther: Gnawing at Ethereum to Automatically Exploit Smart Contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-krupp.pdf).
-
 * [application] [Arbitrum: Scalable, private smart contracts](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-kalodner.pdf).
-
 * [security] [Enter the Hydra: Towards principled bug bounties and exploit-resistant smart contracts](https://eprint.iacr.org/2017/1090.pdf).
 
-### 2017
+### Sec2017 {#sec2017}
 
 * [security] [SmartPool: Practical Decentralized Pooled Mining](https://www.usenix.org/system/files/conference/usenixsecurity17/sec17-luu.pdf).
 
 ---
 
-## NDSS
+## NDSS ([25](#ndss2025),[24](#ndss2024),[23](#ndss2023),[21](#ndss2021),[20](#ndss2020),[19](#ndss2019),[18](#ndss2018))
 
-### 2025
+### NDSS2025 {#ndss2025} 
 
 * [security] [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/pdf/2405.02580).
-
 * [security] [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers]().
-
 * [security] [Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection]().
-
 * [security] [Dissecting Payload-based Transaction Phishing on Ethereum](https://arxiv.org/pdf/2409.02386).
 
-### 2024
+### NDSS2024 {#ndss2024} 
 
 * [security] [Separation is Good: A Faster Order-Fairness Byzantine Consensus](https://www.ndss-symposium.org/wp-content/uploads/2024-693-paper.pdf).
-
 * [security] [Proof of Backhaul: Trustfree Measurement of Broadband Bandwidth](https://www.ndss-symposium.org/wp-content/uploads/2024-764-paper.pdf)
-
 * [security] [A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance]().
-
 * [security] [Pisces: Private and Compliable Cryptocurrency Exchange]().
-
 * [security] [Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus]().
-
 * [security] [Content Censorship in the InterPlanetary File System]().
-
 * [security] [DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs]().
-
 * [security] [VETEOS: Statically Vetting EOSIO Contracts for the "Groundhog Day" Vulnerabilities](papers/NDSS24_vetEos.pdf)
-
 * [security] [Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts](https://seclab.cs.ucsb.edu/files/publications/ruaro24crush.pdf) | **[MyTLDR](TLDR.md#23_1_25)**.
-
 * [security] [Abusing the Ethereum Smart Contract Verification Services for Fun and Profit](https://arxiv.org/pdf/2307.00549.pdf)  | **[MyTLDR](TLDR.md#24_2_2)**.
 
-### 2023
+### NDSS2023 {#ndss2023} 
 
 * [security] [Double and Nothing: Understanding and Detecting Cryptocurrency Giveaway Scams](https://double-and-nothing.github.io/) | **[MyTLDR](TLDR.md#23_8_30)**.
-
 * [security] [Partitioning Ethereum without Eclipsing It](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f465_paper.pdf).
-
 * [security] [LOKI: State-Aware Fuzzing Framework for the Implementation of Blockchain Consensus Protocols](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_f78_paper.pdf).
-
 * [security] [BlockScope: Detecting and Investigating Propagated Vulnerabilities in Forked Blockchain Projects](https://github.com/VPRLab/BlkVulnReport/blob/main/NDSS23_BlockScope.pdf).
-
 * [security] [Smarter Contracts: Detecting Vulnerabilities in Smart Contracts with Deep Transfer Learning](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s263_paper.pdf) | **[MyTLDR](TLDR.md#23_8_31)**.
 
-### 2021
+### NDSS2021 {#ndss2021} 
 
 * [application] [Bitcontracts: Supporting Smart Contracts in Legacy Blockchains](https://eprint.iacr.org/2019/857.pdf).
-
 * [security] [As Strong As Its Weakest Link: How to Break Blockchain DApps at RPC Service](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_3C-1_23108_paper.pdf).
-
 * [security] [SquirRL: Automating Attack Analysis on Blockchain Incentive Mechanisms with Deep Reinforcement Learning](https://arxiv.org/abs/1912.01798).
 
-### 2020
+### NDSS2020 {#ndss2020} 
 
 * [security] [SODA: A Generic Online Detection Framework for Smart Contracts](https://www.ndss-symposium.org/wp-content/uploads/2020/02/24449-paper.pdf).
-
 * [security] [Broken Metre: Attacking Resource Metering in EVM](https://arxiv.org/pdf/1909.07220.pdf).
 
-### 2019
+### NDSS2019 {#ndss2019} 
 
 * [security] [YODA: Enabling computationally intensive contracts on blockchains with Byzantine and Selfish nodes](https://arxiv.org/pdf/1811.03265.pdf).
-
 * [security] [Sereum: Protecting Existing Smart Contracts Against Re-Entrancy Attacks](https://arxiv.org/pdf/1812.05934).
 
-### 2018
+### NDSS2018 {#ndss2018} 
 
 * [security] ["Zeus": Analyzing Safety of Smart Contracts](http://wp.internetsociety.org/ndss/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf).
-
 * [security] [Chainspace: A Sharded Smart Contracts Platform](https://arxiv.org/pdf/1708.03778).
 
 ---
