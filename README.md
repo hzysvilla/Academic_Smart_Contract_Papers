@@ -1057,6 +1057,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## Miscellaneous
 
+* [ICDE25] [MEST: An Efficient Authenticated Secondary Index in Blockchain Systems]().
 * [EuroSys25] [ParallelEVM: Operation-Level Concurrent Transaction Execution for EVM-Compatible Blockchains](https://arxiv.org/pdf/2211.07911).
 * [SC24] [Toward High-Performance Blockchain System by Blurring the Line between Ordering and Execution]().
 * [CACM24] [A Brief History of Blockchain Interoperability](https://dl.acm.org/doi/pdf/10.1145/3648607).
