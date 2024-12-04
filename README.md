@@ -1064,7 +1064,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [CACM24] [Transaction Fee Mechanism Design]().
 * [arxiv] [Large Language Models for Blockchain Security: A Systematic Literature Review](https://arxiv.org/pdf/2403.14280.pdf).
 * [PPoPP23] [Block-STM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing](https://arxiv.org/pdf/2203.06871).
-* [SC24] [Toward High-Performance Blockchain System by Blurring the Line between Ordering and Execution]().
 * [TC24] [GFBE: A Generalized and Fine-Grained Blockchain Evaluation Framework]().
 * [TC24] [BlockCompass: A Benchmarking Platform for Blockchain Performance]().
 * [FM23] [Formal and Executable Semantics of the Ethereum Virtual Machine in Dafny](https://arxiv.org/pdf/2303.00152).
