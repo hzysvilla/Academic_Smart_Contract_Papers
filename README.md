@@ -1005,6 +1005,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TSE
 
+* [TSE24] [Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools](https://arxiv.org/pdf/2402.09094).
 * [TSE24] [Unearthing Gas-Wasting Code Smells in Smart Contracts with Large Language Models]().
 * [TSE24] [SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts]().
 * [TSE24] [ContractCheck: Checking Ethereum Smart Contracts in Fine-Grained Level]().
@@ -1019,6 +1020,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [TSE] [Defining smart contract defects on ethereum](https://arxiv.org/pdf/1905.01467). 
 * [TSE] [Pluto: Exposing Vulnerabilities in Inter-Contract Scenarios](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/tse21.pdf).
 * [TSE] [Smart Contract Development: Challenges and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8847638).
+  
 ## TIFS
 
 * [TIFS24] [2DynEthNet: A Two-Dimensional Streaming Framework for Ethereum Phishing Scam Detection]().
