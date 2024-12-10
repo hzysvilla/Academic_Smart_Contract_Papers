@@ -863,6 +863,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2024
 
 * [security] [Miracle or Mirage? A Measurement Study of NFT Rug Pulls](https://dl.acm.org/doi/pdf/10.1145/3626782)
+* [security] [Towards Understanding and Characterizing the Arbitrage Bot Scam In the Wild](https://dl.acm.org/doi/abs/10.1145/3673660.3655088)
 
 ### 2023
 
