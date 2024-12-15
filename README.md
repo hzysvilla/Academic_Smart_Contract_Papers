@@ -110,7 +110,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### ccs2024
 
-* [security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://arxiv.org/pdf/2410.12210).
+* [security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://arxiv.org/pdf/2410.12210) | **[MyTLDR](TLDR.md#24_12_15)**.
 * [security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() | **[MyTLDR](TLDR.md#24_9_18)**.
 * [security] [Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication]().
 * [security] [FORAY: Towards Effective Attack Synthesis against Deep Logical Vulnerabilities in DeFi Protocols](https://www.arxiv.org/pdf/2407.06348).
