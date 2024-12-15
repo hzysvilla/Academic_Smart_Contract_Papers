@@ -123,6 +123,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Data Independent Order Policy Enforcement: Limitations and Solutions]().
 * [security] [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets]().
 * [security] [Characterizing Ethereum Address Poisoning Attack]().
+* [security] [Demo- Enhancing Smart Contract Security Comprehensively through Dynamic Symbolic Execution](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Demo-+Enhancing+Smart+Contract+Security+Comprehensively+through+Dynamic+Symbolic+Execution&btnG=)
 
 ### ccs2023
 
