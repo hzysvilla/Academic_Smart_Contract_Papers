@@ -833,6 +833,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## IMC
 
+### 2024
+
+* [security] [Analyzing the Impact of Copying-and-Pasting Vulnerable Solidity Code Snippets from Question-and-Answer Websites](https://arxiv.org/pdf/2409.07586). 
+
 ### 2023
 
 * [security] [Ethereum's Proposer-Builder Separation: Promises and Realities](https://arxiv.org/pdf/2305.19037.pdf) | **[MyTLDR](TLDR.md#23_11_15)**.
