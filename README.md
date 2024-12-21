@@ -111,6 +111,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### ccs2024
 
 * [security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://arxiv.org/pdf/2410.12210) | **[MyTLDR](TLDR.md#24_12_15)**.
+* [security] [Derecho: Privacy Pools with Proof-Carrying Disclosures](https://eprint.iacr.org/2023/273.pdf).
 * [security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() | **[MyTLDR](TLDR.md#24_9_18)**.
 * [security] [Defying the Odds: Solana's Unexpected Resilience in Spite of the Security Challenges Faced by Developers](https://arxiv.org/pdf/2406.13599).
 * [security] [Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication]().
