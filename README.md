@@ -268,6 +268,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### ndss2025 
 
+* [security] [Anonymity Schemes Used by Cryptocurrencies](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s241_paper.pdf).
+* [security] [Eclipse Attacks on Monero's Peer-to-Peer Network]().
 * [security] [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/pdf/2405.02580).
 * [security] [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers]().
 * [security] [Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection]().
