@@ -959,7 +959,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [storage] [GeckoDAG: Towards A Lightweight DAG-based Blockchain via Reducing Data Redundancy](https://repository.hkust.edu.hk/ir/Record/1783.1-133053)
 * [security] [Detecting Flash Loan Based Attacks in Ethereum]()
 * [security] [Towards Decentralized Adaptive Control of Cryptocurrency Liquidity via Auction]().
-* [applicaton] [A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain](https://massimolamorgia.com/assets/pdf/NFT_Wash_Trading___ICDCS2023.pdf).
+* [application] [A Game of NFTs: Characterizing NFT Wash Trading in the Ethereum Blockchain](https://massimolamorgia.com/assets/pdf/NFT_Wash_Trading___ICDCS2023.pdf).
 * [security] [Smart Contract Parallel Execution with Fine-Grained State Accesses](https://personal.ntu.edu.sg/yi_li/files/Qi2023SCP.pdf) | **[MyTLDR](TLDR.md#23_9_19)**.
 
 ### 2022
@@ -1038,7 +1038,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [TIFS24] [2DynEthNet: A Two-Dimensional Streaming Framework for Ethereum Phishing Scam Detection]().
 * [TIFS24] [Bringing Smart Contract Confidentiality via Trusted Hardware: Fact and Fiction]().
-* [TIFS24] [Blockchain-based Covert Communication: A Detection Attack and Efficient Improvement]().
+* [TIFS24] [Blockchain-based Convert Communication: A Detection Attack and Efficient Improvement]().
 * [TIFS24] [Who Stole My NFT? Investigating Web3 NFT Phishing Scams on Ethereum]().
 * [TIFS24] [Profitability Analysis of Time-Restricted Double-Spending Attack on PoW-based Large Scale Blockchains with the Aid of Multiple Attacks]().
 * [TIFS24] [Proof of Finalization: A Self-Fulfilling Function of Blockchain]().
