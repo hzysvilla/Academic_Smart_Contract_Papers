@@ -1060,6 +1060,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TDSC
 
+* [TDSC24] [HDWSA2: A Secure Hierarchical Deterministic Wallet Supporting Stealth Address and Signature Aggregation]().
 * [TDSC] [MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain]().
 * [TDSC] [DeFiRanger: Detecting DeFi Price Manipulation Attacks]().
 * [TDSC] [Highly Available Blockchain Nodes With N-Version Design](http://arxiv.org/pdf/2303.14438).
