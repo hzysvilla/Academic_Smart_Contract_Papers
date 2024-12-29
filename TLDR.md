@@ -12,10 +12,10 @@
 * Motivation: This study aims to identify and mitigate the misuse of cryptographic functions within the deployment of Ethereum smart contracts. With the growing importance of blockchain technology, the security of smart contracts has become critical since once deployed on the blockchain, they are challenging to alter. Therefore, detecting and correcting potential security vulnerabilities is essential for protecting user assets and information.
 * Background: Smart contracts often employ cryptographic functions in their access control logic. For instance, precompiled contracts like `ecrecover` are used to verify the `r`, `s`, `v` values provided by users for delegation business. Proper application of these cryptographic primitives is vital for ensuring the safety and reliability of smart contracts.
 * Obervation: By collecting information from blogs, audit reports, and GitHub, the authors identified nine types of misuse scenarios involving cryptographic functions. These scenarios include:
-- **Signature Misuse**: Improper verification or parsing of digital signatures.
-- **Merkle Proof Misuse**: Incorrect use of Merkle proofs, potentially allowing attackers to bypass validation mechanisms.
-- **Hash Collisions**: Exploiting weaknesses in hash functions that could lead to collisions.
-- **Weak Randomness**: Using insufficiently random numbers, which can be predicted or influenced by an attacker.
+  - **Signature Misuse**: Improper verification or parsing of digital signatures.
+  - **Merkle Proof Misuse**: Incorrect use of Merkle proofs, potentially allowing attackers to bypass validation mechanisms.
+  - **Hash Collisions**: Exploiting weaknesses in hash functions that could lead to collisions.
+  - **Weak Randomness**: Using insufficiently random numbers, which can be predicted or influenced by an attacker.
 Adversaries can exploit such misuses to circumvent access control mechanisms, leading to unauthorized operations or data leaks.
 * Approach: To detect the above nine types of misuses, the authors developed a fuzzing tool named CRYSOL. CRYSOL utilizes historical transactions as seeds and mutates them based on patterns derived from the nine misuse scenarios. The tool combines transaction replaying and dynamic taint analysis to extract fine-grained crypto-related semantics and employs crypto-specific strategies to guide the test case generation process.
 * Evaluation: The authors evaluated CRYSOL on a dataset of 25,745 real-world crypto-related smart contracts. CRYSOL uncovered 5,847 instances of misuse with a precision rate of 95.4%. This evaluation demonstrates CRYSOL's effectiveness in identifying cryptographic defects in smart contracts and highlights the prevalence of such issues in practice.
