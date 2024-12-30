@@ -1073,6 +1073,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## Miscellaneous
 
+* [TPDS24] [SPARROW: Expediting Smart Contract Execution for Blockchain Sharding via Inter-shard Caching]().
 * [ICDE25] [MEST: An Efficient Authenticated Secondary Index in Blockchain Systems]().
 * [EuroSys25] [ParallelEVM: Operation-Level Concurrent Transaction Execution for EVM-Compatible Blockchains](https://arxiv.org/pdf/2211.07911).
 * [SC24] [Toward High-Performance Blockchain System by Blurring the Line between Ordering and Execution]().
