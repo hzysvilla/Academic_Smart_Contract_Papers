@@ -798,6 +798,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## OOPSLA
 
+### 2025
+
+* [Program language] [A complete formal semantics of eBPF instruction set architecture for Solana](https://trust2proj.github.io/doc/OOPSLA25.pdf).
+
 ### 2024
 
 * [Program language] [VarLifter: Recovering Variables and Types from Bytecode of Solidity Smart Contracts]().
