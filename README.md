@@ -66,6 +66,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Chronos_sp24.pdf).
 * [security] [Pulling off the mask: Forensic analysis of the deceptive creator wallets behind smart contract fraud]().
 * [security] [Non-Atomic Arbitrage in Decentralized Finance](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Non-Atomic+Arbitrage+in+Decentralized+Finance&btnG=)
+* [security] [Routing Attacks on Cryptocurrency Mining Pools]().
 
 ### sp2023
 
