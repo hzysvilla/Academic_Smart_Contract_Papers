@@ -1013,7 +1013,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [TOSEM] [FunFuzz: A Function-oriented Fuzzer for Smart Contract Vulnerability Detection with High Effectiveness and Efficiency]().
 * [TOSEM] [CLFuzz: Vulnerability Detection of Cryptographic Algorithm Implementation via Semantic-Aware Fuzzing]().
 * [TOSEM] [sGuard+: Machine Learning Guided Rule-based AutomatedVulnerability Repair on Smart Contracts.](https://dl.acm.org/doi/pdf/10.1145/3641846).
-* [TOSEM] [Is my transaction done yet? an empirical study of transaction processing times in the ethereum blockchain platform](https://dl.acm.org/doi/pdf/10.1145/3549542?).
+* [TOSEM] [Is my transaction done yet? An empirical study of transaction processing times in the Ethereum blockchain platform](https://dl.acm.org/doi/pdf/10.1145/3549542?).
 * [TOSEM] [Securing the Ethereum from Smart Ponzi Schemes: Identification Using Static Features](https://dl.acm.org/doi/pdf/10.1145/3571847).
 * [TOSEM] [Pied-Piper: Revealing the Backdoor Threats in Ethereum ERC Token Contracts](https://dl.acm.org/doi/pdf/10.1145/3560264). 
 * [TOSEM] [Time-travel Investigation: Toward Building a Scalable Attack Detection Framework on Ethereum](https://arxiv.org/pdf/2005.08278.pdf). 
@@ -1035,7 +1035,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [TSE] [DEFECTCHECKER: Automated Smart Contract Defect Detection by Analyzing EVM Bytecode](https://arxiv.org/pdf/2009.02663).
 * [TSE] [Checking smart contracts with structural code embedding](https://xin-xia.github.io/publication/tse201.pdf).
 * [TSE] [Code Cloning in Smart Contracts on the Ethereum Platform: An Extended Replication Study](https://arxiv.org/pdf/2005.08278.pdf). 
-* [TSE] [Defining smart contract defects on ethereum](https://arxiv.org/pdf/1905.01467). 
+* [TSE] [Defining smart contract defects on Ethereum](https://arxiv.org/pdf/1905.01467). 
 * [TSE] [Pluto: Exposing Vulnerabilities in Inter-Contract Scenarios](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/tse21.pdf).
 * [TSE] [Smart Contract Development: Challenges and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8847638).
   
@@ -1078,6 +1078,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## Miscellaneous
 
+* [IEEE TR24] [Test Case Generation for Ethereum Smart Contracts Based on Cross-Contract Data Flow Analysis]().
 * [TPDS24] [SPARROW: Expediting Smart Contract Execution for Blockchain Sharding via Inter-shard Caching]().
 * [ICDE25] [MEST: An Efficient Authenticated Secondary Index in Blockchain Systems]().
 * [EuroSys25] [ParallelEVM: Operation-Level Concurrent Transaction Execution for EVM-Compatible Blockchains](https://arxiv.org/pdf/2211.07911).
