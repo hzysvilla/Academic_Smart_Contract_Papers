@@ -723,6 +723,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## ESORICS
 
+### 2024
+
+* [security] [Cumulus: A Plug-and-Play Long Range Defense System for Proof of Stake Blockchains]().
+* [security] [Revoke: Mitigating Ransomware Attacks against Ethereum Validators]().
+
 ### 2023
 
 * [security] [n-MVTL Attack: Optimal Transaction Reordering Attack on DeFi]().
