@@ -283,7 +283,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [A Two-Layer Blockchain Sharding Protocol Leveraging Safety and Liveness for Enhanced Performance]().
 * [security] [Pisces: Private and Compliable Cryptocurrency Exchange]().
 * [security] [Front-running Attack in Sharded Blockchains and Fair Cross-shard Consensus]().
-* [security] [Content Censorship in the InterPlanetary File System]().
+* [security] [Content Censorship in the InterPlanetary File System](https://www.ndss-symposium.org/wp-content/uploads/2024-153-paper.pdf) | **[MyTLDR](TLDR.md#23_1_27)**.
 * [security] [DRAINCLoG: Detecting Rogue Accounts with Illegally-obtained NFTs using Classifiers Learned on Graphs]().
 * [security] [VETEOS: Statically Vetting EOSIO Contracts for the "Groundhog Day" Vulnerabilities](papers/NDSS24_vetEos.pdf)
 * [security] [Not your Type! Detecting Storage Collision Vulnerabilities in Ethereum Smart Contracts](https://seclab.cs.ucsb.edu/files/publications/ruaro24crush.pdf) | **[MyTLDR](TLDR.md#23_1_25)**.

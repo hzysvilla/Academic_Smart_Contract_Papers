@@ -1,3 +1,32 @@
+# 24_12_31
+## NDSS24 | [Content Censorship in the InterPlanetary File System](https://www.ndss-symposium.org/wp-content/uploads/2024-153-paper.pdf)
+* Motivation: The authors propose and evaluate a content censorship attack on IPFS (InterPlanetary File System), which aims to prevent users from accessing resources stored within the network.
+* Background:IPFS is a decentralized peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open. It functions as a content delivery network where each node maintains a distributed hash table (DHT) that helps locate other nodes and files based on their unique identifiers. The distance between nodes is calculated using XOR distance on hash values derived from their public keys. Nodes are organized so that each one keeps track of its closest neighbors in the DHT, facilitating efficient resource discovery.
+* Attack Design: The attack proposed by the authors employs a Sybil attack strategy, where an adversary spawns a some malicious nodes to overwhelm honest nodes. Specifically:
+  * **Brute Force Generation**: The attacker brute-forces the generation of nodes that are close to the target node's identifier in the DHT space.
+  * **Malicious Node Deployment**: By deploying multiple malicious nodes with carefully chosen IDs, the attacker can position them as the closest neighbors to the target node, effectively replacing honest communication nodes.
+  * **Censorship**: This allows the attacker to intercept and block all resource requests made by the target node, thereby censoring access to certain content.
+* Attack Detection:
+To detect such attacks, the authors introduce a method that involves sampling normal nodes and calculating distances using the DHT. They compare these distances against the set of closest nodes maintained by a target node using the Kullback-Leibler (KL) divergence algorithm:
+  * **Sampling and Calculation**: Sample normal nodes and calculate distances using the DHT.
+  * **Comparison**: Compare these distances against the closest nodes set using KL divergence.
+  * **KL Divergence**: Measures how one probability distribution diverges from another expected distribution. In this case, it quantifies the difference between the observed distribution of common prefix lengths (CPLs) from sampled nodes and the theoretical geometric distribution expected under honest conditions. A significant deviation indicates potential censorship activity.
+* Attack Mitigation: For mitigating the attack, the authors suggest expanding the scale of the closest nodes set beyond the typical k nearest neighbors from region-based DHT:
+  * **Increase Scale**: By increasing the number of nodes involved in queries and record storage, the cost of launching an effective Sybil attack rises significantly.
+  * **Resilience**: Honest nodes become harder to isolate, ensuring that provider records can still reach at least some legitimate peers even when facing a substantial number of Sybil nodes.
+  * **Region-Based Queries**: Employ region-based DHT queries to further enhance resilience against censorship.
+* Evaluation: The evaluation demonstrates the effectiveness of both the attack and the detection/mitigation strategies:
+  * **Attack Success**: Using 45 Sybil nodes, the attack successfully blocked 99% of users' content requests, showcasing   * **Detection Accuracy**: The detection method achieved a low false negative rate of 0.81% and a modest false positive rate of 4.4%, indicating reliable identification of attacks.
+  * **Mitigation Effectiveness**: The mitigation strategy ensured 100% successful content discovery despite the presence of Sybil nodes, highlighting its robustness and practicality.
+
+## Comments
+
+The authors comprehensively detail the entire lifecycle of the attack, encompassing its design, detection, and mitigation. It is particularly insightful to include both detection and mitigation strategies in a security paper. This approach not only enhances the contribution of their work but also adheres to ethical considerations by providing solutions to counteract the identified vulnerabilities.
+
+
+
+
+
 # 24_12_15
 ## CCS24 | fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup
 * Motivation: This study aims to identify bugs in the Polygon network that can disrupt the interoperability between Layer 1 (L1) and Layer 2 (L2) chains, focusing specifically on issues affecting the finalization processes.
