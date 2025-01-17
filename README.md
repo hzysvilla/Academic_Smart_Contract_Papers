@@ -275,6 +275,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers]().
 * [security] [Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection]().
 * [security] [Dissecting Payload-based Transaction Phishing on Ethereum](https://arxiv.org/pdf/2409.02386).
+* [security] [Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding]().
 
 ### ndss2024 
 
