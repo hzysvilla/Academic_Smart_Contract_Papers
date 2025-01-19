@@ -340,6 +340,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## ESEC/FSE
 
+### 2025
+
+* [security] [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://arxiv.org/pdf/2501.08834).
+
 ### 2024
 
 * [security] [Static Application Security Testing (SAST) Tools for Smart Contracts: How Far Are We?)](https://arxiv.org/pdf/2404.18186).
