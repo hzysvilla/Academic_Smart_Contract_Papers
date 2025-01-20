@@ -946,6 +946,14 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## RAID
 
+### 2024
+
+* [security] [Cross-Chain Bridges: Attack Taxonomy, Defenses, and Open Problems]().
+
+### 2023
+
+* [security] [Temporary Block Withholding Attacks on Filecoin’s Expected Consensus](https://eprint.iacr.org/2022/1629.pdf).
+
 ### 2022
 
 * [security] [Penny Wise and Pound Foolish: Quantifying the Risk of Unlimited Approval of ERC20 Tokens on Ethereum](https://arxiv.org/pdf/2207.01790.pdf) | **[MyTLDR](TLDR.md#23_9_1)**. 
