@@ -18,10 +18,7 @@ To detect such attacks, the authors introduce a method that involves sampling no
 * Evaluation: The evaluation demonstrates the effectiveness of both the attack and the detection/mitigation strategies:
   * **Attack Success**: Using 45 Sybil nodes, the attack successfully blocked 99% of users' content requests, showcasing   * **Detection Accuracy**: The detection method achieved a low false negative rate of 0.81% and a modest false positive rate of 4.4%, indicating reliable identification of attacks.
   * **Mitigation Effectiveness**: The mitigation strategy ensured 100% successful content discovery despite the presence of Sybil nodes, highlighting its robustness and practicality.
-
-## Comments
-
-The authors comprehensively detail the entire lifecycle of the attack, encompassing its design, detection, and mitigation. It is particularly insightful to include both detection and mitigation strategies in a security paper. This approach not only enhances the contribution of their work but also adheres to ethical considerations by providing solutions to counteract the identified vulnerabilities.
+* Comments: The authors comprehensively detail the entire lifecycle of the attack, encompassing its design, detection, and mitigation. It is particularly insightful to include both detection and mitigation strategies in a security paper. This approach not only enhances the contribution of their work but also adheres to ethical considerations by providing solutions to counteract the identified vulnerabilities.
 
 
 
