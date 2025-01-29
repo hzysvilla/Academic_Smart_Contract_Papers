@@ -654,6 +654,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [Performance] [ExClique: An Express Consensus Algorithm for High-Speed Transaction Process in Blockchains]().
 * [Performance] [LBFT-DAG: a Swift, Leader-driven, DAG-based Consortium Blockchain with Byzantine Fault-tolerance]().
 * [Performance] [AIGC-CM: An Efficient and Scalable Blockchain Solution for AIGC Copyright Management]().
+* [Performance] [Justitia: An Incentive Mechanism Towards the Fairness of Cross-Shard Transactions]().
 
 
 ### 2024
