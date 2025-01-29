@@ -192,7 +192,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ---
 
 ## USENIX Security
-([24](#sec2024),[23](#sec2023),[22](#sec2022),[21](#sec2021),[20](#sec2020),[19](#sec2019),[18](#sec2018),[17](#sec2017))
+([25](#sec2025),[24](#sec2024),[23](#sec2023),[22](#sec2022),[21](#sec2021),[20](#sec2020),[19](#sec2019),[18](#sec2018),[17](#sec2017))
 
 ### sec2025
 * [security] [Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain]().
