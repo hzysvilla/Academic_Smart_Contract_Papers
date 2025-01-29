@@ -274,7 +274,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [security] [Anonymity Schemes Used by Cryptocurrencies](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s241_paper.pdf).
 * [security] [Eclipse Attacks on Monero's Peer-to-Peer Network]().
-* [security] [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/pdf/2405.02580).
+* [LLM] [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/pdf/2405.02580).
 * [security] [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers]().
 * [security] [Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection]().
 * [security] [Dissecting Payload-based Transaction Phishing on Ethereum](https://arxiv.org/pdf/2409.02386).
@@ -335,7 +335,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 * [Storage] [COLE: A Column-based Learned Storage for Blockchain Systems](papers/fast23_cole.pdf).
 
-  ---
+---
 
 ## ATC
 ([24](#atc2024),[22](#atc2022),[21](#atc2021))
@@ -354,8 +354,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ---
 
-## EORUSYS
-([25](#eorusys2025),[24](#eorusys2024),[22](#eorusys2022),[21](#eorusys2021))
+## EUROSYS
+([25](#eorusys2025),[23](#eorusys2023),[22](#eorusys2022),[21](#eorusys2021))
 
 ### eorusys2025
 
@@ -1164,7 +1164,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [TPDS24] [SPARROW: Expediting Smart Contract Execution for Blockchain Sharding via Inter-shard Caching]().
 * [ICDE25] [Know Your Account: Double Graph Inference-based Account De-anonymization on Ethereum](https://arxiv.org/pdf/2411.18875).
 * [ICDE25] [MEST: An Efficient Authenticated Secondary Index in Blockchain Systems]().
-* [EuroSys25] [ParallelEVM: Operation-Level Concurrent Transaction Execution for EVM-Compatible Blockchains](https://arxiv.org/pdf/2211.07911).
 * [SC24] [Toward High-Performance Blockchain System by Blurring the Line between Ordering and Execution]().
 * [CACM24] [A Brief History of Blockchain Interoperability](https://dl.acm.org/doi/pdf/10.1145/3648607).
 * [arxiv] [DogeFuzz: A Simple Yet Efficient Grey-box Fuzzer for Ethereum Smart Contracts](https://arxiv.org/pdf/2409.01788v1).
