@@ -700,6 +700,9 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## WWW
 
+### 2025
+* [security] [Quantitative Runtime Monitoring of Ethereum Transaction Attacks](https://openreview.net/pdf?id=YsnZ4cbwRS#page=2.00).
+
 ### 2024 
 
 * [security] [Towards Understanding Crypto-Asset Risks on Ethereum Caused by Key Leakage on the Internet]().
