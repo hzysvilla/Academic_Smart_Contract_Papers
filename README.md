@@ -701,7 +701,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## WWW
 
 ### 2025
-* [security] [Quantitative Runtime Monitoring of Ethereum Transaction Attacks](https://openreview.net/pdf?id=YsnZ4cbwRS#page=2.00).
+* [security] [Quantitative Runtime Monitoring of Ethereum Transaction Attacks](https://openreview.net/pdf?id=YsnZ4cbwRS).
+* [security] [Fully Anonymous Decentralized Identity Supporting Threshold Traceability with Practical Blockchain](https://openreview.net/pdf?id=kPj1Touziw)
+* [security] [MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications](https://arxiv.org/pdf/2411.00422).
+* [security] [The Poorest Man in Babylon: A Longitudinal Study of Cryptocurrency Investment Scams](https://openreview.net/pdf?id=P0x8J5gCPP).
+* [security] [Linking Souls to Humans: Blockchain Accounts with Credible Anonymity for Web 3.0 Decentralized Identity](https://openreview.net/pdf?id=yXtGrd4Ib7).
+* [security] [SigScope: Detecting and Understanding Off-Chain Message Signing-related Vulnerabilities in Decentralized Applications](https://openreview.net/pdf?id=8OIqXq455O)
 
 ### 2024 
 
