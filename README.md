@@ -1169,6 +1169,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## Miscellaneous
 
+* [AAAI24] [Unveiling the Risks of NFT Promotion Scams](https://ojs.aaai.org/index.php/ICWSM/article/download/31395/33555).
 * [IEEE TR24] [Test Case Generation for Ethereum Smart Contracts Based on Cross-Contract Data Flow Analysis]().
 * [TPDS24] [SPARROW: Expediting Smart Contract Execution for Blockchain Sharding via Inter-shard Caching]().
 * [ICDE25] [Know Your Account: Double Graph Inference-based Account De-anonymization on Ethereum](https://arxiv.org/pdf/2411.18875).
