@@ -196,6 +196,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### sec2025
 * [security] [Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain]().
+* [security] [Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue](https://arxiv.org/pdf/2409.04366).
 
 ### sec2024
 
