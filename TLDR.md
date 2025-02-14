@@ -1,3 +1,37 @@
+# 24_2_14
+## CCS24 | [DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back](https://0xzhiyuan.github.io/files/DoubleUp_Roll__Final_Version_.pdf)
+* Motivation: This paper proposes various state rollback attack strategies in a cross-chain environment, specifically targeting L2 platforms such as Arbitrum and Optimism. The adversary can exploit these strategies to make significant profits by reverting deposit transactions on L2 chain while successfully withdrawing funds in L1 chain.
+* Background: 
+  * Every transaction in L2 needs to be committed to L1 to finalize its state. This commitment process involves batching transactions and submitting them to L1 within a specified time window (V). 
+  * There are two types of finalization: soft-finalization and hard-finalization. Soft-finalization refers to a temporary state where a transaction is processed and recorded on L2 but has not yet been confirmed on L1; it remains reversible if any issues are detected. Hard-finalization, on the other hand, occurs when a transaction has been fully committed to L1 and becomes immutable, ensuring that it cannot be altered or removed. 
+  * Many decentralized applications (DApps) only require soft-finalization because they prioritize fast confirmation times and lower costs over the absolute finality provided by hard-finalization. This characteristic makes DApps more susceptible to certain types of attacks, such as those described in this paper, which exploit the vulnerabilities during the soft-finalization phase.
+* Basic Idea
+  * **Construct Exploited Transactions**: The adversary creates a series of exploited transactions designed to cause delays or manipulate the blockchain.
+  * **Send Deposit Transaction on L2**: The adversary sends a deposit transaction on L2, which gets soft-finalized but faces delays in hard-finalizing on L1.
+  * **Withdrawal on L1**: The adversary attempts to withdraw funds from L1. Due to the exploited transactions, the deposit transaction on L2 will be reverted, allowing the withdrawal on L1 to proceed normally, thus enabling the adversary to profit.
+* Exploit Method 1: Delay Attack
+  * **Spam Transactions on L2**: The adversary constructs spam transactions containing large amounts of non-compressible data.
+  * **Deposit Transaction**: Simultaneously, the adversary sends a deposit transaction on L2, which gets soft-finalized.
+  * **Delay Finalization**: The spam transactions create significant delays, preventing the deposit transaction from being finalized on L1 within the allowed time window V.
+  * **State Rollback**: Once the delay V exceeds the threshold, the L2 transactions are reverted due to the time boundaries mechanism.
+* Exploit Method 2: Force Inclusion Attack
+  * **Spam Transactions on L2**: Similar to Method 1, the adversary sends spam transactions to create delays.
+  * **Deposit Transaction**: The adversary sends a deposit transaction on L2.
+  * **Force Commit Withdrawal**: The adversary uses a special mechanism (e.g., `ForceInclusion` function of Liveness-Preservation Mechanism) to commit the withdrawal transaction on L1 before the deposit transaction is finalized.
+  * **Revert Deposit**: Since the withdrawal transaction on L1 is confirmed earlier than the deposit transaction, the deposit transaction on L2 is reverted.
+* Exploit Method 3: Size-Based Attack
+  * **Large Deposit Transaction**: The adversary constructs a deposit transaction with an exceptionally large size.
+  * **Compression Without Size Check**: Before using the transaction, L2 blockchain compresses it without performing any size-bound checks.
+  * **Decompression Failure**: When L2 tries to decompress the transaction, it exceeds the size-bound limitation, causing the deposit transaction to be reverted.
+* Challenge: The primary challenge for the adversary is the high cost associated with spamming transactions to create delays.
+* Solution: The authors discovered a calculation flaw in the pricing mechanism where surplus handling caused an implicit type conversion, treating negative surplus values as positive. This error significantly amplified the price adjustment, allowing attackers to manipulate the posting unit price to near zero and drastically reduce their attack costs.
+* Evaluation:
+  * **Transaction Delay**: The delay attack can postpone the transaction by approximately 217 seconds.
+  * **Cost Optimization**: The cost optimization method reduces the attack cost by up to 92%.
+* Bounty: The identified vulnerabilities were acknowledged and addressed by the relevant platforms, significantly mitigating risks to billions of dollars in assets. Researchers responsible for uncovering these issues were awarded a substantial bug bounty totaling half a million dollars. 
+
+
+
 # 24_12_31
 ## NDSS24 | [Content Censorship in the InterPlanetary File System](https://www.ndss-symposium.org/wp-content/uploads/2024-153-paper.pdf)
 * Motivation: The authors propose and evaluate a content censorship attack on IPFS (InterPlanetary File System), which aims to prevent users from accessing resources stored within the network.
