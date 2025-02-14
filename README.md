@@ -122,7 +122,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [Consensus] [Lutris: A Blockchain Combining Broadcast and Consensus]().
 * [Economic] [Blockchain Bribing Attacks and the Efficacy of Counterincentives]().
 * [security] [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials]().
-* [security] [DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back]().
+* [security] [DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back](https://0xzhiyuan.github.io/files/DoubleUp_Roll__Final_Version_.pdf) | **[MyTLDR](TLDR.md#25_2_14)**.
 * [security] [Data Independent Order Policy Enforcement: Limitations and Solutions]().
 * [security] [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets]().
 * [security] [Characterizing Ethereum Address Poisoning Attack]().
