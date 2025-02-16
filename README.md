@@ -702,6 +702,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ## WWW
 
 ### 2025
+
 * [security] [Quantitative Runtime Monitoring of Ethereum Transaction Attacks](https://openreview.net/pdf?id=YsnZ4cbwRS).
 * [security] [Fully Anonymous Decentralized Identity Supporting Threshold Traceability with Practical Blockchain](https://openreview.net/pdf?id=kPj1Touziw)
 * [security] [MAP the Blockchain World: A Trustless and Scalable Blockchain Interoperability Protocol for Cross-chain Applications](https://arxiv.org/pdf/2411.00422).
@@ -726,7 +727,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 
 ### 2023
-
+* [Finance] [Bad Apples: Understanding the Centralized Security Risks in Decentralized Ecosystems](https://diaowenrui.github.io/paper/www23-yan.pdf).
 * [Finance] [Ready, Aim, Snipe! Analysis of Sniper Bots and their Impact on the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3543873.3587612).
 * [Finance] [On How Zero-Knowledge Proof Blockchain Mixers Improve, and Worsen User Privacy](https://arxiv.org/abs/2201.09035).
 * [Finance] [Know Your Transactions: Real-time and Generic Transaction Semantic Representation on Blockchain & Web3 Ecosystem](https://github.com/wuzhy1ng/MoTS/blob/master/MoTS_WWW_2023_manuscript.pdf) | **[MyTLDR](TLDR.md#23_9_10)**.
