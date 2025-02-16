@@ -272,7 +272,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ([25](#ndss2025),[24](#ndss2024),[23](#ndss2023),[21](#ndss2021),[20](#ndss2020),[19](#ndss2019),[18](#ndss2018))
 
 ### ndss2025
-
+* [security] [Alba: The Dawn of Scalable Bridges for Blockchains](https://eprint.iacr.org/2024/197.pdf).
 * [security] [Anonymity Schemes Used by Cryptocurrencies](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s241_paper.pdf).
 * [security] [Eclipse Attacks on Monero's Peer-to-Peer Network]().
 * [LLM] [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/pdf/2405.02580).
@@ -280,6 +280,9 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection]().
 * [security] [Dissecting Payload-based Transaction Phishing on Ethereum](https://arxiv.org/pdf/2409.02386).
 * [security] [Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding]().
+* [security] [Siniel: Distributed Privacy-Preserving zkSNARK]().
+* [security] [The Forking Way: When TEEs Meet Consensus](https://arxiv.org/abs/2412.00706).
+* [security] [Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead]().
 
 ### ndss2024 
 
