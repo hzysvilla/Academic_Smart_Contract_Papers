@@ -708,6 +708,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### 2025
 
+* [security] [AERO: Enhancing Sharding Blockchain via Deep Reinforcement Learning for Account Migration](https://openreview.net/pdf?id=WcuXvn3HVk).
 * [security] [The Poorest Man in Babylon: A Longitudinal Study of Cryptocurrency Investment Scams]().
 * [security] [Quantitative Runtime Monitoring of Ethereum Transaction Attacks](https://openreview.net/pdf?id=YsnZ4cbwRS).
 * [security] [Fully Anonymous Decentralized Identity Supporting Threshold Traceability with Practical Blockchain](https://openreview.net/pdf?id=kPj1Touziw)
