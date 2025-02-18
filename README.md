@@ -1139,6 +1139,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
   
 ## TIFS
 
+* [TIFS25] [Multi-Signature and Game Based Blockchain Interoperability Oracle]().
 * [TIFS25] [Secure Optimizations on Ethereum Bytecode Jump-Free Sequences]().
 * [TIFS24] [2DynEthNet: A Two-Dimensional Streaming Framework for Ethereum Phishing Scam Detection]().
 * [TIFS24] [Bringing Smart Contract Confidentiality via Trusted Hardware: Fact and Fiction]().
