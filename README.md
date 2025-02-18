@@ -59,8 +59,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Certifying Zero-Knowledge Circuits with Refinement Types](https://eprint.iacr.org/2023/547.pdf).
 * [security] [Formal Model-Driven Analysis of Resilience of GossipSub to Attacks from Misbehaving Peers](https://arxiv.org/pdf/2212.05197.pdf) | **[MyTLDR](TLDR.md#24_4_17)**.
 * [security] [Specular: Towards Secure, Trust-minimized Optimistic Blockchain Execution](https://arxiv.org/pdf/2212.05219.pdf).
-* [security] [Towards Smart Contract Fuzzing on GPUs]().
-* [security] [SMARTINV: Multimodal Learning for Smart Contract Invariant Inference]()| **[MyTLDR](TLDR.md#24_2_22)**.
+* [security] [Towards Smart Contract Fuzzing on GPUs](https://chapering.github.io/pubs/sp24weimin.pdf).
+* [security] [SMARTINV: Multimodal Learning for Smart Contract Invariant Inference](https://arxiv.org/abs/2411.09217)| **[MyTLDR](TLDR.md#24_2_22)**.
 * [security] [Nyx: Detecting Exploitable Front-Running Vulnerabilities in Smart Contracts](papers/sp24_Nyx.pdf) | **[MyTLDR](TLDR.md#24_2_12)**.
 * [security] [Optimal Flexible Consensus and its Application to Ethereum]().
 * [security] [Chronos: Finding Timeout Bugs in Practical Distributed Systems by Deep-Priority Fuzzing with Transient Delay](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/Chronos_sp24.pdf).
@@ -110,6 +110,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ([24](#ccs2024),[23](#ccs2023),[22](#ccs2022),[21](#ccs2021),[20](#ccs2020),[19](#ccs2019),[18](#ccs2018),[17](#ccs2017),[16](#ccs2016))
 
 ### ccs2024
+
 * [security] [Mempool Privacy via Batched Threshold Encryption: Attacks and Defenses](https://www.usenix.org/system/files/usenixsecurity24-choudhuri.pdf).
 * [security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://arxiv.org/pdf/2410.12210) | **[MyTLDR](TLDR.md#24_12_15)**.
 * [security] [Derecho: Privacy Pools with Proof-Carrying Disclosures](https://eprint.iacr.org/2023/273.pdf).
@@ -182,7 +183,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Betrayal, Distrust, and Rationality: Smart Counter-Collusion Contracts for Verifiable Cloud Computing](https://dl.acm.org/doi/pdf/10.1145/3133956.3134032).
 * [security] [Be selfish and avoid dilemmas: Fork after withholding (faw) attacks on bitcoin](https://dl.acm.org/doi/abs/10.1145/3133956.3134019?casa_token=RygrxGCbX1wAAAAA:mCNjib6WmZcqSJ_vmYligwXGkfAGSVTujZ9YWVoPTcFUe8fyrOgCkrb9vu4vxdjM4t37TCG9sF8F0ys)
 
-
 ### ccs2016
 
 * [security] [Making Smart Contracts Smarter](https://dl.acm.org/doi/pdf/10.1145/2976749.2978309) | **[MyTLDR](TLDR.md#23_11_20)**.
@@ -195,8 +195,10 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ([25](#sec2025),[24](#sec2024),[23](#sec2023),[22](#sec2022),[21](#sec2021),[20](#sec2020),[19](#sec2019),[18](#sec2018),[17](#sec2017))
 
 ### sec2025
+
 * [security] [Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain]().
 * [security] [Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue](https://arxiv.org/pdf/2409.04366).
+* [security] [SoK: Understanding zk-SNARKs: The Gap Between Research and Practice](https://eprint.iacr.org/2025/172.pdf).
 
 ### sec2024
 
