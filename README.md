@@ -52,6 +52,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### sp2024
 
 * [security] [NURGLE: Exacerbating Resource Consumption in Blockchain State Storage via MPT Manipulation](https://github.com/hzysvilla/Nurgle_Oakland24/blob/main/Nurgle_oakland24.pdf).
+* [security] [SoK: Security and Privacy of Blockchain Interoperability](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.24595764).
 * [security] [Pianist: Scalable zkRollups via Fully Distributed Zero-Knowledge Proofs](https://eprint.iacr.org/2023/1271.pdf).
 * [security] [Large-Scale Study of Vulnerability Scanners for Ethereum Smart Contracts](https://arxiv.org/abs/2312.16533) | **[MyTLDR](TLDR.md#24_5_20)**.
 * [security] [POMABuster: Detecting Price Oracle Manipulation Attacks in Decentralized Finance](https://www.dropbox.com/scl/fi/ye9ij7m782bbr2lckt20e/IEEES_P24-camera-ready.pdf) | **[MyTLDR](TLDR.md#24_5_22)**.
