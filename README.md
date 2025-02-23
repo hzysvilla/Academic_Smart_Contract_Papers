@@ -1124,7 +1124,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 
 ## TSE
-
+* [TSE25] [Understanding Security Issues in the DAO Governance Process]().
 * [TSE24] [Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools](https://arxiv.org/pdf/2402.09094).
 * [TSE24] [Unearthing Gas-Wasting Code Smells in Smart Contracts with Large Language Models]().
 * [TSE24] [SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts]().
@@ -1143,7 +1143,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
   
 ## TIFS
 
-* [TIFS25] [Multi-Signature and Game Based Blockchain Interoperability Oracle]().
 * [TIFS25] [Secure Optimizations on Ethereum Bytecode Jump-Free Sequences]().
 * [TIFS24] [2DynEthNet: A Two-Dimensional Streaming Framework for Ethereum Phishing Scam Detection]().
 * [TIFS24] [Bringing Smart Contract Confidentiality via Trusted Hardware: Fact and Fiction]().
@@ -1168,7 +1167,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
-
+* [TDSC25] [Multi-Signature and Game Based Blockchain Interoperability Oracle]().
 * [TDSC24] [HDWSA2: A Secure Hierarchical Deterministic Wallet Supporting Stealth Address and Signature Aggregation]().
 * [TDSC] [MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain]().
 * [TDSC] [DeFiRanger: Detecting DeFi Price Manipulation Attacks]().
