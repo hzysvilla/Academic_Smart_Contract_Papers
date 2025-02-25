@@ -1,4 +1,48 @@
-# 24_2_14
+
+-----------
+
+# 25_2_25
+
+## NDSS25 | [The Forking Way: When TEEs Meet Consensus](https://www.ndss-symposium.org/wp-content/uploads/2025-1934-paper.pdf)
+
+## Motivation
+The authors first summarize the application and safety of Trusted Execution Environments (TEEs) on blockchain consensus mechanisms.
+
+## Background
+TEE is a hardware-isolated technology designed to ensure that code execution is secure, confidential, and maintains integrity. Ideally, decoupling heavy on-chain computations to an off-chain TEE environment (termed enclave) will significantly improve the performance of the blockchain.
+
+## Taxonomy
+The authors first collect 28 TEE-based blockchain platforms from [this GitHub repository](https://github.com/Maxul/Awesome-SGX-Open-Source?tab=readme-ov-file#blockchains), and categorize them into four types:
+1. **TEE-based Smart Contracts**
+2. **TEE-based Consensus Protocols**
+3. **TEE-based Layer 2 Solutions**
+4. **TEE-based Blockchain Applications**
+
+## TEE Application Scenarios
+The authors further classify TEE applications into six scenarios:
+1. **Stateless Enclaves**: Stateless enclaves are designed not to maintain any persistent state between executions, relying on the untrusted host to provide necessary state information each time the enclave is invoked.
+2. **Ephemeral Identities**: Ephemeral identities generate a unique identifier for each enclave instance upon restart, which prevents forging the off-chain enclave.
+3. **Fixed Set of Clients**: A fixed set of clients involves limiting interactions with the smart contract to a predefined group of trusted clients.
+4. **Serializing State (Transaction Replay)**: In transaction replay, the enclave recovers its state by reprocessing all transactions from the genesis block to the current block.
+5. **Serializing State (Timestamp)**: Timestamping involves storing the state along with metadata such as the block height, hash, and timestamp. When responding to client queries, the enclave includes this timestamp to ensure the freshness of the state.
+6. **Serializing State (Ledger Storage)**: In ledger storage, the enclave directly stores its state on the blockchain ledger.
+
+## Attack Types
+There are two primary types of attacks for TEE-based blockchains:
+1. **Cloning Attack**: A cloning attack occurs when an adversary creates multiple instances of a TEE and uses the most favorable output to deceive the blockchain node.
+2. **Fork Attack**: A fork attack happens when an attacker exploits blockchain forks to present outdated state information, misleading blockchain nodes about the current valid state.
+
+## Evaluation
+The authors conduct a Proof of Concept (PoC) experiment in a private chain environment on three TEE-based blockchains: Ten, Phala, and Secret Network. To demonstrate the attack, the authors launch two enclaves, isolate one of them, and then redirect on-chain requests to the isolated enclave, thereby forking the chain. Specifically:
+- They start a Ten enclave that completes enrollment, obtains the master seed, and seals cryptographic keys to disk.
+- Both enclave instances have access to the state sealed by the first enclave.
+- The adversary receives a new block from an L1 node and feeds it to both clones.
+- The enclaves generate random nonces $ N $ and $ N' $, respectively, and include them in the proposed rollup.
+- The adversary selects the rollup with the lowest nonce and submits it to the L1 layer.
+
+  ----------------
+
+# 25_2_14
 ## CCS24 | [DoubleUp Roll: Double-spending in Arbitrum by Rolling It Back](https://0xzhiyuan.github.io/files/DoubleUp_Roll__Final_Version_.pdf)
 * Motivation: This paper proposes various state rollback attack strategies in a cross-chain environment, specifically targeting L2 platforms such as Arbitrum and Optimism. The adversary can exploit these strategies to make significant profits by reverting deposit transactions on L2 chain while successfully withdrawing funds in L1 chain.
 * Background: 
