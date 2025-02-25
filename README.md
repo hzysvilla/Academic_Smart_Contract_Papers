@@ -203,6 +203,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ### sec2024
 
+* [security] [SoK: What Don’t We Know? Understanding Security Vulnerabilities in SNARKs](https://www.usenix.org/system/files/usenixsecurity24-chaliasos.pdf).
 * [security] [Sprints: Intermittent Blockchain PoW Mining](https://eprint.iacr.org/2023/626.pdf).
 * [security] [Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS](https://www.usenix.org/system/files/usenixsecurity24-zhang-mingfei.pdf) | **[MyTLDR](TLDR.md#24_11_1)**.
 * [security] [zkCross: A Novel Architecture for Cross-Chain Privacy-Preserving Auditing](https://www.usenix.org/system/files/usenixsecurity24-guo-yihao.pdf).
