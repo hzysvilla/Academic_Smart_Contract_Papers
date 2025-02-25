@@ -285,7 +285,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Dissecting Payload-based Transaction Phishing on Ethereum](https://arxiv.org/pdf/2409.02386).
 * [security] [Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding]().
 * [security] [Siniel: Distributed Privacy-Preserving zkSNARK]().
-* [security] [The Forking Way: When TEEs Meet Consensus](https://arxiv.org/abs/2412.00706).
+* [security] [The Forking Way: When TEEs Meet Consensus](https://arxiv.org/abs/2412.00706) | **[MyTLDR](TLDR.md#25_2_25)**.
 * [security] [Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead]().
 
 ### ndss2024 
