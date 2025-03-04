@@ -1168,6 +1168,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
+* [TDSC25] [A Moving Target DDoS Defense Approach in Consortium Blockchain]()
 * [TDSC25] [Multi-Signature and Game Based Blockchain Interoperability Oracle]().
 * [TDSC24] [HDWSA2: A Secure Hierarchical Deterministic Wallet Supporting Stealth Address and Signature Aggregation]().
 * [TDSC] [MFGSCOPE: A Lightweight Framework for Efficient Graph-based Analysis on Blockchain]().
