@@ -1111,7 +1111,8 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## TOSEM
 
-* [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263). 
+* [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOSEM25] [Characterizing Smart Contract Evolution]().
 * [TOSEM] [Automating Comment Generation for Smart Contracts from Bytecode]().
 * [TOSEM] [FunFuzz: A Function-oriented Fuzzer for Smart Contract Vulnerability Detection with High Effectiveness and Efficiency]().
 * [TOSEM] [CLFuzz: Vulnerability Detection of Cryptographic Algorithm Implementation via Semantic-Aware Fuzzing]().
@@ -1169,6 +1170,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
+* [TDSC25] [SmartTrans: Advanced Similarity Analysis for Detecting Vulnerabilities in Ethereum Smart Contracts]()
 * [TDSC25] [A Moving Target DDoS Defense Approach in Consortium Blockchain]()
 * [TDSC25] [Multi-Signature and Game Based Blockchain Interoperability Oracle]().
 * [TDSC24] [HDWSA2: A Secure Hierarchical Deterministic Wallet Supporting Stealth Address and Signature Aggregation]().
@@ -1184,6 +1186,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## Miscellaneous
 
+* [PPoPP25] [Crystality: A Programming Model for Smart Contracts on Parallel EVMs]()
 * [AAAI24] [Unveiling the Risks of NFT Promotion Scams](https://ojs.aaai.org/index.php/ICWSM/article/download/31395/33555).
 * [IEEE TR24] [Test Case Generation for Ethereum Smart Contracts Based on Cross-Contract Data Flow Analysis]().
 * [TPDS24] [SPARROW: Expediting Smart Contract Execution for Blockchain Sharding via Inter-shard Caching]().
