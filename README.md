@@ -200,6 +200,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain]().
 * [security] [Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue](https://arxiv.org/pdf/2409.04366).
 * [security] [SoK: Understanding zk-SNARKs: The Gap Between Research and Practice](https://eprint.iacr.org/2025/172.pdf).
+* [security] [Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer]().
 
 ### sec2024
 
