@@ -1128,6 +1128,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 
 ## TSE
+* [TSE25] [SmartUpdater: Enabling Transparent, Automated, and Secure Maintenance of Stateful Smart Contracts]().
 * [TSE25] [Understanding Security Issues in the DAO Governance Process]().
 * [TSE24] [Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools](https://arxiv.org/pdf/2402.09094).
 * [TSE24] [Unearthing Gas-Wasting Code Smells in Smart Contracts with Large Language Models]().
@@ -1146,7 +1147,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [TSE] [Smart Contract Development: Challenges and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8847638).
   
 ## TIFS
-
 * [TIFS25] [Secure Optimizations on Ethereum Bytecode Jump-Free Sequences]().
 * [TIFS24] [2DynEthNet: A Two-Dimensional Streaming Framework for Ethereum Phishing Scam Detection]().
 * [TIFS24] [Bringing Smart Contract Confidentiality via Trusted Hardware: Fact and Fiction]().
