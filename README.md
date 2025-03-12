@@ -1,6 +1,6 @@
-# Academic Smart Contract Papers
+# Academic Blockchain&Smart_Contract Papers
 
-A curated Smart Contract related academic papers. All papers are sorted based on the conference name and published year.
+A curated **Blockchain&Smart contract** related academic papers. All papers are sorted based on the conference name and published year.
 
 **Welcome developers or researchers to add more published papers to this list**.
 
