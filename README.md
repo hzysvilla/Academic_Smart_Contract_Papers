@@ -1128,6 +1128,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 
 ## TSE
+* [TSE25] [SmartOracle: Generating Smart Contract Oracle via Fine-Grained Invariant Detection](https://arxiv.org/pdf/2406.10054).
 * [TSE25] [SmartUpdater: Enabling Transparent, Automated, and Secure Maintenance of Stateful Smart Contracts]().
 * [TSE25] [Understanding Security Issues in the DAO Governance Process]().
 * [TSE24] [Unity is Strength: Enhancing Precision in Reentrancy Vulnerability Detection of Smart Contract Analysis Tools](https://arxiv.org/pdf/2402.09094).
