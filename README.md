@@ -406,6 +406,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### 2025
 
 * [security] [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://arxiv.org/pdf/2501.08834).
+* [security] [Detecting Smart Contract State-Inconsistency Bugs via Flow Divergence and Multiplex Symbolic Execution]().
+* [security] [SmartShot: Hunt Hidden Vulnerabilities in Smart Contracts using Mutable Snapshots]().
+* [security] [Clone Detection for Smart Contracts: How Far Are We?]().
+* [security] [Automated and Accurate Token Transfer Identification and Its Applications in Cryptocurrency Security]().
+* [security] [VERITE: A Profit-Centric Smart Contract Fuzzing Framework]().
 
 ### 2024
 
