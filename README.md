@@ -115,12 +115,12 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Mempool Privacy via Batched Threshold Encryption: Attacks and Defenses](https://www.usenix.org/system/files/usenixsecurity24-choudhuri.pdf).
 * [security] [fAmulet: Finding Finalization Failure Bugs in Polygon zkRollup](https://arxiv.org/pdf/2410.12210) | **[MyTLDR](TLDR.md#24_12_15)**.
 * [security] [Derecho: Privacy Pools with Proof-Carrying Disclosures](https://eprint.iacr.org/2023/273.pdf).
-* [security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning]() | **[MyTLDR](TLDR.md#24_9_18)**.
+* [security] [TokenScout: Early Detection of Ethereum Scam Tokens via Temporal Graph Learning](https://cactilab.github.io/assets/pdf/3658644.3690234.pdf) | **[MyTLDR](TLDR.md#24_9_18)**.
 * [security] [Defying the Odds: Solana's Unexpected Resilience in Spite of the Security Challenges Faced by Developers](https://arxiv.org/pdf/2406.13599).
-* [security] [Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication]().
+* [security] [Stealing Trust: Unraveling Blind Message Attacks in Web3 Authentication](https://diaowenrui.github.io/paper/ccs24-yan.pdf).
 * [security] [FORAY: Towards Effective Attack Synthesis against Deep Logical Vulnerabilities in DeFi Protocols](https://www.arxiv.org/pdf/2407.06348).
-* [security] [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models]().
-* [MEV] [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups]().
+* [security] [Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models](https://ffeng-luo.github.io/papers/ccs24.pdf).
+* [MEV] [Rolling in the Shadows: Analyzing the Extraction of MEV Across Layer-2 Rollups](https://ben-weintraub.com/files/rolling-in-the-shadows.pdf).
 * [Consensus] [Lutris: A Blockchain Combining Broadcast and Consensus]().
 * [Economic] [Blockchain Bribing Attacks and the Efficacy of Counterincentives]().
 * [security] [zkLogin: Privacy-Preserving Blockchain Authentication with Existing Credentials]().
@@ -128,7 +128,6 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Data Independent Order Policy Enforcement: Limitations and Solutions]().
 * [security] [Complete Knowledge: Preventing Encumbrance of Cryptographic Secrets]().
 * [security] [Characterizing Ethereum Address Poisoning Attack]().
-* [security] [Demo- Enhancing Smart Contract Security Comprehensively through Dynamic Symbolic Execution](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Demo-+Enhancing+Smart+Contract+Security+Comprehensively+through+Dynamic+Symbolic+Execution&btnG=)
 
 ### ccs2023
 
@@ -140,7 +139,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild]().
 * [security] [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://yajin.org/papers/ccs23_phishing.pdf)  | **[MyTLDR](TLDR.md#23_11_25)**.
 * [security] [How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance]().
-* [security] [Uncovering Impact of Mental Models towards Adoption of Multi-device Crypto-Wallets]().
+* [security] [Uncovering Impact of Mental Models towards Adoption of Multi-device Crypto-Wallets](https://iacr.steepath.eu/2022/075-UncoveringImpactofMentalModelstowardsAdoptionofMultideviceCryptoWallets.pdf).
 * [security] [Uncle Maker: (Time)Stamping Out The Competition in Ethereum](https://eprint.iacr.org/2022/1020.pdf) | **[MyTLDR](TLDR.md#24_3_19)**.
 * [security] [TrustBoost: Boosting Trust among Interoperable Blockchains]().
 * [security] [Analyzing the Real-World Security of the Algorand Blockchain]().
@@ -279,13 +278,13 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ### ndss2025
 * [security] [Alba: The Dawn of Scalable Bridges for Blockchains](https://eprint.iacr.org/2024/197.pdf).
 * [security] [Anonymity Schemes Used by Cryptocurrencies](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s241_paper.pdf).
-* [security] [Eclipse Attacks on Monero's Peer-to-Peer Network]().
+* [security] [Eclipse Attacks on Monero's Peer-to-Peer Network](https://www.ndss-symposium.org/wp-content/uploads/2025-95-paper.pdf).
 * [LLM] [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/pdf/2405.02580).
-* [security] [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers]().
+* [security] [MTZK: Testing and Exploring Bugs in Zero-Knowledge (ZK) Compilers](https://www.ndss-symposium.org/wp-content/uploads/2025-530-paper.pdf).
 * [security] [Silence False Alarms: Identifying Anti-Reentrancy Patterns on Ethereum to Refine Smart Contract Reentrancy Detection]().
 * [security] [Dissecting Payload-based Transaction Phishing on Ethereum](https://arxiv.org/pdf/2409.02386).
 * [security] [Manifoldchain: Maximizing Blockchain Throughput via Bandwidth-Clustered Sharding]().
-* [security] [Siniel: Distributed Privacy-Preserving zkSNARK]().
+* [security] [Siniel: Distributed Privacy-Preserving zkSNARK](https://eprint.iacr.org/2024/1803.pdf).
 * [security] [The Forking Way: When TEEs Meet Consensus](https://arxiv.org/abs/2412.00706) | **[MyTLDR](TLDR.md#25_2_25)**.
 * [security] [Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead]().
 
@@ -334,70 +333,35 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 ---
 
 ## FAST
-([25](#fast2025),[24](#fast2024))
-
-### fast2025
-
-* [Storage] [Maat: Analyzing and Optimizing Overcharge on Blockchain Storage]().
-
-### fast2024
-
-* [Storage] [COLE: A Column-based Learned Storage for Blockchain Systems](papers/fast23_cole.pdf).
+* [FAST2025] [Maat: Analyzing and Optimizing Overcharge on Blockchain Storage](https://www.usenix.org/system/files/fast25-he.pdf).
+* [FAST2024] [COLE: A Column-based Learned Storage for Blockchain Systems](papers/fast23_cole.pdf).
 
 ---
 
 ## ATC
 ([24](#atc2024),[22](#atc2022),[21](#atc2021))
 
-### atc2024
-
-* [Storage] [SlimArchive: A Lightweight Architecture for Ethereum Archive Nodes](https://www.usenix.org/system/files/atc24-feng-hang.pdf).
-
-### atc2022
-
-* [Storage] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf).
-
-### atc2021
-
-* [Storage] [RainBlock: Faster Transaction Processing in Public Blockchains](https://www.usenix.org/system/files/atc21-ponnapalli.pdf).
+* [ATC24] [SlimArchive: A Lightweight Architecture for Ethereum Archive Nodes](https://www.usenix.org/system/files/atc24-feng-hang.pdf).
+* [ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf).
+* [ATC21] [RainBlock: Faster Transaction Processing in Public Blockchains](https://www.usenix.org/system/files/atc21-ponnapalli.pdf).
 
 ---
 
 ## EUROSYS
-([25](#eorusys2025),[23](#eorusys2023),[22](#eorusys2022),[21](#eorusys2021))
 
-### eorusys2025
-
-* [Perfermance] [ParallelEVM: Operation-Level Concurrent Transaction Execution for EVM-Compatible Blockchains](http://www.malgenomeproject.org/papers/EuroSys_2025_ParallelEVM.pdf).
-
-### eorusys2023
-
-* [Perfermance] [Diablo: A Benchmark Suite for Blockchains](https://6788543.fs1.hubspotusercontent-na1.net/hubfs/6788543/Eurosys23-Diablo.pdf) | **[MyTLDR](TLDR.md#23_9_29)**.
-
-### eorusys2021
-
-* [Storage] [Ethanos: efficient bootstrapping for full nodes on account-based blockchain](https://dl.acm.org/doi/pdf/10.1145/3447786.3456231).
-
-### eorusys2021
-
-* [Arch] [Hyperledger fabric: a distributed operating system for permissioned blockchains](https://dl.acm.org/doi/pdf/10.1145/3190508.3190538).
+* [EUROSYS25] [ParallelEVM: Operation-Level Concurrent Transaction Execution for EVM-Compatible Blockchains](http://www.malgenomeproject.org/papers/EuroSys_2025_ParallelEVM.pdf).
+* [EUROSYS23] [Diablo: A Benchmark Suite for Blockchains](https://6788543.fs1.hubspotusercontent-na1.net/hubfs/6788543/Eurosys23-Diablo.pdf) | **[MyTLDR](TLDR.md#23_9_29)**.
+* [EUROSYS22] [Ethanos: efficient bootstrapping for full nodes on account-based blockchain](https://dl.acm.org/doi/pdf/10.1145/3447786.3456231).
+* [EUROSYS21] [Hyperledger fabric: a distributed operating system for permissioned blockchains](https://dl.acm.org/doi/pdf/10.1145/3190508.3190538).
   
 ---
 
 ## CAV
 
-### 2022
-
-* [security] [SolCMC: Solidity Compiler's Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf)  | **[MyTLDR](TLDR.md#23_10_6)**
-
-### 2020
-
-* [security] [End-to-End Formal Verification of Ethereum 2.0 Deposit Smart Contract](https://daejunpark.github.io/papers/deposit.pdf).
-* [security] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
-
-### 2018
-
-* [security] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts]()
+* [CAV22] [SolCMC: Solidity Compiler's Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf)  | **[MyTLDR](TLDR.md#23_10_6)**
+* [CAV22] [End-to-End Formal Verification of Ethereum 2.0 Deposit Smart Contract](https://daejunpark.github.io/papers/deposit.pdf).
+* [CAV22] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
+* [CAV21] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts]()
 
 ---
 
@@ -580,6 +544,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [security] [Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects]().
 * [security] [Code Cloning in Solidity Smart Contracts: Prevalence, Evolution, and Impact on Development]().
 * [security] [Definition and Detection of Centralization Defects in Smart Contracts]().
+* [security] [Chord: Towards a Unified Detection of Blockchain Transaction Parallelism Bugs]().
 
 ### 2024
 
@@ -636,25 +601,15 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## SOSP
 
-### 2021
-
-* [security] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf) | **[MyTLDR](TLDR.md#23_11_9)**.
-
-### 2017
-
-* [application] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://pdfs.semanticscholar.org/52eb/be753328f3139cbf9dfba7b8d3c78654b561.pdf).
+* [SOSP21] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf) | **[MyTLDR](TLDR.md#23_11_9)**.
+* [SOSP17] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://pdfs.semanticscholar.org/52eb/be753328f3139cbf9dfba7b8d3c78654b561.pdf).
 
 ---
 
 ## OSDI
 
-### 2023
-
-* [performance] [LVMT: An Efficient Authenticated Storage for Blockchain](https://www.usenix.org/system/files/osdi23-li-chenxing.pdf).
-
-### 2021
-
-* [security] [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf).
+* [OSDI23] [LVMT: An Efficient Authenticated Storage for Blockchain](https://www.usenix.org/system/files/osdi23-li-chenxing.pdf).
+* [OSDI21] [Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing](https://www.usenix.org/system/files/osdi21-yang.pdf).
 
 ---
 
@@ -1003,18 +958,11 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## ACSAC
 
-### 2021
-
-* [security] [SolSaviour: A Defending Framework for Deployed Defective Smart Contracts](https://www4.comp.polyu.edu.hk/~csbxiao/paper/2021/acsac21_SolSavioiur.pdf).
-
-### 2019
-
-* [security] [SmarTor: Smarter Tor with Smart Contracts](https://www.informatik.uni-wuerzburg.de/didaktik/team/andre-greubel/?tx_extbibsonomycsl_publicationlist).
-
-### 2018
-
-* [security] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038).
-* [security] [Osiris: Hunting for Integer Bugs in Ethereum Smart Contracts]().
+* [ACSAC24] [Breaking the Privacy Barrier: On the Feasibility of Reorganization Attacks on Ethereum Private Transactions](https://zhiqlin.github.io/file/ACSAC24.pdf).
+* [ACSAC21] [SolSaviour: A Defending Framework for Deployed Defective Smart Contracts](https://www4.comp.polyu.edu.hk/~csbxiao/paper/2021/acsac21_SolSavioiur.pdf).
+* [ACSAC19] [SmarTor: Smarter Tor with Smart Contracts](https://www.informatik.uni-wuerzburg.de/didaktik/team/andre-greubel/?tx_extbibsonomycsl_publicationlist).
+* [ACSAC18] [Finding The Greedy, Prodigal, and Suicidal Contracts at Scale](https://arxiv.org/abs/1802.06038).
+* [ACSAC18] [Osiris: Hunting for Integer Bugs in Ethereum Smart Contracts]().
 
 ---
 
@@ -1098,16 +1046,9 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ## POPL
 
-### 2022
-
-* [security] [SolType: Refinement Types for Arithmetic Overflow in Solidity](https://dl.acm.org/doi/abs/10.1145/3498665).
-
----
-
-### 2018
-
-* [security] [Online detection of effectively callback free objects with applications to smart contracts](https://dl.acm.org/doi/pdf/10.1145/3158136).
-* [security] [Vandal: A Scalable Security Analysis Framework for Smart Contracts](https://arxiv.org/abs/1809.03981).
+* [POPL22] [SolType: Refinement Types for Arithmetic Overflow in Solidity](https://dl.acm.org/doi/abs/10.1145/3498665).
+* [POPL18]  [Online detection of effectively callback free objects with applications to smart contracts](https://dl.acm.org/doi/pdf/10.1145/3158136).
+* [POPL18]  [Vandal: A Scalable Security Analysis Framework for Smart Contracts](https://arxiv.org/abs/1809.03981).
 
 ---
 
@@ -1207,6 +1148,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [PPoPP23] [Block-STM: Scaling Blockchain Execution by Turning Ordering Curse to a Performance Blessing](https://arxiv.org/pdf/2203.06871).
 * [TC24] [GFBE: A Generalized and Fine-Grained Blockchain Evaluation Framework]().
 * [TC24] [BlockCompass: A Benchmarking Platform for Blockchain Performance]().
+* [TC21] [Precise Dynamic Symbolic Execution for Nonuniform Data Access in Smart Contracts](https://rucsesec.github.io/papers/TC2021b.pdf).
 * [FM23] [Formal and Executable Semantics of the Ethereum Virtual Machine in Dafny](https://arxiv.org/pdf/2303.00152).
 * [arxiv] [DISL: Fueling Research with A Large Dataset of Solidity Smart Contracts](https://arxiv.org/pdf/2403.16861).
 * [ASPLOS22] [Who Goes First? Detecting Go Concurrency Bugs via Message Reordering](https://songlh.github.io/paper/gfuzz.pdf).
@@ -1227,7 +1169,9 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 * [JSAC22] [Detecting Arbitrage on Ethereum Through Feature Fusion and Positive-Unlabeled Learning]().
 * [TPDS24] [MoltDB: Accelerating Blockchain via Ancient State Segregation]().
 * [TPDS24] [PaVM: A Parallel Virtual Machine for Smart Contract Execution and Validation]().
-* [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations](). 
+* [TPDS22] [Securing Deployed Smart Contracts and DeFi With Distributed TEE Cluster]().
+* [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations]().
+* [CHI24] [Don't put all your eggs in one basket": How Cryptocurrency Users Choose and Secure Their Wallets](https://www.sauvikdas.com/uploads/paper/pdf/52/pdf.pdf).
 * [CHI23] [Code Will Tell: Visual Identification of Ponzi Schemes on Ethereum](https://dl.acm.org/doi/pdf/10.1145/3544549.3585861).
 * [CHI22] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
 * [CHI21] [Effect of the Gas Price Surges on User Activity in the DAOs of the Ethereum Blockchain](https://dl.acm.org/doi/pdf/10.1145/3411763.3451755).
