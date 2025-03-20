@@ -1,17 +1,21 @@
-# Academic Blockchain&Smart_Contract Papers
+# Academic Papers on Blockchain & Smart Contracts
 
-A curated **Blockchain&Smart contract** related academic papers. All papers are sorted based on the conference name and published year.
+📚 A curated list of academic papers on **Blockchain & Smart Contracts**, categorized by **conference name** and **publication year**.
 
-**Welcome developers or researchers to add more published papers to this list**.
+🎯 **Contributions are welcome!** Researchers and developers are encouraged to add more published papers to this list.
 
-You can find my **[TLDR](TLDR.md)** notes for some papers.
+📑 Some papers also include **[TL;DR summaries](TLDR.md)** for quick reference.
 
-The cryptocurrency donation address: 0xCC28B05fE858CDbc8692E3272A4451111bDCf700.
+💰 **If you find this list helpful, consider supporting via cryptocurrency donation:**  `0xCC28B05fE858CDbc8692E3272A4451111bDCf700`
 
-Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar](https://scholar.google.com/citations?user=O_vixKoAAAAJ).
+Visit my [Homepage](https://hzysvilla.github.io/) and [Google Scholar Profile](https://scholar.google.com/citations?user=O_vixKoAAAAJ).
 
-## Table of Listed Conferences
-|     Security & Crypto               |               Networking & Database               | Software Engineering & Programming Language |     System Architecture     |
+---
+
+## 📌 Table of Contents
+
+### **📖 Conferences**
+|    🔒  Security & Crypto           |          🌐     Networking & Database             | 🛠Software Engineering & Program Language   |     🏛 System Architecture  |
 | :---------------------------------: | :-----------------------------------------------: | :-----------------------------------------: | :--------------------------:|
 |           [IEEE S&P](#sp)           |             [SIGMETRICS](#sigmetrics)             |                [ICSE](#icse)                |  [EuroSys](#eurosys)        |
 |           [ACM CCS](#ccs)           |                   [ICDE](#miscellaneous)          |            [ESEC/FSE](#esecfse)             |  [ACM SOSP](#sosp)          |
@@ -22,18 +26,18 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 |          [RAID](#raid)              |                   [WWW](#www)                     |             [ACM POPL](#popl)               |                             |
 |          [CAV](#cav)                |                                                   |                                             |                             |
 
-## Table of Listed Journals
+### **📜 Journals**
 - [TOSEM](#tosem)
 - [TSE](#tse)
 - [TDSC](#tdsc)
 - [TIFS](#tifs)
 
-### Also including:
+### **📌 Other Conferences**
 * [CSFW](#miscellaneous), [CHI](#miscellaneous), [ICPC](#miscellaneous), [TPDS](#miscellaneous), [HPC](#miscellaneous), [POMACS](#miscellaneous), [AsiaCCS](#miscellaneous), [IJCAI](#miscellaneous), [SC](#miscellaneous), [SIGKDD](#miscellaneous), [JSAC](#miscellaneous), [DAC](#miscellaneous), [TOPLAS](#miscellaneous), [ISCA](#miscellaneous).
 
 ---
 
-# Conference
+# 📚 Conferences
 
 -----
 
@@ -1052,7 +1056,7 @@ Welcome to visit my [homepage](https://hzysvilla.github.io/) and [Google Scholar
 
 ---
 
-# Journal
+# 📜Journal
 
 ------
 
