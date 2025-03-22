@@ -547,7 +547,7 @@
 * [security] [FairChecker: Detecting Fund-stealing Bugs in DeFi Protocols via Fairness Validation]().
 * [security] [Enhancing The Open Network: Definition and Automated Detection of Smart Contract Defects]().
 * [security] [Code Cloning in Solidity Smart Contracts: Prevalence, Evolution, and Impact on Development]().
-* [security] [Definition and Detection of Centralization Defects in Smart Contracts]().
+* [security] [Definition and Detection of Centralization Defects in Smart Contracts](https://arxiv.org/abs/2411.10169).
 * [security] [Chord: Towards a Unified Detection of Blockchain Transaction Parallelism Bugs]().
 
 ### 2024
@@ -1078,6 +1078,7 @@
 
 
 ## TSE
+* [TSE25] [NumScout: Unveiling Numerical Defects in Smart Contracts using LLM-Pruning Symbolic Execution](https://arxiv.org/abs/2503.10041)
 * [TSE25] [SmartOracle: Generating Smart Contract Oracle via Fine-Grained Invariant Detection](https://arxiv.org/pdf/2406.10054).
 * [TSE25] [SmartUpdater: Enabling Transparent, Automated, and Secure Maintenance of Stateful Smart Contracts]().
 * [TSE25] [Understanding Security Issues in the DAO Governance Process]().
