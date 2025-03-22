@@ -8,7 +8,7 @@
 
 💰 **If you find this list helpful, consider supporting via cryptocurrency donation:**  `0xCC28B05fE858CDbc8692E3272A4451111bDCf700`
 
-Visit my [Homepage](https://hzysvilla.github.io/) and [Google Scholar Profile](https://scholar.google.com/citations?user=O_vixKoAAAAJ).
+🌍 Explore my 🔬**[Homepage](https://hzysvilla.github.io/)** and 💡**[Google Scholar Profile](https://scholar.google.com/citations?user=O_vixKoAAAAJ)** to discover my research and contributions.
 
 ---
 
