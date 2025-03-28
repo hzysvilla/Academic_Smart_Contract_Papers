@@ -1088,6 +1088,7 @@
 * [TSE24] [ContractCheck: Checking Ethereum Smart Contracts in Fine-Grained Level]().
 * [TSE23] [Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation]().
 * [TSE23] [CRPWarner: Warning the Risk of Contract-related Rug Pull in DeFi Smart Contracts]().
+* [TSE21] [Aroc: An Automatic Repair Framework for On-Chain Smart Contracts]().
 * [TSE] [VulHunter: Hunting Vulnerable Smart Contracts at EVM Bytecode-Level via Multiple Instance Learning]().
 * [TSE] [Large-Scale Empirical Study of Inline Assembly on 7.6 Million Ethereum Smart Contracts](https://drive.google.com/file/d/111l8_vf7Gt7RxygjuBM8WQWLTQL700jY/view?pli=1).
 * [TSE] [Demystifying Random Number in Ethereum Smart Contract: Taxonomy, Vulnerability Identification, and Attack Detection](https://arxiv.org/pdf/2304.12645.pdf)
