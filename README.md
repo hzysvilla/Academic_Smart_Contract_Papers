@@ -729,6 +729,11 @@
 
 ## DSN
 
+### 2025
+* [security] [PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes]().
+* [security] [Reentrancy Redux: The Evolution of Real-World Reentrancy Attacks on Blockchains]().
+* [security] [Mitigating Reordering Attacks through Fair and Resilient Transaction Dissemination]().
+
 ### 2024
 
 * [security] [Byzantine Attacks Exploiting Penalties in Ethereum PoS]().
