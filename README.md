@@ -1144,7 +1144,7 @@
 
 
 ## Miscellaneous
-
+* [TON25] [One Model Fits All Nodes: Neuron Activation Pattern Analysis Based Attack Traffic Detection Framework for P2P Networks]().
 * [PPoPP25] [Crystality: A Programming Model for Smart Contracts on Parallel EVMs]()
 * [AAAI24] [Unveiling the Risks of NFT Promotion Scams](https://ojs.aaai.org/index.php/ICWSM/article/download/31395/33555).
 * [IEEE TR24] [Test Case Generation for Ethereum Smart Contracts Based on Cross-Contract Data Flow Analysis]().
