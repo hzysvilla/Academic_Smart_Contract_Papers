@@ -1129,6 +1129,7 @@
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
+* [TDSC25] [Uncovering NFT Domain-Specific Defects on Smart Contract Bytecode]().
 * [TDSC25] [SmartTrans: Advanced Similarity Analysis for Detecting Vulnerabilities in Ethereum Smart Contracts]()
 * [TDSC25] [A Moving Target DDoS Defense Approach in Consortium Blockchain]()
 * [TDSC25] [Multi-Signature and Game Based Blockchain Interoperability Oracle]().
