@@ -1145,6 +1145,7 @@
 
 
 ## Miscellaneous
+* [TC25] [Tangram: Enabling Efficient and Balanced Dynamic Storage Extension on Sharding Blockchain Systems]().
 * [TON25] [One Model Fits All Nodes: Neuron Activation Pattern Analysis Based Attack Traffic Detection Framework for P2P Networks]().
 * [PPoPP25] [Crystality: A Programming Model for Smart Contracts on Parallel EVMs]()
 * [AAAI24] [Unveiling the Risks of NFT Promotion Scams](https://ojs.aaai.org/index.php/ICWSM/article/download/31395/33555).
