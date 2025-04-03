@@ -1105,6 +1105,7 @@
 * [TSE] [Smart Contract Development: Challenges and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8847638).
   
 ## TIFS
+* [TIFS25] [Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules]().
 * [TIFS25] [Secure Optimizations on Ethereum Bytecode Jump-Free Sequences]().
 * [TIFS24] [2DynEthNet: A Two-Dimensional Streaming Framework for Ethereum Phishing Scam Detection]().
 * [TIFS24] [Bringing Smart Contract Confidentiality via Trusted Hardware: Fact and Fiction]().
