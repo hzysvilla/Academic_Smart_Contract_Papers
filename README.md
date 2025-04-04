@@ -1146,6 +1146,7 @@
 
 
 ## Miscellaneous
+* [POMACS25] [The Last Survivor of PoS Pools: Staker's Dilemma]().
 * [TC25] [Tangram: Enabling Efficient and Balanced Dynamic Storage Extension on Sharding Blockchain Systems]().
 * [TON25] [One Model Fits All Nodes: Neuron Activation Pattern Analysis Based Attack Traffic Detection Framework for P2P Networks]().
 * [PPoPP25] [Crystality: A Programming Model for Smart Contracts on Parallel EVMs]()
