@@ -29,6 +29,7 @@
 ### **📜 Journals**
 - [TOSEM](#tosem)
 - [TSE](#tse)
+- [EMSE](#emse)
 - [TDSC](#tdsc)
 - [TIFS](#tifs)
 
@@ -1091,6 +1092,7 @@
 * [TSE24] [Unearthing Gas-Wasting Code Smells in Smart Contracts with Large Language Models]().
 * [TSE24] [SCAnoGenerator: Automatic Anomaly Injection for Ethereum Smart Contracts]().
 * [TSE24] [ContractCheck: Checking Ethereum Smart Contracts in Fine-Grained Level]().
+* [TSE23] [Self-Admitted Technical Debt in Ethereum Smart Contracts: A Large-Scale Exploratory Study](https://ieeexplore.ieee.org/document/10164171)
 * [TSE23] [Combatting Front-Running in Smart Contracts: Attack Mining, Benchmark Construction and Vulnerability Detector Evaluation]().
 * [TSE23] [CRPWarner: Warning the Risk of Contract-related Rug Pull in DeFi Smart Contracts]().
 * [TSE21] [Aroc: An Automatic Repair Framework for On-Chain Smart Contracts]().
@@ -1103,7 +1105,11 @@
 * [TSE] [Defining smart contract defects on Ethereum](https://arxiv.org/pdf/1905.01467). 
 * [TSE] [Pluto: Exposing Vulnerabilities in Inter-Contract Scenarios](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/tse21.pdf).
 * [TSE] [Smart Contract Development: Challenges and Opportunities](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8847638).
-  
+
+## EMSE
+* [EMSE25] [UPC sentinel: An Accurate Approach for Detecting Upgradeability Proxy Contracts in Ethereum](https://link.springer.com/article/10.1007/s10664-024-10609-7).
+* [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
+
 ## TIFS
 * [TIFS25] [Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules]().
 * [TIFS25] [Secure Optimizations on Ethereum Bytecode Jump-Free Sequences]().
