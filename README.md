@@ -218,6 +218,7 @@
 * [security] [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts](https://www.usenix.org/system/files/usenixsecurity24-liu-han.pdf).
 * [security] [Practical Security Analysis of Zero-Knowledge Proof Circuits](https://eprint.iacr.org/2023/190.pdf) | **[MyTLDR](TLDR.md#23_9_30)**.
 * [security] [Pixel+ and Pixel++: Compact and Efficient Forward-Secure Multi-Signatures for PoS Blockchain Consensus](https://www.usenix.org/system/files/usenixsecurity24-wei-jianghong.pdf).
+* [security] [GuideEnricher: Protecting the Anonymity of Ethereum Mixing Service Users with Deep Reinforcement Learning](https://www.usenix.org/system/files/usenixsecurity24-de-silva.pdf).
 
 ### sec2023
 
