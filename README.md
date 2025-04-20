@@ -1071,6 +1071,7 @@
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
 * [TOSEM25] [Characterizing Smart Contract Evolution]().
+* [TOSEM25] [Evaluating Explanations Needs in Blockchain Smart Contracts to Reconcile Surprises]().
 * [TOSEM] [Automating Comment Generation for Smart Contracts from Bytecode]().
 * [TOSEM] [FunFuzz: A Function-oriented Fuzzer for Smart Contract Vulnerability Detection with High Effectiveness and Efficiency]().
 * [TOSEM] [CLFuzz: Vulnerability Detection of Cryptographic Algorithm Implementation via Semantic-Aware Fuzzing]().
@@ -1182,6 +1183,7 @@
 * [SODA23] [Foundations of Transaction Fee Mechanism Design](https://eprint.iacr.org/2021/1474.pdf).
 * [IEEE Computer] [The Multibillion Dollar Software Supply Chain of Ethereum](http://arxiv.org/pdf/2202.07029).
 * [ACM DTL] [Chaos Engineering of Ethereum Blockchain Clients In ACM Distributed Ledger Technologies: Research and Practice](http://oadoi.org/10.1145/3611649).
+* [SIGKDD25] [TEMPER: Capturing Consistent and Fluctuating TEMPoral User Behaviour for EtheReum Phishing Scam Detection]().
 * [SIGKDD24] [BitLINK: Temporal Linkage of Address Clusters in Bitcoin Blockchain]().
 * [SIGKDD23] [Demystifying Fraudulent Transactions and Illicit Nodes in the Bitcoin Network for Financial Forensics](https://dl.acm.org/doi/pdf/10.1145/3580305.3599351).
 * [SIGKDD23] [Diga: Guided Diffusion Model for Graph Recovery in Anti-Money Laundering](https://dl.acm.org/doi/pdf/10.1145/3580305.3599806).
