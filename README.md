@@ -1196,6 +1196,7 @@
 * [TPDS24] [PaVM: A Parallel Virtual Machine for Smart Contract Execution and Validation]().
 * [TPDS22] [Securing Deployed Smart Contracts and DeFi With Distributed TEE Cluster]().
 * [TPDS] [SmartVM: A Smart Contract Virtual Machine for Fast On-Chain DNN Computations]().
+* [CHI25] [Of Secrets and Seedphrases: Conceptual Misunderstandings and Security Challenges for Seed Phrase Management among Cryptocurrency Users]().
 * [CHI24] [Don't put all your eggs in one basket": How Cryptocurrency Users Choose and Secure Their Wallets](https://www.sauvikdas.com/uploads/paper/pdf/52/pdf.pdf).
 * [CHI23] [Code Will Tell: Visual Identification of Ponzi Schemes on Ethereum](https://dl.acm.org/doi/pdf/10.1145/3544549.3585861).
 * [CHI22] [Impact and User Perception of Sandwich Attacks in the DeFi Ecosystem](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
