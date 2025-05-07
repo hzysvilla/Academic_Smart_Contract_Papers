@@ -540,6 +540,7 @@
 
 ### 2025
 
+* [security] [ConsCS: Effective and Efficient Verification of Circom Circuits]().
 * [security] [Safeguarding DeFi Smart Contracts against Oracle Deviations]().
 * [security] [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution](https://arxiv.org/pdf/2408.06037).
 * [security] [Demystifying and Detecting Cryptographic Defects in Ethereum Smart Contracts](https://arxiv.org/pdf/2408.04939) | **[MyTLDR](TLDR.md#24_12_03)**.
