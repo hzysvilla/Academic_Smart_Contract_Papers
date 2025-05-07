@@ -206,6 +206,7 @@
 * [security] [SoK: Understanding zk-SNARKs: The Gap Between Research and Practice](https://eprint.iacr.org/2025/172.pdf).
 * [security] [Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer]().
 * [security] [Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake](https://eprint.iacr.org/2025/097.pdf).
+* [security] [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://arxiv.org/pdf/2311.03530).
 
 ### sec2024
 
