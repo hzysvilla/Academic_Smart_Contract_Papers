@@ -690,6 +690,7 @@
 * [security] [The Poorest Man in Babylon: A Longitudinal Study of Cryptocurrency Investment Scams](https://openreview.net/pdf?id=P0x8J5gCPP).
 * [security] [Linking Souls to Humans: Blockchain Accounts with Credible Anonymity for Web 3.0 Decentralized Identity](https://openreview.net/pdf?id=yXtGrd4Ib7).
 * [security] [SigScope: Detecting and Understanding Off-Chain Message Signing-related Vulnerabilities in Decentralized Applications](https://openreview.net/pdf?id=8OIqXq455O)
+* [security] [Hunting in the Dark Forest: A Pre-trained Model for On-chain Attack Transaction Detection in Web3](https://dl.acm.org/doi/pdf/10.1145/3696410.3714928)
 
 ### 2024 
 
