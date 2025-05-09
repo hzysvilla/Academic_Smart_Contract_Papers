@@ -1021,6 +1021,10 @@
 
 ## ICDCS
 
+* [security] [Proxion: Uncovering Hidden Proxy Smart Contracts for Finding Collision Vulnerabilities in Ethereum](https://securalab.org/publications/pdfs/ICDCS25proxion.pdf).
+* [security] [Depermissioning Web3: a Permissionless Accountable RPC Protocol for Blockchain Networks]().
+* [security] [Fully Decentralized Collection of Attestations for Single-Slot Finality in Ethereum]().
+* 
 ### 2024
 
 * [performance] [Hammer: A General Blockchain Evaluation Framework]().
