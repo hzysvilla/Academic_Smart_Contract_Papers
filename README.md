@@ -144,7 +144,6 @@
 * [security] [Under the Dark: A Systematical Study of Stealthy Mining Pools (Ab)use in the Wild]().
 * [security] [TxPhishScope: Towards Detecting and Understanding Transaction-based Phishing on Ethereum](https://yajin.org/papers/ccs23_phishing.pdf)  | **[MyTLDR](TLDR.md#23_11_25)**.
 * [security] [How Hard is Takeover in DPoS Blockchains? Understanding the Security of Coin-based Voting Governance]().
-* [security] [Uncovering Impact of Mental Models towards Adoption of Multi-device Crypto-Wallets](https://iacr.steepath.eu/2022/075-UncoveringImpactofMentalModelstowardsAdoptionofMultideviceCryptoWallets.pdf).
 * [security] [Uncle Maker: (Time)Stamping Out The Competition in Ethereum](https://eprint.iacr.org/2022/1020.pdf) | **[MyTLDR](TLDR.md#24_3_19)**.
 * [security] [TrustBoost: Boosting Trust among Interoperable Blockchains]().
 * [security] [Analyzing the Real-World Security of the Algorand Blockchain]().
