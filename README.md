@@ -1078,6 +1078,7 @@
 ## TOSEM
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOSEM25] [PonziHunter: Hunting Ethereum Ponzi Contract via Static Analysis and Contrastive Learning on the Bytecode Level]().
 * [TOSEM25] [Characterizing Smart Contract Evolution]().
 * [TOSEM25] [Evaluating Explanations Needs in Blockchain Smart Contracts to Reconcile Surprises]().
 * [TOSEM] [Automating Comment Generation for Smart Contracts from Bytecode]().
