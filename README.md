@@ -1096,6 +1096,7 @@
 
 ## TSE
 * [TSE25] [Understanding Security Issues in the DAO Governance Process]().
+* [TSE25] [Enhanced Smart Contract Vulnerability Detection via Graph Neural Networks: Achieving High Accuracy and Efficiency]().
 * [TSE25] [NumScout: Unveiling Numerical Defects in Smart Contracts using LLM-Pruning Symbolic Execution](https://arxiv.org/abs/2503.10041)
 * [TSE25] [SmartOracle: Generating Smart Contract Oracle via Fine-Grained Invariant Detection](https://arxiv.org/pdf/2406.10054).
 * [TSE25] [SmartUpdater: Enabling Transparent, Automated, and Secure Maintenance of Stateful Smart Contracts]().
