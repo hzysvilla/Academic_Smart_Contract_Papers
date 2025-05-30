@@ -203,9 +203,10 @@
 * [security] [Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain]().
 * [security] [Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue](https://arxiv.org/pdf/2409.04366).
 * [security] [SoK: Understanding zk-SNARKs: The Gap Between Research and Practice](https://eprint.iacr.org/2025/172.pdf).
-* [security] [Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer]().
+* [security] [Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1302-ma-zuchao.pdf).
 * [security] [Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake](https://eprint.iacr.org/2025/097.pdf).
 * [security] [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://arxiv.org/pdf/2311.03530).
+* [security] [Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-750-zhang-bosi.pdf)
 
 ### sec2024
 
@@ -426,6 +427,17 @@
 ---
 
 ## ISSTA
+
+### 2025
+
+* [security] [Automated Attack Synthesis for Constant Product Market Makers](https://arxiv.org/pdf/2404.05297)
+* [security] [Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts](https://arxiv.org/pdf/2504.07589)
+* [security] [OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine](https://arxiv.org/pdf/2504.12034)
+* [security] [Enhancing Smart Contract Security Analysis with Execution Property Graphs](https://arxiv.org/pdf/2305.14046)
+* [security] [Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection](https://yangli8953.github.io/issta2025-ae-paper11.pdf)
+* [security] [SoK: A Taxonomic Analysis of DeFi Rug Pulls - Types, Dataset, and Tool Assessment](https://arxiv.org/abs/2403.16082)
+* [security] [The Incredible Shrinking Context... in a Decompiler Near You](https://sifislag.github.io/assets/papers/shrnkr-full.pdf)
+
 
 ### 2024
 
