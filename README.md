@@ -207,6 +207,7 @@
 * [security] [Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake](https://eprint.iacr.org/2025/097.pdf).
 * [security] [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://arxiv.org/pdf/2311.03530).
 * [security] [Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-750-zhang-bosi.pdf)
+* [security] [COLLISIONREPAiR: First-Aid and Automated Patching for Storage Colision Vulnerabilities in Smart Contracts]().
 
 ### sec2024
 
