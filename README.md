@@ -76,7 +76,7 @@
 
 ### sp2023
 
-* [financail] [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://roibarzur.github.io/assets/pdfs/werlman-systor-poster-2022.pdf) | **[MyTLDR](TLDR.md#sp23_WeRLman)**.
+* [financial] [WeRLman: To Tackle Whale (Transactions), Go Deep (RL)](https://roibarzur.github.io/assets/pdfs/werlman-systor-poster-2022.pdf) | **[MyTLDR](TLDR.md#sp23_WeRLman)**.
 * [security] [Clockwork Finance: Automated Analysis of Economic Security in Smart Contracts](https://eprint.iacr.org/2021/1147.pdf) | **[MyTLDR](TLDR.md#sp23_CF)**.
 * [security] [SoK: Decentralized Finance (DeFi) Attacks](https://arxiv.org/pdf/2208.13035.pdf) | **[MyTLDR](TLDR.md#sp23_CF)**.
 * [security] [Tyr: Finding Consensus Failure Bugs in Blockchain System with Behaviour Divergent Model](https://csdl-downloads.ieeecomputer.org/proceedings/sp/2023/9336/00/933600b186.pdf).
@@ -207,7 +207,8 @@
 * [security] [Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake](https://eprint.iacr.org/2025/097.pdf).
 * [security] [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://arxiv.org/pdf/2311.03530).
 * [security] [Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-750-zhang-bosi.pdf)
-* [security] [COLLISIONREPAiR: First-Aid and Automated Patching for Storage Colision Vulnerabilities in Smart Contracts]().
+* [security] [COLLISIONREPAIR: First-Aid and Automated Patching for Storage Collision Vulnerabilities in Smart Contracts]().
+* [pl] [Let's Move2EVM](https://zenodo.org/records/15591738/files/paper_extended.pdf?download=1).
 
 ### sec2024
 
