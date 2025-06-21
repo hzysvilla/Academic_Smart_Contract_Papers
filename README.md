@@ -1138,6 +1138,7 @@
 * [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
 
 ## TIFS
+* [TIFS25] [SmartGuard: Making Prediction Verifiable through Transaction Sequences for Smart Contract Vulnerability Detection]().
 * [TIFS25] [Detecting Reentrancy Vulnerabilities for Solidity Smart Contracts with Contract Standards-Based Rules]().
 * [TIFS25] [Across-Platform Detection of Malicious Cryptocurrency Accounts via Interaction Feature Learning]().
 * [TIFS25] [Secure Optimizations on Ethereum Bytecode Jump-Free Sequences]().
