@@ -885,6 +885,7 @@
 
 ### 2025
 
+* [Program language] [HEMVM: a Heterogeneous Blockchain Framework for Interoperable Virtual Machines]()
 * [Program language] [A complete formal semantics of eBPF instruction set architecture for Solana](https://trust2proj.github.io/doc/OOPSLA25.pdf).
 
 ### 2024
@@ -1059,7 +1060,7 @@
 
 ### 2022
 
-* [pplication] [Blockchain Machine: A Network-Attached Hardware Accelerator for Hyperledger Fabric](https://arxiv.org/pdf/2104.06968).
+* [Application] [Blockchain Machine: A Network-Attached Hardware Accelerator for Hyperledger Fabric](https://arxiv.org/pdf/2104.06968).
 
 ### 2020
 
