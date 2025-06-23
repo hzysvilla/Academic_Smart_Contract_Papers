@@ -385,6 +385,7 @@
 * [security] [Clone Detection for Smart Contracts: How Far Are We?]().
 * [security] [Automated and Accurate Token Transfer Identification and Its Applications in Cryptocurrency Security]().
 * [security] [VERITE: A Profit-Centric Smart Contract Fuzzing Framework]().
+* [security] [DiSCo: Towards Decompiling EVM Bytecode to Source Code using Large Language Models]().
 
 ### 2024
 
@@ -885,7 +886,7 @@
 
 ### 2025
 
-* [Program language] [HEMVM: a Heterogeneous Blockchain Framework for Interoperable Virtual Machines]()
+* [Program language] [HEMVM: a Heterogeneous Blockchain Framework for Interoperable Virtual Machines](https://trust2proj.github.io/doc/OOPSLA25.pdf)
 * [Program language] [A complete formal semantics of eBPF instruction set architecture for Solana](https://trust2proj.github.io/doc/OOPSLA25.pdf).
 
 ### 2024
