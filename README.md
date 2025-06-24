@@ -569,6 +569,7 @@
 * [security] [Definition and Detection of Centralization Defects in Smart Contracts](https://arxiv.org/abs/2411.10169).
 * [security] [Chord: Towards a Unified Detection of Blockchain Transaction Parallelism Bugs]().
 * [security] [FairChecker: Detecting Fund-stealing Bugs in DeFi Protocols via Fairness Validation]().
+* [security] [SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis]().
 
 ### 2024
 
