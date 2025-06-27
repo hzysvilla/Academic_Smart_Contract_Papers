@@ -381,6 +381,7 @@
 
 ### 2025
 
+* [security] [SoK: A Taxonomic Analysis of DeFi Rug Pulls: Types, Dataset, and Tool Assessment]().
 * [security] [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://arxiv.org/pdf/2501.08834).
 * [security] [Detecting Smart Contract State-Inconsistency Bugs via Flow Divergence and Multiplex Symbolic Execution]().
 * [security] [SmartShot: Hunt Hidden Vulnerabilities in Smart Contracts using Mutable Snapshots]().
@@ -557,6 +558,7 @@
 
 ### 2025
 
+* [security] [FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction]().
 * [security] [ConsCS: Effective and Efficient Verification of Circom Circuits]().
 * [security] [Safeguarding DeFi Smart Contracts against Oracle Deviations]().
 * [security] [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution](https://arxiv.org/pdf/2408.06037).
@@ -1097,6 +1099,7 @@
 ## TOSEM
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOSEM25] [Anomaly Detection Services for Blockchain Smart Contracts with Unknown Vulnerabilities]().
 * [TOSEM25] [PonziHunter: Hunting Ethereum Ponzi Contract via Static Analysis and Contrastive Learning on the Bytecode Level]().
 * [TOSEM25] [Characterizing Smart Contract Evolution]().
 * [TOSEM25] [Evaluating Explanations Needs in Blockchain Smart Contracts to Reconcile Surprises]().
