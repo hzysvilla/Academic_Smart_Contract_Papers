@@ -369,6 +369,7 @@
 ## CAV
 
 * [CAV24] [Hevm, a Fast Symbolic Execution Framework for EVM Bytecode](https://link.springer.com/content/pdf/10.1007/978-3-031-65627-9_22.pdf).
+* [CAV23] [Formally verified EVM block-optimizations](https://costa.fdi.ucm.es/papers/costa/forves.pdf).
 * [CAV22] [SolCMC: Solidity Compiler's Model Checker](http://verify.inf.usi.ch/sites/default/files/solcmc.pdf)  | **[MyTLDR](TLDR.md#23_10_6)**
 * [CAV22] [End-to-End Formal Verification of Ethereum 2.0 Deposit Smart Contract](https://daejunpark.github.io/papers/deposit.pdf).
 * [CAV22] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
