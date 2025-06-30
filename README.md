@@ -387,6 +387,7 @@
 
 ### 2025
 
+* [security] [Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection](https://arxiv.org/abs/2506.18245).
 * [security] [SoK: A Taxonomic Analysis of DeFi Rug Pulls: Types, Dataset, and Tool Assessment]().
 * [security] [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://arxiv.org/pdf/2501.08834).
 * [security] [Detecting Smart Contract State-Inconsistency Bugs via Flow Divergence and Multiplex Symbolic Execution]().
