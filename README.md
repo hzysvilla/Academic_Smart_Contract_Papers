@@ -46,7 +46,7 @@
 ([25](#sp2025),[24](#sp2024),[23](#sp2023),[22](#sp2022),[21](#sp2021),[20](#sp2020),[16](#sp2016),[15](#sp2015))
 
 ### sp2025
-
+* [security] [Peer2PIR: Private Queries for IPFS](https://arxiv.org/pdf/2405.17307).
 * [security] [An Attack on TON’s ADNL Secure Channel Protocol](https://eprint.iacr.org/2025/818.pdf).
 * [security] [Decentralization of Ethereum's Builder Market](https://arxiv.org/pdf/2405.01329).
 * [security] [Liquefaction: Privately Liquefying Blockchain Assets](https://arxiv.org/pdf/2412.02634).
