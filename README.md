@@ -48,6 +48,7 @@
 ### sp2025
 
 * [security] [An Attack on TON’s ADNL Secure Channel Protocol](https://eprint.iacr.org/2025/818.pdf).
+* [security] [Decentralization of Ethereum's Builder Market](https://arxiv.org/pdf/2405.01329).
 * [security] [A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms]().
 * [security] [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://arxiv.org/pdf/2407.03543).
 * [security] [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4)
