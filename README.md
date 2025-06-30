@@ -47,6 +47,7 @@
 
 ### sp2025
 
+* [security] [A Composability Analysis Framework for Web3 Wallet Recovery Mechanisms]().
 * [security] [Asymmetric Mempool DoS Security: Formal Definitions and Provable Secure Designs](https://arxiv.org/pdf/2407.03543).
 * [security] [Zero-Knowledge Location Privacy via Accurate Floating-Point SNARKs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a057/21B7R3HsGK4)
 * [security] [Volatile and Persistent Memory for zkSNARKs via Algebraic Interactive Proofs](https://www.computer.org/csdl/proceedings-article/sp/2025/223600a054/21B7R0YQXtK)
