@@ -46,6 +46,8 @@
 ([25](#sp2025),[24](#sp2024),[23](#sp2023),[22](#sp2022),[21](#sp2021),[20](#sp2020),[16](#sp2016),[15](#sp2015))
 
 ### sp2025
+
+* [security] [Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)](https://eprint.iacr.org/2024/1299.pdf).
 * [security] [Peer2PIR: Private Queries for IPFS](https://arxiv.org/pdf/2405.17307).
 * [security] [An Attack on TON’s ADNL Secure Channel Protocol](https://eprint.iacr.org/2025/818.pdf).
 * [security] [Decentralization of Ethereum's Builder Market](https://arxiv.org/pdf/2405.01329).
