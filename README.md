@@ -970,8 +970,10 @@
 
 ### 2025 
 
-* [security] [Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks]()
-* [security] [Towards Understanding and Analyzing Instant Cryptocurrency Exchanges]()
+* [security] [Phishing Tactics Are Evolving: An Empirical Study of Phishing Contracts on Ethereum]().
+* [security] [Piecing Together the Jigsaw Puzzle of Transactions on Heterogeneous Blockchain Networks]().
+* [security] [Towards Understanding and Analyzing Instant Cryptocurrency Exchanges]().
+* [security] [Blockchain Amplification Attack]().
 
 ### 2024
 
