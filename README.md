@@ -1127,6 +1127,7 @@
 
 
 ## TSE
+* [TSE25] [ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2403.06838).
 * [TSE25] [Understanding Security Issues in the DAO Governance Process]().
 * [TSE25] [Enhanced Smart Contract Vulnerability Detection via Graph Neural Networks: Achieving High Accuracy and Efficiency]().
 * [TSE25] [NumScout: Unveiling Numerical Defects in Smart Contracts using LLM-Pruning Symbolic Execution](https://arxiv.org/abs/2503.10041)
