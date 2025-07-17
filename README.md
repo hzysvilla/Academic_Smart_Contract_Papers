@@ -303,6 +303,7 @@
 * [security] [Siniel: Distributed Privacy-Preserving zkSNARK](https://eprint.iacr.org/2024/1803.pdf).
 * [security] [The Forking Way: When TEEs Meet Consensus](https://arxiv.org/abs/2412.00706) | **[MyTLDR](TLDR.md#25_2_25)**.
 * [security] [Kronos: A Secure and Generic Sharding Blockchain Consensus with Optimized Overhead]().
+* [security] [Exploring User Perceptions of Security Auditing in the Web3 Ecosystem](https://www.ndss-symposium.org/wp-content/uploads/2025-775-paper.pdf).
 
 ### ndss2024 
 
