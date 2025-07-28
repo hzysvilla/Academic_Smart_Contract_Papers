@@ -708,6 +708,7 @@
 
 ### 2025
 
+* [security] [Beyond Visual Confusion: Understanding How Inconsistencies in ENS Normalization Facilitate Homoglyph Attacks]().
 * [security] [CATALOG: Exploiting Joint Temporal Dependencies for Enhanced Phishing Detection on Ethereum]().
 * [security] [AERO: Enhancing Sharding Blockchain via Deep Reinforcement Learning for Account Migration](https://openreview.net/pdf?id=WcuXvn3HVk).
 * [security] [The Poorest Man in Babylon: A Longitudinal Study of Cryptocurrency Investment Scams]().
