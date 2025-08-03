@@ -215,6 +215,9 @@
 * [security] [Following Devils' Footprint: Towards Real-time Detection of Price Manipulation Attacks](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-750-zhang-bosi.pdf)
 * [security] [COLLISIONREPAIR: First-Aid and Automated Patching for Storage Collision Vulnerabilities in Smart Contracts]().
 * [pl] [Let's Move2EVM](https://zenodo.org/records/15591738/files/paper_extended.pdf?download=1).
+* [security] [BEAT-MEV: Epochless Approach to Batched Threshold Encryption for MEV Prevention](https://eprint.iacr.org/2024/1533.pdf).
+* [security] [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1205-fabrega.pdf).
+* [security] [Automated Soundness and Completeness Vetting of Polygon]().
 
 ### sec2024
 
@@ -719,6 +722,14 @@
 * [security] [Linking Souls to Humans: Blockchain Accounts with Credible Anonymity for Web 3.0 Decentralized Identity](https://openreview.net/pdf?id=yXtGrd4Ib7).
 * [security] [SigScope: Detecting and Understanding Off-Chain Message Signing-related Vulnerabilities in Decentralized Applications](https://openreview.net/pdf?id=8OIqXq455O)
 * [security] [Hunting in the Dark Forest: A Pre-trained Model for On-chain Attack Transaction Detection in Web3](https://dl.acm.org/doi/pdf/10.1145/3696410.3714928)
+* [security] [Safeguarding Blockchain Ecosystem: Understanding and Detecting Attack Transactions on Cross-chain Bridges]().
+* [security] [Bridging Culture and Finance: A Multimodal Analysis of Memecoins in the Web3 Ecosystem]().
+* [security] [Gamblers or Delegatees: Identifying Hidden Participant Roles in Crypto Casinos]().
+* [security] [NFTs as a Data-Rich Test Bed: Conspicuous Consumption and its Determinants]().
+* [security] [Distributed Ledger and Text Watermarking for Fine-Grain Provenance Checking of Textual Content]().
+* [security] [Private Order Flows and Builder Bidding Dynamics: The Road to Monopoly in Ethereum's Block Building Market]().
+* [security] [Serial Scammers and Attack of the Clones: How Scammers Coordinate Multiple Rug Pulls on Decentralized Exchanges]().
+* [security] [Centralization in the Decentralized Web: Challenges and Opportunities in IPFS Data Management]().
 
 ### 2024 
 
