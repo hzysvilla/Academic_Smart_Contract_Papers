@@ -1170,6 +1170,8 @@
 * [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
 
 ## TIFS
+
+* [TIFS25] [Profit or Deceit? Mitigating Pump and Dump in DeFi via Graph and Contrastive Learning]().
 * [TIFS25] [SAMamba: Structure-Aware Mamba for Ethereum Fraud Detection]().
 * [TIFS25] [Dissecting Blockchain Network Partitioning Attacks and Novel Defense for Bitcoin and Ethereum]().
 * [TIFS25] [SmartGuard: Making Prediction Verifiable through Transaction Sequences for Smart Contract Vulnerability Detection]().
