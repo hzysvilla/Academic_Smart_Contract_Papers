@@ -206,7 +206,7 @@
 
 ### sec2025
 
-* [security] [Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain]().
+* [security] [Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain](https://www.usenix.org/system/files/usenixsecurity25-he-zheyuan.pdf).
 * [security] [Deanonymizing Ethereum Validators: The P2P Network Has a Privacy Issue](https://arxiv.org/pdf/2409.04366).
 * [security] [SoK: Understanding zk-SNARKs: The Gap Between Research and Practice](https://eprint.iacr.org/2025/172.pdf).
 * [security] [Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1302-ma-zuchao.pdf).
@@ -1218,6 +1218,7 @@
 
 
 ## Miscellaneous
+* [TON25] [“One Model Fits All Nodes”: Neuron Activation Pattern Analysis-Based Attack Traffic Detection Framework for P2P Networks]().
 * [POMACS25] [The Last Survivor of PoS Pools: Staker's Dilemma]().
 * [TC25] [Tangram: Enabling Efficient and Balanced Dynamic Storage Extension on Sharding Blockchain Systems]().
 * [TON25] [One Model Fits All Nodes: Neuron Activation Pattern Analysis Based Attack Traffic Detection Framework for P2P Networks]().
