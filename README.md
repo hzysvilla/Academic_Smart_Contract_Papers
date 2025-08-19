@@ -1276,6 +1276,7 @@
 * [VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
 * [VLDB23] [Auto-Tuning with Reinforcement Learning for Permissioned Blockchain Systems](https://www.vldb.org/pvldb/vol16/p1000-li.pdf).
 * [VLDB22] [Hybrid Blockchain Database Systems: Design and Performance](https://dl.acm.org/doi/pdf/10.14778/3510397.3510406).
+* [AsiaCCS25] [FIRST: FrontrunnIng Resistant Smart ConTracts]().
 * [AsiaCCS22] [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390).
 * [TC21] [Precise Dynamic Symbolic Execution for Nonuniform Data Access in Smart Contracts](https://rucsesec.github.io/papers/TC2021b.pdf).
 * [sigmod23] [When Private Blockchain Meets Deterministic Database](https://arxiv.org/pdf/2211.15163).
