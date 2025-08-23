@@ -1201,6 +1201,8 @@
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
+
+* [TDSC25] [I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection]().
 * [TDSC25] [BridgeGuard: Checking External Interaction Vulnerabilities in Cross-Chain Bridge Router Contracts Based on Symbolic Dataflow Analysis]().
 * [TDSC25] [Uncovering NFT Domain-Specific Defects on Smart Contract Bytecode]().
 * [TDSC25] [SmartTrans: Advanced Similarity Analysis for Detecting Vulnerabilities in Ethereum Smart Contracts]().
