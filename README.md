@@ -181,7 +181,8 @@
 * [SoftwareAnalysis] [TokenScope: Automatically Discovering Inconsistent Cryptocurrency Tokens](https://dl.acm.org/doi/pdf/10.1145/3319535.3345664).
 * [security] [Learning to Fuzz from Symbolic Execution with Application to Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363230).  | **[MyTLDR](TLDR.md#24_2_6)**.
 * [security] [Zkay: Specifying and Enforcing Data Privacy in Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3319535.3363222).
-* [security] [Power adjusting and bribery racing: Novel mining attacks in the bitcoin system](https://dl.acm.org/doi/abs/10.1145/3319535.3354203?casa_token=xLz-OozqQroAAAAA:0kL7UecW8hMvAQzpv8ULn9k41WJynntymzzy3VQ65e4W_nRAmb_aH0q9p_zUH0QPPnDokB5OroM4yYc)
+* [security] [Power adjusting and bribery racing: Novel mining attacks in the bitcoin system](https://dl.acm.org/doi/abs/10.1145/3319535.3354203?casa_token=xLz-OozqQroAAAAA:0kL7UecW8hMvAQzpv8ULn9k41WJynntymzzy3VQ65e4W_nRAmb_aH0q9p_zUH0QPPnDokB5OroM4yYc).
+* [security] [Tesseract: Real-Time Cryptocurrency Exchange Using Trusted Hardware](https://eprint.iacr.org/2017/1153.pdf).
 
 ### ccs2018
 
