@@ -1122,6 +1122,7 @@
 ## TOSEM
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOSEM25] [CCIHunter: Enhancing Smart Contract Code-Comment Inconsistencies Detection via Two-Stage Pre-training]().
 * [TOSEM23] [Enhancing Security and Acuity of Smart Contract Vulnerability Detection based on Federated Learning and BiLSTM-Attention]().
 * [TOSEM25] [Anomaly Detection Services for Blockchain Smart Contracts with Unknown Vulnerabilities]().
 * [TOSEM25] [PonziHunter: Hunting Ethereum Ponzi Contract via Static Analysis and Contrastive Learning on the Bytecode Level]().
