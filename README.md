@@ -1123,7 +1123,7 @@
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
 * [TOSEM25] [From Cryptic to Clear-Training on LLM Explanations to Detect Smart Contract Vulnerabilities]().
-* [TOSEM25] [Detecting and Analyzing Fine-grained Third-party Library Dependencies in Solidity Smart Contracts]().
+* [TOSEM25] [Detecting and Analyzing Fine-grained Third-party Library Dependencies in Solidity Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3765755).
 * [TOSEM25] [CCIHunter: Enhancing Smart Contract Code-Comment Inconsistencies Detection via Two-Stage Pre-training]().
 * [TOSEM23] [Enhancing Security and Acuity of Smart Contract Vulnerability Detection based on Federated Learning and BiLSTM-Attention]().
 * [TOSEM25] [Anomaly Detection Services for Blockchain Smart Contracts with Unknown Vulnerabilities]().
