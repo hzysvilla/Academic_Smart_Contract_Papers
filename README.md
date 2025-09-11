@@ -1122,6 +1122,7 @@
 ## TOSEM
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOSEM25] [From Cryptic to Clear-Training on LLM Explanations to Detect Smart Contract Vulnerabilities]().
 * [TOSEM25] [Detecting and Analyzing Fine-grained Third-party Library Dependencies in Solidity Smart Contracts]().
 * [TOSEM25] [CCIHunter: Enhancing Smart Contract Code-Comment Inconsistencies Detection via Two-Stage Pre-training]().
 * [TOSEM23] [Enhancing Security and Acuity of Smart Contract Vulnerability Detection based on Federated Learning and BiLSTM-Attention]().
@@ -1143,6 +1144,8 @@
 
 
 ## TSE
+
+* [TSE25] [VulFinder: Exploring Chaincode Vulnerabilities More Effectively and Efficiently Using Knowledge Graph Based Defect Pattern Matching]().
 * [TSE25] [ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2403.06838).
 * [TSE25] [Understanding Security Issues in the DAO Governance Process]().
 * [TSE25] [Enhanced Smart Contract Vulnerability Detection via Graph Neural Networks: Achieving High Accuracy and Efficiency]().
@@ -1173,6 +1176,7 @@
 * [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
 
 ## TIFS
+
 * [TIFS25] [Improving Ethereum Mixing Address Linking with Tensor Computation, Neighbor Data Utilization and Asymmetric Information Modeling]().
 * [TIFS25] [Profit or Deceit? Mitigating Pump and Dump in DeFi via Graph and Contrastive Learning]().
 * [TIFS25] [SAMamba: Structure-Aware Mamba for Ethereum Fraud Detection]().
