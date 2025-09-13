@@ -1285,6 +1285,7 @@
 * [VLDB23] [ChainDash: An Ad-Hoc Blockchain Data Analytics System](https://dl.acm.org/doi/pdf/10.1145/3491102.3517585).
 * [VLDB23] [Auto-Tuning with Reinforcement Learning for Permissioned Blockchain Systems](https://www.vldb.org/pvldb/vol16/p1000-li.pdf).
 * [VLDB22] [Hybrid Blockchain Database Systems: Design and Performance](https://dl.acm.org/doi/pdf/10.14778/3510397.3510406).
+* [AsiaCCS25] [AWOSE: Probabilistic State Model for Consensus Algorithms’ Fuzzing Frameworks]().
 * [AsiaCCS25] [Mining Attack with Zero Knowledge in the Blockchain]().
 * [AsiaCCS25] [FIRST: FrontrunnIng Resistant Smart ConTracts](https://arxiv.org/html/2204.00955v3).
 * [AsiaCCS22] [Eliminating Sandwich Attacks with the Help of Game Theory](https://dl.acm.org/doi/pdf/10.1145/3488932.3517390).
