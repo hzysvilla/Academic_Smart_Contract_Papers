@@ -910,9 +910,13 @@
 
 ## OOPSLA
 
+### 2026
+
+* [Program language] [DepFuzz: Efficient Smart Contract Fuzzing with FunctionDependence Guidance]().
+
 ### 2025
 
-* [Program language] [HEMVM: a Heterogeneous Blockchain Framework for Interoperable Virtual Machines](https://trust2proj.github.io/doc/OOPSLA25.pdf)
+* [Program language] [HEMVM: a Heterogeneous Blockchain Framework for Interoperable Virtual Machines](https://trust2proj.github.io/doc/OOPSLA25.pdf).
 * [Program language] [A complete formal semantics of eBPF instruction set architecture for Solana](https://trust2proj.github.io/doc/OOPSLA25.pdf).
 
 ### 2024
