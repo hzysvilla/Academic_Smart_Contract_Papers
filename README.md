@@ -365,6 +365,7 @@
 * [ATC24] [SlimArchive: A Lightweight Architecture for Ethereum Archive Nodes](https://www.usenix.org/system/files/atc24-feng-hang.pdf).
 * [ATC22] [An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts](https://www.usenix.org/system/files/atc21-kim-yeonsoo.pdf).
 * [ATC21] [RainBlock: Faster Transaction Processing in Public Blockchains](https://www.usenix.org/system/files/atc21-ponnapalli.pdf).
+* [ATC20] [A decentralized blockchain with high throughput and fast confirmation](https://www.usenix.org/system/files/atc20-li-chenxing.pdf).
 
 ---
 
