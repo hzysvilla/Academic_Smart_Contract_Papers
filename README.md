@@ -386,6 +386,7 @@
 * [CAV22] [End-to-End Formal Verification of Ethereum 2.0 Deposit Smart Contract](https://daejunpark.github.io/papers/deposit.pdf).
 * [CAV22] [Synthesis of super-optimized smart contracts using max-smt](https://discovery.ucl.ac.uk/id/eprint/10113344/). 
 * [CAV21] [TxT: Real-Time Transaction Encapsulation for Ethereum Smart Contracts]()
+* [CAV21] [Summing up Smart Transitions](https://people.cs.umass.edu/~immerman/pub/CAV21.pdf).
 
 ---
 
