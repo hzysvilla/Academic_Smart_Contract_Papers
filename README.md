@@ -1151,6 +1151,7 @@
 
 ## TSE
 
+* [TSE25] [ASTRO: Detecting Access Control Vulnerabilities in Smart Contracts via Graph Similarity Comparison]().
 * [TSE25] [Towards Exploring Developers' Struggles in Developing Upgradeable Smart Contracts]().
 * [TSE25] [VulFinder: Exploring Chaincode Vulnerabilities More Effectively and Efficiently Using Knowledge Graph Based Defect Pattern Matching]().
 * [TSE25] [ACFIX: Guiding LLMs with Mined Common RBAC Practices for Context-Aware Repair of Access Control Vulnerabilities in Smart Contracts](https://arxiv.org/abs/2403.06838).
