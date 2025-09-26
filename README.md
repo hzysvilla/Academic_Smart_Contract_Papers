@@ -514,6 +514,8 @@
 
 ### 2025
 
+* [security] [Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation]().
+* [security] [FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization]().
 * [security] [HighGuard: Cross-Chain Business Logic Monitoring of Smart Contract]().
 
 ### 2024
