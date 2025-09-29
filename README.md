@@ -1153,6 +1153,7 @@
 
 ## TSE
 
+* [TSE25] [Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse]().
 * [TSE25] [ASTRO: Detecting Access Control Vulnerabilities in Smart Contracts via Graph Similarity Comparison]().
 * [TSE25] [Towards Exploring Developers' Struggles in Developing Upgradeable Smart Contracts]().
 * [TSE25] [VulFinder: Exploring Chaincode Vulnerabilities More Effectively and Efficiently Using Knowledge Graph Based Defect Pattern Matching]().
