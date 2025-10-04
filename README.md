@@ -121,6 +121,11 @@
 ## CCS
 ([24](#ccs2024),[23](#ccs2023),[22](#ccs2022),[21](#ccs2021),[20](#ccs2020),[19](#ccs2019),[18](#ccs2018),[17](#ccs2017),[16](#ccs2016))
 
+### ccs2025
+
+* [security] [Denial of Sequencing Attacks in Ethereum Layer 2 Rollups]().
+* [security] [Towards a Formal Foundation for Blockchain Rollups](https://arxiv.org/pdf/2406.16219).
+
 ### ccs2024
 
 * [security] [Mempool Privacy via Batched Threshold Encryption: Attacks and Defenses](https://www.usenix.org/system/files/usenixsecurity24-choudhuri.pdf).
