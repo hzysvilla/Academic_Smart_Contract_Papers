@@ -518,6 +518,21 @@
 ## ASE
 
 ### 2025
+
+* [security] [SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation]().
+* [security] [ScaleCirc: Scaling the Analysis over Circom Circuits]().
+* [security] [SSR: Safeguarding Staking Rewards by Defining and Detecting Logical Defects in DeFi Staking]().
+* [security] [Democratizing the Cryptocurrency Ecosystem by Just-In-Time Transformation of Mining Programs]().
+* [security] [PROMFUZZ: Leveraging LLM-Driven and Bug-Oriented Composite Analysis for Detecting Functional Bugs in Smart Contracts]().
+* [security] [Leveraging Mixture-of-Experts Framework for Smart Contract Vulnerability Repair with Large Language Model]().
+* [security] [Finding Insecure State Dependency in DApps via Multi-Source Tracing and Semantic Enrichment]().
+* [security] [Detecting Various DeFi Price Manipulations with LLM Reasoning]().
+* [security] [Why Is My Transaction Risky? Understanding Smart Contract Semantics and Interactions in the NFT Ecosystem]().
+* [security] [Soleker: Uncovering Vulnerabilities in Solana Smart Contracts]().
+* [security] [PrefGen: A Preference-Driven Methodology for Secure Yet Gas-Efficient Smart Contract Generation]().
+* [security] [Have We Solved Access Control Vulnerability Detection in Smart Contracts? A Benchmark Study]().
+* [security] [Demystifying OpenZeppelin's Own Vulnerabilities and Analyzing Their Propagation in Smart Contracts]().
+* [security] [ACTaint: Agent-Based Taint Analysis for Access Control Vulnerabilities in Smart Contracts]().
 * [security] [VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods]().
 * [security] [Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation]().
 * [security] [FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization]().
