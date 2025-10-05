@@ -518,7 +518,7 @@
 ## ASE
 
 ### 2025
-
+* [security] [VeriExploit: Automatic Bug Reproduction in Smart Contracts via LLMs and Formal Methods]().
 * [security] [Learning from the Past: Real-World Exploit Migration for Smart Contract PoC Generation]().
 * [security] [FaultSeeker: LLM-Empowered Framework for Blockchain Transaction Fault Localization]().
 * [security] [HighGuard: Cross-Chain Business Logic Monitoring of Smart Contract]().
@@ -1192,6 +1192,8 @@
 * [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
 
 ## TIFS
+* [TIFS25] [SightCVC: An Efficient and Compatible Multi-chain Transaction Protocol in Heterogeneous Blockchain Systems]().
+* [TIFS25] [sBugChecker: A Systematic Framework for Detecting Solidity Compiler-Introduced Bugs]().
 * [TIFS25] [Detecting DeFi Fraud with a Graph-Transformer Language Model]().
 * [TIFS25] [Improving Ethereum Mixing Address Linking with Tensor Computation, Neighbor Data Utilization and Asymmetric Information Modeling]().
 * [TIFS25] [Profit or Deceit? Mitigating Pump and Dump in DeFi via Graph and Contrastive Learning]().
