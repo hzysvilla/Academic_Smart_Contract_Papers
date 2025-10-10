@@ -666,6 +666,7 @@
 
 ## SOSP
 
+* [SOSP25] [eBPF Misbehavior Detection: Fuzzing with a Specification-Based Oracle](https://cs.uwaterloo.ca/~m285xu/assets/publication/ebpf_smt_fuzz-paper.pdf).
 * [SOSP21] [Forerunner: Constraint-based Speculative Transaction Execution for Ethereum](https://www.microsoft.com/en-us/research/uploads/prod/2021/09/3477132.3483564.pdf) | **[MyTLDR](TLDR.md#23_11_9)**.
 * [SOSP17] [Algorand: Scaling Byzantine Agreements for Cryptocurrencies](https://pdfs.semanticscholar.org/52eb/be753328f3139cbf9dfba7b8d3c78654b561.pdf).
 
@@ -1150,6 +1151,7 @@
 ## TOSEM
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOSEM25] [From Cryptic to Clear - Training on LLM Explanations to Detect Smart Contract Vulnerabilities]().
 * [TOSEM25] [From Cryptic to Clear-Training on LLM Explanations to Detect Smart Contract Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3765753).
 * [TOSEM25] [Detecting and Analyzing Fine-grained Third-party Library Dependencies in Solidity Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3765755).
 * [TOSEM25] [CCIHunter: Enhancing Smart Contract Code-Comment Inconsistencies Detection via Two-Stage Pre-training]().
@@ -1207,6 +1209,7 @@
 * [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
 
 ## TIFS
+* [TIFS25] [Pruning attention Heads based on Semantic and Code Structure for Smart Contract Vulnerability Detection]().
 * [TIFS25] [SightCVC: An Efficient and Compatible Multi-chain Transaction Protocol in Heterogeneous Blockchain Systems]().
 * [TIFS25] [sBugChecker: A Systematic Framework for Detecting Solidity Compiler-Introduced Bugs]().
 * [TIFS25] [Detecting DeFi Fraud with a Graph-Transformer Language Model]().
