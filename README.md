@@ -125,6 +125,13 @@
 
 * [security] [Denial of Sequencing Attacks in Ethereum Layer 2 Rollups]().
 * [security] [Towards a Formal Foundation for Blockchain Rollups](https://arxiv.org/pdf/2406.16219).
+* [security] [KZH-Fold: Accountable Voting from Sublinear Accumulation]().
+* [security] [Forking the RANDAO: Manipulating Ethereum's Distributed Randomness Beacon]().
+* [security] [Bitcoin Under Volatile Block Rewards: How Mempool Statistics Can Influence Bitcoin Mining]().
+* [security] [On Frontrunning Risks in Batch-Order Fair Systems for Blockchains]().
+* [security] [Aegis: Tethering a Blockchain with Primary-Chain Stake]().
+* [security] [Accountable Liveness]().
+* [security] [Time Tells All: Deanonymization of Blockchain RPC Users with Zero Transaction Fee]().
 
 ### ccs2024
 
