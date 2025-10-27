@@ -1273,6 +1273,7 @@
 
 
 ## Miscellaneous
+* [TPDS24] [On Off-Chaining Smart Contract Runtime Protection: A Queuing Model Approach]().
 * [TON25] [“One Model Fits All Nodes”: Neuron Activation Pattern Analysis-Based Attack Traffic Detection Framework for P2P Networks]().
 * [POMACS25] [The Last Survivor of PoS Pools: Staker's Dilemma]().
 * [TC25] [Tangram: Enabling Efficient and Balanced Dynamic Storage Extension on Sharding Blockchain Systems]().
