@@ -1181,6 +1181,7 @@
 
 ## TSE
 
+* [TSE25] [Who Is Pulling the Strings: Unveiling Smart Contract State Manipulation Attacks Through State-Aware Dataflow Analysis]().
 * [TSE25] [Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse]().
 * [TSE25] [ASTRO: Detecting Access Control Vulnerabilities in Smart Contracts via Graph Similarity Comparison]().
 * [TSE25] [Towards Exploring Developers' Struggles in Developing Upgradeable Smart Contracts]().
@@ -1215,6 +1216,7 @@
 * [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
 
 ## TIFS
+
 * [TIFS25] [Pruning attention Heads based on Semantic and Code Structure for Smart Contract Vulnerability Detection]().
 * [TIFS25] [SightCVC: An Efficient and Compatible Multi-chain Transaction Protocol in Heterogeneous Blockchain Systems]().
 * [TIFS25] [sBugChecker: A Systematic Framework for Detecting Solidity Compiler-Introduced Bugs]().
@@ -1250,6 +1252,8 @@
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
+
+* [TDSC25] [Unveiling the Centralized Security Risks in Decentralized Ecosystems]().
 * [TDSC25] [Interaction-Aware Vulnerability Detection in Smart Contract Bytecodes]().
 * [TDSC25] [I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection]().
 * [TDSC25] [BridgeGuard: Checking External Interaction Vulnerabilities in Cross-Chain Bridge Router Contracts Based on Symbolic Dataflow Analysis]().
