@@ -1254,7 +1254,7 @@
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
-
+* [TDSC25] [A Decentralized Blockchain Transaction Verification Scheme in the Weighted Setting]().
 * [TDSC25] [Unveiling the Centralized Security Risks in Decentralized Ecosystems]().
 * [TDSC25] [Interaction-Aware Vulnerability Detection in Smart Contract Bytecodes]().
 * [TDSC25] [I Know Who Clones Your Code: Interpretable Smart Contract Similarity Detection]().
@@ -1275,7 +1275,7 @@
 
 
 ## Miscellaneous
-* [NeurIPS 2025][BlockScan: Detecting Anomalies in Blockchain T0ransactions](https://arxiv.org/pdf/2410.04039).
+* [NeurIPS25][BlockScan: Detecting Anomalies in Blockchain T0ransactions](https://arxiv.org/pdf/2410.04039).
 * [TPDS24] [On Off-Chaining Smart Contract Runtime Protection: A Queuing Model Approach]().
 * [TON25] [“One Model Fits All Nodes”: Neuron Activation Pattern Analysis-Based Attack Traffic Detection Framework for P2P Networks]().
 * [POMACS25] [The Last Survivor of PoS Pools: Staker's Dilemma]().
