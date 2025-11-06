@@ -1160,6 +1160,7 @@
 ## TOSEM
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOSEM25] [M2CVD: Enhancing Vulnerability Understanding through Multi-Model Collaboration for Code Vulnerability Detection](https://arxiv.org/abs/2406.05940).
 * [TOSEM25] [From Cryptic to Clear-Training on LLM Explanations to Detect Smart Contract Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3765753).
 * [TOSEM25] [Detecting and Analyzing Fine-grained Third-party Library Dependencies in Solidity Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3765755).
 * [TOSEM25] [CCIHunter: Enhancing Smart Contract Code-Comment Inconsistencies Detection via Two-Stage Pre-training]().
@@ -1275,6 +1276,7 @@
 
 
 ## Miscellaneous
+* [TSC25] [Metamorphic Testing for Smart Contracts: A User-Behavior-Sequence-Aware Approach and Automation Tool]().
 * [NeurIPS25][BlockScan: Detecting Anomalies in Blockchain T0ransactions](https://arxiv.org/pdf/2410.04039).
 * [TPDS24] [On Off-Chaining Smart Contract Runtime Protection: A Queuing Model Approach]().
 * [TON25] [“One Model Fits All Nodes”: Neuron Activation Pattern Analysis-Based Attack Traffic Detection Framework for P2P Networks]().
