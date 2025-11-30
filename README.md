@@ -709,6 +709,7 @@
 * [performance] [Broker2Earn: Towards Maximizing Broker Revenue and System Liquidity for Sharded Blockchains]().
 * [Performance] [Account Migration across Blockchain Shards using Fine-tuned Lock Mechanism]().
 * [security] [ConFuzz: Towards Large Scale Fuzz Testing of Smart Contracts in Ethereum]().
+* [security] [Deanonymizing Ethereum Users behind Third-Party RPC Services]().
 
 ### 2023
 
