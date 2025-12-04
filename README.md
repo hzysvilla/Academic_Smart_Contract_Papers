@@ -601,6 +601,10 @@
 
 ## ICSE
 
+### 2026
+
+* [security] [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/pdf/2511.09134).
+
 ### 2025
 
 * [security] [FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction]().
