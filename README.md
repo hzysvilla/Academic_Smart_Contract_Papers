@@ -1165,6 +1165,7 @@
 ## TOSEM
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOMSE25] [MANDO-LLM: Heterogeneous Graph Transformers with Large Language Models for Smart Contract Vulnerability Detection]().
 * [TOSEM25] [M2CVD: Enhancing Vulnerability Understanding through Multi-Model Collaboration for Code Vulnerability Detection](https://arxiv.org/abs/2406.05940).
 * [TOSEM25] [From Cryptic to Clear-Training on LLM Explanations to Detect Smart Contract Vulnerabilities](https://dl.acm.org/doi/pdf/10.1145/3765753).
 * [TOSEM25] [Detecting and Analyzing Fine-grained Third-party Library Dependencies in Solidity Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3765755).
