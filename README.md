@@ -1165,6 +1165,7 @@
 ## TOSEM
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOSEM25] [No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis](https://csxqli.github.io/files/TOSEM25.pdf).
 * [TOSEM25] [Are Static Analysis Tools Still Working during the Evolution of Smart Contracts? A Comprehensive Empirical Study](https://dl.acm.org/doi/pdf/10.1145/3779429).
 * [TOMSE25] [MANDO-LLM: Heterogeneous Graph Transformers with Large Language Models for Smart Contract Vulnerability Detection]().
 * [TOSEM25] [M2CVD: Enhancing Vulnerability Understanding through Multi-Model Collaboration for Code Vulnerability Detection](https://arxiv.org/abs/2406.05940).
@@ -1227,6 +1228,7 @@
 
 ## TIFS
 
+* [TISF25] [ScamSweeper: Detecting Illegal Accounts in Web3 Scams via Transactions Analysis](https://csxqli.github.io/files/ScamSweeper.pdf).
 * [TIFS25] [Pruning attention Heads based on Semantic and Code Structure for Smart Contract Vulnerability Detection]().
 * [TIFS25] [SightCVC: An Efficient and Compatible Multi-chain Transaction Protocol in Heterogeneous Blockchain Systems]().
 * [TIFS25] [sBugChecker: A Systematic Framework for Detecting Solidity Compiler-Introduced Bugs]().
