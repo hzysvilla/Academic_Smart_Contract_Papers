@@ -1165,6 +1165,7 @@
 ## TOSEM
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOSEM25] [SmartAuditFlow: A Dynamic Plan-Execute Framework for Advanced Smart Contract Security Analysis]().
 * [TOSEM25] [No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis](https://csxqli.github.io/files/TOSEM25.pdf).
 * [TOSEM25] [Are Static Analysis Tools Still Working during the Evolution of Smart Contracts? A Comprehensive Empirical Study](https://dl.acm.org/doi/pdf/10.1145/3779429).
 * [TOMSE25] [MANDO-LLM: Heterogeneous Graph Transformers with Large Language Models for Smart Contract Vulnerability Detection]().
