@@ -605,10 +605,17 @@
 
 * [security] [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/pdf/2511.09134).
 * [security] [Enforcing Control Flow Integrity on DeFi Smart Contracts](https://www.eecg.utoronto.ca/~veneris/ICSE26.pdf).
+* [security] [EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models]().
+* [security] [FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction]().
+* [security] [Boosting Gas Revenues of Ethereum Miners]().
+* [program language] [Precise Static Identification of Ethereum Storage Variables]()
+* [security] [Bounded Exhaustive Random Program Generation for Testing Solidity Compilers]().
+* [security] [Is My RPC Response Reliable? Detecting RPC Bugs in Blockchain Client under Context]().
+* [security] [OctopusGuard: K-Line Enhanced Token Scam Detector Powered by Multimodal LLMs]().
+* [security] [GenDetect: Generalizing Reactive Detection for Resilience Against Imitative DeFi Attack Cascade]().
 
 ### 2025
 
-* [security] [FORGE: An LLM-driven Framework for Large-Scale Smart Contract Vulnerability Dataset Construction]().
 * [security] [ConsCS: Effective and Efficient Verification of Circom Circuits]().
 * [security] [Safeguarding DeFi Smart Contracts against Oracle Deviations]().
 * [security] [Hyperion: Unveiling DApp Inconsistencies using LLM and Dataflow-Guided Symbolic Execution](https://arxiv.org/pdf/2408.06037).
