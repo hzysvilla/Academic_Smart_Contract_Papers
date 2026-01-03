@@ -604,6 +604,7 @@
 ### 2026
 
 * [security] [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/pdf/2511.09134).
+* [security] [Enforcing Control Flow Integrity on DeFi Smart Contracts](https://www.eecg.utoronto.ca/~veneris/ICSE26.pdf).
 
 ### 2025
 
