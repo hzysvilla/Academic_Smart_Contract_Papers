@@ -232,6 +232,7 @@
 * [security] [Voting-Bloc Entropy: A New Metric for DAO Decentralization](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-1205-fabrega.pdf).
 * [security] [Automated Soundness and Completeness Vetting of Polygon]().
 * [security] [Ghost Clusters: Evaluating Attribution of Illicit Services through Cryptocurrency Tracing]().
+* [security] [Does Finality Gadget Finalize Your Block? A Case Study of Binance Consensus]().
 * [security] [Blockchain Address Poisoning]().
 
 ### sec2024
