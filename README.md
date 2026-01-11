@@ -413,6 +413,7 @@
 * [security] [SoK: A Taxonomic Analysis of DeFi Rug Pulls: Types, Dataset, and Tool Assessment]().
 * [security] [Smart Contract Fuzzing Towards Profitable Vulnerabilities](https://arxiv.org/pdf/2501.08834).
 * [security] [Detecting Smart Contract State-Inconsistency Bugs via Flow Divergence and Multiplex Symbolic Execution]().
+* [security] [LookAhead: Preventing DeFi Attacks via Unveiling Adversarial Contracts](https://dl.acm.org/doi/abs/10.1145/3729353).
 * [security] [SmartShot: Hunt Hidden Vulnerabilities in Smart Contracts using Mutable Snapshots]().
 * [security] [Clone Detection for Smart Contracts: How Far Are We?]().
 * [security] [Automated and Accurate Token Transfer Identification and Its Applications in Cryptocurrency Security]().
