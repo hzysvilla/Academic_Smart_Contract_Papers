@@ -605,6 +605,7 @@
 
 ### 2026
 
+* [security] [USCSA: Evolution-Aware Security Analysis for Proxy-Based Upgradeable Smart Contracts](https://arxiv.org/pdf/2512.08372)
 * [security] [One Signature, Multiple Payments: Demystifying and Detecting Signature Replay Vulnerabilities in Smart Contracts](https://arxiv.org/pdf/2511.09134).
 * [security] [Enforcing Control Flow Integrity on DeFi Smart Contracts](https://www.eecg.utoronto.ca/~veneris/ICSE26.pdf).
 * [security] [EchoFuzz: Empowering Smart Contract Fuzzing with Large Language Models]().
