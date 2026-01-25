@@ -1119,6 +1119,9 @@
 
 ## ICDCS
 
+### 2025
+
+* [security] [Dissecting Ethereum Staking at Scale: A Comprehensive Measurement and Analysis]().
 * [security] [Proxion: Uncovering Hidden Proxy Smart Contracts for Finding Collision Vulnerabilities in Ethereum](https://securalab.org/publications/pdfs/ICDCS25proxion.pdf).
 * [security] [Depermissioning Web3: a Permissionless Accountable RPC Protocol for Blockchain Networks]().
 * [security] [Fully Decentralized Collection of Attestations for Single-Slot Finality in Ethereum]().
@@ -1176,6 +1179,7 @@
 ## TOSEM
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOSEM25] [Empirical Analysis of Smart Contract Factories on EVM-compatible Chains]().
 * [TOSEM25] [SmartAuditFlow: A Dynamic Plan-Execute Framework for Advanced Smart Contract Security Analysis]().
 * [TOSEM25] [No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis](https://csxqli.github.io/files/TOSEM25.pdf).
 * [TOSEM25] [Are Static Analysis Tools Still Working during the Evolution of Smart Contracts? A Comprehensive Empirical Study](https://dl.acm.org/doi/pdf/10.1145/3779429).
@@ -1205,6 +1209,7 @@
 ## TSE
 
 * [TSE25] [Who Is Pulling the Strings: Unveiling Smart Contract State Manipulation Attacks Through State-Aware Dataflow Analysis]().
+* [TSE25] [Improving Smart Contract Vulnerability Detection with Correlation-Driven Semi-Supervised Learning]().
 * [TSE25] [Satellite: Detecting and Analyzing Smart Contract Vulnerabilities caused by Subcontract Misuse]().
 * [TSE25] [ASTRO: Detecting Access Control Vulnerabilities in Smart Contracts via Graph Similarity Comparison]().
 * [TSE25] [Towards Exploring Developers' Struggles in Developing Upgradeable Smart Contracts]().
@@ -1276,6 +1281,7 @@
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
+* [TDSC25] [Unveiling Ethereum Mixing Services Using Enhanced Graph Structure Learning]().
 * [TDSC25] [A Decentralized Blockchain Transaction Verification Scheme in the Weighted Setting]().
 * [TDSC25] [Unveiling the Centralized Security Risks in Decentralized Ecosystems]().
 * [TDSC25] [Interaction-Aware Vulnerability Detection in Smart Contract Bytecodes]().
