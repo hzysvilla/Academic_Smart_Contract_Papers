@@ -1245,7 +1245,8 @@
 
 ## TIFS
 
-* [TISF25] [ScamSweeper: Detecting Illegal Accounts in Web3 Scams via Transactions Analysis](https://csxqli.github.io/files/ScamSweeper.pdf).
+* [TIFS25] [Multi-Leader Byzantine Fault Tolerance in Blockchain: Performance and Security]().
+* [TIFS25] [ScamSweeper: Detecting Illegal Accounts in Web3 Scams via Transactions Analysis](https://csxqli.github.io/files/ScamSweeper.pdf).
 * [TIFS25] [Pruning attention Heads based on Semantic and Code Structure for Smart Contract Vulnerability Detection]().
 * [TIFS25] [SightCVC: An Efficient and Compatible Multi-chain Transaction Protocol in Heterogeneous Blockchain Systems]().
 * [TIFS25] [sBugChecker: A Systematic Framework for Detecting Solidity Compiler-Introduced Bugs]().
@@ -1281,6 +1282,8 @@
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
+
+* [TDSC25] [Multi-Label Smart Contract Vulnerability Detection Using Graph Contrastive Learning with Multi-View Fusion]().
 * [TDSC25] [Unveiling Ethereum Mixing Services Using Enhanced Graph Structure Learning]().
 * [TDSC25] [A Decentralized Blockchain Transaction Verification Scheme in the Weighted Setting]().
 * [TDSC25] [Unveiling the Centralized Security Risks in Decentralized Ecosystems]().
@@ -1303,6 +1306,7 @@
 
 
 ## Miscellaneous
+* [TSC25] [Mind the Service: What Crypto Wallets Aren't Telling You]().
 * [TSC25] [Metamorphic Testing for Smart Contracts: A User-Behavior-Sequence-Aware Approach and Automation Tool]().
 * [NeurIPS25][BlockScan: Detecting Anomalies in Blockchain Transactions](https://arxiv.org/pdf/2410.04039).
 * [TPDS24] [On Off-Chaining Smart Contract Runtime Protection: A Queuing Model Approach]().
