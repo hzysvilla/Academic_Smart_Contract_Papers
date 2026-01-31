@@ -1245,6 +1245,7 @@
 
 ## TIFS
 
+* [TIFS25] [Modeling the Performance-Security Trade-off of Gasper's Block Proposal Mechanism Under Latency-Driven Attacks]().
 * [TIFS25] [Multi-Leader Byzantine Fault Tolerance in Blockchain: Performance and Security]().
 * [TIFS25] [ScamSweeper: Detecting Illegal Accounts in Web3 Scams via Transactions Analysis](https://csxqli.github.io/files/ScamSweeper.pdf).
 * [TIFS25] [Pruning attention Heads based on Semantic and Code Structure for Smart Contract Vulnerability Detection]().
