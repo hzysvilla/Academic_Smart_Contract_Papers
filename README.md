@@ -827,6 +827,7 @@
 ## DSN
 
 ### 2025
+
 * [security] [PhishingHook: Catching Phishing Ethereum Smart Contracts leveraging EVM Opcodes]().
 * [security] [Reentrancy Redux: The Evolution of Real-World Reentrancy Attacks on Blockchains]().
 * [security] [Mitigating Reordering Attacks through Fair and Resilient Transaction Dissemination]().
@@ -1008,6 +1009,12 @@
 ---
 
 ## IMC
+
+### 2025
+
+* [security] [Quantifying the Threat of Sandwiching MEV on Jito: A Measurement of Solana’s Leading Validator Client](https://dl.acm.org/doi/epdf/10.1145/3730567.3764493).
+* [security] [Unmasking the Shadow Economy: A Deep Dive into Drainer-as-a-Service Phishing on Ethereum](https://dl.acm.org/doi/epdf/10.1145/3730567.3764476).
+* [security] [The Decentralization Dilemma: Performance Trade-Offs in IPFS and Breakpoints](https://dl.acm.org/doi/epdf/10.1145/3730567.3764453).
 
 ### 2024
 
