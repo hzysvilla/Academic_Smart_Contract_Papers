@@ -1088,6 +1088,11 @@
 
 ## APSEC
 
+### 2025
+
+* [security] [caSPESC2Vyper: Conformant and Automatic Generation from DeFi SPESC Legal Contract to Vyper Smart Contract](https://ieeexplore.ieee.org/document/9359296).
+* [security] [Smart Contract Vulnerability Detection Based on Residual Dilated Convolution with Multi-Head Attention](https://ieeexplore.ieee.org/document/9359296).
+
 ### 2020
 
 * [security] [Source Code Obfuscation for Smart Contracts](https://ieeexplore.ieee.org/document/9359296).
