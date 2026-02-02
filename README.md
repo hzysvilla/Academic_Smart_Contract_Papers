@@ -881,6 +881,11 @@
 
 ## ESORICS
 
+### 2025 
+
+* [security] [Premining in the Shadows: How Hidden Blocks Weaken the Security of Proof-of-Work Chains]().
+* [security] [The Economics of Deception: Structural Patterns of Rug Pull across DeFi Blockchains]().
+
 ### 2024
 
 * [security] [Cumulus: A Plug-and-Play Long Range Defense System for Proof of Stake Blockchains]().
