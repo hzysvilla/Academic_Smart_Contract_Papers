@@ -1324,10 +1324,11 @@
 
 
 ## Miscellaneous
+* [TPDS26] [Nexus: A Novel Transaction Processing Framework for Permissioned Blockchain]().
 * [TSC25] [Mind the Service: What Crypto Wallets Aren't Telling You]().
 * [TSC25] [Metamorphic Testing for Smart Contracts: A User-Behavior-Sequence-Aware Approach and Automation Tool]().
 * [NeurIPS25][BlockScan: Detecting Anomalies in Blockchain Transactions](https://arxiv.org/pdf/2410.04039).
-* [TPDS24] [On Off-Chaining Smart Contract Runtime Protection: A Queuing Model Approach]().
+* [TPDS24] [On Off-Chaining Smart Contract Runtime Protection: A Queuing Model Approach](). 
 * [TON25] [“One Model Fits All Nodes”: Neuron Activation Pattern Analysis-Based Attack Traffic Detection Framework for P2P Networks]().
 * [POMACS25] [The Last Survivor of PoS Pools: Staker's Dilemma]().
 * [TC25] [Tangram: Enabling Efficient and Balanced Dynamic Storage Extension on Sharding Blockchain Systems]().
