@@ -467,6 +467,7 @@
 ### 2025
 
 * [security] [Automated Attack Synthesis for Constant Product Market Makers](https://arxiv.org/pdf/2404.05297)
+* [security] [The Incredible Shrinking Context... in a decompiler near you]().
 * [security] [Copy-and-Paste? Identifying EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts](https://arxiv.org/pdf/2504.07589)
 * [security] [OpDiffer: LLM-Assisted Opcode-Level Differential Testing of Ethereum Virtual Machine](https://arxiv.org/pdf/2504.12034)
 * [security] [Enhancing Smart Contract Security Analysis with Execution Property Graphs](https://arxiv.org/pdf/2305.14046)
