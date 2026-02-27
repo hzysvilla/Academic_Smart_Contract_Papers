@@ -1242,7 +1242,7 @@
 
 
 ## TSE
-
+# [TSE26】[Improving Gas Efficiency in Smart Contracts: Data-Driven Insights and LLM-Assisted Remediation]().
 * [TSE26] [Do Automated Fixes Truly Mitigate Smart Contract Exploits?](https://ieeexplore.ieee.org/document/11197044).
 * [TSE25] [Who Is Pulling the Strings: Unveiling Smart Contract State Manipulation Attacks Through State-Aware Dataflow Analysis]().
 * [TSE25] [Improving Smart Contract Vulnerability Detection with Correlation-Driven Semi-Supervised Learning]().
