@@ -323,6 +323,7 @@
 * [security] [Pallas and Aegis: Rollback Resilience in TEE-Aided Blockchain Consensus]().
 * [security] [Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol]().
 * [security] [Phishing in Wonderland: Evaluating Learning-Based Ethereum Phishing Transaction Detection and Pitfalls]().
+* [security] [CtPhishCapture: Uncovering Credential-Theft-Based Phishing Scams Targeting Cryptocurrency Wallets]().
 
 ### ndss2025
 * [security] [Alba: The Dawn of Scalable Bridges for Blockchains](https://eprint.iacr.org/2024/197.pdf).
