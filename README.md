@@ -1319,6 +1319,7 @@
 
 ## TDSC
 
+* [TDSC25] [ JANUS: A Difference-Oriented Analyzer for Financial Centralized Risks in Smart Contracts]().
 * [TDSC25] [Multi-Label Smart Contract Vulnerability Detection Using Graph Contrastive Learning with Multi-View Fusion]().
 * [TDSC25] [Unveiling Ethereum Mixing Services Using Enhanced Graph Structure Learning]().
 * [TDSC25] [A Decentralized Blockchain Transaction Verification Scheme in the Weighted Setting]().
