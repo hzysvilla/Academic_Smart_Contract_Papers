@@ -24,7 +24,7 @@
 |        [IEEE DSN](#dsn)             |             [IEEE INFOCOM](#infocom)              |            [ACM OOPSLA](#oopsla)            | [Usenix ATC](#atc)          |
 |         [SRCS](#miscellaneous)      |                   [IMC](#imc)                     |              [ISSTA](#issta)                |  [Usenix FAST](#fast)       |
 |          [RAID](#raid)              |                   [WWW](#www)                     |             [ACM POPL](#popl)               |                             |
-|          [CAV](#cav)                |                                                   |                                             |                             |
+|          [CAV](#cav)                |                                                   |                [MSR](#msr)                  |                             |
 
 ### **📜 Journals**
 - [TOSEM](#tosem)
@@ -691,6 +691,14 @@
 
 * [security] [ReGuard: Finding Reentrancy Bugs in Smart Contracts](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8449446).
 
+---
+
+## MSR
+
+### 2026
+
+* [security] [Where Do Smart Contract Security Analyzers Fall Short?](https://tamer-abdelaziz.github.io/papers/TamerMSR2026.pdf)
+  
 ---
 
 ## SOSP
