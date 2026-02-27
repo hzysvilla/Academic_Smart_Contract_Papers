@@ -314,6 +314,16 @@
 ## NDSS
 ([25](#ndss2025),[24](#ndss2024),[23](#ndss2023),[21](#ndss2021),[20](#ndss2020),[19](#ndss2019),[18](#ndss2018))
 
+### ndss2026
+* [security] [BunnyFinder: Finding Incentive Flaws for Ethereum Consensus]().
+* [security] [Distributed Broadcast Encryption for Confidential Interoperability across Private Blockchains]().
+* [security] [HOUSTON: Real-Time Anomaly Detection of Attacks against Ethereum DeFi Protocols]().
+* [security] [Light into Darkness: Demystifying Profit Strategies Throughout the MEV Bot Lifecycle]().
+* [security] [MEVisor: High-Throughput MEV Discovery in DEXs with GPU Parallelism]().
+* [security] [Pallas and Aegis: Rollback Resilience in TEE-Aided Blockchain Consensus]().
+* [security] [Validity Is Not Enough: Uncovering the Security Pitfall in Chainlink's Off-Chain Reporting Protocol]().
+* [security] [Phishing in Wonderland: Evaluating Learning-Based Ethereum Phishing Transaction Detection and Pitfalls]().
+
 ### ndss2025
 * [security] [Alba: The Dawn of Scalable Bridges for Blockchains](https://eprint.iacr.org/2024/197.pdf).
 * [security] [Anonymity Schemes Used by Cryptocurrencies](https://www.ndss-symposium.org/wp-content/uploads/2023/02/ndss2023_s241_paper.pdf).
