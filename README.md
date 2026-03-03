@@ -986,6 +986,7 @@
 
 ### 2026
 
+* [Program language] [When Specifications Meet Reality: Uncovering API Inconsistencies in Ethereum Infrastructure]().
 * [Program language] [DepFuzz: Efficient Smart Contract Fuzzing with FunctionDependence Guidance]().
 
 ### 2025
