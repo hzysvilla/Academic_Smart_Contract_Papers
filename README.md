@@ -423,6 +423,8 @@
 
 ## ESEC/FSE
 
+* [security] [SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts]().
+
 ### 2025
 
 * [security] [Smart-LLaMA-DPO: Reinforced Large Language Model for Explainable Smart Contract Vulnerability Detection](https://arxiv.org/abs/2506.18245).
