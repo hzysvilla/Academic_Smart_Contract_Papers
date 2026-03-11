@@ -45,6 +45,10 @@
 ## S&P 
 ([25](#sp2025),[24](#sp2024),[23](#sp2023),[22](#sp2022),[21](#sp2021),[20](#sp2020),[16](#sp2016),[15](#sp2015))
 
+### sp2026
+
+* [security] [A Liveness Attack to Ethereum PoSwith No Additional Cost]().
+
 ### sp2025
 
 * [security] [Permissionless Verifiable Information Dispersal (Data Availability for Bitcoin Rollups)](https://eprint.iacr.org/2024/1299.pdf).
