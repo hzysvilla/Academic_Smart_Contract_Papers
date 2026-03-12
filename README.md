@@ -831,7 +831,7 @@
 ### 2022
 
 * [Finance] [Cyclic Arbitrage in Decentralized Exchanges](https://arxiv.org/pdf/2105.02784.pdf).
-* [security] [TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection](https://dl.acm.org/doi/pdf/10.1145/3442381.3450059).
+* [security] [TTAGN: Temporal Transaction Aggregation Graph Network for Ethereum Phishing Scams Detection](https://dl.acm.org/doi/10.1145/3485447.3512226). 
 
 ### 2021
 
@@ -992,7 +992,7 @@
 ### 2026
 
 * [Program language] [SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models]().
-* [Program language] [When Specifications Meet Reality: Uncovering API Inconsistencies in Ethereum Infrastructure]().
+* [Program language] [When Specifications Meet Reality: Uncovering API Inconsistencies in Ethereum Infrastructure](https://arxiv.org/pdf/2603.06029).
 * [Program language] [DepFuzz: Efficient Smart Contract Fuzzing with FunctionDependence Guidance]().
 
 ### 2025
