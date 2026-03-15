@@ -1073,6 +1073,12 @@
 
 ## SIGMETRICS
 
+### 2026
+
+* [security] [Shedding Light on Shadows: Automatically Tracing Illicit Money Flows on EVM-Compatible Blockchains]().
+* [security] [Cross-Chain Arbitrage: The Next Frontier of MEV in Decentralized Finance]().
+* [security] [Multiple Sides of 36 Coins: Measuring Peer-to-Peer Infrastructure Across Cryptocurrencies]().
+
 ### 2025 
 
 * [security] [Phishing Tactics Are Evolving: An Empirical Study of Phishing Contracts on Ethereum]().
