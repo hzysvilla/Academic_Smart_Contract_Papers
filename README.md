@@ -1222,11 +1222,12 @@
 
 # 📜Journal
 
-------
+-----
 
 ## TOSEM
 
-* [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/pdf/10.1145/3560263).
+* [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/epdf/10.1145/3560263).
+* [TOMSE26] [As Long As I See It - OSVHunter: Understanding and Detecting Open-Secret Vulnerabilities in Smart Contracts](https://dl.acm.org/doi/epdf/10.1145/3806397).
 * [TOSEM25] [Empirical Analysis of Smart Contract Factories on EVM-compatible Chains]().
 * [TOSEM25] [SmartAuditFlow: A Dynamic Plan-Execute Framework for Advanced Smart Contract Security Analysis]().
 * [TOSEM25] [No More Hidden Pitfalls? Exposing Smart Contract Bad Practices with LLM-Powered Hybrid Analysis](https://csxqli.github.io/files/TOSEM25.pdf).
