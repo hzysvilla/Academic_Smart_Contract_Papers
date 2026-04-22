@@ -1227,6 +1227,7 @@
 ## TOSEM
 
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/epdf/10.1145/3560263).
+* [TOSEM25] [Bytecode Obfuscation for Smart Contracts via Structural and Semantic Perturbation](https://dl.acm.org/doi/epdf/10.1145/3809489).
 * [TOMSE26] [As Long As I See It - OSVHunter: Understanding and Detecting Open-Secret Vulnerabilities in Smart Contracts](https://dl.acm.org/doi/epdf/10.1145/3806397).
 * [TOSEM25] [Empirical Analysis of Smart Contract Factories on EVM-compatible Chains]().
 * [TOSEM25] [SmartAuditFlow: A Dynamic Plan-Execute Framework for Advanced Smart Contract Security Analysis]().
@@ -1256,7 +1257,8 @@
 
 
 ## TSE
-# [TSE26】[Improving Gas Efficiency in Smart Contracts: Data-Driven Insights and LLM-Assisted Remediation]().
+* [TSE26】[HKT-SmartAudit: Distilling Lightweight Models for Smart Contract Auditing]().
+* [TSE26】[Improving Gas Efficiency in Smart Contracts: Data-Driven Insights and LLM-Assisted Remediation]().
 * [TSE26] [Do Automated Fixes Truly Mitigate Smart Contract Exploits?](https://ieeexplore.ieee.org/document/11197044).
 * [TSE25] [Who Is Pulling the Strings: Unveiling Smart Contract State Manipulation Attacks Through State-Aware Dataflow Analysis]().
 * [TSE25] [Improving Smart Contract Vulnerability Detection with Correlation-Driven Semi-Supervised Learning]().
@@ -1294,7 +1296,7 @@
 * [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
 
 ## TIFS
-
+* [TIFS26] [EPSD-HOT: Ethereum Phishing Scam Detection by Higher-Order Topology]().
 * [TIFS25] [Modeling the Performance-Security Trade-off of Gasper's Block Proposal Mechanism Under Latency-Driven Attacks]().
 * [TIFS25] [Multi-Leader Byzantine Fault Tolerance in Blockchain: Performance and Security]().
 * [TIFS25] [ScamSweeper: Detecting Illegal Accounts in Web3 Scams via Transactions Analysis](https://csxqli.github.io/files/ScamSweeper.pdf).
