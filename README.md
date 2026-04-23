@@ -1310,6 +1310,7 @@
 * [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
 
 ## TIFS
+* [TIFS25] [Network-Layer Differential Fuzzing for Ethereum]().
 * [TIFS26] [EPSD-HOT: Ethereum Phishing Scam Detection by Higher-Order Topology]().
 * [TIFS25] [Modeling the Performance-Security Trade-off of Gasper's Block Proposal Mechanism Under Latency-Driven Attacks]().
 * [TIFS25] [Multi-Leader Byzantine Fault Tolerance in Blockchain: Performance and Security]().
