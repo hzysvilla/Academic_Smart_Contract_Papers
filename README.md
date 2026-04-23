@@ -783,6 +783,20 @@
 
 ## WWW
 
+### 2026
+
+* [security] [Eclipse Attacks on Ethereum’s Peer-to-Peer Network]().
+* [security] [The Promise vs. Reality of NFT Decentralization: An Empirical Study of Storage Strategies and Defects]().
+* [security] [On the Effectiveness of Mempool-based Transaction Auditing]().
+* [security] [Greedy Attack: Breaking Finality against VeChain Proof-of-Authority Consensus Protocol]().
+* [security] [Risk-free Selfish Mining in Hybrid Predictability Model. A Case Study on Polkadot’s NPoS]().
+* [security] [Resisting Manipulative Bots in Meme Coin Copy Trading: A Multi-Agent Approach with Chain-of-Thought Reasoning]().
+* [security] [Evasion Under Blockchain Sanctions]().
+* [security] [Understanding Post-Exploit Laundering Behavior on Ethereum]().
+* [security] [TGweaver: Synthesizing Transaction Graphs for De-anonymization Analysis]().
+
+
+
 ### 2025
 
 * [security] [Beyond Visual Confusion: Understanding How Inconsistencies in ENS Normalization Facilitate Homoglyph Attacks]().
