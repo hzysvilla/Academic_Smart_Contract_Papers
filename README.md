@@ -794,8 +794,8 @@
 * [security] [Evasion Under Blockchain Sanctions]().
 * [security] [Understanding Post-Exploit Laundering Behavior on Ethereum]().
 * [security] [TGweaver: Synthesizing Transaction Graphs for De-anonymization Analysis]().
-
-
+* [security] [BitHeteroNet: A Heterogeneous Network Benchmark for Enhanced Anomaly Detection in Bitcoin Transactions]().
+* [security] [Unveiling the Underground Phishing Ecosystem: A 12-Year Longitudinal Study of Deep and Dark Web Forums]().
 
 ### 2025
 
