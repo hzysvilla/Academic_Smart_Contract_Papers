@@ -406,6 +406,7 @@
 
 ## EUROSYS
 
+* [EUROSYS26] [Ethane: Debloating State Data using Compact Trie for Account-based Blockchain]().
 * [EUROSYS25] [ParallelEVM: Operation-Level Concurrent Transaction Execution for EVM-Compatible Blockchains](http://www.malgenomeproject.org/papers/EuroSys_2025_ParallelEVM.pdf).
 * [EUROSYS23] [Diablo: A Benchmark Suite for Blockchains](https://6788543.fs1.hubspotusercontent-na1.net/hubfs/6788543/Eurosys23-Diablo.pdf) | **[MyTLDR](TLDR.md#23_9_29)**.
 * [EUROSYS22] [Ethanos: efficient bootstrapping for full nodes on account-based blockchain](https://dl.acm.org/doi/pdf/10.1145/3447786.3456231).
