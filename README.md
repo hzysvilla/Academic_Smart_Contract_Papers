@@ -1311,6 +1311,7 @@
 * [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
 
 ## TIFS
+* [TIFS26] [Revealing Honeypots in High-Frequency Interactions on Decentralized Applications]().
 * [TIFS23] [Towards Understanding Crypto Money Laundering in Web3 Through the Lenses of Ethereum Heists]().
 * [TIFS25] [Network-Layer Differential Fuzzing for Ethereum]().
 * [TIFS26] [EPSD-HOT: Ethereum Phishing Scam Detection by Higher-Order Topology]().
