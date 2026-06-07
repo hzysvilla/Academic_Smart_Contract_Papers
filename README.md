@@ -1240,7 +1240,7 @@
 -----
 
 ## TOSEM
-
+* [TOSEM26] [PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts](https://doi.org/10.1145/3816704).
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/epdf/10.1145/3560263).
 * [TOSEM25] [Bytecode Obfuscation for Smart Contracts via Structural and Semantic Perturbation](https://dl.acm.org/doi/epdf/10.1145/3809489).
 * [TOMSE26] [As Long As I See It - OSVHunter: Understanding and Detecting Open-Secret Vulnerabilities in Smart Contracts](https://dl.acm.org/doi/epdf/10.1145/3806397).
