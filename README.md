@@ -1380,6 +1380,7 @@
 
 
 ## Miscellaneous
+* [FM] [Towards Formally Verified Smart Contracts Compilation]().
 * [ICBC26][TxLens: Scalable Real-Time Detection of Malicious Ethereum Transactions](https://tamer-abdelaziz.github.io/papers/TamerICBC2026.pdf).
 * [TPDS26] [Nexus: A Novel Transaction Processing Framework for Permissioned Blockchain]().
 * [TSC25] [Mind the Service: What Crypto Wallets Aren't Telling You]().
