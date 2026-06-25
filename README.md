@@ -1354,6 +1354,7 @@
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
+* [TDSC26] [FlashShield: Detecting Flash Loan Attacks in DeFi Using Hypergraph Neural Network]().
 * [TDSC26] [Reentrancy Vulnerability Detection in Smart Contracts Based on Adversarial Examples]().
 * [TDSC26] [Semi-Supervised and Transfer Learning-Based Smart Contract Vulnerability Detection]().
 * [TDSC25] [JANUS: A Difference-Oriented Analyzer for Financial Centralized Risks in Smart Contracts]().
