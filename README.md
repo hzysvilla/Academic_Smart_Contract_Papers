@@ -47,7 +47,7 @@
 
 ### sp2026
 
-* [security] [A Liveness Attack to Ethereum PoSwith No Additional Cost]().
+* [security] [A Liveness Attack to Ethereum PoS with No Additional Cost().
 
 ### sp2025
 
@@ -428,7 +428,17 @@
 
 ## ESEC/FSE
 
+
+
+### 2026
+
 * [security] [SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts]().
+* [security] [Verifying Smart Contract Security against Re-entrancy Attacks through Relational Value Analysis]().
+* [security] [Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis]().
+* [security] [WalleTruth: Visual-Oriented Software Testing for Web3 Wallet Browser Extensions]().
+* [security] [Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair]().
+* [security] [ChainDelta: Automatic Patch-Based Exploit Generation for Ethereum with Fuzzing Agents]().
+* [security] [Odyssey: Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration]().
 
 ### 2025
 
@@ -1381,6 +1391,7 @@
 
 
 ## Miscellaneous
+* [PODC] [FEAT: Fair and Efficient Adversarial Transaction Ordering]().
 * [FM] [Towards Formally Verified Smart Contracts Compilation]().
 * [ICBC26][TxLens: Scalable Real-Time Detection of Malicious Ethereum Transactions](https://tamer-abdelaziz.github.io/papers/TamerICBC2026.pdf).
 * [TPDS26] [Nexus: A Novel Transaction Processing Framework for Permissioned Blockchain]().
