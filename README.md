@@ -431,7 +431,7 @@
 
 
 ### 2026
-
+* [security] [ChainDelta: Automatic Patch-Based Exploit Generation for Ethereum with Fuzzing Agents]().
 * [security] [SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts]().
 * [security] [Verifying Smart Contract Security against Re-entrancy Attacks through Relational Value Analysis]().
 * [security] [Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis]().
@@ -1250,6 +1250,8 @@
 -----
 
 ## TOSEM
+
+* [TOSEM26] [SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning]().
 * [TOSEM26] [PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts](https://doi.org/10.1145/3816704).
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/epdf/10.1145/3560263).
 * [TOSEM25] [Bytecode Obfuscation for Smart Contracts via Structural and Semantic Perturbation](https://dl.acm.org/doi/epdf/10.1145/3809489).
@@ -1282,6 +1284,7 @@
 
 
 ## TSE
+* [TSE26] [Enhancing Blockchain Robustness through Efficient Feedback-Driven Chaos Engineering]().
 * [TSE26】[HKT-SmartAudit: Distilling Lightweight Models for Smart Contract Auditing]().
 * [TSE26】[Improving Gas Efficiency in Smart Contracts: Data-Driven Insights and LLM-Assisted Remediation]().
 * [TSE26] [Do Automated Fixes Truly Mitigate Smart Contract Exploits?](https://ieeexplore.ieee.org/document/11197044).
@@ -1321,6 +1324,7 @@
 * [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
 
 ## TIFS
+* [TIFS26] [Scriptless Atomic Swap with Batch Processing]().
 * [TIFS26] [BlockAthena: A Scalable Approach for Long-Term Blockchain Crimes Analysis]().
 * [TIFS26] [Revealing Honeypots in High-Frequency Interactions on Decentralized Applications]().
 * [TIFS23] [Towards Understanding Crypto Money Laundering in Web3 Through the Lenses of Ethereum Heists]().
