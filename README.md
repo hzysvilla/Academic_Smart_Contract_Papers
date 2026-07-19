@@ -433,6 +433,8 @@
 ### 2026
 * [security] [ChainDelta: Automatic Patch-Based Exploit Generation for Ethereum with Fuzzing Agents]().
 * [security] [SmartIFSyn: Automated Information Flow Security Policy Synthesis for Smart Contracts]().
+* [security] [SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning]().
+* 
 * [security] [Verifying Smart Contract Security against Re-entrancy Attacks through Relational Value Analysis]().
 * [security] [Detecting Code-Comment Inconsistencies in Smart Contracts by Combining LLM and Program Analysis]().
 * [security] [WalleTruth: Visual-Oriented Software Testing for Web3 Wallet Browser Extensions]().
