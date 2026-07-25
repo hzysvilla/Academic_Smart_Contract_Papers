@@ -441,6 +441,7 @@
 * [security] [Towards Automated Smart Contract Generation: Evaluation, Benchmarking, and Retrieval-Augmented Repair]().
 * [security] [ChainDelta: Automatic Patch-Based Exploit Generation for Ethereum with Fuzzing Agents]().
 * [security] [Odyssey: Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration]().
+* [security] [SCPatcher: Automated Smart Contract Code Repair via Retrieval-Augmented Generation and Knowledge Graph]().
 
 ### 2025
 
