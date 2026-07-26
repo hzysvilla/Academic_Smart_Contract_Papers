@@ -1327,6 +1327,7 @@
 * [EMSE24] [A Large-Scale Exploratory Study on the Proxy Pattern in Ethereum](https://dl.acm.org/doi/10.1007/s10664-024-10485-1).
 
 ## TIFS
+* [TIFS26] [Adversarial Adaptation and Data Selection-Based Smart Contract Vulnerability Detection]().
 * [TIFS26] [Scriptless Atomic Swap with Batch Processing]().
 * [TIFS26] [BlockAthena: A Scalable Approach for Long-Term Blockchain Crimes Analysis]().
 * [TIFS26] [Revealing Honeypots in High-Frequency Interactions on Decentralized Applications]().
