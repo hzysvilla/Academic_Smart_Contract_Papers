@@ -47,7 +47,7 @@
 
 ### sp2026
 
-* [security] [A Liveness Attack to Ethereum PoS with No Additional Cost().
+* [security] [A Liveness Attack to Ethereum PoS with No Additional Cost]().
 
 ### sp2025
 
