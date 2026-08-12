@@ -223,6 +223,7 @@
 
 ### sec2026
 
+[security] [When HTTP 402 Meets the Blockchain: Risks on Emerging x402 Payments](https://www.usenix.org/system/files/usenixsecurity26-wang-qinying.pdf).
 [security] [Lost in Blockchain Address Misuse: Hidden Cross-Platform Risks and Their Security Impact](https://baolingfeng.github.io/papers/sec26cycle1-final911.pdf).
 
 ### sec2025
