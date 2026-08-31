@@ -1255,6 +1255,7 @@
 
 ## TOSEM
 
+* [TOSEM26] [EquivSage: LLM-assisted Detection of EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts]().
 * [TOSEM26] [SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning]().
 * [TOSEM26] [PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts](https://doi.org/10.1145/3816704).
 * [TOSEM23] [TokenAware: Accurate and Efficient Bookkeeping Recognition for Token Smart Contracts](https://dl.acm.org/doi/epdf/10.1145/3560263).
@@ -1373,6 +1374,7 @@
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
+* [TDSC26] [PandoraGuard: A Privacy Enhancement Framework for On-Chain Smart Contracts]().
 * [TDSC26] [FlashShield: Detecting Flash Loan Attacks in DeFi Using Hypergraph Neural Network]().
 * [TDSC26] [Reentrancy Vulnerability Detection in Smart Contracts Based on Adversarial Examples]().
 * [TDSC26] [Semi-Supervised and Transfer Learning-Based Smart Contract Vulnerability Detection]().
