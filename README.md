@@ -1374,6 +1374,7 @@
 * [TIFS22] [Rethinking Smart Contract Fuzzing: Fuzzing With Invocation Ordering and Important Branch Revisiting]().
 
 ## TDSC
+* [TDSC26] [BELMA: Integrating Formal Verification and Large Language Models for Enhanced Smart Contract Security]().
 * [TDSC26] [PandoraGuard: A Privacy Enhancement Framework for On-Chain Smart Contracts]().
 * [TDSC26] [FlashShield: Detecting Flash Loan Attacks in DeFi Using Hypergraph Neural Network]().
 * [TDSC26] [Reentrancy Vulnerability Detection in Smart Contracts Based on Adversarial Examples]().
