@@ -565,6 +565,12 @@
 
 ## ASE
 
+### 2026
+
+* [security] [Breaking the Isolation: Coordinated Multi-agent Fuzzing for Smart Contracts with Multi-dimensional Objective Learning]().
+* [security] [Evidence-Grounded Logic Vulnerability Detection for Smart Contracts via Runtime Context Reasoning]().
+* [security] [	SecChain: Operationalizing Security Guidelines for Multi-agent Smart Contract Generation]().
+
 ### 2025
 
 * [security] [SolContractEval: A Benchmark for Evaluating Contract-Level Solidity Code Generation]().
@@ -1254,7 +1260,8 @@
 -----
 
 ## TOSEM
-
+* [TOSEM26] [Mining Invariants to Enhance Fuzzing for Detecting Functional Bugs in Smart Contracts]().
+* [TOSEM26] [Detecting Vulnerabilities in EOSIO Smart Contracts via Joint Static and Dynamic Feature Learning]()
 * [TOSEM26] [EquivSage: LLM-assisted Detection of EVM-Inequivalent Code Smells in Multi-chain Reuse Contracts]().
 * [TOSEM26] [SmarTrim: Symbolic Execution for Smart Contracts Powered by Redundant Transaction-Sequence Pruning]().
 * [TOSEM26] [PoCo: Agentic Proof-of-Concept Exploit Generation for Smart Contracts](https://doi.org/10.1145/3816704).
