@@ -1026,6 +1026,7 @@
 
 ### 2026
 
+* [Program language] [Verifying Economic Security of Smart Contracts via Unintended Return]().
 * [Program language] [SymGPT: Auditing Smart Contracts via Combining Symbolic Execution with Large Language Models]().
 * [Program language] [When Specifications Meet Reality: Uncovering API Inconsistencies in Ethereum Infrastructure](https://arxiv.org/pdf/2603.06029).
 * [Program language] [DepFuzz: Efficient Smart Contract Fuzzing with FunctionDependence Guidance]().
